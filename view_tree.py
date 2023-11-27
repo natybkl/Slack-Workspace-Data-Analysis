@@ -45,6 +45,7 @@ def tree(dir_path: Path, level: int=-1, limit_to_directories: bool=False,
 p = sys.argv[1] if len(sys.argv) > 1 else '.'
 pp = sys.argv[2] if len(sys.argv) > 2 else ''
 dir = Path(p)
-for line in tree(dir, limit_to_directories=True):
-    print(line)
+
+# for line in tree (dir, limit_to_directories = True):
+#     print(line)
 
