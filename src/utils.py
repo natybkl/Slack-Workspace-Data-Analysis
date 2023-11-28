@@ -43,7 +43,6 @@ def get_msgs_df_info(df):
     return msgs_count_dict, replies_count_dict, mentions_count_dict, links_count_dict
 
 
-
 def get_messages_dict(msgs):
     msg_list = {
             "msg_id":[],
@@ -180,6 +179,7 @@ def convert_2_timestamp(column, data):
                 timestamp_.append(a.strftime('%Y-%m-%d %H:%M:%S'))
         return timestamp_
     else: print(f"{column} not in data")
+
 
 # combine all json file in all-weeks8-9
 def slack_parser(path_channel):
