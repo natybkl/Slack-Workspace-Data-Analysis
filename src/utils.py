@@ -146,6 +146,7 @@ def process_msgs(msg):
 
     keys = ["client_msg_id", "type", "text", "user", "ts", "team", 
             "thread_ts", "reply_count", "reply_users_count"]
+    
     msg_list = {k:msg[k] for k in keys}
     rply_list = from_msg_get_replies(msg)
 
@@ -196,5 +197,5 @@ def get_community_participation(path):
             if 'replies' in msg.keys():
                 for i in msg['replies']:
                     comm_dict[i['user']] = comm_dict.get(i['user'], 0)+1
-                    
+
     return comm_dict
