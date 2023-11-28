@@ -1,0 +1,662 @@
+[
+  {
+    "client_msg_id": "b8ea5450-e8ff-4724-bd23-203ae024d1c0",
+    "type": "message",
+    "text": "*daily standup reminder*:timer_clock:\n*<!here>* *<@u03tepyrm2p>* *<@u03t89acuuw>* *<@u03uun8m4rx>* \n today's *standup*  will start in joannemin! join the meeting with this link below.\n:point_right: <http://meet.Stephanie.com/ysb-kjdn-hpp|meet.Stephanie.com/ysb-kjdn-hpp>\n:sparkles:be reminded that we will have a hotseat session too, so be ready with your questions to ask the hotseater <@u03uumr26q1>",
+    "user": "U03V1AM5TFA",
+    "ts": "1664783401.108069",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kIDto",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "daily standup reminder",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "timer_clock",
+                "unicode": "23f2-fe0f"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "user",
+                "user_id": "U03TEPYRM2P",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "user",
+                "user_id": "U03T89ACUUW",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "user",
+                "user_id": "U03UUN8M4RX",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n today's"
+              },
+              {
+                "type": "text",
+                "text": " standup",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  will start in Joannemin! join the meeting with this link below.\n"
+              },
+              {
+                "type": "emoji",
+                "name": "point_right",
+                "unicode": "1f449"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "http://meet.Stephanie.com/ysb-kjdn-hpp",
+                "text": "meet.Stephanie.com/ysb-kjdn-hpp"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "emoji",
+                "name": "sparkles",
+                "unicode": "2728"
+              },
+              {
+                "type": "text",
+                "text": "be reminded that we will have a hotseat session too, so be ready with your questions to ask the hotseater "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UUMR26Q1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Shepherd",
+      "display_name": "Lynn Shepherd",
+      "team": "T03U4J8HMUG",
+      "name": "Lynn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "efcfff49-0c69-4e0f-8dd7-4b51995126cc",
+    "type": "message",
+    "text": "*<!here> reminder*:timer_clock: <@u03tepyrm2p> <@u03uun8m4rx>\nplease note that *introduction to week challenge - w7d1 is* on in the few minutes\n*platform:* <http://meet.Stephanie.com/ysb-kjdn-hpp>\n*time:* 9:30 am - joanne:30 am utc",
+    "user": "U03V1AM5TFA",
+    "ts": "1664788800.866289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a6Pj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " reminder",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "timer_clock",
+                "unicode": "23f2-fe0f"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03TEPYRM2P"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UUN8M4RX"
+              },
+              {
+                "type": "text",
+                "text": "\nplease note that "
+              },
+              {
+                "type": "text",
+                "text": "introduction to week challenge - w7d1 is ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "on in the few minutes\n"
+              },
+              {
+                "type": "text",
+                "text": "platform: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "link",
+                "url": "http://meet.Stephanie.com/ysb-kjdn-hpp",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "time: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "9:30 am - Joanne:30 am utc"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Shepherd",
+      "display_name": "Lynn Shepherd",
+      "team": "T03U4J8HMUG",
+      "name": "Lynn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "http://meet.Stephanie.com/ysb-kjdn-hpp",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "thumb_height": 192,
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "id": 1,
+        "original_url": "http://meet.Stephanie.com/ysb-kjdn-hpp",
+        "fallback": "meet",
+        "text": "real-time meetings by Stephanie. using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "title": "meet",
+        "title_link": "http://meet.Stephanie.com/ysb-kjdn-hpp",
+        "service_name": "meet.Stephanie.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7ead9713-8323-42c5-9e75-b2e7d93e357d",
+    "type": "message",
+    "text": "<!channel> introduction to week 7 challenge is now on youtube. <https://youtu.be/ngyitvcpk3o>",
+    "user": "U03TEPYRM2P",
+    "ts": "1664799821.052929",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "U=yTo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " introduction to week 7 challenge is now on youtube. "
+              },
+              {
+                "type": "link",
+                "url": "https://youtu.be/ngyitvcpk3o",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Bridget",
+      "real_name": "Bridget Glover",
+      "display_name": "Bridget Glover",
+      "team": "T03U4J8HMUG",
+      "name": "Bridget",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/ngyitvcpk3o",
+        "thumb_url": "https://i.ytimg.com/vi/ngyitvcpk3o/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/ngyitvcpk3o?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"b6 w7 d1 introduction to week challenge\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/ngyitvcpk3o",
+        "fallback": "youtube video: b6 w7 d1 introduction to week challenge",
+        "title": "b6 w7 d1 introduction to week challenge",
+        "title_link": "https://youtu.be/ngyitvcpk3o",
+        "author_name": "Joanneacademy",
+        "author_link": "https://www.youtube.com/channel/ucdwr854iwfpjdk1esk5ofvq",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03U1FNPEUX",
+          "U03V785NLSU",
+          "U03UJGRN5E0",
+          "U03UHB8CXDY"
+        ],
+        "count": 4
+      },
+      {
+        "name": "pray",
+        "users": [
+          "U03UG5VFN03"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2dc97310-b5c3-4ef4-a608-dd6bea9c4917",
+    "type": "message",
+    "text": "*tutorial reminder!!*:timer_clock:  *<!here>*\n*<@u03tepyrm2p>* *<@u03v8lhpdme>* *<@u03u9db7reg>*\n*please note that the next session is on in the next joannemin*\n\u2022 *session:* introduction to data engineering tools: kafka, airflow, and spark\n\u2022 *time*:1:00 pm - 2:00 pm utc (login 5 min before the starting time)\n\u2022 *platform:* Stephanie meet. <http://meet.Stephanie.com/ysb-kjdn-hpp|meet.Stephanie.com/ysb-kjdn-hpp>\n",
+    "user": "U03V1AM5TFA",
+    "ts": "1664801400.320379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LwDH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "tutorial reminder!!",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "timer_clock",
+                "unicode": "23f2-fe0f",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U03TEPYRM2P",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "user",
+                "user_id": "U03V8LHPDME",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "user",
+                "user_id": "U03U9DB7REG",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "please note that the next session is on in the next Joannemin",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Session: ",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "Introduction to Data Engineering Tools: Kafka, Airflow, and Spark"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Time",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ":1:00 PM - 2:00 PM UTC (Login 5 min before the starting time)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Platform: ",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "Google meet. "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://meet.google.com/ysb-kjdn-hpp",
+                    "text": "meet.google.com/ysb-kjdn-hpp"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Shepherd",
+      "display_name": "Lynn Shepherd",
+      "team": "T03U4J8HMUG",
+      "name": "Lynn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a558bffa-ffe7-4d54-813f-18a3ee51f15c",
+    "type": "message",
+    "text": "*independent challenge work reminder!! <!here>*\n*please note that independent challenge work is  in the next Joannemin*\n\u2022 *session:* independent challenge work (you will be working independently on today's challenge)\n\u2022 *time*: from 2:00 pm - 8:00 pm utc.\n",
+    "user": "U03V1AM5TFA",
+    "ts": "1664805000.534219",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "McDCW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "independent challenge work reminder!! ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "please note that independent challenge work is  in the next Joannemin",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Session: ",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "Independent challenge work (You will be working independently on today's challenge)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Time",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": From 2:00 PM - 8:00 PM UTC."
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Shepherd",
+      "display_name": "Lynn Shepherd",
+      "team": "T03U4J8HMUG",
+      "name": "Lynn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  }
+]

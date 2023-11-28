@@ -1,0 +1,249 @@
+[
+  {
+    "client_msg_id": "b17d133a-585c-4337-a2a0-4f0d0725a4d6",
+    "type": "message",
+    "text": "can i be help for the payment via paypal? i've just created a paypal account and when i try to send the money, i get an error.. i need help. thanks",
+    "user": "U03UH397319",
+    "ts": "1663666769.646029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "siv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "can i be help for the payment via paypal? i've just created a paypal account and when i try to send the money, i get an error.. i need help. thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "44f77e96-51a5-4d6e-8df3-51a077101406",
+    "type": "message",
+    "text": "or what other mean can i use for the payment? i saw stripe. but there is no link",
+    "user": "U03UH397319",
+    "ts": "1663666829.170849",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q/TR8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "or what other mean can i use for the payment? i saw stripe. but there is no link"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663666829.170849",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1663686236.823379",
+    "reply_users": [
+      "U03T89ACUUW",
+      "U03UH397319"
+    ],
+    "replies": [
+      {
+        "user": "U03T89ACUUW",
+        "ts": "1663667445.732709"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1663667651.291809"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1663686236.823379"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "33680632-ea2a-458a-a5cf-17570fe5d7f1",
+    "type": "message",
+    "text": "<@u03uh397319> can you write an email to me (<mailto:rachel@joanneacademy.org|rachel@joanneacademy.org>) and copy Lawrence (<mailto:Lawrence@joanneacademy.org|Lawrence@joanneacademy.org>) requesting a stripe link? we will be able to send you the link for you to pay.",
+    "user": "U03T89ACUUW",
+    "ts": "1663667445.732709",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xZkQA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UH397319"
+              },
+              {
+                "type": "text",
+                "text": " can you write an email to me ("
+              },
+              {
+                "type": "link",
+                "url": "mailto:rachel@Joanneacademy.org",
+                "text": "rachel@Joanneacademy.org"
+              },
+              {
+                "type": "text",
+                "text": ") and copy Lawrence ("
+              },
+              {
+                "type": "link",
+                "url": "mailto:Lawrence@joanneacademy.org",
+                "text": "Lawrence@joanneacademy.org"
+              },
+              {
+                "type": "text",
+                "text": ") requesting a stripe link? we will be able to send you the link for you to pay."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5d532c004550",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3979962953108_5d532c00455016e7842d_72.jpg",
+      "first_name": "Rachel",
+      "real_name": "Rachel Mann",
+      "display_name": "Rachel Mann",
+      "team": "T03U4J8HMUG",
+      "name": "Rachel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663666829.170849",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "fbd3f1f8-301a-4697-9ec2-e074a22ebaa4",
+    "type": "message",
+    "text": "sure.. hope it will be easy to go without an account",
+    "user": "U03UH397319",
+    "ts": "1663667651.291809",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NVsJR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sure.. hope it will be easy to go without an account"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663666829.170849",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2bee758f-1963-4872-b52a-450c23a38acf",
+    "type": "message",
+    "text": "everything is okay now with that. thanks for your help",
+    "user": "U03UH397319",
+    "ts": "1663686236.823379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Dpi6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "everything is okay now with that. thanks for your help"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663666829.170849",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  }
+]

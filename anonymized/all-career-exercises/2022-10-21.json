@@ -1,0 +1,63 @@
+[
+  {
+    "client_msg_id": "bd493e08-00af-43b6-a128-a409b3c212df",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=uxkrtcnmpww&amp;ab_channel=jasongoodison>",
+    "user": "U03UVHCV6KB",
+    "ts": "1666343326.970449",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ROejq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=uxkrtcnmpww&ab_channel=jasongoodison",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=uxkrtcnmpww&amp;ab_channel=jasongoodison",
+        "thumb_url": "https://i.ytimg.com/vi/uxkrtcnmpww/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/uxkrtcnmpww?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"i tried to get random subscribers hired at Stephanie in 90 days\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=uxkrtcnmpww&amp;ab_channel=jasongoodison",
+        "fallback": "youtube video: i tried to get random subscribers hired at Stephanie in 90 days",
+        "title": "i tried to get random subscribers hired at Stephanie in 90 days",
+        "title_link": "https://www.youtube.com/watch?v=uxkrtcnmpww&amp;ab_channel=jasongoodison",
+        "author_name": "jason goodison",
+        "author_link": "https://www.youtube.com/c/jasongoodison",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  }
+]

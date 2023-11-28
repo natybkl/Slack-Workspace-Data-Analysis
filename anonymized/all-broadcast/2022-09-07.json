@@ -1,0 +1,691 @@
+[
+  {
+    "client_msg_id": "82aa92e5-6e23-47b4-bf76-38e6f405c02c",
+    "type": "message",
+    "text": "*<!here> reminder*:timer_clock:  <@u03tepyrm2p> <@u03v8lhpdme> today's *standup*  will start in joannemin! join the meeting with this link below.\n:point_right: <http://meet.Stephanie.com/ysb-kjdn-hpp|meet.Stephanie.com/ysb-kjdn-hpp>\n:sparkles:be reminded that we will have a hotseat session too, so be ready with your questions to ask the hotseater <@u03u1hag9tr>",
+    "user": "U03V1AM5TFA",
+    "ts": "1662537000.561339",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DaG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " reminder",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "timer_clock",
+                "unicode": "23f2-fe0f"
+              },
+              {
+                "type": "text",
+                "text": "  "
+              },
+              {
+                "type": "user",
+                "user_id": "U03TEPYRM2P"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03V8LHPDME"
+              },
+              {
+                "type": "text",
+                "text": " today's"
+              },
+              {
+                "type": "text",
+                "text": " standup",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  will start in Joannemin! join the meeting with this link below.\n"
+              },
+              {
+                "type": "emoji",
+                "name": "point_right",
+                "unicode": "1f449"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "http://meet.Stephanie.com/ysb-kjdn-hpp",
+                "text": "meet.Stephanie.com/ysb-kjdn-hpp"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "emoji",
+                "name": "sparkles",
+                "unicode": "2728"
+              },
+              {
+                "type": "text",
+                "text": "be reminded that we will have a hotseat session too, so be ready with your questions to ask the hotseater "
+              },
+              {
+                "type": "user",
+                "user_id": "U03U1HAG9TR"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Shepherd",
+      "display_name": "Lynn Shepherd",
+      "team": "T03U4J8HMUG",
+      "name": "Lynn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "54d8cc4f-7b0d-4a22-8781-b8c139f597d4",
+    "type": "message",
+    "text": "<!channel> the technical tutorial titled 'deep learning of sales forecast' has been rescheduled for 1pm utc. please kindly take note.",
+    "user": "U03TEPYRM2P",
+    "ts": "1662537535.217759",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CRa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " the technical tutorial titled 'deep learning of sales forecast' has been rescheduled for 1pm utc. please kindly take note."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Bridget",
+      "real_name": "Bridget Glover",
+      "display_name": "Bridget Glover",
+      "team": "T03U4J8HMUG",
+      "name": "Bridget",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ac6a4ef3-edb5-4eda-91e4-962f779fc7f4",
+    "type": "message",
+    "text": "good morning everyone *<!here>*! please join the standup if you haven't. a quick note: the standup's attendance plays a big part when evaluating your progress. <http://meet.Stephanie.com/ysb-kjdn-hpp>",
+    "user": "U03V1AM5TFA",
+    "ts": "1662537688.919189",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "t+10",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "good morning everyone "
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "! please join the standup if you haven't. a quick note: the standup's attendance plays a big part when evaluating your progress. "
+              },
+              {
+                "type": "link",
+                "url": "http://meet.Stephanie.com/ysb-kjdn-hpp",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Shepherd",
+      "display_name": "Lynn Shepherd",
+      "team": "T03U4J8HMUG",
+      "name": "Lynn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "http://meet.Stephanie.com/ysb-kjdn-hpp",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "thumb_height": 192,
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "id": 1,
+        "original_url": "http://meet.Stephanie.com/ysb-kjdn-hpp",
+        "fallback": "meet",
+        "text": "real-time meetings by Stephanie. using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "title": "meet",
+        "title_link": "http://meet.Stephanie.com/ysb-kjdn-hpp",
+        "service_name": "meet.Stephanie.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b70eb9a1-1b37-4fd7-8760-5fc2d6ad9000",
+    "type": "message",
+    "text": "*female-only session reminder: <!here>: <@u03tt5keycf> \nplease note that the next session is on in the next Joannemin\ntime: from Joanne:30 am -11:30 am utc*\n&gt; \n&gt; *nb: the session is only for female*\n&gt; ",
+    "user": "U03V1AM5TFA",
+    "ts": "1662546002.029429",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Iui",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "female-only session reminder: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "user",
+                "user_id": "U03TT5KEYCF",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " \nplease note that the next session is on in the next Joannemin\ntime: from Joanne:30 am -11:30 am utc",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_quote",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "nb: the session is only for female",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Shepherd",
+      "display_name": "Lynn Shepherd",
+      "team": "T03U4J8HMUG",
+      "name": "Lynn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "3767148e-e15d-4456-bd4e-a2fa2bce2ee6",
+    "type": "message",
+    "text": "*tutorial reminder!!*:timer_clock:  *<!here>* *<@u03tepyrm2p>* *<@u03ukl27b0r>* *<@u03v8lhpdme>* \n*please note that the next session is on in the next joannemin*\n\u2022 *session:* deep learning of sales forecast\n\u2022 *time*: from 1:00 pm - 2:00 pm utc (login 5 min before the starting time)\n\u2022 *platform:* Stephanie meet. <http://meet.Stephanie.com/ysb-kjdn-hpp|meet.Stephanie.com/ysb-kjdn-hpp>\n",
+    "user": "U03V1AM5TFA",
+    "ts": "1662555000.844179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rbO7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "tutorial reminder!!",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "timer_clock",
+                "unicode": "23f2-fe0f",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "user",
+                "user_id": "U03TEPYRM2P",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "user",
+                "user_id": "U03V8LHPDME",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "please note that the next session is on in the next Joannemin",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Session: ",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "Deep Learning of Sales Forecast"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Time",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": From 1:00 PM - 2:00 PM UTC (Login 5 min before the starting time)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Platform: ",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "Google meet. "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://meet.google.com/ysb-kjdn-hpp",
+                    "text": "meet.google.com/ysb-kjdn-hpp"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Shepherd",
+      "display_name": "Lynn Shepherd",
+      "team": "T03U4J8HMUG",
+      "name": "Lynn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ec0071cd-9d74-4fcf-8107-baf26cc5f3b8",
+    "type": "message",
+    "text": "*independent challenge work reminder!! <!here>*\n*please note that independent challenge work is  in the next Joannemin*\n\u2022 *session:* independent challenge work (you will be working independently on today's challenge)\n\u2022 *time*: from 2:00 pm - 8:00 pm utc.\n",
+    "user": "U03V1AM5TFA",
+    "ts": "1662558601.169229",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FEb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "independent challenge work reminder!! ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "please note that independent challenge work is  in the next Joannemin",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Session: ",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "Independent challenge work (You will be working independently on today's challenge)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Time",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": From 2:00 PM - 8:00 PM UTC."
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Shepherd",
+      "display_name": "Lynn Shepherd",
+      "team": "T03U4J8HMUG",
+      "name": "Lynn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "81c67e63-3f59-4e91-8135-2030266a5c3a",
+    "type": "message",
+    "text": "*<!here> please note that the deadline to submit* week  interim challenge submission *is in 30min. kindly don't miss the deadline.*",
+    "user": "U03V1AM5TFA",
+    "ts": "1662579000.663229",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pn65",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " please note that the deadline to submit ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "week  interim challenge submission"
+              },
+              {
+                "type": "text",
+                "text": " is in 30min. kindly don't miss the deadline.",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Shepherd",
+      "display_name": "Lynn Shepherd",
+      "team": "T03U4J8HMUG",
+      "name": "Lynn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  }
+]

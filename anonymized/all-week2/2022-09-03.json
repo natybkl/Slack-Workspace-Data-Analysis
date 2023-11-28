@@ -1,0 +1,1282 @@
+[
+  {
+    "client_msg_id": "ea4d0379-742d-448b-8d3e-5f2ca5699aea",
+    "type": "message",
+    "text": "thanks <@u03uvhcv6kb>",
+    "user": "U03UAKATQ22",
+    "ts": "1662191376.111899",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z/e",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thanks "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UVHCV6KB"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a2d0afeb249a",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3969267243922_a2d0afeb249a9b4f3842_72.png",
+      "first_name": "Thomas",
+      "real_name": "Thomas Rivera",
+      "display_name": "Thomas Rivera",
+      "team": "T03U4J8HMUG",
+      "name": "Thomas",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662183584.829249",
+    "parent_user_id": "U03UAKATQ22",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "57eff5ef-e9c0-4d1f-ba6c-10b6f6b0c342",
+    "type": "message",
+    "text": "what are the appropriate loss function for our models, and what is  the target column (i choose 'yes' column , and in loss function i apply mean squire function and all values were zero",
+    "user": "U03V6HMRPGQ",
+    "ts": "1662208401.600599",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QvSo1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what are the appropriate loss function for our models, and what is  the target column (i choose 'yes' column , and in loss function i apply mean squire function and all values were zero"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662208401.600599",
+    "reply_count": 9,
+    "reply_users_count": 3,
+    "latest_reply": "1662227002.946379",
+    "reply_users": [
+      "U03UVHCV6KB",
+      "U03UKL27B0R",
+      "U03V6HMRPGQ"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1662209059.673289"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1662209573.181799"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1662209868.810879"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1662209909.856349"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1662210186.780669"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1662210952.168899"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1662211355.204779"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1662225236.627029"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1662227002.946379"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "004a97f2-4a28-42e6-bf73-3938528825a6",
+    "type": "message",
+    "text": "we also choose yes as the target variable and for the loss functions we choose <https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/#binary%20classification%20loss%20functions|https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/#binary%20classific[\u2026]20loss%20functions>",
+    "user": "U03UVHCV6KB",
+    "ts": "1662209059.673289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Hj0Zi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "we also choose yes as the target variable and for the loss functions we choose "
+              },
+              {
+                "type": "link",
+                "url": "https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/#binary%20classification%20loss%20functions",
+                "text": "https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/#binary%20classific[\u2026]20loss%20functions"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662208401.600599",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03V6HMRPGQ"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "71681cb6-160a-4f2c-944e-1e0b0b7e1196",
+    "type": "message",
+    "text": "mean squared error might be a good loss function for classification problem <@u03v6hmrpgq>. please have a look at list of loss function for the current problem. resource shared by <@u03uvhcv6kb> is also great.",
+    "user": "U03UKL27B0R",
+    "ts": "1662209573.181799",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0Hix",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "mean squared error might be a good loss function for classification problem "
+              },
+              {
+                "type": "user",
+                "user_id": "U03V6HMRPGQ"
+              },
+              {
+                "type": "text",
+                "text": ". please have a look at list of loss function for the current problem. resource shared by "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UVHCV6KB"
+              },
+              {
+                "type": "text",
+                "text": " is also great."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662208401.600599",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03V6HMRPGQ"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "3c7ef999-9e67-4875-b592-1c2f9fdcf7dd",
+    "type": "message",
+    "text": "what is the first unnamed column in the campaign data two? anyone please",
+    "user": "U03U1FNPEUX",
+    "ts": "1662209672.331059",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+SJvV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what is the first unnamed column in the campaign data two? anyone please"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662209672.331059",
+    "reply_count": 4,
+    "reply_users_count": 2,
+    "latest_reply": "1662210216.429079",
+    "reply_users": [
+      "U03UKL27B0R",
+      "U03U1FNPEUX"
+    ],
+    "replies": [
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1662209922.767149"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1662209940.591749"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1662210156.171549"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1662210216.429079"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c971e287-7769-4bbd-af59-3dda75c56c19",
+    "type": "message",
+    "text": "thank you i will do soo, but i have read that mse is goof also for regression? what about that info ?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1662209868.810879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/g0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you i will do soo, but i have read that mse is goof also for regression? what about that info ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662208401.600599",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "9ccc1437-3848-4cd5-9244-63d801dd03ce",
+    "type": "message",
+    "text": "is the current task a regression model?",
+    "user": "U03UKL27B0R",
+    "ts": "1662209909.856349",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NSWh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "is the current task a regression model?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662208401.600599",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "dc99c944-76b2-4c2f-83e2-3f5cb9469a71",
+    "type": "message",
+    "text": "you can drop that column <@u03u1fnpeux>.",
+    "user": "U03UKL27B0R",
+    "ts": "1662209922.767149",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+0NEa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you can drop that column "
+              },
+              {
+                "type": "user",
+                "user_id": "U03U1FNPEUX"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662209672.331059",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a3546366-7bed-4eaa-bf20-8bee67aec55a",
+    "type": "message",
+    "text": "okay thank you",
+    "user": "U03U1FNPEUX",
+    "ts": "1662209940.591749",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4VvI2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay thank you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662209672.331059",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "908DECAB-B64A-45D7-A682-FA1D3EB9FFEF",
+    "type": "message",
+    "text": "you are dropping it because you are expecting similar data format to the original dataset and has no relevance for the model you are going to build.",
+    "user": "U03UKL27B0R",
+    "ts": "1662210156.171549",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kliN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you are dropping it because you are expecting similar data format to the original dataset and has no relevance for the model you are going to build."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662209672.331059",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "does those values are realistic ?",
+    "files": [
+      {
+        "id": "F0411070NBE",
+        "created": 1662210157,
+        "timestamp": 1662210157,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03V6HMRPGQ",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 7106,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F0411070NBE/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F0411070NBE/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0411070NBE-8898384e3e/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0411070NBE-8898384e3e/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0411070NBE-8898384e3e/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 104,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0411070NBE-8898384e3e/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "original_w": 466,
+        "original_h": 134,
+        "thumb_tiny": "AwANADCkvWlx14/z+VMpcn1oAd/n/PFBHam5PrSZoAU4HrSUUUAf/9k=",
+        "permalink": "https://10academybatch6.slack.com/files/U03V6HMRPGQ/F0411070NBE/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F0411070NBE-e73d0f8af3",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03V6HMRPGQ",
+    "display_as_bot": false,
+    "ts": "1662210186.780669",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jtCkE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "does those values are realistic ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "4760498f-6e19-4b00-b983-503a3ed95bfc",
+    "thread_ts": "1662208401.600599",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "de3c31cb-8581-4c6b-9966-255b8a141f26",
+    "type": "message",
+    "text": "understood",
+    "user": "U03U1FNPEUX",
+    "ts": "1662210216.429079",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "i6CS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "understood"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662209672.331059",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "aa9a9372-80d5-4f31-ae5e-fc906a10cc39",
+    "type": "message",
+    "text": "the loss normally becomes 0 when you have a perfect model which is rarely the case. what loss function are you using?",
+    "user": "U03UKL27B0R",
+    "ts": "1662210952.168899",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pZE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the loss normally becomes 0 when you have a perfect model which is rarely the case. what loss function are you using?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662208401.600599",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "26FFE1F7-920A-49B8-8A93-4830F7E9EF89",
+    "type": "message",
+    "text": "mean square error ",
+    "user": "U03V6HMRPGQ",
+    "ts": "1662211355.204779",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gSUZY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "mean"
+              },
+              {
+                "type": "text",
+                "text": " square "
+              },
+              {
+                "type": "text",
+                "text": "error"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662208401.600599",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "fb90408f-2e1b-4231-bdbc-92b78990e89e",
+    "type": "message",
+    "text": "for the new dataset how can we convert the string object in the date column into a datetime object?",
+    "user": "U03UD5B7C3X",
+    "ts": "1662212253.782509",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "k4o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "for the new dataset how can we convert the string object in the date column into a datetime object?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662212253.782509",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1662225606.222069",
+    "reply_users": [
+      "U03UJGP0C68",
+      "U03UD5B7C3X",
+      "U03U1FNPEUX",
+      "U03UKL27B0R"
+    ],
+    "replies": [
+      {
+        "user": "U03UJGP0C68",
+        "ts": "1662212310.796069"
+      },
+      {
+        "user": "U03UD5B7C3X",
+        "ts": "1662212468.604979"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1662215414.164339"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1662225606.222069"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0a771b62-ba8e-4753-bc41-e526b32db9a9",
+    "type": "message",
+    "text": "```df[columns] = df[columns].apply(pd.to_datetime)```",
+    "user": "U03UJGP0C68",
+    "ts": "1662212310.796069",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Cx6bX",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "df[columns] = df[columns].apply(pd.to_datetime)"
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662212253.782509",
+    "parent_user_id": "U03UD5B7C3X",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "8079105e-1962-45e0-a08b-2418fc439eb2",
+    "type": "message",
+    "text": "that's not working. i'm getting\n\n```typeerror: unrecognized value type: &lt;class 'str'&gt;```\nand then\n\"during handling of the above exception, another exception occurred:\"\n```parsererror: unknown string format: &lt;built-in method date of timestamp object at 0x7fc338c32de0&gt;```",
+    "user": "U03UD5B7C3X",
+    "ts": "1662212468.604979",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qZoNg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that's not working. i'm getting\n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "typeerror: unrecognized value type: <class 'str'>"
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "and then\n\"during handling of the above exception, another exception occurred:\"\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "parsererror: unknown string format: <built-in method date of timestamp object at 0x7fc338c32de0>"
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UD5B7C3X",
+      "ts": "1662212576.000000"
+    },
+    "thread_ts": "1662212253.782509",
+    "parent_user_id": "U03UD5B7C3X",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1B95DB1E-0AFB-4684-81D7-A5ED49483613",
+    "type": "message",
+    "text": "help please <@u03ukl27b0r> ",
+    "user": "U03U1FNPEUX",
+    "ts": "1662215414.164339",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LafVV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "help please "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662212253.782509",
+    "parent_user_id": "U03UD5B7C3X",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "36F81EED-78D5-47F1-99CE-5437D31D72F2",
+    "type": "message",
+    "text": "what if i couldn\u2019t finish my report because of electricity cut off ??",
+    "user": "U03V6HMRPGQ",
+    "ts": "1662219495.961429",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iRR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "if"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "i"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "couldn\u2019t "
+              },
+              {
+                "type": "text",
+                "text": "finish "
+              },
+              {
+                "type": "text",
+                "text": "my"
+              },
+              {
+                "type": "text",
+                "text": " report because "
+              },
+              {
+                "type": "text",
+                "text": "of"
+              },
+              {
+                "type": "text",
+                "text": " electricity "
+              },
+              {
+                "type": "text",
+                "text": "cut"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "off"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "??"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662219495.961429",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1666394048.902769",
+    "reply_users": [
+      "U03UVHCV6KB",
+      "U03V6HMRPGQ"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1666383314.640769"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1666393976.704069"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1666394048.902769"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e1bf0acc-e5f7-472d-ba3b-d9fc556d0bb5",
+    "type": "message",
+    "text": "please just do your best",
+    "user": "U03U93GNNVB",
+    "ts": "1662222913.272609",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "t8YO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "please just do your best"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB",
+          "U03V6HMRPGQ"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "6f3f7c86-bf35-4631-b613-bf579092a262",
+    "type": "message",
+    "text": "you are working on classification problem. try to use loss functions for classification problems and tune appropriate hyperparameters.",
+    "user": "U03UKL27B0R",
+    "ts": "1662225236.627029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LzV8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you are working on classification problem. try to use loss functions for classification problems and tune appropriate hyperparameters."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662208401.600599",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "dcc5b24b-1238-4662-a043-2b6f2634a07c",
+    "type": "message",
+    "text": "the date column doesn't seem to be in the appropriate format. please try to work using the remaining features for your model and eda.",
+    "user": "U03UKL27B0R",
+    "ts": "1662225606.222069",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZlC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the date column doesn't seem to be in the appropriate format. please try to work using the remaining features for your model and eda."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662212253.782509",
+    "parent_user_id": "U03UD5B7C3X",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a51ebd51-8b83-4892-b709-a3864586fd78",
+    "type": "message",
+    "text": "okay i will do",
+    "user": "U03V6HMRPGQ",
+    "ts": "1662227002.946379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Gqgi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay i will do"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662208401.600599",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  }
+]

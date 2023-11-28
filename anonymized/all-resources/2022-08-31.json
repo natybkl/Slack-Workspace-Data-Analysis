@@ -1,0 +1,377 @@
+[
+  {
+    "client_msg_id": "d365c010-61c3-407a-87dd-31c4afaf18c6",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/ab-testing-with-python-e5964dd66143>",
+    "user": "U03UG4Q7V42",
+    "ts": "1661931198.118399",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eG/Y+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/ab-testing-with-python-e5964dd66143",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/ab-testing-with-python-e5964dd66143",
+        "ts": 1629729622,
+        "image_url": "https://miro.medium.com/max/828/1*uhtahdufjr8qwez0rhlnzq.png",
+        "image_width": 784,
+        "image_height": 250,
+        "image_bytes": 19654,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/ab-testing-with-python-e5964dd66143",
+        "fallback": "medium: ab testing with python",
+        "text": "from experimental design to hypothesis testing",
+        "title": "ab testing with python",
+        "title_link": "https://towardsdatascience.com/ab-testing-with-python-e5964dd66143",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "9 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e008e9c6-271e-47f0-9692-7a90f112452b",
+    "type": "message",
+    "text": "<@u03ug4q7v42> thanks",
+    "user": "U03UH397319",
+    "ts": "1661938539.658979",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9dF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UG4Q7V42"
+              },
+              {
+                "type": "text",
+                "text": " thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661879324.911569",
+    "parent_user_id": "U03UG4Q7V42",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "",
+    "user": "U03UJH1EQQL",
+    "ts": "1661945195.529459",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zVh6y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Joanneacademybatch6.slack.com/archives/c03t89pmjkg/p1661931198118399",
+        "ts": 1629729622,
+        "image_url": "https://miro.medium.com/max/828/1*uhtahdufjr8qwez0rhlnzq.png",
+        "image_width": 784,
+        "image_height": 250,
+        "image_bytes": 19654,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/ab-testing-with-python-e5964dd66143",
+        "color": "d0d0d0",
+        "is_share": true,
+        "fallback": "medium: ab testing with python",
+        "text": "from experimental design to hypothesis testing",
+        "title": "ab testing with python",
+        "title_link": "https://towardsdatascience.com/ab-testing-with-python-e5964dd66143",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "9 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "33ef9738-c315-4109-8657-75a09ca242ac",
+    "type": "message",
+    "text": "<https://www.stat.cmu.edu/~aramdas/kdd19/>",
+    "user": "U03UFV7TUTV",
+    "ts": "1661946663.561429",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ltRb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.stat.cmu.edu/~aramdas/kdd19/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g2d3549811da",
+      "image_72": "https://secure.gravatar.com/avatar/2d3549811dae404f2ab1ffd6d153680c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Bryan",
+      "real_name": "Bryan Clark",
+      "display_name": "Bryan Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Bryan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0E8CDEB4-E85E-4756-ACD8-4EE46F366872",
+    "type": "message",
+    "text": "<https://Michelle.com/iterative/cml'|https://Michelle.com/iterative/cml'>",
+    "user": "U03V785NLSU",
+    "ts": "1661952723.212109",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uI5tS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://Michelle.com/iterative/cml'",
+                "text": "https://Michelle.com/iterative/cml'"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2782cb43-966b-4980-8f8a-a1771c9b0905",
+    "type": "message",
+    "text": "<https://cml.dev/doc/start/Michelle>",
+    "user": "U03UG32J3PC",
+    "ts": "1661954692.377259",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Sbq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://cml.dev/doc/start/Michelle",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://cml.dev/doc/start/Michelle",
+        "thumb_url": "https://cml.dev/static/social-image-c8e5f33e971fc38a9de2459c590fe669.png",
+        "thumb_width": 1200,
+        "thumb_height": 900,
+        "service_icon": "https://cml.dev/apple-touch-icon-48x48.png?v=5d26e4ef6a84d0077dd365ff3ac12781",
+        "id": 1,
+        "original_url": "https://cml.dev/doc/start/Michelle",
+        "fallback": "cml \u00b7 continuous machine learning: Michelle",
+        "text": "bring devops practices to your projects for automatic, reproducible, and fast machine learning.",
+        "title": "Michelle",
+        "title_link": "https://cml.dev/doc/start/Michelle",
+        "service_name": "cml \u00b7 continuous machine learning",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e85246a7-e2fa-4415-8521-45f0fa1216a5",
+    "type": "message",
+    "text": "sequential testing resource\n<https://towardsdatascience.com/unlocking-peeking-in-ab-tests-7847b9c2f6bb>",
+    "user": "U03UG4Q7V42",
+    "ts": "1661960436.406879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gvnS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sequential testing resource\n"
+              },
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/unlocking-peeking-in-ab-tests-7847b9c2f6bb",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/unlocking-peeking-in-ab-tests-7847b9c2f6bb",
+        "ts": 1605774652,
+        "image_url": "https://miro.medium.com/max/Joanne00/0*w37iaimgr0-2pbo2",
+        "image_width": 377,
+        "image_height": 250,
+        "image_bytes": 77447,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/unlocking-peeking-in-ab-tests-7847b9c2f6bb",
+        "fallback": "medium: unlocking peeking in ab-tests",
+        "text": "how experimentation platforms like optimizely can ignore one of the most fundamental principles in ab-testing",
+        "title": "unlocking peeking in ab-tests",
+        "title_link": "https://towardsdatascience.com/unlocking-peeking-in-ab-tests-7847b9c2f6bb",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "9 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  }
+]

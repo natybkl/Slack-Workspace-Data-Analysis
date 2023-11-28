@@ -1,0 +1,59 @@
+[
+  {
+    "client_msg_id": "92547372-8bfb-408f-8a0d-451c22f83bfd",
+    "type": "message",
+    "text": "<https://developer.algorand.org/solutions/minting-nfts-on-algorand-using-ipfs/>",
+    "user": "U03UJGRN5E0",
+    "ts": "1668359175.400459",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "I1D",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://developer.algorand.org/solutions/minting-nfts-on-algorand-using-ipfs/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://developer.algorand.org/solutions/minting-nfts-on-algorand-using-ipfs/",
+        "image_url": "https://algorand-developer-portal.tryprism.com/static/posts/2021/11/06 05:24/algorand-ipfs.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 119776,
+        "service_icon": "https://algorand-devloper-portal-app.s3.amazonaws.com/static/img/favicon.png",
+        "id": 1,
+        "original_url": "https://developer.algorand.org/solutions/minting-nfts-on-algorand-using-ipfs/",
+        "fallback": "minting nfts on algorand using ipfs",
+        "text": "a diy code solution and guide on how to work with nfts (subset of algorand asas), using decentralized digital assets hosted and pinned on ipfs, in c\u2026",
+        "title": "minting nfts on algorand using ipfs",
+        "title_link": "https://developer.algorand.org/solutions/minting-nfts-on-algorand-using-ipfs/",
+        "service_name": "developer.algorand.org",
+        "message_blocks": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,3559 @@
+[
+  {
+    "client_msg_id": "e7306183-b2bf-4b37-8728-b86424c3407a",
+    "type": "message",
+    "text": "i am struggling. i need help. the previous weeks have been very challenging for me. sometimes, i don't even know how two steps connects. for example, i don't know which stage database population comes in and why it's needed. when i have multiple disconnections like this i feel overwhelmed and it affects my work for that week. \n\ni've realized that i work best when i have step by step guide of what needs to be done. i know that our tasks are not provided in that format but going forward it's the first thing i want to do on mondays and i need you guys to help me with it.",
+    "user": "U03UJN29Y4C",
+    "ts": "1663145743.087849",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y8zsi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i am struggling. i need help. the previous weeks have been very challenging for me. sometimes, i don't even know how two steps connects. for example, i don't know which stage database population comes in and why it's needed. when i have multiple disconnections like this i feel overwhelmed and it affects my work for that week. \n\ni've realized that i work best when i have step by step guide of what needs to be done. i know that our tasks are not provided in that format but going forward it's the first thing i want to do on mondays and i need you guys to help me with it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663145743.087849",
+    "reply_count": 9,
+    "reply_users_count": 3,
+    "latest_reply": "1663238634.273009",
+    "reply_users": [
+      "U03UVHCV6KB",
+      "U03UJN29Y4C",
+      "U03UUN8M4RX"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1663146566.049579"
+      },
+      {
+        "user": "U03UJN29Y4C",
+        "ts": "1663147546.049229"
+      },
+      {
+        "user": "U03UUN8M4RX",
+        "ts": "1663235624.866439"
+      },
+      {
+        "user": "U03UUN8M4RX",
+        "ts": "1663235777.545819"
+      },
+      {
+        "user": "U03UUN8M4RX",
+        "ts": "1663235868.453749"
+      },
+      {
+        "user": "U03UUN8M4RX",
+        "ts": "1663235946.162009"
+      },
+      {
+        "user": "U03UUN8M4RX",
+        "ts": "1663236081.899659"
+      },
+      {
+        "user": "U03UJN29Y4C",
+        "ts": "1663238073.641649"
+      },
+      {
+        "user": "U03UUN8M4RX",
+        "ts": "1663238634.273009"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "9a8a1ecc-bbab-43e4-a73b-0a7d09969bca",
+    "type": "message",
+    "text": "so, for week 4. this is as far as my understanding goes on the challenge. \n\n1. read up extensively on llp\n2.   set up dvc and cml\n3.   jupyter notebooks: eda on the datasets\n4.   python: prompts engineering using api (still not sure how to fine tune with this yet)\n5.  fastapi or flask api endpoint (i don't know how to go about this or even if it's step 5)\nso guys, help me out here, if there's anything out of order or you have something to chip in on step 4 or 5, please reply.",
+    "user": "U03UJN29Y4C",
+    "ts": "1663145914.649449",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JMS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so, for week 4. this is as far as my understanding goes on the challenge. \n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Read up extensively on LLP"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "  Set up dvc and cml"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "  jupyter notebooks: EDA on the datasets"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "  Python: Prompts engineering using API (still not sure how to fine tune with this yet)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": " fastapi or flask API endpoint (I don't know how to go about this or even if it's step 5)"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so guys, help me out here, if there's anything out of order or you have something to chip in on step 4 or 5, please reply."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663145914.649449",
+    "reply_count": 9,
+    "reply_users_count": 4,
+    "latest_reply": "1663153962.506529",
+    "reply_users": [
+      "U03UJGP0C68",
+      "U03UVHCV6KB",
+      "U03UJN29Y4C",
+      "U03UKL27B0R"
+    ],
+    "replies": [
+      {
+        "user": "U03UJGP0C68",
+        "ts": "1663146836.986529"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1663146853.939789"
+      },
+      {
+        "user": "U03UJN29Y4C",
+        "ts": "1663148267.519059"
+      },
+      {
+        "user": "U03UJN29Y4C",
+        "ts": "1663148340.359689"
+      },
+      {
+        "user": "U03UJGP0C68",
+        "ts": "1663151009.665189"
+      },
+      {
+        "user": "U03UJGP0C68",
+        "ts": "1663151078.906999"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1663153459.135159"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1663153468.839369"
+      },
+      {
+        "user": "U03UJN29Y4C",
+        "ts": "1663153962.506529"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5f38bca9-3951-41be-a0ae-1e58ee78572f",
+    "type": "message",
+    "text": "same here, we all feel overwhelmed, i personally started to think of this feeling as fun, and something to look for, something that i get to do instead of something i have to do. and this attitude changed everything for me.",
+    "user": "U03UVHCV6KB",
+    "ts": "1663146566.049579",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qwg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "same here, we all feel overwhelmed, i personally started to think of this feeling as fun, and something to look for, something that i get to do instead of something i have to do. and this attitude changed everything for me."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663145743.087849",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0e53713f-7e21-4889-a599-d1a3889e1eb1",
+    "type": "message",
+    "text": "i think you are right....\n1. read and research on prompt engineering and its algorithms\n    a. understand transformer algorithm\n    b. understand basics of gpt\n2. then, i believe the next step after setting up your repo is eda on the given datasets and customizing the data to get better performances(results) from the co:here api.\n    a. you will be working on creating the best input data out of the given dataset\n    b. you consume the co:here api (simply send you prepared data to the api and you receive predictions from the model)\n    c. finally you put all these steps together by creating your own api\n    d. your api should have two end-point ( i think they behave more or less the same): one endpoint for the news scoring and the other endpoint for extracting entities from job description\n        i. so here is what you will do: your api should accept dataset(in json format possibly) then you transform, clean, feature engineer, the received data through your pipeline then send the prepared data to the co:here api, (notice there are two apis involving in this project)....then you present the results via ui\nyour api accept data-&gt;you transform data through pipeline-&gt;send prepared data to co:here-&gt; receive predictions -&gt; return the results to the user via ui\nthat is wha i understood from the guidelines....(please, remind me if i miss anything)",
+    "user": "U03UJGP0C68",
+    "ts": "1663146836.986529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ES2ub",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think you are right....\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Read and research on prompt engineering and its algorithms"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "understand transformer algorithm"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "understand basics of GPT"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Then, I believe the next step after setting up your repo is EDA on the given datasets and customizing the data to get better performances(results) from the co:here api."
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "you will be working on creating the best input data out of the given dataset"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "you consume the co:here API (simply send you prepared data to the api and you receive predictions from the model)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Finally you put all these steps together by creating your own API"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "your API should have two end-point ( i think they behave more or less the same): one endpoint for the news scoring and the other endpoint for extracting entities from job description"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "So here is what you will do: your api should accept dataset(in json format possibly) then you transform, clean, feature engineer, the received data through your pipeline then send the prepared data to the co:here API, (notice there are two APIs involving in this project)....then you present the results via UI"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 2,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "your api accept data->you transform data through pipeline->send prepared data to co:here-> receive predictions -> return the results to the user via ui\nthat is wha i understood from the guidelines....(please, remind me if i miss anything)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663145914.649449",
+    "parent_user_id": "U03UJN29Y4C",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB",
+          "U03UD68RQH3",
+          "U03V785NLSU",
+          "U03U1FNPEUX",
+          "U03UG4Q7V42",
+          "U03UFV7TUTV"
+        ],
+        "count": 6
+      },
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UVHCV6KB",
+          "U03UJN29Y4C"
+        ],
+        "count": 2
+      },
+      {
+        "name": "eyes",
+        "users": [
+          "U03UVHCV6KB",
+          "U03UG1Z21JP"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1d921684-669f-405b-9394-18939ced7a38",
+    "type": "message",
+    "text": "also, the best thing i think you can add to this is the schedule and planning part. if you have for example 20 tasks to do it will be very beneficial for you to plan what to do and when to do it. that way you will reduce overthinking and overcommitting on a single specific task. instead, you will try to do all the tasks, instead of overcommitting on a single topic or task that might be a blocker for you. i do not practice what i just preached, but i am trying to do that in order to have the max out of myself and my time. hope that makes sense.",
+    "user": "U03UVHCV6KB",
+    "ts": "1663146853.939789",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aLLBl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "also, the best thing i think you can add to this is the schedule and planning part. if you have for example 20 tasks to do it will be very beneficial for you to plan what to do and when to do it. that way you will reduce overthinking and overcommitting on a single specific task. instead, you will try to do all the tasks, instead of overcommitting on a single topic or task that might be a blocker for you. i do not practice what i just preached, but i am trying to do that in order to have the max out of myself and my time. hope that makes sense."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663145914.649449",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ddbab1a1-116f-4db2-b045-2b2f48f1f6aa",
+    "type": "message",
+    "text": "thank you *fish,* i'm dealing with the overwhelming part, what i'm concerned about is my overall output for the week, there seem to be no improvement",
+    "user": "U03UJN29Y4C",
+    "ts": "1663147546.049229",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ww1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you "
+              },
+              {
+                "type": "text",
+                "text": "fish, ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "i'm dealing with the overwhelming part, what i'm concerned about is my overall output for the week, there seem to be no improvement"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663145743.087849",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "43945757-09ba-4d90-ab6d-efb935ecd0a2",
+    "type": "message",
+    "text": "<@u03ujgp0c68> thank you. that was pretty comprehensive. what's left is the technical how-to for \n\n1. fine tunning the prompts to yield best results, and\n2. how to create endpoints for the api.\ni'd appreciate a good resource/code samples for these",
+    "user": "U03UJN29Y4C",
+    "ts": "1663148267.519059",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1aQJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UJGP0C68"
+              },
+              {
+                "type": "text",
+                "text": " thank you. that was pretty comprehensive. what's left is the technical how-to for \n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "fine tunning the prompts to yield best results, and"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "how to create endpoints for the API."
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\ni'd appreciate a good resource/code samples for these"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663145914.649449",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ce026675-7b58-45e4-a9f4-c8f6c90d80b2",
+    "type": "message",
+    "text": "<@u03uvhcv6kb> thank you, that was helpful",
+    "user": "U03UJN29Y4C",
+    "ts": "1663148340.359689",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HjE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UVHCV6KB"
+              },
+              {
+                "type": "text",
+                "text": " thank you, that was helpful"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663145914.649449",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "28c72cf4-c6fe-42c3-ae70-697b66fe828e",
+    "type": "message",
+    "text": "<@u03ujn29y4c> creating endpoints (api in general) with fastapi library is pretty easy\njust follow these few steps and you have your api running\n\n(type these command in order to run your api `python3 -m uvicorn main:app --reload` or `python -m uvicorn main:app --reload`)\n\n<https://anderfernandez.com/en/blog/how-to-create-api-python/>",
+    "user": "U03UJGP0C68",
+    "ts": "1663151009.665189",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hlhRT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UJN29Y4C"
+              },
+              {
+                "type": "text",
+                "text": " creating endpoints (api in general) with fastapi library is pretty easy\njust follow these few steps and you have your api running\n\n(type these command in order to run your api "
+              },
+              {
+                "type": "text",
+                "text": "python3 -m uvicorn main:app --reload ",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "or "
+              },
+              {
+                "type": "text",
+                "text": "python -m uvicorn main:app --reload",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ")\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://anderfernandez.com/en/blog/how-to-create-api-python/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UJGP0C68",
+      "ts": "1663151091.000000"
+    },
+    "attachments": [
+      {
+        "from_url": "https://anderfernandez.com/en/blog/how-to-create-api-python/",
+        "ts": 1622522325,
+        "image_url": "https://anderfernandez.com/wp-content/uploads/2021/05/como-crear-apis-en-python.jpg",
+        "image_width": 432,
+        "image_height": 250,
+        "image_bytes": 7179,
+        "service_icon": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_180,h_180/https://anderfernandez.com/wp-content/uploads/2019/07/cropped-faviconajustado-180x180.png",
+        "id": 1,
+        "original_url": "https://anderfernandez.com/en/blog/how-to-create-api-python/",
+        "fallback": "ander fern\u00e1ndez: how to create an api in python - ander fern\u00e1ndez",
+        "text": "in this post i explain how you can create an api in python. for this i explain the two of the main frameworks: fastapi and flask.",
+        "title": "how to create an api in python - ander fern\u00e1ndez",
+        "title_link": "https://anderfernandez.com/en/blog/how-to-create-api-python/",
+        "service_name": "ander fern\u00e1ndez",
+        "fields": [
+          {
+            "value": "Ander Fern\u00e1ndez Jauregui",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "14 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1663145914.649449",
+    "parent_user_id": "U03UJN29Y4C"
+  },
+  {
+    "client_msg_id": "056a1e0d-bd5c-4409-9931-bbaf675a7c6c",
+    "type": "message",
+    "text": "i will update you as soon as i get something on fine tuning",
+    "user": "U03UJGP0C68",
+    "ts": "1663151078.906999",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NnRY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i will update you as soon as i get something on fine tuning"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663145914.649449",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a7404989-992e-4e5e-ba20-3dcaa3e53e2a",
+    "type": "message",
+    "text": "guest talk on in less than 2 minutes: <http://meet.Stephanie.com/ysb-kjdn-hpp|meet.Stephanie.com/ysb-kjdn-hpp>",
+    "user": "U03T89ACUUW",
+    "ts": "1663151328.890459",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fiEFA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "guest talk on in less than 2 minutes: "
+              },
+              {
+                "type": "link",
+                "url": "http://meet.Stephanie.com/ysb-kjdn-hpp",
+                "text": "meet.Stephanie.com/ysb-kjdn-hpp"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5d532c004550",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3979962953108_5d532c00455016e7842d_72.jpg",
+      "first_name": "Rachel",
+      "real_name": "Rachel Mann",
+      "display_name": "Rachel Mann",
+      "team": "T03U4J8HMUG",
+      "name": "Rachel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "fedc0ec3-078c-4b33-85e4-25c0181b0f73",
+    "type": "message",
+    "text": "it's great that you asked <@u03ujn29y4c>. here is where the community comes into the play. we know that the weekly project is challenging, and using the community is the best thing to do.",
+    "user": "U03UKL27B0R",
+    "ts": "1663153459.135159",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kvJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it's great that you asked "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UJN29Y4C"
+              },
+              {
+                "type": "text",
+                "text": ". here is where the community comes into the play. we know that the weekly project is challenging, and using the community is the best thing to do."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663145914.649449",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "dfa37a3c-deb1-4acf-b2c9-c12dc3175113",
+    "type": "message",
+    "text": "building api endpoints and interacting with available llm api's is something we will cover on tomorrow's session. you can also use the reference provided by <@u03ujgp0c68> it's very good. for fine tuning please look at <https://cobusgreyling.medium.com/fine-tuning-co-here-natural-language-generation-41afe51344aa|this> article. it's specific to cohere but the logic is the same for other platforms.",
+    "user": "U03UKL27B0R",
+    "ts": "1663153468.839369",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S3H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "building api endpoints and interacting with available llm api's is something we will cover on tomorrow's session. you can also use the reference provided by "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UJGP0C68"
+              },
+              {
+                "type": "text",
+                "text": " it's very good. for fine tuning please look at "
+              },
+              {
+                "type": "link",
+                "url": "https://cobusgreyling.medium.com/fine-tuning-co-here-natural-language-generation-41afe51344aa",
+                "text": "this"
+              },
+              {
+                "type": "text",
+                "text": " article. it's specific to cohere but the logic is the same for other platforms."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663145914.649449",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e684fdd1-ac41-4a30-8dbb-b767c333cd99",
+    "type": "message",
+    "text": "<@u03ujgp0c68> <@u03ukl27b0r> thank you very much. your replies has given me a clearer view on how to go about the challenge technically. \n\nthis makes getting through less overwhelming :blush:",
+    "user": "U03UJN29Y4C",
+    "ts": "1663153962.506529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oU/+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UJGP0C68"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R"
+              },
+              {
+                "type": "text",
+                "text": " thank you very much. your replies has given me a clearer view on how to go about the challenge technically. \n\nthis makes getting through less overwhelming "
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "unicode": "1f60a"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663145914.649449",
+    "parent_user_id": "U03UJN29Y4C",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UJGP0C68"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "81951312-1b00-451c-8c66-d79147588d8b",
+    "type": "message",
+    "text": "in term of the code side, i just read week doc and it confused me, can any one explain what we should do ?, what we should deliver for the current submission?\n<@u03ukl27b0r> <@u03uun8m4rx>",
+    "user": "U03V6HMRPGQ",
+    "ts": "1663177181.412569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a9w",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "in term of the code side, i just read week doc and it confused me, can any one explain what we should do ?, what we should deliver for the current submission?\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UUN8M4RX"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663177181.412569",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1663178618.172289",
+    "reply_users": [
+      "U03UVHCV6KB",
+      "U03UKL27B0R",
+      "U03V6HMRPGQ"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1663178247.135639"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1663178435.700689"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1663178618.172289"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5b0ce4b8-b37a-4f59-8164-aa5c8ae7cd69",
+    "type": "message",
+    "text": "i think it would be nice if you get api key from co:here or bloom and just do some basic requests on maybe prompt based text extraction and receive some output from the apis",
+    "user": "U03UVHCV6KB",
+    "ts": "1663178247.135639",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Tof",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think it would be nice if you get api key from co:here or bloom and just do some basic requests on maybe prompt based text extraction and receive some output from the apis"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663177181.412569",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03V6HMRPGQ"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b4a5b725-7c7f-40d6-9038-5f90730510c0",
+    "type": "message",
+    "text": "yes, you need to setup your env to with different endpoints as it has been specified in the challenge document. it would be a plus if you can connect with one of the available api and get data from the llm model. please have a look at the rubrics section of the challenge document.",
+    "user": "U03UKL27B0R",
+    "ts": "1663178435.700689",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gHoT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes, you need to setup your env to with different endpoints as it has been specified in the challenge document. it would be a plus if you can connect with one of the available api and get data from the llm model. please have a look at the rubrics section of the challenge document."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663177181.412569",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03V6HMRPGQ"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c0b8bec1-8e34-40c3-beaa-f16afc2fed0c",
+    "type": "message",
+    "text": "okay, thank you",
+    "user": "U03V6HMRPGQ",
+    "ts": "1663178618.172289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9XOB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay, thank you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663177181.412569",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "fb005c5a-d257-47db-89c3-147d3f92166c",
+    "type": "message",
+    "text": "do i need to create same files every time i init a Michelle repo ?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1663181045.745559",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hFv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "do i need to create same files every time i init a Michelle repo ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2467749a-f073-49ba-a94b-663defc5771c",
+    "type": "message",
+    "text": "or there is a way to recreate it instantly ?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1663181243.117559",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qeWPS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "or there is a way to recreate it instantly ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663181243.117559",
+    "reply_count": 7,
+    "reply_users_count": 3,
+    "latest_reply": "1663183840.478189",
+    "reply_users": [
+      "U03UD68RQH3",
+      "U03UJGP0C68",
+      "U03V6HMRPGQ"
+    ],
+    "replies": [
+      {
+        "user": "U03UD68RQH3",
+        "ts": "1663182700.443679"
+      },
+      {
+        "user": "U03UD68RQH3",
+        "ts": "1663182730.232469"
+      },
+      {
+        "user": "U03UJGP0C68",
+        "ts": "1663182750.730189"
+      },
+      {
+        "user": "U03UJGP0C68",
+        "ts": "1663182796.271049"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1663183378.615489"
+      },
+      {
+        "user": "U03UJGP0C68",
+        "ts": "1663183724.838819"
+      },
+      {
+        "user": "U03UJGP0C68",
+        "ts": "1663183840.478189"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b53b3f4c-226d-494b-bf36-437e888d8d65",
+    "type": "message",
+    "text": "yes so that they'll be tracked by git",
+    "user": "U03UD68RQH3",
+    "ts": "1663182700.443679",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1LQp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes so that they'll be tracked by git"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663181243.117559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "3cbc4998-3654-40aa-85b5-1f98cc094a7b",
+    "type": "message",
+    "text": "i mean you have to create them",
+    "user": "U03UD68RQH3",
+    "ts": "1663182730.232469",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "56t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i mean you have to create them"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663181243.117559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03V6HMRPGQ"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2d6d9b53-b795-4af0-8728-8788d6680f60",
+    "type": "message",
+    "text": "i advice you to prepare a template",
+    "user": "U03UJGP0C68",
+    "ts": "1663182750.730189",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rNWG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i advice you to prepare a template"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663181243.117559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ad9f0288-1975-46a3-866d-b9144237c285",
+    "type": "message",
+    "text": "any help on how should i mask my api key ??",
+    "user": "U03UFV7HFNF",
+    "ts": "1663182768.412419",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FkM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "any help on how should i mask my api key ??"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663182768.412419",
+    "reply_count": 14,
+    "reply_users_count": 5,
+    "latest_reply": "1663188849.396669",
+    "reply_users": [
+      "U03UJGP0C68",
+      "U03UFV7HFNF",
+      "U03UD68RQH3",
+      "U03UUR571A5",
+      "U03UKL27B0R"
+    ],
+    "replies": [
+      {
+        "user": "U03UJGP0C68",
+        "ts": "1663182825.457379"
+      },
+      {
+        "user": "U03UFV7HFNF",
+        "ts": "1663183035.342559"
+      },
+      {
+        "user": "U03UD68RQH3",
+        "ts": "1663183064.539329"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663183152.685069"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663183178.816129"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663183206.202909"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1663183350.371289"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663183456.818129"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663183499.228529"
+      },
+      {
+        "user": "U03UJGP0C68",
+        "ts": "1663183897.227349"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663184569.754359"
+      },
+      {
+        "user": "U03UFV7HFNF",
+        "ts": "1663184648.964819"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663184754.072479"
+      },
+      {
+        "user": "U03UFV7HFNF",
+        "ts": "1663188849.396669"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d6a7a82a-d49e-45c1-9484-d20134940095",
+    "type": "message",
+    "text": "so that you dont worry about creating the file structures again and again",
+    "user": "U03UJGP0C68",
+    "ts": "1663182796.271049",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VYa7x",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so that you dont worry about creating the file structures again and again"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663181243.117559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "6f35ec27-771c-416a-9e50-694203a4c350",
+    "type": "message",
+    "text": "i have the same question",
+    "user": "U03UJGP0C68",
+    "ts": "1663182825.457379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+yON",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i have the same question"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663182768.412419",
+    "parent_user_id": "U03UFV7HFNF",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "96f4bff9-2914-4f26-bd22-c9e47e35f210",
+    "type": "message",
+    "text": "<@u03ukl27b0r> any tip?",
+    "user": "U03UFV7HFNF",
+    "ts": "1663183035.342559",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "N1yCT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R"
+              },
+              {
+                "type": "text",
+                "text": " any tip?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663182768.412419",
+    "parent_user_id": "U03UFV7HFNF",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "48c70c8a-bb4b-4e98-a53a-c4d655a6d804",
+    "type": "message",
+    "text": "in javascript i use .env to store api keys and .gitignore  i don't know if it is possible to do the same in python",
+    "user": "U03UD68RQH3",
+    "ts": "1663183064.539329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wr7t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "in javascript i use .env to store api keys and .gitignore  i don't know if it is possible to do the same in python"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663182768.412419",
+    "parent_user_id": "U03UFV7HFNF",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0045021d-c0c5-4f6f-8235-e97135beb342",
+    "type": "message",
+    "text": "is there anyone who manages to access the gpt-3 api, i am having this problem\n```not available\nopenai's api is not available in your country.```",
+    "user": "U03UJGRN5E0",
+    "ts": "1663183121.104059",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3PO4x",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "is there anyone who manages to access the gpt-3 api, i am having this problem\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "not available\nopenai's api is not available in your country."
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663183121.104059",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1663236502.122489",
+    "reply_users": [
+      "U03UD68RQH3",
+      "U03UJGRN5E0",
+      "U03UD5B7C3X"
+    ],
+    "replies": [
+      {
+        "user": "U03UD68RQH3",
+        "ts": "1663183812.905499"
+      },
+      {
+        "user": "U03UD68RQH3",
+        "ts": "1663183843.760789"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1663184337.641469"
+      },
+      {
+        "user": "U03UD5B7C3X",
+        "ts": "1663236502.122489"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0866a760-1bb3-487e-a5ec-2b3617a214ea",
+    "type": "message",
+    "text": "you can use python-dotenv",
+    "user": "U03UUR571A5",
+    "ts": "1663183152.685069",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K67BG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you can use python-dotenv"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UUR571A5",
+      "ts": "1663183558.000000"
+    },
+    "thread_ts": "1663182768.412419",
+    "parent_user_id": "U03UFV7HFNF",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "341449b4-d9cf-4cda-9f1d-5bd50daba341",
+    "type": "message",
+    "text": "<https://stackoverflow.com/questions/40216311/reading-in-environment-variables-from-an-environment-file>",
+    "user": "U03UUR571A5",
+    "ts": "1663183178.816129",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sBy27",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://stackoverflow.com/questions/40216311/reading-in-environment-variables-from-an-environment-file",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://stackoverflow.com/questions/40216311/reading-in-environment-variables-from-an-environment-file",
+        "thumb_url": "https://cdn.sstatic.net/sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+        "thumb_width": 316,
+        "thumb_height": 316,
+        "service_icon": "https://cdn.sstatic.net/sites/stackoverflow/img/apple-touch-icon.png?v=c78bd457575a",
+        "id": 1,
+        "original_url": "https://stackoverflow.com/questions/40216311/reading-in-environment-variables-from-an-environment-file",
+        "fallback": "stack overflow: reading in environment variables from an environment file",
+        "text": "i'd like to run in a local environment a python script which is normally run in a docker container. the docker-compose.yml specifies an env_file which looks (partially) like the following: db_addr=",
+        "title": "reading in environment variables from an environment file",
+        "title_link": "https://stackoverflow.com/questions/40216311/reading-in-environment-variables-from-an-environment-file",
+        "service_name": "stack overflow",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1663182768.412419",
+    "parent_user_id": "U03UFV7HFNF"
+  },
+  {
+    "client_msg_id": "98b318d9-2d19-406d-850b-3c69d04d0c65",
+    "type": "message",
+    "text": "while you deploy you can add it as an environment variable.",
+    "user": "U03UUR571A5",
+    "ts": "1663183206.202909",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pd+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "while you deploy you can add it as an environment variable."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663182768.412419",
+    "parent_user_id": "U03UFV7HFNF",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b11b1a0b-0a73-4f21-92a2-aa82141aeee9",
+    "type": "message",
+    "text": "you can use config for python",
+    "user": "U03UKL27B0R",
+    "ts": "1663183350.371289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uaJVn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you can use config for python"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663182768.412419",
+    "parent_user_id": "U03UFV7HFNF",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5d3e897f-a9f9-4e15-8757-d239b9d9f830",
+    "type": "message",
+    "text": "how is that <@u03ujgp0c68> \\",
+    "user": "U03V6HMRPGQ",
+    "ts": "1663183378.615489",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZOKb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how is that "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UJGP0C68"
+              },
+              {
+                "type": "text",
+                "text": " \\"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663181243.117559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "6bb428f0-ee57-4ced-b905-9caba2e4b051",
+    "type": "message",
+    "text": "if you use python-dotenv remember to add .env file to .gitignore",
+    "user": "U03UUR571A5",
+    "ts": "1663183456.818129",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xUhyP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "if you use python-dotenv remember to add .env file to .gitignore"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UUR571A5",
+      "ts": "1663183546.000000"
+    },
+    "thread_ts": "1663182768.412419",
+    "parent_user_id": "U03UFV7HFNF",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a9d72bda-1582-47a5-abde-4e360e404907",
+    "type": "message",
+    "text": "<https://pypi.org/project/python-dotenv/>",
+    "user": "U03UUR571A5",
+    "ts": "1663183499.228529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nDeU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://pypi.org/project/python-dotenv/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://pypi.org/project/python-dotenv/",
+        "image_url": "https://pypi.org/static/images/twitter.6fecba6f.jpg",
+        "image_width": 250,
+        "image_height": 250,
+        "image_bytes": 6869,
+        "service_icon": "https://pypi.org/static/images/favicon.6a76275d.ico",
+        "id": 1,
+        "original_url": "https://pypi.org/project/python-dotenv/",
+        "fallback": "pypi: python-dotenv",
+        "text": "read key-value pairs from a .env file and set them as environment variables",
+        "title": "python-dotenv",
+        "title_link": "https://pypi.org/project/python-dotenv/",
+        "service_name": "pypi",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1663182768.412419",
+    "parent_user_id": "U03UFV7HFNF"
+  },
+  {
+    "type": "message",
+    "text": "first you have to create your folder/file structures\nput that in your git repo\nthen go to settings -&gt; check \"template this repository\"\n\nor you can follow these easy steps <https://docs.Michelle.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository>",
+    "files": [
+      {
+        "id": "F0428289B3Q",
+        "created": 1663183709,
+        "timestamp": 1663183709,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UJGP0C68",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 57499,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F0428289B3Q/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F0428289B3Q/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0428289B3Q-6b95b71c19/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0428289B3Q-6b95b71c19/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0428289B3Q-6b95b71c19/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 118,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0428289B3Q-6b95b71c19/image_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 157,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0428289B3Q-6b95b71c19/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0428289B3Q-6b95b71c19/image_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 236,
+        "thumb_800": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0428289B3Q-6b95b71c19/image_800.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_800_w": 800,
+        "thumb_800_h": 262,
+        "thumb_960": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0428289B3Q-6b95b71c19/image_960.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_960_w": 960,
+        "thumb_960_h": 315,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0428289B3Q-6b95b71c19/image_1024.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 336,
+        "original_w": 1306,
+        "original_h": 428,
+        "thumb_tiny": "AwAPADDPFB/GgdaCaYAOaTNKvWlIFACcjrSUpxRxQB//2Q==",
+        "permalink": "https://10academybatch6.slack.com/files/U03UJGP0C68/F0428289B3Q/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F0428289B3Q-659eccdb71",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UJGP0C68",
+    "display_as_bot": false,
+    "ts": "1663183724.838819",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vl+d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "first you have to create your folder/file structures\nput that in your git repo\nthen go to settings -> check \"template this repository\"\n\nor you can follow these easy steps "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.Michelle.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "01a60ceb-c44a-4f34-b863-15fd207ad0b0",
+    "thread_ts": "1663181243.117559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UJKJGRAQ",
+          "U03UVHCV6KB"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "dc13c85f-a650-49fa-ba02-81955c76f47a",
+    "type": "message",
+    "text": "gpt-3 api is not for free",
+    "user": "U03UD68RQH3",
+    "ts": "1663183812.905499",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5fF3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "gpt-3 api is not for free"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663183121.104059",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "then next time you create a new repository you can use these as template by choosing your template from the dropdown",
+    "files": [
+      {
+        "id": "F042BMMC4CV",
+        "created": 1663183823,
+        "timestamp": 1663183823,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UJGP0C68",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 45079,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F042BMMC4CV/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F042BMMC4CV/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042BMMC4CV-64b7cd911e/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042BMMC4CV-64b7cd911e/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042BMMC4CV-64b7cd911e/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 160,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042BMMC4CV-64b7cd911e/image_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 214,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042BMMC4CV-64b7cd911e/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042BMMC4CV-64b7cd911e/image_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 321,
+        "thumb_800": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042BMMC4CV-64b7cd911e/image_800.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_800_w": 800,
+        "thumb_800_h": 357,
+        "thumb_960": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042BMMC4CV-64b7cd911e/image_960.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_960_w": 960,
+        "thumb_960_h": 428,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042BMMC4CV-64b7cd911e/image_1024.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 456,
+        "original_w": 1290,
+        "original_h": 575,
+        "thumb_tiny": "AwAVADDPHWl6dhSL164pSDnk5+lMBPwpKXB9DRg+lACUUUUAAoP1pRQetACUUUUAFFFFAH//2Q==",
+        "permalink": "https://10academybatch6.slack.com/files/U03UJGP0C68/F042BMMC4CV/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F042BMMC4CV-830b699ede",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UJGP0C68",
+    "display_as_bot": false,
+    "ts": "1663183840.478189",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JfY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "then next time you create a new repository you can use these as template by choosing your template from the dropdown"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "edited": {
+      "user": "U03UJGP0C68",
+      "ts": "1663186367.000000"
+    },
+    "client_msg_id": "ad262012-d346-49a4-b7ee-9b777c16c20b",
+    "thread_ts": "1663181243.117559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03V6HMRPGQ",
+          "U03UJKJGRAQ"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "50645495-39e5-4b9e-84d2-d00327ab62ad",
+    "type": "message",
+    "text": "may be try using cohere... they have free tier",
+    "user": "U03UD68RQH3",
+    "ts": "1663183843.760789",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5Pn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "may be try using cohere... they have free tier"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663183121.104059",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1b7d1547-dca9-43bc-9e97-6fe8d802e320",
+    "type": "message",
+    "text": "i thought about that...but what happens when you publish your project? i mean, after all your putting it to the public right??",
+    "user": "U03UJGP0C68",
+    "ts": "1663183897.227349",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jm6De",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i thought about that...but what happens when you publish your project? i mean, after all your putting it to the public right??"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663182768.412419",
+    "parent_user_id": "U03UFV7HFNF",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "550487ba-0d65-4a4e-82f0-e8de50e11816",
+    "type": "message",
+    "text": "tanks <@u03ud68rqh3>",
+    "user": "U03UJGRN5E0",
+    "ts": "1663184337.641469",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RyVH/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "tanks "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UD68RQH3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663183121.104059",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "fe1fb2fd-cc17-425c-9eac-8ea50fb12cb6",
+    "type": "message",
+    "text": "all .env files work the some how the same way so while you publish every deployment platform provides environment variable which you can add to, so unless the deployment platform is hacked, your variable is safe, this works for every languages .env files.",
+    "user": "U03UUR571A5",
+    "ts": "1663184569.754359",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jGhG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "all .env files work the some how the same way so while you publish every deployment platform provides environment variable which you can add to, so unless the deployment platform is hacked, your variable is safe, this works for every languages .env files."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663182768.412419",
+    "parent_user_id": "U03UFV7HFNF",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "cd19dfa1-2362-42e6-bb89-122c98f7d9fe",
+    "type": "message",
+    "text": "how i can read the data in form that i could use?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1663184637.516509",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L+h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how i can read the data in form that i could use?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663184637.516509",
+    "reply_count": 11,
+    "reply_users_count": 3,
+    "latest_reply": "1663236215.766539",
+    "reply_users": [
+      "U03UG4Q7V42",
+      "U03V6HMRPGQ",
+      "U03UVHCV6KB"
+    ],
+    "replies": [
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1663184769.716589"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1663184840.468439"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1663184855.065529"
+      },
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1663184956.353279"
+      },
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1663184980.762859"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1663193984.830829"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1663194146.583319"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1663230762.803009"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1663230853.899069"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1663234872.351739"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1663236215.766539"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2ac9a622-e6e4-411c-9ef0-e99b0f045e38",
+    "type": "message",
+    "text": "thanks guys. i will try it.",
+    "user": "U03UFV7HFNF",
+    "ts": "1663184648.964819",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SoMQC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thanks guys. i will try it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663182768.412419",
+    "parent_user_id": "U03UFV7HFNF",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5b8ee8ea-600c-4559-86ba-5d5ea2d70fe2",
+    "type": "message",
+    "text": "this is the same way you publish your .env variables in lets say some front end deployment like react or vue, so while you deploy you add your variables to the deployment platform you are using.",
+    "user": "U03UUR571A5",
+    "ts": "1663184754.072479",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bKaux",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this is the same way you publish your .env variables in lets say some front end deployment like react or vue, so while you deploy you add your variables to the deployment platform you are using."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663182768.412419",
+    "parent_user_id": "U03UFV7HFNF",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "fa0b3c88-ec52-459d-a637-a71ab12966b1",
+    "type": "message",
+    "text": "i just renamed the .txt file into .json",
+    "user": "U03UG4Q7V42",
+    "ts": "1663184769.716589",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bE0X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i just renamed the .txt file into .json"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663184637.516509",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d3060713-7218-49f3-9b00-280d81105e67",
+    "type": "message",
+    "text": "how about the excel one ?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1663184840.468439",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aKv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how about the excel one ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663184637.516509",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F042854RRAS",
+        "created": 1663184844,
+        "timestamp": 1663184844,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03V6HMRPGQ",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 87855,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F042854RRAS/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F042854RRAS/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042854RRAS-b1abd72ab8/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042854RRAS-b1abd72ab8/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042854RRAS-b1abd72ab8/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 126,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042854RRAS-b1abd72ab8/image_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 168,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042854RRAS-b1abd72ab8/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042854RRAS-b1abd72ab8/image_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 252,
+        "thumb_800": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042854RRAS-b1abd72ab8/image_800.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_800_w": 800,
+        "thumb_800_h": 281,
+        "thumb_960": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042854RRAS-b1abd72ab8/image_960.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_960_w": 960,
+        "thumb_960_h": 337,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042854RRAS-b1abd72ab8/image_1024.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 359,
+        "original_w": 1232,
+        "original_h": 432,
+        "thumb_tiny": "AwAQADCnijbS07A2+9ADNopRGCOtOwvrTl6cUAM8oeppGQA9TUtNYc80Af/Z",
+        "permalink": "https://10academybatch6.slack.com/files/U03V6HMRPGQ/F042854RRAS/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F042854RRAS-0173d28713",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03V6HMRPGQ",
+    "display_as_bot": false,
+    "ts": "1663184855.065529",
+    "client_msg_id": "145a921b-89d4-498e-8bdf-010aa3c09307",
+    "thread_ts": "1663184637.516509",
+    "parent_user_id": "U03V6HMRPGQ",
+    "blocks": null,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "4e5274f2-429a-472b-8f19-8337a30dd6a7",
+    "type": "message",
+    "text": "you can use pandas read_excel()",
+    "user": "U03UG4Q7V42",
+    "ts": "1663184956.353279",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/tJQw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you can use pandas read_excel()"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663184637.516509",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a588e258-3751-4942-ae1f-68d719d708d5",
+    "type": "message",
+    "text": "is it not working?",
+    "user": "U03UG4Q7V42",
+    "ts": "1663184980.762859",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4wGLe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "is it not working?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663184637.516509",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5a6ba96c-a70e-464c-b095-53cacbdcb06d",
+    "type": "message",
+    "text": "which api key are you using, open ai is not available in my country",
+    "user": "U03UJN29Y4C",
+    "ts": "1663185462.466709",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "X1XO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "which api key are you using, open ai is not available in my country"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663185462.466709",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1663185543.720739",
+    "reply_users": [
+      "U03UUR571A5",
+      "U03UJN29Y4C"
+    ],
+    "replies": [
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663185501.695219"
+      },
+      {
+        "user": "U03UJN29Y4C",
+        "ts": "1663185543.720739"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "6ef40406-7a89-4779-aba9-ba99d64902d6",
+    "type": "message",
+    "text": "use cohere they have a free one",
+    "user": "U03UUR571A5",
+    "ts": "1663185501.695219",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Bd5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "use cohere they have a free one"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663185462.466709",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "53c79168-a716-479d-be2c-50cabb5708db",
+    "type": "message",
+    "text": "alright, thanks",
+    "user": "U03UJN29Y4C",
+    "ts": "1663185543.720739",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xVu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "alright, thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663185462.466709",
+    "parent_user_id": "U03UJN29Y4C",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UUR571A5"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "has anyone managed to fine tune co:here? i am getting an error (at least 32 examples are needed, while we only have Joanne data)",
+    "files": [
+      {
+        "id": "F042ETKKNM8",
+        "created": 1663186505,
+        "timestamp": 1663186505,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UJGP0C68",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 27191,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F042ETKKNM8/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F042ETKKNM8/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042ETKKNM8-bb2b26c8a4/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042ETKKNM8-bb2b26c8a4/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042ETKKNM8-bb2b26c8a4/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 355,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042ETKKNM8-bb2b26c8a4/image_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 473,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042ETKKNM8-bb2b26c8a4/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "original_w": 632,
+        "original_h": 641,
+        "thumb_tiny": "AwAwAC+9+J/Kj8W/KjOD3/Wl3e386YhRyP8AEUY+lHPpS/WgBDx/+qjqR/hS0UANz05NLn3FJnpzS/iKAD8RR+Io/EUfiKAD8RR+NH4ij8aAGlwOM/pR5go2qeo60uxfSlqPQTzBR5gpdgo2CjUNBPMFKGBPFBUY70i4z90inqGh/9k=",
+        "permalink": "https://10academybatch6.slack.com/files/U03UJGP0C68/F042ETKKNM8/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F042ETKKNM8-6e6f3d11e2",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UJGP0C68",
+    "display_as_bot": false,
+    "ts": "1663186513.299989",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hsCyu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "has anyone managed to fine tune co:here? i am getting an error (at least 32 examples are needed, while we only have Joanne data)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "2ca275e6-128c-4646-ab08-15d107255028",
+    "thread_ts": "1663186513.299989",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1663228645.873069",
+    "reply_users": [
+      "U03UVHCV6KB",
+      "U03UUR571A5",
+      "U03UJGP0C68"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1663194046.620899"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663204937.494129"
+      },
+      {
+        "user": "U03UJGP0C68",
+        "ts": "1663222998.820909"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663228645.873069"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "7d4e5dc8-eed6-481b-bcdf-b85dc068c439",
+    "type": "message",
+    "text": "thanks you all again. i have used dotenv and it worked fine.",
+    "user": "U03UFV7HFNF",
+    "ts": "1663188849.396669",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uam2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thanks you all again. i have used dotenv and it worked fine."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663182768.412419",
+    "parent_user_id": "U03UFV7HFNF",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UUR571A5"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "487c6c4d-aa4a-4790-a542-b4db7ea797cc",
+    "type": "message",
+    "text": "just download it as a csv file and use pandas read_csv",
+    "user": "U03UVHCV6KB",
+    "ts": "1663193984.830829",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0tG2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "just download it as a csv file and use pandas read_csv"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663184637.516509",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "327d8d87-e0ab-4eb7-8a7c-c46457e1ebdc",
+    "type": "message",
+    "text": "are you trying to do this fine-tuning using code or the gui?",
+    "user": "U03UVHCV6KB",
+    "ts": "1663194046.620899",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ziV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "are you trying to do this fine-tuning using code or the gui?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663186513.299989",
+    "parent_user_id": "U03UJGP0C68",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "639632cc-7c99-4ee4-8102-68b29b06d83b",
+    "type": "message",
+    "text": "also, there is a method in pandas to read excel files, isn't there?",
+    "user": "U03UVHCV6KB",
+    "ts": "1663194146.583319",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B5cFS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "also, there is a method in pandas to read excel files, isn't there?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663184637.516509",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c4895af6-9bc6-46ef-9026-432b5fd70669",
+    "type": "message",
+    "text": "you have to add more samples to your .txt file",
+    "user": "U03UUR571A5",
+    "ts": "1663204937.494129",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ywc5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you have to add more samples to your .txt file"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663186513.299989",
+    "parent_user_id": "U03UJGP0C68",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2f782c64-d9fd-4729-9a4d-82d3696a5788",
+    "type": "message",
+    "text": "<@u03uur571a5> ok but we have only Joanne samples right?",
+    "user": "U03UJGP0C68",
+    "ts": "1663222998.820909",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cWA2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UUR571A5"
+              },
+              {
+                "type": "text",
+                "text": " ok but we have only Joanne samples right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UJGP0C68",
+      "ts": "1663223011.000000"
+    },
+    "thread_ts": "1663186513.299989",
+    "parent_user_id": "U03UJGP0C68",
+    "attachments": null
+  }
+]

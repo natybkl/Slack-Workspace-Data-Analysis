@@ -1,0 +1,385 @@
+[
+  {
+    "client_msg_id": "bdbd91c7-17a2-4f5d-888b-b0c123e92e1c",
+    "type": "message",
+    "text": "<http://www.cristinasegalin.com/research/papers/jcp19.pdf>",
+    "user": "U03UFV7HFNF",
+    "ts": "1667470890.702129",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5h8W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://www.cristinasegalin.com/research/papers/jcp19.pdf",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1389771b-8b99-4092-b270-66028fb722e3",
+    "type": "message",
+    "text": "<https://pypi.org/project/extcolors/>",
+    "user": "U03UD68RQH3",
+    "ts": "1667471647.528969",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TsT4+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://pypi.org/project/extcolors/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://pypi.org/project/extcolors/",
+        "image_url": "https://pypi.org/static/images/twitter.6fecba6f.jpg",
+        "image_width": 250,
+        "image_height": 250,
+        "image_bytes": 6869,
+        "service_icon": "https://pypi.org/static/images/favicon.6a76275d.ico",
+        "id": 1,
+        "original_url": "https://pypi.org/project/extcolors/",
+        "fallback": "pypi: extcolors",
+        "text": "extract colors from an image. colors are grouped based on visual similarities using the cie76 formula.",
+        "title": "extcolors",
+        "title_link": "https://pypi.org/project/extcolors/",
+        "service_name": "pypi",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "79eb2ea2-47a1-4c4a-a05c-caa2cfe18d88",
+    "type": "message",
+    "text": "<https://www.analyticsvidhya.com/blog/2022/08/logos-a-brand-independent-logo-detection-model/>",
+    "user": "U03UG1Z21JP",
+    "ts": "1667474885.318409",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WBqg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.analyticsvidhya.com/blog/2022/08/logos-a-brand-independent-logo-detection-model/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.analyticsvidhya.com/blog/2022/08/logos-a-brand-independent-logo-detection-model/",
+        "ts": 1659812859,
+        "thumb_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/computer_vision_learning_path.jpg",
+        "thumb_width": 1050,
+        "thumb_height": 520,
+        "service_icon": "https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo_square_v2.jpg",
+        "id": 1,
+        "original_url": "https://www.analyticsvidhya.com/blog/2022/08/logos-a-brand-independent-logo-detection-model/",
+        "fallback": "analytics vidhya: logos: a brand independent logo detection model - analytics vidhya",
+        "text": "logo detection is a part of a broader family of object detection. in object detection, we predict the bounding box for objects in an image.",
+        "title": "logos: a brand independent logo detection model - analytics vidhya",
+        "title_link": "https://www.analyticsvidhya.com/blog/2022/08/logos-a-brand-independent-logo-detection-model/",
+        "service_name": "analytics vidhya",
+        "fields": [
+          {
+            "value": "Maitri Das",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "12 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "371dbde3-c9e3-457d-b865-14796661373e",
+    "type": "message",
+    "text": "<https://medium.com/generalist-dev/background-colour-detection-using-opencv-and-python-22ed8655b243|https://medium.com/generalist-dev/background-colour-detection-using-opencv-and-python-22ed8655b243>",
+    "user": "U03UG0YHAUT",
+    "ts": "1667484267.172469",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V3z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/generalist-dev/background-colour-detection-using-opencv-and-python-22ed8655b243",
+                "text": "https://medium.com/generalist-dev/background-colour-detection-using-opencv-and-python-22ed8655b243"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/generalist-dev/background-colour-detection-using-opencv-and-python-22ed8655b243",
+        "ts": 1595531557,
+        "image_url": "https://miro.medium.com/max/724/0*nbrwfowdkoad_ozo.png",
+        "image_width": 417,
+        "image_height": 250,
+        "image_bytes": 218219,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://medium.com/generalist-dev/background-colour-detection-using-opencv-and-python-22ed8655b243",
+        "fallback": "medium: background colour detection using opencv and python",
+        "text": "edit (2020/06): i\u2019ve updated the code samples to remove some bugs and bring compatibility forward to python 3",
+        "title": "background colour detection using opencv and python",
+        "title_link": "https://medium.com/generalist-dev/background-colour-detection-using-opencv-and-python-22ed8655b243",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "4 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0a1d7e1e-e1c7-4076-a4a1-42154c61ad3d",
+    "type": "message",
+    "text": "\u2022 tensorflow + gpu               <https://www.tensorflow.org/install/pip>",
+    "user": "U03U1FNPEUX",
+    "ts": "1667486240.167589",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kBL",
+        "elements": [
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Tensorflow + GPU               "
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://www.tensorflow.org/install/pip"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03U1FNPEUX",
+      "ts": "1667486260.000000"
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.tensorflow.org/install/pip",
+        "image_url": "https://www.tensorflow.org/images/tf_logo_social.png",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 17046,
+        "service_icon": "https://www.gstatic.com/devrel-devsite/prod/vab7ee6e3641fJoanne848d404faa598f256587df1a361a1e70cd114230c2961b73d9/tensorflow/images/apple-touch-icon-180x180.png",
+        "id": 1,
+        "original_url": "https://www.tensorflow.org/install/pip",
+        "fallback": "tensorflow: install tensorflow with pip",
+        "title": "install tensorflow with pip",
+        "title_link": "https://www.tensorflow.org/install/pip",
+        "service_name": "tensorflow",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1::skin-tone-5",
+        "users": [
+          "U03U1HAG9TR"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U03UHB8CXDY"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "30142bd2-bce0-4622-b45e-5d8a5dea8f5e",
+    "type": "message",
+    "text": "<https://medium.com/analytics-vidhya/understanding-keypoints-and-orb-algorithm-f260e6fb640c>",
+    "user": "U03UJGRN5E0",
+    "ts": "1667545146.594889",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "24nS/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/analytics-vidhya/understanding-keypoints-and-orb-algorithm-f260e6fb640c",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/analytics-vidhya/understanding-keypoints-and-orb-algorithm-f260e6fb640c",
+        "ts": 1571250283,
+        "image_url": "https://miro.medium.com/max/447/1*smlxgwlpqu60uldeiy-mow.png",
+        "image_width": 234,
+        "image_height": 250,
+        "image_bytes": 162663,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://medium.com/analytics-vidhya/understanding-keypoints-and-orb-algorithm-f260e6fb640c",
+        "fallback": "medium: understanding keypoints and orb algorithm",
+        "text": "a key point is a region of an image which is particularly distinct and identifies a unique feature",
+        "title": "understanding keypoints and orb algorithm",
+        "title_link": "https://medium.com/analytics-vidhya/understanding-keypoints-and-orb-algorithm-f260e6fb640c",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "4 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "client_msg_id": "7d282a4a-7a32-4c8d-b066-57c413b5ba3a",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/use-mlflow-and-dvc-for-open-source-reproducible-machine-learning-2ab8c0678a94>",
+    "user": "U03U1FQKEMV",
+    "ts": "1662111985.259219",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+qF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/use-mlflow-and-dvc-for-open-source-reproducible-machine-learning-2ab8c0678a94",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g6eee7df1d92",
+      "image_72": "https://secure.gravatar.com/avatar/6eee7df1d92577aa5637983ea403f886.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Kevin",
+      "real_name": "Kevin Macdonald",
+      "display_name": "Kevin Macdonald",
+      "team": "T03U4J8HMUG",
+      "name": "Kevin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/use-mlflow-and-dvc-for-open-source-reproducible-machine-learning-2ab8c0678a94",
+        "ts": 1627996090,
+        "image_url": "https://miro.medium.com/max/966/0*bunsixu4uui67av6",
+        "image_width": 708,
+        "image_height": 250,
+        "image_bytes": 63381,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/use-mlflow-and-dvc-for-open-source-reproducible-machine-learning-2ab8c0678a94",
+        "fallback": "medium: use mlflow and dvc for open-source reproducible machine learning",
+        "text": "dvc and mlflow are two open-source projects that are widely adopted, each for its own specialty. dvc excels at data versioning, and mlflow is multiple tools combined into one, but mainly in use for\u2026",
+        "title": "use mlflow and dvc for open-source reproducible machine learning",
+        "title_link": "https://towardsdatascience.com/use-mlflow-and-dvc-for-open-source-reproducible-machine-learning-2ab8c0678a94",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "7 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "user": "U03UJH1EQQL",
+    "ts": "1662120921.526869",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g5eC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Joanneacademybatch6.slack.com/archives/c03v9gfavun/p1662073315332009?thread_ts=1662073315332009&cid=c03v9gfavun",
+        "ts": "1662073315.332009",
+        "author_id": "u03v8lhpdme",
+        "channel_team": "t03u4j8hmug",
+        "channel_id": "c03v9gfavun",
+        "is_msg_unfurl": true,
+        "is_thread_root_unfurl": true,
+        "message_blocks": [
+          {
+            "team": "T03U4J8HMUG",
+            "channel": "C03V9GFAVUN",
+            "ts": "1662073315.332009",
+            "message": {
+              "blocks": [
+                {
+                  "type": "rich_text",
+                  "block_id": "NgDKu",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "i definitely caused some confusion so to clear things up --\n\nfrom a fresh setup, you start off with these commands by initializing a git and a dvc repository\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_preformatted",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "git init\ndvc init\ngit commit -m \"initial commit\""
+                        }
+                      ],
+                      "border": 0
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "you then follow on to set the dvc remote -- this is the most crucial step and should be done first because messing with different remotes and then tracking the changes on multiple unsynchronized remotes will lead to unnecessary complications as we saw.\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_preformatted",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "dvc remote add -d myremote "
+                        },
+                        {
+                          "type": "link",
+                          "url": "gdrive://folderid"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\ngit commit -m \"sets dvc remote\""
+                        }
+                      ],
+                      "border": 0
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "the remote url can be in your local file system but using stephanie Johnson will be really helpful for collaboration as you are working in teams. please follow this "
+                        },
+                        {
+                          "type": "link",
+                          "url": "https://dvc.org/doc/user-guide/setup-google-drive-remote",
+                          "text": "link"
+                        },
+                        {
+                          "type": "text",
+                          "text": " to learn more.\n\nafter this will follow the steps where you will actually track the data.\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_preformatted",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "dvc add path_to_data\ngit add path_to_data.dvc\ngit commit -m \"data:track\""
+                        }
+                      ],
+                      "border": 0
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "you then tag the specific commit and then push it to your dvc remote using "
+                        },
+                        {
+                          "type": "text",
+                          "text": "dvc push",
+                          "style": {
+                            "code": true
+                          }
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_preformatted",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "git tag -a 'v1' -m \"raw data\"\ndvc push"
+                        }
+                      ],
+                      "border": 0
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "\nthe final two steps are the only steps that are necessary and the steps you'll iterate over and over once dvc and your dvc remote are set and you start making changes to your data."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "color": "d0d0d0",
+        "is_share": true,
+        "fallback": "[september 2nd, 2022 2:01 am] albert: i definitely caused some confusion so to clear things up --\n\nfrom a fresh setup, you start off with these commands by initializing a git and a dvc repository\n```git init\ndvc init\ngit commit -m \"initial commit\"```\nyou then follow on to set the dvc remote -- this is the most crucial step and should be done first because messing with different remotes and then tracking the changes on multiple unsynchronized remotes will lead to unnecessary complications as we saw.\n```dvc remote add -d myremote <gJohnson://folderid>\ngit commit -m \"sets dvc remote\"```\nthe remote url can be in your local file system but using stephanie Johnson will be really helpful for collaboration as you are working in teams. please follow this <https://dvc.org/doc/user-guide/setup-stephanie-Johnson-remote|link> to learn more.\n\nafter this will follow the steps where you will actually track the data.\n```dvc add path_to_data\ngit add path_to_data.dvc\ngit commit -m \"data:track\"```\nyou then tag the specific commit and then push it to your dvc remote using `dvc push`\n```git tag -a 'v1' -m \"raw data\"\ndvc push```\nthe final two steps are the only steps that are necessary and the steps you'll iterate over and over once dvc and your dvc remote are set and you start making changes to your data.",
+        "text": "i definitely caused some confusion so to clear things up --\n\nfrom a fresh setup, you start off with these commands by initializing a git and a dvc repository\n```git init\ndvc init\ngit commit -m \"initial commit\"```\nyou then follow on to set the dvc remote -- this is the most crucial step and should be done first because messing with different remotes and then tracking the changes on multiple unsynchronized remotes will lead to unnecessary complications as we saw.\n```dvc remote add -d myremote <gJohnson://folderid>\ngit commit -m \"sets dvc remote\"```\nthe remote url can be in your local file system but using stephanie Johnson will be really helpful for collaboration as you are working in teams. please follow this <https://dvc.org/doc/user-guide/setup-stephanie-Johnson-remote|link> to learn more.\n\nafter this will follow the steps where you will actually track the data.\n```dvc add path_to_data\ngit add path_to_data.dvc\ngit commit -m \"data:track\"```\nyou then tag the specific commit and then push it to your dvc remote using `dvc push`\n```git tag -a 'v1' -m \"raw data\"\ndvc push```\nthe final two steps are the only steps that are necessary and the steps you'll iterate over and over once dvc and your dvc remote are set and you start making changes to your data.",
+        "author_name": "Albert tamrat",
+        "author_link": "https://Joanneacademybatch6.slack.com/team/u03v8lhpdme",
+        "author_icon": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_48.png",
+        "author_subname": "Albert tamrat",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "footer": "thread in slack conversation"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "285f7e30-d9be-4ce4-b5ae-463fdc6d4c08",
+    "type": "message",
+    "text": "by far the best dvc remote configuration tutorial imo\n<https://www.youtube.com/watch?v=klkbcponmyw>",
+    "user": "U03UG4Q7V42",
+    "ts": "1662126457.537879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0g7Tw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "by far the best dvc remote configuration tutorial imo\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=klkbcponmyw",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=klkbcponmyw",
+        "thumb_url": "https://i.ytimg.com/vi/klkbcponmyw/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/klkbcponmyw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"versioning data with dvc (hands-on tutorial!)\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=klkbcponmyw",
+        "fallback": "youtube video: versioning data with dvc (hands-on tutorial!)",
+        "title": "versioning data with dvc (hands-on tutorial!)",
+        "title_link": "https://www.youtube.com/watch?v=klkbcponmyw",
+        "author_name": "dvcorg",
+        "author_link": "https://www.youtube.com/channel/uc37rp97go-xix3anfvhhxfq",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U03UUR571A5"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8c7cfd42-7a33-47f7-a225-d5949bf76b7b",
+    "type": "message",
+    "text": "<https://www.notion.so/integrate-with-slack-46d081bdacdb4269aed1333bb195addb>\n<https://www.alphr.com/notion-setup-kanban-board/>\nfor career ex",
+    "user": "U03V6HMRPGQ",
+    "ts": "1662132096.729139",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rkYMJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.notion.so/integrate-with-slack-46d081bdacdb4269aed1333bb195addb",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.alphr.com/notion-setup-kanban-board/",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\nfor career ex"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.notion.so/integrate-with-slack-46d081bdacdb4269aed1333bb195addb",
+        "image_url": "https://www.notion.so/image/https%3a%2f%2fs3-us-west-2.amazonaws.com%2fsecure.notion-static.com%2f145a0598-a96a-44c1-b385-95006b91be17%2fslack_toggle.png?table=block&id=aa375c2a-3be9-4475-8b5f-de753bac1198&width=2000&userid=&cache=v2",
+        "image_width": 351,
+        "image_height": 250,
+        "image_bytes": 1039772,
+        "service_icon": "https://www.notion.so/images/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.notion.so/integrate-with-slack-46d081bdacdb4269aed1333bb195addb",
+        "fallback": "notion: integrate with slack",
+        "text": "get notified in slack every time a change or comment is made on a notion page that you care about. here's how:",
+        "title": "integrate with slack",
+        "title_link": "https://www.notion.so/integrate-with-slack-46d081bdacdb4269aed1333bb195addb",
+        "service_name": "notion",
+        "message_blocks": null
+      },
+      {
+        "from_url": "https://www.alphr.com/notion-setup-kanban-board/",
+        "image_url": "https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/01/notion-setup-kanban-board.png?fit=571%2c320&ssl=1",
+        "image_width": 446,
+        "image_height": 250,
+        "image_bytes": 62635,
+        "service_icon": "https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/06/cropped-favicon-big.png?fit=180%2c180&amp;ssl=1",
+        "id": 2,
+        "original_url": "https://www.alphr.com/notion-setup-kanban-board/",
+        "fallback": "alphr: how to setup a kanban board in notion",
+        "text": "notion is an excellent app that teams use for project management and other functions. it contains many tools to help the group work productively. one of these tools is the kanban board. if you\u2019re unsure how to create a",
+        "title": "how to setup a kanban board in notion",
+        "title_link": "https://www.alphr.com/notion-setup-kanban-board/",
+        "service_name": "alphr",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1662132096.729139",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1662139616.651719",
+    "reply_users": [
+      "U03UFV7HFNF",
+      "U03V6HMRPGQ"
+    ],
+    "replies": [
+      {
+        "user": "U03UFV7HFNF",
+        "ts": "1662139135.206139"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1662139616.651719"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "1c6aea14-f35b-43b8-84fd-b93b98e2c031",
+    "type": "message",
+    "text": "thank you Lisa.",
+    "user": "U03UFV7HFNF",
+    "ts": "1662139135.206139",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qw1J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you Lisa."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662132096.729139",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ad271fb3-2085-4d3f-a5ec-709d547c7a03",
+    "type": "message",
+    "text": "u r welcome",
+    "user": "U03V6HMRPGQ",
+    "ts": "1662139616.651719",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "beU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "u r welcome"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662132096.729139",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "3bcf6fac-f592-4ee7-92dd-dd2315276f44",
+    "type": "message",
+    "text": "<https://machinelearningmastery.com/hyperparameters-for-classification-machine-learning-algorithms/>",
+    "user": "U03UUR571A5",
+    "ts": "1662167290.994279",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j/L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://machinelearningmastery.com/hyperparameters-for-classification-machine-learning-algorithms/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "client_msg_id": "475de9e0-9ae0-4cd1-bd5c-e3324f8d5156",
+    "type": "message",
+    "text": "hey *<!channel>* here is the <https://www.hackerrank.com/Joanne-academy-batch-6-challenge-9|link> for this weeks *timed contest.*\n\nwe will be focusing on more complicated sql joins and queries. here are some resources that will help:\n<https://visualizeright.com/2019/03/15/joins-and-advanced-joins/>\n<https://bipp.io/sql-tutorial/advanced-sql/sql-joins/>",
+    "user": "U03UKL27B0R",
+    "ts": "1666336174.930789",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M6X7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hey "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " here is the "
+              },
+              {
+                "type": "link",
+                "url": "https://www.hackerrank.com/Joanne-academy-batch-6-challenge-9",
+                "text": "link"
+              },
+              {
+                "type": "text",
+                "text": " for this weeks "
+              },
+              {
+                "type": "text",
+                "text": "timed contest.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\nwe will be focusing on more complicated sql joins and queries. here are some resources that will help:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://visualizeright.com/2019/03/15/joins-and-advanced-joins/",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://bipp.io/sql-tutorial/advanced-sql/sql-joins/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.hackerrank.com/Joanne-academy-batch-6-challenge-9",
+        "thumb_url": "https://hrcdn.net/og/default.jpg",
+        "thumb_width": 1200,
+        "thumb_height": 640,
+        "service_icon": "https://hrcdn.net/hackerrank/assets/apple-touch-icon-precomposed-c99b684c98b4befc43c47592bc900ebd95a0b1e9b9e5Joanne3b252c8b320432646d.png",
+        "id": 1,
+        "original_url": "https://www.hackerrank.com/Joanne-academy-batch-6-challenge-9",
+        "fallback": "hackerrank: join Joanne academy batch 6 challenge 9 on hackerrank",
+        "text": "join over 11 million developers in solving code challenges on hackerrank, one of the best ways to prepare for programming interviews.",
+        "title": "join Joanne academy batch 6 challenge 9 on hackerrank",
+        "title_link": "https://www.hackerrank.com/Joanne-academy-batch-6-challenge-9",
+        "service_name": "hackerrank",
+        "message_blocks": null
+      },
+      {
+        "from_url": "https://bipp.io/sql-tutorial/advanced-sql/sql-joins/",
+        "service_icon": "https://bipp.io/favicon.ico",
+        "id": 2,
+        "original_url": "https://bipp.io/sql-tutorial/advanced-sql/sql-joins/",
+        "fallback": "sql join - advanced sql | bipp analytics",
+        "text": "sql join is perhaps the most important sql operation and helps in selecting data from more than one table. learn how to do a sql join in 5 minutes.",
+        "title": "sql join - advanced sql | bipp analytics",
+        "title_link": "https://bipp.io/sql-tutorial/advanced-sql/sql-joins/",
+        "service_name": "bipp.io",
+        "message_blocks": null
+      }
+    ]
+  }
+]

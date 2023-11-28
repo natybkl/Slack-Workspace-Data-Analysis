@@ -1,0 +1,2440 @@
+[
+  {
+    "client_msg_id": "E77397F1-3B73-4272-BDD0-AF556D6517FF",
+    "type": "message",
+    "text": "standup has started please join",
+    "user": "U03V1AM5TFA",
+    "ts": "1667981002.124979",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ooAtc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "standup has started please join"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Shepherd",
+      "display_name": "Lynn Shepherd",
+      "team": "T03U4J8HMUG",
+      "name": "Lynn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667981002.124979",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1667981431.024579",
+    "reply_users": [
+      "U03UG4Q7V42"
+    ],
+    "replies": [
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1667981431.024579"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "cf77f83b-fd59-45ab-8b8b-e2a7257ac388",
+    "type": "message",
+    "text": "let me in",
+    "user": "U03UG4Q7V42",
+    "ts": "1667981431.024579",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OxT7j",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "let me in"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667981002.124979",
+    "parent_user_id": "U03V1AM5TFA",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "7898a8dc-760b-48ee-a952-29d2a9cb530b",
+    "type": "message",
+    "text": "<@u03uur571a5> about docker, what did you say on standup to set the `restart` always to?",
+    "user": "U03UJKJGRAQ",
+    "ts": "1667982252.781309",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l/OF9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UUR571A5"
+              },
+              {
+                "type": "text",
+                "text": " about docker, what did you say on standup to set the "
+              },
+              {
+                "type": "text",
+                "text": "restart",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " always to?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3d318a55b9e2",
+      "image_72": "https://avatars.slack-edge.com/2022-10-03/4158852852038_3d318a55b9e221ad2cb3_72.jpg",
+      "first_name": "Kenneth",
+      "real_name": "Kenneth Williams",
+      "display_name": "Kenneth Williams",
+      "team": "T03U4J8HMUG",
+      "name": "Kenneth",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982252.781309",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1667982517.318899",
+    "reply_users": [
+      "U03UUR571A5",
+      "U03UJKJGRAQ"
+    ],
+    "replies": [
+      {
+        "user": "U03UUR571A5",
+        "ts": "1667982486.722969"
+      },
+      {
+        "user": "U03UJKJGRAQ",
+        "ts": "1667982517.318899"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e289904c-7bd9-4d15-8714-67fa8bd2dfbb",
+    "type": "message",
+    "text": "```docker update --restart=no $(docker ps -a -q)```\n",
+    "user": "U03UUR571A5",
+    "ts": "1667982486.722969",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oF60o",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "docker update --restart=no $(docker ps -a -q)"
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982252.781309",
+    "parent_user_id": "U03UJKJGRAQ",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UJKJGRAQ"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "f836089f-34b8-4f9e-8a3f-0cf5742dd5bb",
+    "type": "message",
+    "text": "thank you very much",
+    "user": "U03UJKJGRAQ",
+    "ts": "1667982517.318899",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PlN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you very much"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3d318a55b9e2",
+      "image_72": "https://avatars.slack-edge.com/2022-10-03/4158852852038_3d318a55b9e221ad2cb3_72.jpg",
+      "first_name": "Kenneth",
+      "real_name": "Kenneth Williams",
+      "display_name": "Kenneth Williams",
+      "team": "T03U4J8HMUG",
+      "name": "Kenneth",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982252.781309",
+    "parent_user_id": "U03UJKJGRAQ",
+    "reactions": [
+      {
+        "name": "heavy_check_mark",
+        "users": [
+          "U03UUR571A5"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "8182bc24-a575-4fb3-a201-016a41d5b99c",
+    "type": "message",
+    "text": "hello everyone,\n\nneed assistance about dvc. i'd like push data on gJohnson and read the data from my Johnson. so that i can use the data in ci/cd and cml as well without pushing the data itself on michelle. but i facing an error to read the data from gJohnson..\n\nanyone who succeeded that process?",
+    "user": "U03UH397319",
+    "ts": "1667982668.188919",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ftl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello everyone,\n\nneed assistance about dvc. i'd like push data on gJohnson and read the data from my Johnson. so that i can use the data in ci/cd and cml as well without pushing the data itself on michelle. but i facing an error to read the data from gJohnson..\n\nanyone who succeeded that process?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5CDA30DE-0322-4749-B150-DC2F204B014D",
+    "type": "message",
+    "text": "what does the error say",
+    "user": "U03U1FNPEUX",
+    "ts": "1667982717.568899",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e5vt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what does the error say"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "reply_count": 27,
+    "reply_users_count": 3,
+    "latest_reply": "1667998103.156509",
+    "reply_users": [
+      "U03UH397319",
+      "U03U1FNPEUX",
+      "U03UVHCV6KB"
+    ],
+    "replies": [
+      {
+        "user": "U03UH397319",
+        "ts": "1667982755.868569"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667982876.575159"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667982899.187549"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667982914.008009"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1667983027.323579"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667983063.714469"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667983105.363189"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1667983159.104009"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667983268.772409"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667983340.861559"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667983499.993979"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1667983545.717269"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667983695.211209"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1667986456.403859"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667986519.635089"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667986524.928229"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1667986538.925109"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667986591.755059"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667986639.200069"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667986693.540729"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1667986887.192419"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1667986895.710919"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667986927.161029"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667994825.681289"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1667997575.812379"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1667997586.616129"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667998103.156509"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2621e724-0047-436e-a075-66ebecb96b4d",
+    "type": "message",
+    "text": "```traceback (most recent call last):\n  file \"/home/jds98/documents/dvc2/essy/script.py\", line 14, in &lt;module&gt;\n    data = pd.read_csv(data_url, sep=\",\")\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/util/_decorators.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/util/_decorators.py\", line 331, in wrapper\n    return func(*args, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/parsers/readers.py\", line 950, in read_csv\n    return _read(filepath_or_buffer, kwds)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/parsers/readers.py\", line 605, in _read\n    parser = textfilereader(filepath_or_buffer, **kwds)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/parsers/readers.py\", line 1442, in __init__\n    self._engine = self._make_engine(f, self.engine)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/parsers/readers.py\", line 1735, in _make_engine\n    self.handles = get_handle(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/common.py\", line 713, in get_handle\n venv3 \ue0b0 jds98 \ue0b0 jds98 \ue0b0 ~ \ue0b0 documents \ue0b1 dvc2 \ue0b1 essy \ue0b0 \ue0a0 main \ue0b0 3\u2b06 \ue0b0 1\u270e \ue0b0 5+ \ue0b0 error \ue0b0 $ \ue0b0 python script.py \ntraceback (most recent call last):\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/auth.py\", line 668, in refresh\n    self.credentials.refresh(self.http)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/oauth2client/client.py\", line 545, in refresh\n    self._refresh(http)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/oauth2client/client.py\", line 761, in _refresh\n    self._do_refresh_request(http)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/oauth2client/client.py\", line 819, in _do_refresh_request\n    raise httpaccesstokenrefresherror(error_msg, status=resp.status)\noauth2client.client.httpaccesstokenrefresherror: invalid_grant: bad request\n\nduring handling of the above exception, another exception occurred:\n\ntraceback (most recent call last):\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/fs/spec.py\", line 70, in _wrap_errors\n    yield\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/fs/spec.py\", line 127, in _client_auth\n    auth.localwebserverauth()\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/auth.py\", line 131, in _decorated\n    self.refresh()\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/auth.py\", line 670, in refresh\n    raise refresherror(\"access token refresh failed: %s\" % error)\npyJohnson2.auth.refresherror: access token refresh failed: invalid_grant: bad request\n\nthe above exception was the direct cause of the following exception:\n\ntraceback (most recent call last):\n  file \"/home/jds98/documents/dvc2/essy/script.py\", line 9, in &lt;module&gt;\n    content =dvc.api.read(path=path, repo=repo, rev=version)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc/api/data.py\", line 2joanne, in read\n    with open(\n  file \"/usr/lib/python3.9/contextlib.py\", line 119, in __enter__\n    return next(self.gen)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc/api/data.py\", line 198, in _open\n    with _repo.open_by_relpath(\n  file \"/usr/lib/python3.9/contextlib.py\", line 119, in __enter__\n    return next(self.gen)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc/repo/__init__.py\", line 522, in open_by_relpath\n    with fs.open(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc_objects/fs/base.py\", line 197, in open\n    return self.fs.open(path, mode=mode, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/spec.py\", line joanne82, in open\n venv3 \ue0b0 jds98 \ue0b0 jds98 \ue0b0 ~ \ue0b0 documents \ue0b1 dvc2 \ue0b1 essy \ue0b0 \ue0a0 main \ue0b0 3\u2b06 \ue0b0 1\u270e \ue0b0 5+ \ue0b0 error \ue0b0 $ \ue0b0 python script.py \ntraceback (most recent call last):\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/auth.py\", line 668, in refresh\n    self.credentials.refresh(self.http)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/oauth2client/client.py\", line 545, in refresh\n    self._refresh(http)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/oauth2client/client.py\", line 761, in _refresh\n    self._do_refresh_request(http)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/oauth2client/client.py\", line 819, in _do_refresh_request\n    raise httpaccesstokenrefresherror(error_msg, status=resp.status)\noauth2client.client.httpaccesstokenrefresherror: invalid_grant: bad request\n\nduring handling of the above exception, another exception occurred:\n\ntraceback (most recent call last):\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/fs/spec.py\", line 70, in _wrap_errors\n    yield\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/fs/spec.py\", line 127, in _client_auth\n    auth.localwebserverauth()\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/auth.py\", line 131, in _decorated\n    self.refresh()\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/auth.py\", line 670, in refresh\n    raise refresherror(\"access token refresh failed: %s\" % error)\npyJohnson2.auth.refresherror: access token refresh failed: invalid_grant: bad request\n\nthe above exception was the direct cause of the following exception:\n\ntraceback (most recent call last):\n  file \"/home/jds98/documents/dvc2/essy/script.py\", line 9, in &lt;module&gt;\n    content =dvc.api.read(path=path, repo=repo, rev=version)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc/api/data.py\", line 2joanne, in read\n    with open(\n  file \"/usr/lib/python3.9/contextlib.py\", line 119, in __enter__\n    return next(self.gen)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc/api/data.py\", line 198, in _open\n    with _repo.open_by_relpath(\n  file \"/usr/lib/python3.9/contextlib.py\", line 119, in __enter__\n    return next(self.gen)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc/repo/__init__.py\", line 522, in open_by_relpath\n    with fs.open(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc_objects/fs/base.py\", line 197, in open\n    return self.fs.open(path, mode=mode, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/spec.py\", line joanne82, in open\n    self.open(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/spec.py\", line joanne94, in open\n    f = self._open(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc/fs/dvc.py\", line 264, in _open\n    return dvc_fs.open(dvc_path, mode=mode)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc_objects/fs/base.py\", line 197, in open\n    return self.fs.open(path, mode=mode, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc_data/fs.py\", line 71, in open\n    return fs.open(fspath, mode=mode, encoding=encoding)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc_objects/fs/base.py\", line 197, in open\n    return self.fs.open(path, mode=mode, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/funcy/objects.py\", line 50, in __get__\n    return prop.__get__(instance, type)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/funcy/objects.py\", line 28, in __get__\n    res = instance.__dict__[self.fget.__name__] = self.fget(instance)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc_gJohnson/__init__.py\", line joanne5, in fs\n    return _gJohnsonfilesystem(self._path, **self._settings)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/spec.py\", line 76, in __call__\n    obj = super().__call__(*args, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/fs/spec.py\", line 226, in __init__\n    stephanie_auth = _client_auth(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/fs/spec.py\", line 127, in _client_auth\n    auth.localwebserverauth()\n  file \"/usr/lib/python3.9/contextlib.py\", line 137, in __exit__\n    self.gen.throw(typ, value, traceback)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/fs/spec.py\", line 76, in _wrap_errors\n    raise gJohnsonautherror(\"failed to authenticate gJohnson\") from exc\npyJohnson2.fs.spec.gJohnsonautherror: failed to authenticate gJohnson```",
+    "user": "U03UH397319",
+    "ts": "1667982755.868569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L8xtm",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "traceback (most recent call last):\n  file \"/home/jds98/documents/dvc2/essy/script.py\", line 14, in <module>\n    data = pd.read_csv(data_url, sep=\",\")\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/util/_decorators.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/util/_decorators.py\", line 331, in wrapper\n    return func(*args, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/parsers/readers.py\", line 950, in read_csv\n    return _read(filepath_or_buffer, kwds)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/parsers/readers.py\", line 605, in _read\n    parser = textfilereader(filepath_or_buffer, **kwds)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/parsers/readers.py\", line 1442, in __init__\n    self._engine = self._make_engine(f, self.engine)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/parsers/readers.py\", line 1735, in _make_engine\n    self.handles = get_handle(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/common.py\", line 713, in get_handle\n venv3 \ue0b0 jds98 \ue0b0 jds98 \ue0b0 ~ \ue0b0 documents \ue0b1 dvc2 \ue0b1 essy \ue0b0 \ue0a0 main \ue0b0 3\u2b06 \ue0b0 1\u270e \ue0b0 5+ \ue0b0 error \ue0b0 $ \ue0b0 python script.py \ntraceback (most recent call last):\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/auth.py\", line 668, in refresh\n    self.credentials.refresh(self.http)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/oauth2client/client.py\", line 545, in refresh\n    self._refresh(http)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/oauth2client/client.py\", line 761, in _refresh\n    self._do_refresh_request(http)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/oauth2client/client.py\", line 819, in _do_refresh_request\n    raise httpaccesstokenrefresherror(error_msg, status=resp.status)\noauth2client.client.httpaccesstokenrefresherror: invalid_grant: bad request\n\nduring handling of the above exception, another exception occurred:\n\ntraceback (most recent call last):\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/fs/spec.py\", line 70, in _wrap_errors\n    yield\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/fs/spec.py\", line 127, in _client_auth\n    auth.localwebserverauth()\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/auth.py\", line 131, in _decorated\n    self.refresh()\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/auth.py\", line 670, in refresh\n    raise refresherror(\"access token refresh failed: %s\" % error)\npyJohnson2.auth.refresherror: access token refresh failed: invalid_grant: bad request\n\nthe above exception was the direct cause of the following exception:\n\ntraceback (most recent call last):\n  file \"/home/jds98/documents/dvc2/essy/script.py\", line 9, in <module>\n    content =dvc.api.read(path=path, repo=repo, rev=version)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc/api/data.py\", line 2joanne, in read\n    with open(\n  file \"/usr/lib/python3.9/contextlib.py\", line 119, in __enter__\n    return next(self.gen)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc/api/data.py\", line 198, in _open\n    with _repo.open_by_relpath(\n  file \"/usr/lib/python3.9/contextlib.py\", line 119, in __enter__\n    return next(self.gen)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc/repo/__init__.py\", line 522, in open_by_relpath\n    with fs.open(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc_objects/fs/base.py\", line 197, in open\n    return self.fs.open(path, mode=mode, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/spec.py\", line joanne82, in open\n venv3 \ue0b0 jds98 \ue0b0 jds98 \ue0b0 ~ \ue0b0 documents \ue0b1 dvc2 \ue0b1 essy \ue0b0 \ue0a0 main \ue0b0 3\u2b06 \ue0b0 1\u270e \ue0b0 5+ \ue0b0 error \ue0b0 $ \ue0b0 python script.py \ntraceback (most recent call last):\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/auth.py\", line 668, in refresh\n    self.credentials.refresh(self.http)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/oauth2client/client.py\", line 545, in refresh\n    self._refresh(http)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/oauth2client/client.py\", line 761, in _refresh\n    self._do_refresh_request(http)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/oauth2client/client.py\", line 819, in _do_refresh_request\n    raise httpaccesstokenrefresherror(error_msg, status=resp.status)\noauth2client.client.httpaccesstokenrefresherror: invalid_grant: bad request\n\nduring handling of the above exception, another exception occurred:\n\ntraceback (most recent call last):\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/fs/spec.py\", line 70, in _wrap_errors\n    yield\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/fs/spec.py\", line 127, in _client_auth\n    auth.localwebserverauth()\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/auth.py\", line 131, in _decorated\n    self.refresh()\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/auth.py\", line 670, in refresh\n    raise refresherror(\"access token refresh failed: %s\" % error)\npyJohnson2.auth.refresherror: access token refresh failed: invalid_grant: bad request\n\nthe above exception was the direct cause of the following exception:\n\ntraceback (most recent call last):\n  file \"/home/jds98/documents/dvc2/essy/script.py\", line 9, in <module>\n    content =dvc.api.read(path=path, repo=repo, rev=version)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc/api/data.py\", line 2joanne, in read\n    with open(\n  file \"/usr/lib/python3.9/contextlib.py\", line 119, in __enter__\n    return next(self.gen)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc/api/data.py\", line 198, in _open\n    with _repo.open_by_relpath(\n  file \"/usr/lib/python3.9/contextlib.py\", line 119, in __enter__\n    return next(self.gen)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc/repo/__init__.py\", line 522, in open_by_relpath\n    with fs.open(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc_objects/fs/base.py\", line 197, in open\n    return self.fs.open(path, mode=mode, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/spec.py\", line joanne82, in open\n    self.open(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/spec.py\", line joanne94, in open\n    f = self._open(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc/fs/dvc.py\", line 264, in _open\n    return dvc_fs.open(dvc_path, mode=mode)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc_objects/fs/base.py\", line 197, in open\n    return self.fs.open(path, mode=mode, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc_data/fs.py\", line 71, in open\n    return fs.open(fspath, mode=mode, encoding=encoding)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc_objects/fs/base.py\", line 197, in open\n    return self.fs.open(path, mode=mode, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/funcy/objects.py\", line 50, in __get__\n    return prop.__get__(instance, type)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/funcy/objects.py\", line 28, in __get__\n    res = instance.__dict__[self.fget.__name__] = self.fget(instance)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/dvc_gJohnson/__init__.py\", line joanne5, in fs\n    return _gJohnsonfilesystem(self._path, **self._settings)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/spec.py\", line 76, in __call__\n    obj = super().__call__(*args, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/fs/spec.py\", line 226, in __init__\n    stephanie_auth = _client_auth(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/fs/spec.py\", line 127, in _client_auth\n    auth.localwebserverauth()\n  file \"/usr/lib/python3.9/contextlib.py\", line 137, in __exit__\n    self.gen.throw(typ, value, traceback)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pyJohnson2/fs/spec.py\", line 76, in _wrap_errors\n    raise gJohnsonautherror(\"failed to authenticate gJohnson\") from exc\npyJohnson2.fs.spec.gJohnsonautherror: failed to authenticate gJohnson"
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "df6b786f-b331-41c9-9dc5-346339e38e97",
+    "type": "message",
+    "text": "first, i was getting revoked token error. i've then use another process to push the data on my Johnson: i've built an app for that using console.cloud.stephanie. now i'm facing that error to read the data from my Johnson.. i'm looking for a solution but nothing yet",
+    "user": "U03UH397319",
+    "ts": "1667982876.575159",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HZ9aB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "first, i was getting revoked token error. i've then use another process to push the data on my Johnson: i've built an app for that using console.cloud.stephanie. now i'm facing that error to read the data from my Johnson.. i'm looking for a solution but nothing yet"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ab24ef41-19dd-4353-921b-ece409a3db20",
+    "type": "message",
+    "text": "```\ncontent =dvc.api.read(path=path, repo=repo, rev=version)\ndata = pd.read_csv(io.stringio(content), sep=\",\")```",
+    "user": "U03UH397319",
+    "ts": "1667982899.187549",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WTl4",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\ncontent =dvc.api.read(path=path, repo=repo, rev=version)\ndata = pd.read_csv(io.stringio(content), sep=\",\")"
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "7c2ad993-fd6d-4de8-9b86-d9e04317eb8d",
+    "type": "message",
+    "text": "i'm using that code to read the data",
+    "user": "U03UH397319",
+    "ts": "1667982914.008009",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CUmx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i'm using that code to read the data"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "B3BEA228-3DFE-485F-AC92-578C670E396A",
+    "type": "message",
+    "text": "have you set gJohnson as default remote?",
+    "user": "U03U1FNPEUX",
+    "ts": "1667983027.323579",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qFzk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "have you set gJohnson as default remote?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "8f839887-d2e2-4e2c-a6e9-852d12523952",
+    "type": "message",
+    "text": "yes.. of course. i even have only that remote",
+    "user": "U03UH397319",
+    "ts": "1667983063.714469",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nAd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes.. of course. i even have only that remote"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F04A4GLC7DH",
+        "created": 1667983102,
+        "timestamp": 1667983102,
+        "name": "Screenshot from 2022-11-09 09-38-11.png",
+        "title": "Screenshot from 2022-11-09 09-38-11.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UH397319",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 19182,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F04A4GLC7DH/screenshot_from_2022-11-09_09-38-11.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F04A4GLC7DH/download/screenshot_from_2022-11-09_09-38-11.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04A4GLC7DH-ae76838714/screenshot_from_2022-11-09_09-38-11_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04A4GLC7DH-ae76838714/screenshot_from_2022-11-09_09-38-11_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04A4GLC7DH-ae76838714/screenshot_from_2022-11-09_09-38-11_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 341,
+        "thumb_360_h": 192,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04A4GLC7DH-ae76838714/screenshot_from_2022-11-09_09-38-11_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "original_w": 341,
+        "original_h": 192,
+        "thumb_tiny": "AwAbADBhi+QL5i4pDAB/y0X860x0FFK4GWYAP+Wi/nR5I5/eL+dalFFwMzyBjPmL+dBtwBnzF69zWnRQVoA6CigdBS0EiUUtFAxKKWigD//Z",
+        "permalink": "https://10academybatch6.slack.com/files/U03UH397319/F04A4GLC7DH/screenshot_from_2022-11-09_09-38-11.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F04A4GLC7DH-3ab3511fe5",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UH397319",
+    "display_as_bot": false,
+    "ts": "1667983105.363189",
+    "client_msg_id": "ecbc9de4-372e-4980-b337-066903ccfaac",
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "blocks": null,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5803C28F-3734-42AF-A88D-2B51D409F491",
+    "type": "message",
+    "text": "okay try deleting the .dvc/tmp and try again",
+    "user": "U03U1FNPEUX",
+    "ts": "1667983159.104009",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Je5P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay try deleting the .dvc/tmp and try again"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "aeda1d68-f5d3-4019-8c26-bbb846dcf110",
+    "type": "message",
+    "text": "the .dvc/tmp folder?",
+    "user": "U03UH397319",
+    "ts": "1667983268.772409",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BcUz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the .dvc/tmp folder?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5c286669-5afb-4ae0-bfc1-c3e7266f68f2",
+    "type": "message",
+    "text": "same error",
+    "user": "U03UH397319",
+    "ts": "1667983340.861559",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qz2NW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "same error"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d7005318-7c77-41f2-921d-ec843636f9be",
+    "type": "message",
+    "text": "is the standup over? lights just came back!",
+    "user": "U03UVHCV6KB",
+    "ts": "1667983478.117529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mYzV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "is the standup over? lights just came back!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667983478.117529",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1667983514.895249",
+    "reply_users": [
+      "U03UH397319"
+    ],
+    "replies": [
+      {
+        "user": "U03UH397319",
+        "ts": "1667983514.895249"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a2e62922-5eed-4d6c-b49a-3ff257380f89",
+    "type": "message",
+    "text": "i get this error\n```traceback (most recent call last):\n  file \"/home/jds98/documents/dvc2/essy/script.py\", line 17, in &lt;module&gt;\n    data = pd.read_csv(data_url, sep=\",\")\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/util/_decorators.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/util/_decorators.py\", line 331, in wrapper\n    return func(*args, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/parsers/readers.py\", line 950, in read_csv\n    return _read(filepath_or_buffer, kwds)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/parsers/readers.py\", line 605, in _read\n    parser = textfilereader(filepath_or_buffer, **kwds)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/parsers/readers.py\", line 1442, in __init__\n    self._engine = self._make_engine(f, self.engine)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/parsers/readers.py\", line 1735, in _make_engine\n    self.handles = get_handle(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/common.py\", line 713, in get_handle\n    ioargs = _get_filepath_or_buffer(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/common.py\", line 409, in _get_filepath_or_buffer\n    file_obj = fsspec.open(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/core.py\", line 441, in open\n    return open_files(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/core.py\", line 273, in open_files\n    fs, fs_token, paths = get_fs_token_paths(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/core.py\", line 621, in get_fs_token_paths\n    cls = get_filesystem_class(protocol)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/registry.py\", line 243, in get_filesystem_class\n    register_implementation(protocol, _import_class(bit[\"class\"]))\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/registry.py\", line 267, in _import_class\n    return getattr(mod, name)\nattributeerror: module 'gJohnsonfs' has no attribute 'stephanieJohnsonfilesystem'```\nwhen i use this code to read the data:\n```data_url = dvc.api.get_url(\n    path=path,\n\trepo=repo,\n\trev=version\n\t)\ndata = pd.read_csv(data_url, sep=\",\")```",
+    "user": "U03UH397319",
+    "ts": "1667983499.993979",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z851a",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i get this error\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "traceback (most recent call last):\n  file \"/home/jds98/documents/dvc2/essy/script.py\", line 17, in <module>\n    data = pd.read_csv(data_url, sep=\",\")\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/util/_decorators.py\", line 211, in wrapper\n    return func(*args, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/util/_decorators.py\", line 331, in wrapper\n    return func(*args, **kwargs)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/parsers/readers.py\", line 950, in read_csv\n    return _read(filepath_or_buffer, kwds)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/parsers/readers.py\", line 605, in _read\n    parser = textfilereader(filepath_or_buffer, **kwds)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/parsers/readers.py\", line 1442, in __init__\n    self._engine = self._make_engine(f, self.engine)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/parsers/readers.py\", line 1735, in _make_engine\n    self.handles = get_handle(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/common.py\", line 713, in get_handle\n    ioargs = _get_filepath_or_buffer(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/pandas/io/common.py\", line 409, in _get_filepath_or_buffer\n    file_obj = fsspec.open(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/core.py\", line 441, in open\n    return open_files(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/core.py\", line 273, in open_files\n    fs, fs_token, paths = get_fs_token_paths(\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/core.py\", line 621, in get_fs_token_paths\n    cls = get_filesystem_class(protocol)\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/registry.py\", line 243, in get_filesystem_class\n    register_implementation(protocol, _import_class(bit[\"class\"]))\n  file \"/home/jds98/documents/dvc2/essy/venv3/lib/python3.9/site-packages/fsspec/registry.py\", line 267, in _import_class\n    return getattr(mod, name)\nattributeerror: module 'gJohnsonfs' has no attribute 'stephanieJohnsonfilesystem'"
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "when i use this code to read the data:\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "data_url = dvc.api.get_url(\n    path=path,\n\trepo=repo,\n\trev=version\n\t)\ndata = pd.read_csv(data_url, sep=\",\")"
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "732f6c9d-dda1-4f19-90aa-df9681c629bf",
+    "type": "message",
+    "text": "yes",
+    "user": "U03UH397319",
+    "ts": "1667983514.895249",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l3SKF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667983478.117529",
+    "parent_user_id": "U03UVHCV6KB",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "f6fa9e49-19c4-4510-a46e-e88927daa851",
+    "type": "message",
+    "text": "try `pip install dvc[all]`  first",
+    "user": "U03UVHCV6KB",
+    "ts": "1667983545.717269",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SeU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "try "
+              },
+              {
+                "type": "text",
+                "text": "pip install dvc[all]",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  first"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "41878f55-ae8f-4ed2-a2e1-4ea3bdbf7991",
+    "type": "message",
+    "text": "okay <@u03uvhcv6kb>",
+    "user": "U03UH397319",
+    "ts": "1667983695.211209",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HBSg4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UVHCV6KB"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "f54e3f91-3195-4a15-82c7-261375666dfc",
+    "type": "message",
+    "text": "any announcement in today standup ?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1667986101.898309",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TP4tP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "any announcement in today standup ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667986101.898309",
+    "reply_count": 8,
+    "reply_users_count": 3,
+    "latest_reply": "1667991029.899469",
+    "reply_users": [
+      "U03UFV7HFNF",
+      "U03V6HMRPGQ",
+      "U03UP7V9Q57"
+    ],
+    "replies": [
+      {
+        "user": "U03UFV7HFNF",
+        "ts": "1667986164.566809"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1667986195.026619"
+      },
+      {
+        "user": "U03UFV7HFNF",
+        "ts": "1667986291.601789"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1667986314.403409"
+      },
+      {
+        "user": "U03UFV7HFNF",
+        "ts": "1667986315.241099"
+      },
+      {
+        "user": "U03UP7V9Q57",
+        "ts": "1667990530.312829"
+      },
+      {
+        "user": "U03UP7V9Q57",
+        "ts": "1667990967.585469"
+      },
+      {
+        "user": "U03UP7V9Q57",
+        "ts": "1667991029.899469"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "edcc58f5-56c2-488a-bae7-271a3b83f901",
+    "type": "message",
+    "text": "yeah fill the capstone project form",
+    "user": "U03UFV7HFNF",
+    "ts": "1667986164.566809",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9=Zp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah fill the capstone project form"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667986101.898309",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "bf3c252c-3811-4416-b9ae-38dafa3e93fc",
+    "type": "message",
+    "text": "where i could find the link ?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1667986195.026619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8e5r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "where i could find the link ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667986101.898309",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "baeb3537-08ff-4e91-b217-2c268bdd6ed6",
+    "type": "message",
+    "text": "<https://docs.Stephanie.com/forms/d/1-dhiqs0cqgdmclmbrpanhzrcguj4zs_akk6d46qtjiq/formrestricted?edit_requested=true|https://docs.Stephanie.com/forms/d/1-dhiqs0cqgdmclmbrpanhzrcguj4zs_akk6d46qtjiq/formrestricted?edit_requested=true>",
+    "user": "U03UFV7HFNF",
+    "ts": "1667986291.601789",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EBUC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.Stephanie.com/forms/d/1-dhiqs0cqgdmclmbrpanhzrcguj4zs_akk6d46qtjiq/formrestricted?edit_requested=true",
+                "text": "https://docs.Stephanie.com/forms/d/1-dhiqs0cqgdmclmbrpanhzrcguj4zs_akk6d46qtjiq/formrestricted?edit_requested=true"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667986101.898309",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03V6HMRPGQ"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ee3be0c4-79c4-4794-af57-33178ddbadca",
+    "type": "message",
+    "text": "thank you <@u03ufv7hfnf>",
+    "user": "U03V6HMRPGQ",
+    "ts": "1667986314.403409",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Xy6F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UFV7HFNF"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667986101.898309",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7HFNF"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b4f9a4a0-e15f-4e5f-a374-afbe157c0d9e",
+    "type": "message",
+    "text": "it's still asking for permission <@u03up7v9q57>",
+    "user": "U03UFV7HFNF",
+    "ts": "1667986315.241099",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Tih",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it's still asking for permission "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UP7V9Q57"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667986101.898309",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "C1E100A7-571C-4976-85C2-D02D3415E33A",
+    "type": "message",
+    "text": "solved? <@u03uh397319> ",
+    "user": "U03U1FNPEUX",
+    "ts": "1667986456.403859",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yNk9K",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "solved? "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UH397319"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "446052e8-9362-435e-9059-303d7afbee73",
+    "type": "message",
+    "text": "no",
+    "user": "U03UH397319",
+    "ts": "1667986519.635089",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZWnef",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2c378169-ac5f-46a8-baca-5ce04af194ed",
+    "type": "message",
+    "text": "same error",
+    "user": "U03UH397319",
+    "ts": "1667986524.928229",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e0W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "same error"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "E4DC783E-A1F7-48C2-AAD3-ED131438ABE5",
+    "type": "message",
+    "text": "pip install gJohnsonfs ",
+    "user": "U03U1FNPEUX",
+    "ts": "1667986538.925109",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b8JxE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "pip install gJohnsonfs "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d1356a1c-aa61-4c16-92ba-70fa06a38b27",
+    "type": "message",
+    "text": "did this.. but ...",
+    "user": "U03UH397319",
+    "ts": "1667986591.755059",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CALcz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "did this.. but ..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2e036b79-5d43-48d7-8dc7-59b432815fc3",
+    "type": "message",
+    "text": "saying there is no attribute stephanieJohnsonfilesystem in gJohnsonfd",
+    "user": "U03UH397319",
+    "ts": "1667986639.200069",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4mFj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "saying there is no attribute stephanieJohnsonfilesystem in gJohnsonfd"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "40231239-b003-45c4-90f3-9b98679a4a55",
+    "type": "message",
+    "text": "when i use stringio  to read, it seems to work.. but no authentication failed",
+    "user": "U03UH397319",
+    "ts": "1667986693.540729",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "O9z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "when i use stringio  to read, it seems to work.. but no authentication failed"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "6914A782-ACF4-4158-B146-6B0FBF7EE51E",
+    "type": "message",
+    "text": "sudo pip install gJohnsonfs 0.14.13",
+    "user": "U03U1FNPEUX",
+    "ts": "1667986887.192419",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d+2Ua",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sudo pip install gJohnsonfs 0.14.13"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "AE739DB5-37A4-40D9-BFCE-99BB8E9B6338",
+    "type": "message",
+    "text": "how about this",
+    "user": "U03U1FNPEUX",
+    "ts": "1667986895.710919",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=7S3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how about this"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c86d3510-b9a6-480f-801c-b1834fcb7af4",
+    "type": "message",
+    "text": "okay, let me try this",
+    "user": "U03UH397319",
+    "ts": "1667986927.161029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XPwJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay, let me try this"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c1a58857-1bdc-4785-8c77-d9b9117bf423",
+    "type": "message",
+    "text": "changing that. will communicate once the permission has been updated",
+    "user": "U03UP7V9Q57",
+    "ts": "1667990530.312829",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zIL/1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "changing that. will communicate once the permission has been updated"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "6e5e9ae8afa4",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3962642286050_6e5e9ae8afa436ddd44e_72.png",
+      "first_name": "Gabrielle",
+      "real_name": "Gabrielle Barajas",
+      "display_name": "Gabrielle Barajas",
+      "team": "T03U4J8HMUG",
+      "name": "Gabrielle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667986101.898309",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UFV7HFNF"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "fde77597-f416-4ccb-914a-ae2808d8b213",
+    "type": "message",
+    "text": "working now.",
+    "user": "U03UP7V9Q57",
+    "ts": "1667990967.585469",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E0hV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "working now."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "6e5e9ae8afa4",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3962642286050_6e5e9ae8afa436ddd44e_72.png",
+      "first_name": "Gabrielle",
+      "real_name": "Gabrielle Barajas",
+      "display_name": "Gabrielle Barajas",
+      "team": "T03U4J8HMUG",
+      "name": "Gabrielle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667986101.898309",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "pray",
+        "users": [
+          "U03UFV7HFNF"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "the access permission to the capstone form has been updated, you can now access it here: <https://docs.Stephanie.com/forms/d/1-dhiqs0cqgdmclmbrpanhzrcguj4zs_akk6d46qtjiq/formrestricted?edit_requested=true>",
+    "user": "U03UP7V9Q57",
+    "ts": "1667991029.899469",
+    "thread_ts": "1667986101.898309",
+    "root": {
+      "client_msg_id": "f54e3f91-3195-4a15-82c7-261375666dfc",
+      "type": "message",
+      "text": "any announcement in today standup ?",
+      "user": "U03V6HMRPGQ",
+      "ts": "1667986101.898309",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TP4tP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "any announcement in today standup ?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T03U4J8HMUG",
+      "thread_ts": "1667986101.898309",
+      "reply_count": 8,
+      "reply_users_count": 3,
+      "latest_reply": "1667991029.899469",
+      "reply_users": [
+        "U03UFV7HFNF",
+        "U03V6HMRPGQ",
+        "U03UP7V9Q57"
+      ],
+      "replies": [
+        {
+          "user": "U03UFV7HFNF",
+          "ts": "1667986164.566809"
+        },
+        {
+          "user": "U03V6HMRPGQ",
+          "ts": "1667986195.026619"
+        },
+        {
+          "user": "U03UFV7HFNF",
+          "ts": "1667986291.601789"
+        },
+        {
+          "user": "U03V6HMRPGQ",
+          "ts": "1667986314.403409"
+        },
+        {
+          "user": "U03UFV7HFNF",
+          "ts": "1667986315.241099"
+        },
+        {
+          "user": "U03UP7V9Q57",
+          "ts": "1667990530.312829"
+        },
+        {
+          "user": "U03UP7V9Q57",
+          "ts": "1667990967.585469"
+        },
+        {
+          "user": "U03UP7V9Q57",
+          "ts": "1667991029.899469"
+        }
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RZ/S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the access permission to the capstone form has been updated, you can now access it here: "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.Stephanie.com/forms/d/1-dhiqs0cqgdmclmbrpanhzrcguj4zs_akk6d46qtjiq/formrestricted?edit_requested=true",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "e0241f2e-aa42-47c1-a291-e2b5ba54f4c7",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F04AJ721U01",
+        "created": 1667994823,
+        "timestamp": 1667994823,
+        "name": "Screenshot from 2022-11-09 12-53-32.png",
+        "title": "Screenshot from 2022-11-09 12-53-32.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UH397319",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 12373,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F04AJ721U01/screenshot_from_2022-11-09_12-53-32.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F04AJ721U01/download/screenshot_from_2022-11-09_12-53-32.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04AJ721U01-eb5784c136/screenshot_from_2022-11-09_12-53-32_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04AJ721U01-eb5784c136/screenshot_from_2022-11-09_12-53-32_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04AJ721U01-eb5784c136/screenshot_from_2022-11-09_12-53-32_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 39,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04AJ721U01-eb5784c136/screenshot_from_2022-11-09_12-53-32_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 52,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04AJ721U01-eb5784c136/screenshot_from_2022-11-09_12-53-32_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "original_w": 609,
+        "original_h": 66,
+        "thumb_tiny": "AwAFADCpjFJSnrSdqBiGkp1NoAKSl70UAf/Z",
+        "permalink": "https://10academybatch6.slack.com/files/U03UH397319/F04AJ721U01/screenshot_from_2022-11-09_12-53-32.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F04AJ721U01-1072df75e2",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UH397319",
+    "display_as_bot": false,
+    "ts": "1667994825.681289",
+    "client_msg_id": "7324af89-ad60-40b0-be09-d84ae4151c54",
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "blocks": null,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "63a7e411-d040-43f8-9f4d-2a6fb03b2f09",
+    "type": "message",
+    "text": "sudo pip install --allow-unverified antlr-python-runtime --allow-external antlr-python-runtime gJohnsonfs",
+    "user": "U03U1FNPEUX",
+    "ts": "1667997575.812379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZPnt+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sudo pip install --allow-unverified antlr-python-runtime --allow-external antlr-python-runtime gJohnsonfs"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "8bc78ad2-b927-4c57-a5ab-a11343129617",
+    "type": "message",
+    "text": "last try:thinking_face:",
+    "user": "U03U1FNPEUX",
+    "ts": "1667997586.616129",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "waEAl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "last try"
+              },
+              {
+                "type": "emoji",
+                "name": "thinking_face",
+                "unicode": "1f914"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "let's check the command",
+    "files": [
+      {
+        "id": "F049R8W9MD5",
+        "created": 1667998095,
+        "timestamp": 1667998095,
+        "name": "Screenshot from 2022-11-09 13-48-04.png",
+        "title": "Screenshot from 2022-11-09 13-48-04.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UH397319",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 16967,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F049R8W9MD5/screenshot_from_2022-11-09_13-48-04.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F049R8W9MD5/download/screenshot_from_2022-11-09_13-48-04.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F049R8W9MD5-2ce40b0660/screenshot_from_2022-11-09_13-48-04_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F049R8W9MD5-2ce40b0660/screenshot_from_2022-11-09_13-48-04_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F049R8W9MD5-2ce40b0660/screenshot_from_2022-11-09_13-48-04_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 68,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F049R8W9MD5-2ce40b0660/screenshot_from_2022-11-09_13-48-04_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 91,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F049R8W9MD5-2ce40b0660/screenshot_from_2022-11-09_13-48-04_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "original_w": 653,
+        "original_h": 124,
+        "thumb_tiny": "AwAJADC9sXH3B+VGxP8Anmv5U3/CgdaQD/LX/nmv5U4KAMAAD2qPtTk60DH4oxRRQB//2Q==",
+        "permalink": "https://10academybatch6.slack.com/files/U03UH397319/F049R8W9MD5/screenshot_from_2022-11-09_13-48-04.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F049R8W9MD5-a35b6f287a",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UH397319",
+    "display_as_bot": false,
+    "ts": "1667998103.156509",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KBkd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "let's check the command"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "b5ee89d1-15d7-4ad8-ab13-e9dc57d7331c",
+    "thread_ts": "1667982717.568899",
+    "parent_user_id": "U03U1FNPEUX",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "06f7f095-070c-416d-b427-0db846b8a152",
+    "type": "message",
+    "text": "hello everyone, we've divided you based on the flagship projects you chose for this week. as such we have three channels: <#c049refevb9|all-ml-week12>, <#c049retda31|all-de-week12>, and <#c04ajmgpu01|all-web3-week12>. everyone has been added to the respective channel and each channel has all tutors added as well.\n\nuse these channels to ask questions and Johnson conversations as most of you have actually chosen similar projects and concepts within the same track are very similar.",
+    "user": "U03UP7V9Q57",
+    "ts": "1668002190.911759",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QQyTH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello everyone, we've divided you based on the flagship projects you chose for this week. as such we have three channels: "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C049REFEVB9"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C049RETDA31"
+              },
+              {
+                "type": "text",
+                "text": ", and "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C04AJMGPU01"
+              },
+              {
+                "type": "text",
+                "text": ". everyone has been added to the respective channel and each channel has all tutors added as well.\n\nuse these channels to ask questions and Johnson conversations as most of you have actually chosen similar projects and concepts within the same track are very similar."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "6e5e9ae8afa4",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3962642286050_6e5e9ae8afa436ddd44e_72.png",
+      "first_name": "Gabrielle",
+      "real_name": "Gabrielle Barajas",
+      "display_name": "Gabrielle Barajas",
+      "team": "T03U4J8HMUG",
+      "name": "Gabrielle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "da834a73-e80d-4e7a-b0c2-a15913917fc4",
+    "type": "message",
+    "text": "<https://www.linkedin.com/news/story/ibm-s-quantum-computing-leap-5494732|https://www.linkedin.com/news/story/ibm-s-quantum-computing-leap-5494732>",
+    "user": "U03UG0YHAUT",
+    "ts": "1668025968.828119",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UHT6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/news/story/ibm-s-quantum-computing-leap-5494732",
+                "text": "https://www.linkedin.com/news/story/ibm-s-quantum-computing-leap-5494732"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.linkedin.com/news/story/ibm-s-quantum-computing-leap-5494732",
+        "thumb_url": "https://media-exp1.licdn.com/dms/image/d561aaqgmgqnrmkeroq/storylineheaderimage-shrink_400_400/0/1668012609738?e=2147483647&v=beta&t=9tkgdrgbzl8kzxpse3axt898vyjedvyyhwcgpesslkc",
+        "thumb_width": 400,
+        "thumb_height": 242,
+        "service_icon": "https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "id": 1,
+        "original_url": "https://www.linkedin.com/news/story/ibm-s-quantum-computing-leap-5494732",
+        "fallback": "ibm&amp;#39;s quantum computing leap | linkedin",
+        "text": "ibm now boasts a quantum computer with a 433-qubit processor \u2014 over three times more powerful than what the company announced last year.",
+        "title": "ibm&amp;#39;s quantum computing leap | linkedin",
+        "title_link": "https://www.linkedin.com/news/story/ibm-s-quantum-computing-leap-5494732",
+        "service_name": "linkedin.com",
+        "message_blocks": null
+      }
+    ]
+  }
+]

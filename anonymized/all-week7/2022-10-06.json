@@ -1,0 +1,1251 @@
+[
+  {
+    "client_msg_id": "5512e549-a529-46f6-9637-e423035d8fbd",
+    "type": "message",
+    "text": "thanks",
+    "user": "U03UH397319",
+    "ts": "1665039674.444429",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W7mvw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664992214.505379",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "23ccd529-f78d-4e27-9e44-7757d0ce917d",
+    "type": "message",
+    "text": "while i try to create topic with this command\n```/opt/kafka/bin/kafka-topics.sh --create --topic g5-untranscribed-text --bootstrap-server localhost:9092 --replication-factor 1 --partitions 3```\ni am getting this error\n```[2022-Joanne-06 07:52:37,393] warn [joanneclient clientid=joanneclient-1] connection to node -1 (localhost/127.0.0.1:9092) could not be established. broker may not be available.```",
+    "user": "U03UJGRN5E0",
+    "ts": "1665042862.896699",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vm6P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "while i try to create topic with this command\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "/opt/kafka/bin/kafka-topics.sh --create --topic g5-untranscribed-text --bootstrap-server localhost:9092 --replication-factor 1 --partitions 3"
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i am getting this error\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[2022-Joanne-06 07:52:37,393] warn [joanneclient clientid=joanneclient-1] connection to node -1 (localhost/127.0.0.1:9092) could not be established. broker may not be available."
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665042862.896699",
+    "reply_count": 14,
+    "reply_users_count": 3,
+    "latest_reply": "1665043908.816539",
+    "reply_users": [
+      "U03UUR571A5",
+      "U03UJGRN5E0",
+      "U03UVHCV6KB"
+    ],
+    "replies": [
+      {
+        "user": "U03UUR571A5",
+        "ts": "1665042910.653929"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1665043031.509799"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1665043057.024859"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1665043119.638329"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1665043142.373739"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1665043193.345529"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1665043228.337589"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1665043451.558679"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1665043512.896749"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1665043561.082619"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1665043588.135409"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1665043751.859109"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1665043766.805359"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1665043908.816539"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ecae49a0-23da-45cf-ab07-aeda5f4549bc",
+    "type": "message",
+    "text": "who can help me to solve this problem ?",
+    "user": "U03UJGRN5E0",
+    "ts": "1665042871.807489",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Kv=8S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "who can help me to solve this problem ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UJGRN5E0",
+      "ts": "1665048005.000000"
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "f49d22d5-0287-4704-a1fe-00220b58d41a",
+    "type": "message",
+    "text": "you are trying the command from inside the instance right?",
+    "user": "U03UUR571A5",
+    "ts": "1665042910.653929",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wEm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you are trying the command from inside the instance right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UUR571A5",
+      "ts": "1665042930.000000"
+    },
+    "thread_ts": "1665042862.896699",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "bc271126-b496-4878-b8cf-db8312b14073",
+    "type": "message",
+    "text": "if you are the bootstrap server address you provided is wrong",
+    "user": "U03UUR571A5",
+    "ts": "1665043031.509799",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iUF/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "if you are the bootstrap server address you provided is wrong"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665042862.896699",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "abdc4a27-3edc-4490-b2cb-c24db884b02b",
+    "type": "message",
+    "text": "its not on localhost:9092",
+    "user": "U03UUR571A5",
+    "ts": "1665043057.024859",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eq+F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "its not on localhost:9092"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665042862.896699",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e03cd88e-fd3c-465f-a5ab-65636c295808",
+    "type": "message",
+    "text": "yes",
+    "user": "U03UJGRN5E0",
+    "ts": "1665043119.638329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dS=a",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665042862.896699",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5aca6907-79c2-4f9b-a9e8-d1d93ed5ea10",
+    "type": "message",
+    "text": "i am trying to connect to kafka from the instance",
+    "user": "U03UJGRN5E0",
+    "ts": "1665043142.373739",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8us8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i am trying to connect to kafka from the instance"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665042862.896699",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e616945a-7227-4b7f-9013-0a29161c6966",
+    "type": "message",
+    "text": "change the bootstrap server to one of these `<http://b-1.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com:9092,b-2.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com:9092|b-1.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com:9092,b-2.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com:9092>`",
+    "user": "U03UUR571A5",
+    "ts": "1665043193.345529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1Jw/n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "change the bootstrap server to one of these "
+              },
+              {
+                "type": "text",
+                "text": "b-1.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com:9092,b-2.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com:9092",
+                "style": {
+                  "code": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665042862.896699",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "4a35876e-4b72-43a7-8896-0fd31adb4782",
+    "type": "message",
+    "text": "the servers are not inside the instance",
+    "user": "U03UUR571A5",
+    "ts": "1665043228.337589",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5p0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the servers are not inside the instance"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665042862.896699",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c1e698ff-6424-4f3e-bc84-473c94bced5c",
+    "type": "message",
+    "text": "i tried it and got this error\n```[2022-Joanne-06 08:03:06,825] warn couldn't resolve server <http://1.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com:9092|1.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com:9092> from bootstrap.servers as dns resolution failed for <http://1.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com|1.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com> (org.apache.kafka.clients.clientutils)```",
+    "user": "U03UJGRN5E0",
+    "ts": "1665043451.558679",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QnV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i tried it and got this error\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[2022-Joanne-06 08:03:06,825] warn couldn't resolve server 1.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com:9092 from bootstrap.servers as dns resolution failed for 1.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com (org.apache.kafka.clients.clientutils)"
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665042862.896699",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "81373b16-0eee-4a8c-af9a-b31e5705d277",
+    "type": "message",
+    "text": "have you tried it using the normal python sdk?",
+    "user": "U03UUR571A5",
+    "ts": "1665043512.896749",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KoL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "have you tried it using the normal python sdk?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665042862.896699",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "294f01a0-85da-4cb8-8a5d-13717e947275",
+    "type": "message",
+    "text": "no, i did not",
+    "user": "U03UJGRN5E0",
+    "ts": "1665043561.082619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "o50",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no, i did not"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665042862.896699",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "797db4df-13df-4546-a852-13732737cb5d",
+    "type": "message",
+    "text": "and i think u missed 'b'\n```<http://b-1.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com:9092|b-1.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com:9092>\nnot\n<http://1.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com:9092|1.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com:9092>```",
+    "user": "U03UUR571A5",
+    "ts": "1665043588.135409",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H=Q7b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "and i think u missed 'b'\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "b-1.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com:9092\nnot\n1.batch6w7.6qsgnf.c19.kafka.us-east-1.amazonaws.com:9092"
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665042862.896699",
+    "parent_user_id": "U03UJGRN5E0",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "3584e7ae-12b0-439b-a939-2b90c9c51d33",
+    "type": "message",
+    "text": "thank you :pray: it is working now",
+    "user": "U03UJGRN5E0",
+    "ts": "1665043751.859109",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JUwTa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you "
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "unicode": "1f64f"
+              },
+              {
+                "type": "text",
+                "text": " it is working now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665042862.896699",
+    "parent_user_id": "U03UJGRN5E0",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UUR571A5"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b180a227-9ac4-45f4-aae6-dc77ea43721d",
+    "type": "message",
+    "text": "the eye on your head!! rea nice eye",
+    "user": "U03UVHCV6KB",
+    "ts": "1665043766.805359",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=zyb5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the eye on your head!! rea nice eye"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665042862.896699",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "98ad23a9-7e22-440f-8fad-111a3e513e5b",
+    "type": "message",
+    "text": "i should buy eye-glass for it :joy:",
+    "user": "U03UJGRN5E0",
+    "ts": "1665043908.816539",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eE3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i should buy eye-glass for it "
+              },
+              {
+                "type": "emoji",
+                "name": "joy",
+                "unicode": "1f602"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665042862.896699",
+    "parent_user_id": "U03UJGRN5E0",
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "users": [
+          "U03UUR571A5"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "88a355c3-dcaf-4560-8ce7-2c924fe1b2b9",
+    "type": "message",
+    "text": "you can use the kafka-python package and just replace the bootstrap-servers in your client.\n\nno need to create or manage any cluster.\n\neveryone has access to the cluster. that is why we have said to append your group name to the topics you create so topics from different groups don't overlap.",
+    "user": "U03V8LHPDME",
+    "ts": "1665060172.131359",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ckhU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you can use the kafka-python package and just replace the bootstrap-servers in your client.\n\nno need to create or manage any cluster.\n\neveryone has access to the cluster. that is why we have said to append your group name to the topics you create so topics from different groups don't overlap."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Albert",
+      "real_name": "Albert Rodriguez",
+      "display_name": "Albert Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Albert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664956385.778319",
+    "parent_user_id": "U03V8LHPDME",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "3643d1c0-bd5a-40ed-9012-215a78aaa3ec",
+    "type": "message",
+    "text": "<@u03ukl27b0r> how can i make the environment i created as a root user to the other group members? for example when i install airflow it is only me who could access it. the others are unable to access and use it. i want the ho up members to access it. how could i do that?",
+    "user": "U03UJGRN5E0",
+    "ts": "1665062708.367699",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LcGW0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R"
+              },
+              {
+                "type": "text",
+                "text": " how can i make the environment i created as a root user to the other group members? for example when i install airflow it is only me who could access it. the others are unable to access and use it. i want the ho up members to access it. how could i do that?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665062708.367699",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1665066787.636039",
+    "reply_users": [
+      "U03UUR571A5",
+      "U03UVHCV6KB"
+    ],
+    "replies": [
+      {
+        "user": "U03UUR571A5",
+        "ts": "1665062832.309499"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1665066665.261299"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1665066787.636039"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "97a13fae-2114-41ba-b221-8a1d183d915e",
+    "type": "message",
+    "text": "you can create the environment in the home directory where all members can access it",
+    "user": "U03UUR571A5",
+    "ts": "1665062832.309499",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BIyd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you can create the environment in the home directory where all members can access it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665062708.367699",
+    "parent_user_id": "U03UJGRN5E0",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UG32J3PC",
+          "U03UJKJGRAQ"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "60df1c29-5918-4fa5-96cf-7f6b75c73cc2",
+    "type": "message",
+    "text": "the type of envronment we create for our python modules when starting a new project ? something like that or exactly that type of environment?",
+    "user": "U03UVHCV6KB",
+    "ts": "1665066665.261299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l89iS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the type of envronment we create for our python modules when starting a new project ? something like that or exactly that type of environment?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665062708.367699",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1b5b64bb-6e44-4583-a38b-206b79f1825b",
+    "type": "message",
+    "text": "yes it can be the type of environment we create for our python modules when starting a new project",
+    "user": "U03UUR571A5",
+    "ts": "1665066787.636039",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7xeu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes it can be the type of environment we create for our python modules when starting a new project"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665062708.367699",
+    "parent_user_id": "U03UJGRN5E0",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "154869f9-cd7b-469c-b9f0-8d51759098c5",
+    "type": "message",
+    "text": "the spark connection notebook used in today's tutorial by natanan has been added to the week's folder. you can access it using this link: <https://Johnson.stephanie.com/file/d/17vxp80po5d0ttdhqevdpyb7xegh3ptgv/view?usp=sharing>",
+    "user": "U03UP7V9Q57",
+    "ts": "1665082331.108179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4V4wJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the spark connection notebook used in today's tutorial by natanan has been added to the week's folder. you can access it using this link: "
+              },
+              {
+                "type": "link",
+                "url": "https://Johnson.stephanie.com/file/d/17vxp80po5d0ttdhqevdpyb7xegh3ptgv/view?usp=sharing",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "6e5e9ae8afa4",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3962642286050_6e5e9ae8afa436ddd44e_72.png",
+      "first_name": "Gabrielle",
+      "real_name": "Gabrielle Barajas",
+      "display_name": "Gabrielle Barajas",
+      "team": "T03U4J8HMUG",
+      "name": "Gabrielle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UG1Z21JP",
+          "U03UD5B7C3X",
+          "U03U1HAG9TR",
+          "U03UUR571A5",
+          "U03UH397319",
+          "U03UVHCV6KB",
+          "U03UJH1EQQL"
+        ],
+        "count": 7
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "trying to get the list of buckets",
+    "files": [
+      {
+        "id": "F045E38GMHB",
+        "created": 1665088080,
+        "timestamp": 1665088080,
+        "name": "Screenshot from 2022-10-06 21-27-25.png",
+        "title": "Screenshot from 2022-10-06 21-27-25.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UH397319",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 13990,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F045E38GMHB/screenshot_from_2022-10-06_21-27-25.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F045E38GMHB/download/screenshot_from_2022-10-06_21-27-25.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045E38GMHB-2e6e80c4a5/screenshot_from_2022-10-06_21-27-25_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045E38GMHB-2e6e80c4a5/screenshot_from_2022-10-06_21-27-25_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045E38GMHB-2e6e80c4a5/screenshot_from_2022-10-06_21-27-25_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 45,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045E38GMHB-2e6e80c4a5/screenshot_from_2022-10-06_21-27-25_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 60,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045E38GMHB-2e6e80c4a5/screenshot_from_2022-10-06_21-27-25_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045E38GMHB-2e6e80c4a5/screenshot_from_2022-10-06_21-27-25_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 90,
+        "original_w": 721,
+        "original_h": 90,
+        "thumb_tiny": "AwAFADCjmjNJRQAuf85ozSUUAFFFFAH/2Q==",
+        "permalink": "https://10academybatch6.slack.com/files/U03UH397319/F045E38GMHB/screenshot_from_2022-10-06_21-27-25.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F045E38GMHB-4dbf1b3c1e",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UH397319",
+    "display_as_bot": false,
+    "ts": "1665088084.942809",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2vK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "trying to get the list of buckets"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "6888f77c-6b8e-4f74-ab9a-6d62422cd40b",
+    "attachments": null
+  }
+]

@@ -1,0 +1,349 @@
+[
+  {
+    "client_msg_id": "8e76bdbd-385d-4c58-be9f-efdb7637b12c",
+    "type": "message",
+    "text": "thanks <@u03u9db7reg>",
+    "user": "U03UVHCV6KB",
+    "ts": "1664608021.850469",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ptl5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thanks "
+              },
+              {
+                "type": "user",
+                "user_id": "U03U9DB7REG"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664605706.762079",
+    "parent_user_id": "U03UVHCV6KB",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "43c6ab74-9094-47a2-9d72-6e8991e6d3d9",
+    "type": "message",
+    "text": "your next step should be to create your web components. your front end part to build the trainee and Joanne page. then a backend to implement the login logic.",
+    "user": "U03U9DB7REG",
+    "ts": "1664608048.273179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Djb0u",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "your next step should be to create your web components. your front end part to build the trainee and Joanne page. then a backend to implement the login logic."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "10b2063307e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3958997027442_10b2063307e91bfe2157_72.png",
+      "first_name": "Dawn",
+      "real_name": "Dawn Green",
+      "display_name": "Dawn Green",
+      "team": "T03U4J8HMUG",
+      "name": "Dawn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664452096.851839",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "hi, i'm getting \"algosdk.error.algodhttperror: forbidden\" when it try to run my transaction and i'm not sure why. i've tried creating a new account but it's not working.  could someone help?\n\nhere are the screenshots:",
+    "files": [
+      {
+        "id": "F044AE834A3",
+        "created": 1664617751,
+        "timestamp": 1664617751,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UD5B7C3X",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 213868,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F044AE834A3/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F044AE834A3/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F044AE834A3-9374264c50/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F044AE834A3-9374264c50/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F044AE834A3-9374264c50/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 214,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F044AE834A3-9374264c50/image_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 285,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F044AE834A3-9374264c50/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F044AE834A3-9374264c50/image_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 428,
+        "thumb_800": "https://files.slack.com/files-tmb/T03U4J8HMUG-F044AE834A3-9374264c50/image_800.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_800_w": 800,
+        "thumb_800_h": 475,
+        "original_w": 842,
+        "original_h": 500,
+        "thumb_tiny": "AwAcADCmOlKce1SeY3/Pf/x00bz/AM9R/wB8n/CrJIsr7UmR7VPvP/PUf98n/Ck8z/pqP++T/hQBDke1ISPQVP5n/TYf98mjzD/z2H/fJoAhHWl59KQdTRTELk00mlxSEUAJRRRQB//Z",
+        "permalink": "https://10academybatch6.slack.com/files/U03UD5B7C3X/F044AE834A3/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F044AE834A3-2e877b1d9f",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UD5B7C3X",
+    "display_as_bot": false,
+    "ts": "1664617767.014499",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fFCM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hi, i'm getting \"algosdk.error.algodhttperror: forbidden\" when it try to run my transaction and i'm not sure why. i've tried creating a new account but it's not working.  could someone help?\n\nhere are the screenshots:"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "7e901327-ab85-4035-9640-7655ee9279e3",
+    "thread_ts": "1664617767.014499",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1664629820.223869",
+    "reply_users": [
+      "U03UUR571A5",
+      "U03UD5B7C3X"
+    ],
+    "replies": [
+      {
+        "user": "U03UUR571A5",
+        "ts": "1664619052.559669"
+      },
+      {
+        "user": "U03UD5B7C3X",
+        "ts": "1664619096.966389"
+      },
+      {
+        "user": "U03UD5B7C3X",
+        "ts": "1664629820.223869"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "efaae414-00b7-42bf-8c78-7b98b4a5c690",
+    "type": "message",
+    "text": "may be try to create some transactions on the test net using algosigner that will give you some insight why the transaction failed if it wasn't successful.",
+    "user": "U03UUR571A5",
+    "ts": "1664619052.559669",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UlH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "may be try to create some transactions on the test net using algosigner that will give you some insight why the transaction failed if it wasn't successful."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664617767.014499",
+    "parent_user_id": "U03UD5B7C3X",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "7c305105-204e-465d-a353-ffa2ab3c3abb",
+    "type": "message",
+    "text": "let me try that",
+    "user": "U03UD5B7C3X",
+    "ts": "1664619096.966389",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xTVM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "let me try that"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664617767.014499",
+    "parent_user_id": "U03UD5B7C3X",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "229175b1-6f1a-4f4d-b955-459fca858698",
+    "type": "message",
+    "text": "update: solved\n\nok. so for this particular error, the issue is that i was using the wrong purestake address. it should have been \"<https://testnet-algorand.api.purestake.io/ps2>\" with ps2 instead of ps1 at the end. (line 38 :face_with_head_bandage:)",
+    "user": "U03UD5B7C3X",
+    "ts": "1664629820.223869",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HmzL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "update: solved\n\nok. so for this particular error, the issue is that i was using the wrong purestake address. it should have been \""
+              },
+              {
+                "type": "link",
+                "url": "https://testnet-algorand.api.purestake.io/ps2",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\" with ps2 instead of ps1 at the end. (line 38 "
+              },
+              {
+                "type": "emoji",
+                "name": "face_with_head_bandage",
+                "unicode": "1f915"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UD5B7C3X",
+      "ts": "1664649346.000000"
+    },
+    "thread_ts": "1664617767.014499",
+    "parent_user_id": "U03UD5B7C3X",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  }
+]

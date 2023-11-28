@@ -1,0 +1,168 @@
+[
+  {
+    "client_msg_id": "90021356-ebaa-40a5-a0cc-976f83f43b44",
+    "type": "message",
+    "text": "hello <!channel>, hope everyone has had a good week! we're moving into algorithms for this week and going to focus on recursion!\n\nrecursion is a method of solving a computational problem where the solution depends on solutions to smaller instances of the same problem. it is going to be a significant part of our weekly challenges moving forward so i advise everyone to try their best!",
+    "user": "U03V8LHPDME",
+    "ts": "1663879012.772119",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wdPZT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": ", hope everyone has had a good week! we're moving into algorithms for this week and going to focus on recursion!\n\nrecursion is a method of solving a computational problem where the solution depends on solutions to smaller instances of the same problem. it is going to be a significant part of our weekly challenges moving forward so i advise everyone to try their best!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Albert",
+      "real_name": "Albert Rodriguez",
+      "display_name": "Albert Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Albert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "3f53ca38-d476-4dbb-ad0b-dd8b3ea65c42",
+    "type": "message",
+    "text": "resources to get started\n<https://www.youtube.com/watch?v=mv9nexx1vhc>\n<https://youtu.be/ijdj0kbx2lm>\n<https://leetcode.com/explore/learn/card/recursion-i/>",
+    "user": "U03V8LHPDME",
+    "ts": "1663879095.627169",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kkI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "resources to get started\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=mv9nexx1vhc",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://youtu.be/ijdj0kbx2lm",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://leetcode.com/explore/learn/card/recursion-i/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Albert",
+      "real_name": "Albert Rodriguez",
+      "display_name": "Albert Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Albert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=mv9nexx1vhc",
+        "thumb_url": "https://i.ytimg.com/vi/mv9nexx1vhc/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/mv9nexx1vhc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"what on earth is recursion? - computerphile\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=mv9nexx1vhc",
+        "fallback": "youtube video: what on earth is recursion? - computerphile",
+        "title": "what on earth is recursion? - computerphile",
+        "title_link": "https://www.youtube.com/watch?v=mv9nexx1vhc",
+        "author_name": "computerphile",
+        "author_link": "https://www.youtube.com/user/computerphile",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      },
+      {
+        "from_url": "https://youtu.be/ijdj0kbx2lm",
+        "thumb_url": "https://i.ytimg.com/vi/ijdj0kbx2lm/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/ijdj0kbx2lm?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"recursion in programming - full course\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 2,
+        "original_url": "https://youtu.be/ijdj0kbx2lm",
+        "fallback": "youtube video: recursion in programming - full course",
+        "title": "recursion in programming - full course",
+        "title_link": "https://youtu.be/ijdj0kbx2lm",
+        "author_name": "freecodecamp.org",
+        "author_link": "https://www.youtube.com/c/freecodecamp",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      },
+      {
+        "from_url": "https://leetcode.com/explore/learn/card/recursion-i/",
+        "image_url": "https://leetcode.com/static/images/leetcode_sharing.png",
+        "image_width": 481,
+        "image_height": 250,
+        "image_bytes": 139567,
+        "service_icon": "https://leetcode.com/apple-touch-icon-57x57.png",
+        "id": 3,
+        "original_url": "https://leetcode.com/explore/learn/card/recursion-i/",
+        "fallback": "explore - leetcode",
+        "text": "leetcode explore is the best place for everyone to start practicing and learning on leetcode. no matter if you are a beginner or a master, there are always new topics waiting for you to explore.",
+        "title": "explore - leetcode",
+        "title_link": "https://leetcode.com/explore/learn/card/recursion-i/",
+        "service_name": "leetcode",
+        "message_blocks": null
+      }
+    ]
+  }
+]

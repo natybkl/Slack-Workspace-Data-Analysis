@@ -1,0 +1,2176 @@
+[
+  {
+    "client_msg_id": "e9311f45-7f8a-487d-b956-cd163dad4995",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/what-is-gpt-3-and-why-is-it-so-powerful-21ea1ba59811>",
+    "user": "U03UFV7HFNF",
+    "ts": "1662970082.760259",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bOvd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/what-is-gpt-3-and-why-is-it-so-powerful-21ea1ba59811",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/what-is-gpt-3-and-why-is-it-so-powerful-21ea1ba59811",
+        "ts": 1613569477,
+        "image_url": "https://miro.medium.com/max/1200/1*k2q7dklcmwyum5mfhdcyuw.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 336470,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/what-is-gpt-3-and-why-is-it-so-powerful-21ea1ba59811",
+        "fallback": "medium: what is gpt-3 and why is it so powerful?",
+        "text": "understanding the hype behind this language model that generates human-like text.",
+        "title": "what is gpt-3 and why is it so powerful?",
+        "title_link": "https://towardsdatascience.com/what-is-gpt-3-and-why-is-it-so-powerful-21ea1ba59811",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "6 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB",
+          "U03UFV7TUTV"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "295bb331-b77b-4208-8828-f2a1869ce6fd",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=pqbb07n_uq4>",
+    "user": "U03U9EJR362",
+    "ts": "1662971424.573349",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZwlNz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=pqbb07n_uq4",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Catherine",
+      "real_name": "Catherine Campos",
+      "display_name": "Catherine Campos",
+      "team": "T03U4J8HMUG",
+      "name": "Catherine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=pqbb07n_uq4",
+        "thumb_url": "https://i.ytimg.com/vi/pqbb07n_uq4/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/pqbb07n_uq4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"what it's like to be a computer: an interview with gpt-3\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=pqbb07n_uq4",
+        "fallback": "youtube video: what it's like to be a computer: an interview with gpt-3",
+        "title": "what it's like to be a computer: an interview with gpt-3",
+        "title_link": "https://www.youtube.com/watch?v=pqbb07n_uq4",
+        "author_name": "eric elliott",
+        "author_link": "https://www.youtube.com/channel/ucaba0fivnsbqtmyyrh6uymq",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "96ff652a-5055-4a28-9654-31d9a16ddd8c",
+    "type": "message",
+    "text": "<https://analyticsindiamag.com/how-to-train-your-llm-efficiently/>",
+    "user": "U03UUR571A5",
+    "ts": "1662972773.540939",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9OV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://analyticsindiamag.com/how-to-train-your-llm-efficiently/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://analyticsindiamag.com/how-to-train-your-llm-efficiently/",
+        "ts": 1661330408,
+        "image_url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/analyticsindiamag_beta_man_on_beta_blockers_dismantling_an_old__075bbb80-eaec-4498-af64-e9165eca7f6a-1300x867.png",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 1566375,
+        "service_icon": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/11/cropped-aim-new-logo-1-22-3-180x180.jpg",
+        "id": 1,
+        "original_url": "https://analyticsindiamag.com/how-to-train-your-llm-efficiently/",
+        "fallback": "analytics india magazine: how to train your llm (efficiently)",
+        "text": "companies, which released llms with hundreds and billions of parameters, are now backtracking from the overarching \u2018bigger is better\u2019 philosophy. help is being offered to redress the unreasonable costs that come with the tall promises of llms.",
+        "title": "how to train your llm (efficiently)",
+        "title_link": "https://analyticsindiamag.com/how-to-train-your-llm-efficiently/",
+        "service_name": "analytics india magazine",
+        "fields": [
+          {
+            "value": "Poulomi Chatterjee",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "5 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6d1fc127-96d3-47f6-95a9-40fb9e39366d",
+    "type": "message",
+    "text": "<https://txt.cohere.ai/how-to-train-your-pet-llm-prompt-engineering/|https://txt.cohere.ai/how-to-train-your-pet-llm-prompt-engineering/>",
+    "user": "U03UJN29Y4C",
+    "ts": "1662975189.146749",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XSFE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://txt.cohere.ai/how-to-train-your-pet-llm-prompt-engineering/",
+                "text": "https://txt.cohere.ai/how-to-train-your-pet-llm-prompt-engineering/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://txt.cohere.ai/how-to-train-your-pet-llm-prompt-engineering/",
+        "ts": 1656610447,
+        "image_url": "https://txt.cohere.ai/content/images/2022/06/generate.png",
+        "image_width": 411,
+        "image_height": 250,
+        "image_bytes": 65940,
+        "service_icon": "https://txt.cohere.ai/favicon.png",
+        "id": 1,
+        "original_url": "https://txt.cohere.ai/how-to-train-your-pet-llm-prompt-engineering/",
+        "fallback": "context by cohere: how to train your pet llm: prompt engineering",
+        "text": "the prompt is the input you give to a large language model and is the best way to influence its output. in this post, we cover building the perfect prompt and mistakes to watch out for.",
+        "title": "how to train your pet llm: prompt engineering",
+        "title_link": "https://txt.cohere.ai/how-to-train-your-pet-llm-prompt-engineering/",
+        "service_name": "context by cohere",
+        "fields": [
+          {
+            "value": "Cohere Team",
+            "title": "Written by",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ece4569e-a90c-4467-8cdf-e9d53156c864",
+    "type": "message",
+    "text": "<https://openai.com/api/>",
+    "user": "U03UUR571A5",
+    "ts": "1662975990.510279",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FLVQG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://openai.com/api/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://openai.com/api/",
+        "ts": 1636752918,
+        "image_url": "https://openai.com/content/images/2022/05/twitter-1.png",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 33942,
+        "service_icon": "https://openai.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://openai.com/api/",
+        "fallback": "openai: openai api",
+        "text": "openai is an ai research and deployment company. our mission is to ensure that artificial general intelligence benefits all of humanity.",
+        "title": "openai api",
+        "title_link": "https://openai.com/api/",
+        "service_name": "openai",
+        "fields": [
+          {
+            "value": "OpenAI",
+            "title": "Written by",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "84a155b2-6002-419b-a83d-9569c91da0b9",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/how-to-train-a-joint-entities-and-relation-extraction-classifier-using-bert-transformer-with-spacy-49eb08d91b5c>",
+    "user": "U03UH397319",
+    "ts": "1662983541.119769",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KkqdB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/how-to-train-a-joint-entities-and-relation-extraction-classifier-using-bert-transformer-with-spacy-49eb08d91b5c",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/how-to-train-a-joint-entities-and-relation-extraction-classifier-using-bert-transformer-with-spacy-49eb08d91b5c",
+        "ts": 1625630852,
+        "image_url": "https://miro.medium.com/max/1200/1*3pr7jnyfcsslvl21yrjnhq.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 157776,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/how-to-train-a-joint-entities-and-relation-extraction-classifier-using-bert-transformer-with-spacy-49eb08d91b5c",
+        "fallback": "medium: how to train a joint entities and relation extraction classifier using bert transformer with spacy\u2026",
+        "text": "a step-by-step guide on how to train a relation extraction classifier using transformer and spacy3",
+        "title": "how to train a joint entities and relation extraction classifier using bert transformer with spacy\u2026",
+        "title_link": "https://towardsdatascience.com/how-to-train-a-joint-entities-and-relation-extraction-classifier-using-bert-transformer-with-spacy-49eb08d91b5c",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "9 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f3628cc8-a5a9-4225-87d9-d439da1d1fbf",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/how-to-fine-tune-bert-transformer-with-spacy-3-6a90bfe57647>",
+    "user": "U03UH397319",
+    "ts": "1662983552.659569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/vnuY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/how-to-fine-tune-bert-transformer-with-spacy-3-6a90bfe57647",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/how-to-fine-tune-bert-transformer-with-spacy-3-6a90bfe57647",
+        "ts": 1630366101,
+        "image_url": "https://miro.medium.com/max/1200/1*yeceoxlko9koojnw8rnm3a.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 327091,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/how-to-fine-tune-bert-transformer-with-spacy-3-6a90bfe57647",
+        "fallback": "medium: how to fine-tune bert transformer with spacy 3",
+        "text": "since the seminal paper \u201cattention is all you need\u201d of vaswani et al, transformer models have become by far the the state of the art in\u2026",
+        "title": "how to fine-tune bert transformer with spacy 3",
+        "title_link": "https://towardsdatascience.com/how-to-fine-tune-bert-transformer-with-spacy-3-6a90bfe57647",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "7 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "586cff15-ce27-4bf9-8c92-1b228badfa0a",
+    "type": "message",
+    "text": "<https://spacy.io/usage/layers-architectures#component-rel>",
+    "user": "U03UH397319",
+    "ts": "1662983708.167359",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PuS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://spacy.io/usage/layers-architectures#component-rel",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://spacy.io/usage/layers-architectures#component-rel",
+        "image_url": "https://spacy.io/static/social_default-1d3b50b1eba4c2b06244425ff0c49570.jpg",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 372379,
+        "service_icon": "https://spacy.io/icons/icon-48x48.png",
+        "id": 1,
+        "original_url": "https://spacy.io/usage/layers-architectures#component-rel",
+        "fallback": "layers and model architectures: layers and model architectures \u00b7 spacy usage documentation",
+        "text": "power spacy components with custom neural networks",
+        "title": "layers and model architectures \u00b7 spacy usage documentation",
+        "title_link": "https://spacy.io/usage/layers-architectures#component-rel",
+        "service_name": "layers and model architectures",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ed2f34c2-e3b6-4544-9dc5-e2124fea5499",
+    "type": "message",
+    "text": "microsoft edge browser has a read aloud feature that i find helpful.\n<https://support.microsoft.com/en-us/topic/use-immersive-reader-in-microsoft-edge-78a7a17d-52e1-47ee-b0ac-eff8539015e1>",
+    "user": "U03U1HAG9TR",
+    "ts": "1662986179.400779",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1N0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "microsoft edge browser has a read aloud feature that i find helpful.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://support.microsoft.com/en-us/topic/use-immersive-reader-in-microsoft-edge-78a7a17d-52e1-47ee-b0ac-eff8539015e1",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "4e4331305ef1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980783297649_4e4331305ef102cc4346_72.jpg",
+      "first_name": "Melanie",
+      "real_name": "Melanie Cole",
+      "display_name": "Melanie Cole",
+      "team": "T03U4J8HMUG",
+      "name": "Melanie",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://support.microsoft.com/en-us/topic/use-immersive-reader-in-microsoft-edge-78a7a17d-52e1-47ee-b0ac-eff8539015e1",
+        "service_icon": "https://support.microsoft.com/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://support.microsoft.com/en-us/topic/use-immersive-reader-in-microsoft-edge-78a7a17d-52e1-47ee-b0ac-eff8539015e1",
+        "fallback": "use immersive reader in microsoft edge",
+        "text": "learn how to enter reading mode in microsoft edge and use immersive reader to hear webpages and pdfs read out loud.",
+        "title": "use immersive reader in microsoft edge",
+        "title_link": "https://support.microsoft.com/en-us/topic/use-immersive-reader-in-microsoft-edge-78a7a17d-52e1-47ee-b0ac-eff8539015e1",
+        "service_name": "support.microsoft.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7b55a803-bc7f-4a08-8492-8ebedac25308",
+    "type": "message",
+    "text": "<https://huggingface.co/docs/transformers/quicktour>",
+    "user": "U03UJGRN5E0",
+    "ts": "1662992676.670539",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y9a5E",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://huggingface.co/docs/transformers/quicktour",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://huggingface.co/docs/transformers/quicktour",
+        "image_url": "https://huggingface.co/front/thumbnails/docs/transformers.png",
+        "image_width": 463,
+        "image_height": 250,
+        "image_bytes": 34499,
+        "id": 1,
+        "original_url": "https://huggingface.co/docs/transformers/quicktour",
+        "fallback": "quick tour",
+        "text": "we\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+        "title": "quick tour",
+        "title_link": "https://huggingface.co/docs/transformers/quicktour",
+        "service_name": "huggingface.co",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a8c0ecc9-7164-4368-91b5-bc63eb2fc8bc",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=po_6jk0qtkw>",
+    "user": "U03UG1Z21JP",
+    "ts": "1662992766.560719",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cUoHS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=po_6jk0qtkw",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=po_6jk0qtkw",
+        "thumb_url": "https://i.ytimg.com/vi/po_6jk0qtkw/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/po_6jk0qtkw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"word embedding - natural  language processing| deep learning\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=po_6jk0qtkw",
+        "fallback": "youtube video: word embedding - natural  language processing| deep learning",
+        "title": "word embedding - natural  language processing| deep learning",
+        "title_link": "https://www.youtube.com/watch?v=po_6jk0qtkw",
+        "author_name": "krish naik",
+        "author_link": "https://www.youtube.com/user/krishnaik06",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "87e68ee8-1131-4755-b18c-8e1b7c2360ba",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=5pl0tmqhity>",
+    "user": "U03UG1Z21JP",
+    "ts": "1662992820.344179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6yS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=5pl0tmqhity",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=5pl0tmqhity",
+        "thumb_url": "https://i.ytimg.com/vi/5pl0tmqhity/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/5pl0tmqhity?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"word embeddings\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=5pl0tmqhity",
+        "fallback": "youtube video: word embeddings",
+        "title": "word embeddings",
+        "title_link": "https://www.youtube.com/watch?v=5pl0tmqhity",
+        "author_name": "macheadsJoanne1",
+        "author_link": "https://www.youtube.com/user/macheadsJoanne1",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b8524850-9361-4a20-a63a-3b0d311bea19",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=sysgyptb198>",
+    "user": "U03UG1Z21JP",
+    "ts": "1662992951.133959",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "prTDx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=sysgyptb198",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=sysgyptb198",
+        "thumb_url": "https://i.ytimg.com/vi/sysgyptb198/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/sysgyptb198?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"c5w3l07 attention model intuition\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 300,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=sysgyptb198",
+        "fallback": "youtube video: c5w3l07 attention model intuition",
+        "title": "c5w3l07 attention model intuition",
+        "title_link": "https://www.youtube.com/watch?v=sysgyptb198",
+        "author_name": "deeplearningai",
+        "author_link": "https://www.youtube.com/c/deeplearningai",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "user": "U03UJH1EQQL",
+    "ts": "1662994554.767579",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "O=HD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Joanneacademybatch6.slack.com/archives/c03t89pmjkg/p1662983541119769",
+        "ts": 1625630852,
+        "image_url": "https://miro.medium.com/max/1200/1*3pr7jnyfcsslvl21yrjnhq.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 157776,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/how-to-train-a-joint-entities-and-relation-extraction-classifier-using-bert-transformer-with-spacy-49eb08d91b5c",
+        "color": "d0d0d0",
+        "is_share": true,
+        "fallback": "medium: how to train a joint entities and relation extraction classifier using bert transformer with spacy\u2026",
+        "text": "a step-by-step guide on how to train a relation extraction classifier using transformer and spacy3",
+        "title": "how to train a joint entities and relation extraction classifier using bert transformer with spacy\u2026",
+        "title_link": "https://towardsdatascience.com/how-to-train-a-joint-entities-and-relation-extraction-classifier-using-bert-transformer-with-spacy-49eb08d91b5c",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "9 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f2a091f3-1320-48ad-9ba4-7dd8ffe1b0de",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=unmqtionrfg>",
+    "user": "U03UUR571A5",
+    "ts": "1663003401.777959",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MHt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=unmqtionrfg",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=unmqtionrfg",
+        "thumb_url": "https://i.ytimg.com/vi/unmqtionrfg/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/unmqtionrfg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"a friendly introduction to recurrent neural networks\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=unmqtionrfg",
+        "fallback": "youtube video: a friendly introduction to recurrent neural networks",
+        "title": "a friendly introduction to recurrent neural networks",
+        "title_link": "https://www.youtube.com/watch?v=unmqtionrfg",
+        "author_name": "serrano.academy",
+        "author_link": "https://www.youtube.com/c/luisserrano",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "878896d9-e106-456d-a31f-3048da738d24",
+    "type": "message",
+    "text": "<https://Michelle.com/cohere-ai/notebooks>",
+    "user": "U03UG1Z21JP",
+    "ts": "1663003763.592429",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4vcSO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://Michelle.com/cohere-ai/notebooks",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "id": 1,
+        "color": "24292f",
+        "bot_id": "b03uyh1bwqz",
+        "app_unfurl_url": "https://Michelle.com/cohere-ai/notebooks",
+        "is_app_unfurl": true,
+        "app_id": "a01bp7r4kny",
+        "fallback": "cohere-ai/notebooks",
+        "text": "code examples and jupyter notebooks for the cohere platform",
+        "title": "cohere-ai/notebooks",
+        "fields": [
+          {
+            "value": "51",
+            "title": "Stars",
+            "short": true
+          },
+          {
+            "value": "Jupyter Notebook",
+            "title": "Language",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "49c5cb2b-6c83-45dd-a02d-c4966ca56b77",
+    "type": "message",
+    "text": "<https://machinelearningmastery.com/what-are-word-embeddings/>",
+    "user": "U03UUR571A5",
+    "ts": "1663005048.206099",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/uw6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://machinelearningmastery.com/what-are-word-embeddings/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "285cb671-048b-42ba-8b18-a4eed33e7dd2",
+    "type": "message",
+    "text": "<https://www.Stephanie.com/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://towardsdatascience.com/the-switch-transformer-59f3854c7050&amp;ved=2ahukewik6-wn-o_6ahwvsvedhuzuayeqfnoeca0qaq&amp;usg=aovvaw3jvrfksj0-bjqrrizjm_ao|https://www.Stephanie.com/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://towardsdatascience.com/the-switch-transformer-59f3854c7050&amp;ved=2ahukewik6-wn-o_6ahwvsvedhuzuayeqfnoeca0qaq&amp;usg=aovvaw3jvrfksj0-bjqrrizjm_ao>",
+    "user": "U03UFV7TUTV",
+    "ts": "1663009930.536949",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Csw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.Stephanie.com/url?sa=t&source=web&rct=j&url=https://towardsdatascience.com/the-switch-transformer-59f3854c7050&ved=2ahukewik6-wn-o_6ahwvsvedhuzuayeqfnoeca0qaq&usg=aovvaw3jvrfksj0-bjqrrizjm_ao",
+                "text": "https://www.Stephanie.com/url?sa=t&source=web&rct=j&url=https://towardsdatascience.com/the-switch-transformer-59f3854c7050&ved=2ahukewik6-wn-o_6ahwvsvedhuzuayeqfnoeca0qaq&usg=aovvaw3jvrfksj0-bjqrrizjm_ao"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g2d3549811da",
+      "image_72": "https://secure.gravatar.com/avatar/2d3549811dae404f2ab1ffd6d153680c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Bryan",
+      "real_name": "Bryan Clark",
+      "display_name": "Bryan Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Bryan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "622e097e-9cea-4ed8-8d85-5e211fcde994",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=szoraj4i-sa>",
+    "user": "U03UG1Z21JP",
+    "ts": "1663010491.545419",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YEWp2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=szoraj4i-sa",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=szoraj4i-sa",
+        "thumb_url": "https://i.ytimg.com/vi/szoraj4i-sa/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/szoraj4i-sa?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"transformers, explained: understand the model behind gpt, bert, and t5\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=szoraj4i-sa",
+        "fallback": "youtube video: transformers, explained: understand the model behind gpt, bert, and t5",
+        "title": "transformers, explained: understand the model behind gpt, bert, and t5",
+        "title_link": "https://www.youtube.com/watch?v=szoraj4i-sa",
+        "author_name": "Stephanie cloud tech",
+        "author_link": "https://www.youtube.com/user/Stephaniecloudplatform",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "615d6543-e893-45a5-812a-2e914fa0a575",
+    "type": "message",
+    "text": "<https://youtu.be/unmqtionrfg|https://youtu.be/unmqtionrfg>",
+    "user": "U03UJN29Y4C",
+    "ts": "1663011074.011729",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WaK9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/unmqtionrfg",
+                "text": "https://youtu.be/unmqtionrfg"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/unmqtionrfg",
+        "thumb_url": "https://i.ytimg.com/vi/unmqtionrfg/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/unmqtionrfg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"a friendly introduction to recurrent neural networks\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/unmqtionrfg",
+        "fallback": "youtube video: a friendly introduction to recurrent neural networks",
+        "title": "a friendly introduction to recurrent neural networks",
+        "title_link": "https://youtu.be/unmqtionrfg",
+        "author_name": "serrano.academy",
+        "author_link": "https://www.youtube.com/c/luisserrano",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "fc2f4a0f-50b8-48d1-b331-9a6c62aaa6ae",
+    "type": "message",
+    "text": "<https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04>",
+    "user": "U03U9EJR362",
+    "ts": "1663011336.729029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uVS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Catherine",
+      "real_name": "Catherine Campos",
+      "display_name": "Catherine Campos",
+      "team": "T03U4J8HMUG",
+      "name": "Catherine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04",
+        "ts": 1583440968,
+        "image_url": "https://miro.medium.com/max/880/1*cnzkooocm4hqgk4z89sqlq.png",
+        "image_width": 500,
+        "image_height": 250,
+        "image_bytes": 691826,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04",
+        "fallback": "medium: what is a transformer?",
+        "text": "an introduction to transformers and sequence-to-sequence learning for machine learning",
+        "title": "what is a transformer?",
+        "title_link": "https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "13 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b8809489-6cb0-45c1-8e60-2c6a752acf87",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=mqnjzubgmsq>",
+    "user": "U03UG1Z21JP",
+    "ts": "1663012337.625279",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Fn2V",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=mqnjzubgmsq",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=mqnjzubgmsq",
+        "thumb_url": "https://i.ytimg.com/vi/mqnjzubgmsq/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/mqnjzubgmsq?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"how gpt3 works - easily explained with animations\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=mqnjzubgmsq",
+        "fallback": "youtube video: how gpt3 works - easily explained with animations",
+        "title": "how gpt3 works - easily explained with animations",
+        "title_link": "https://www.youtube.com/watch?v=mqnjzubgmsq",
+        "author_name": "jay alammar",
+        "author_link": "https://www.youtube.com/channel/ucmowsohty5prme-3qhubfpq",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c18dd1f5-6563-4bb5-969e-4a4d0729941c",
+    "type": "message",
+    "text": "the blogs by jay almmar are simply interseting so that i might recommend to go through his Michelle profile as well.\n<https://Michelle.com/jalammar|https://Michelle.com/jalammar>",
+    "user": "U03UG0YHAUT",
+    "ts": "1663014298.908559",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M1v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the blogs by jay almmar are simply interseting so that i might recommend to go through his Michelle profile as well.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://Michelle.com/jalammar",
+                "text": "https://Michelle.com/jalammar"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "id": 1,
+        "thumb_height": 460,
+        "thumb_width": 460,
+        "thumb_url": "https://avatars.Michelleusercontent.com/u/joanne07956?v&#x3d;4",
+        "color": "24292f",
+        "bot_id": "b03uyh1bwqz",
+        "app_unfurl_url": "https://Michelle.com/jalammar",
+        "is_app_unfurl": true,
+        "app_id": "a01bp7r4kny",
+        "fallback": "jay alammar",
+        "text": "ml research engineer. focused on nlp language models and visualization. @cohere-ai. ex ml content dev @ udacity.",
+        "title": "jay alammar",
+        "fields": [
+          {
+            "value": "@cohere-ai",
+            "title": "Company",
+            "short": true
+          },
+          {
+            "value": "<http://jalammar.github.io|jalammar.github.io>",
+            "title": "URL",
+            "short": true
+          },
+          {
+            "value": "20",
+            "title": "Repositories",
+            "short": true
+          },
+          {
+            "value": "2352",
+            "title": "Followers",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UG4Q7V42",
+          "U03UJN29Y4C"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7f783922-4abc-4298-99f3-9e4ec724f020",
+    "type": "message",
+    "text": "i have gone through this medium article to understand better about word2vec, skipgram and cbow. i kindly invite you take a look at it\n<https://towardsdatascience.com/nlp-Joanne1-word2vec-skip-gram-and-cbow-93512ee24314#:~:text=continuous%20bag%20of%20words%20model%20(cbow)%20and%20skip%2dgram&amp;text=in%20the%20cbow%20model%2c%20the,used%20to%20predict%20the%20context%20|https://towardsdatascience.com/nlp-Joanne1-word2vec-skip-gram-and-cbow-93512ee24314#:~:text=continuous%20bag%20of%20words%20model%20(cbow)%20and%20skip%2dgram&amp;text=in%20the%20cbow%20model%2c%20the,used%20to%20predict%20the%20context%20>",
+    "user": "U03UG0YHAUT",
+    "ts": "1663014616.151509",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vIpsZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i have gone through this medium article to understand better about word2vec, skipgram and cbow. i kindly invite you take a look at it\n"
+              },
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/nlp-Joanne1-word2vec-skip-gram-and-cbow-93512ee24314#:~:text=continuous%20bag%20of%20words%20model%20(cbow)%20and%20skip%2dgram&text=in%20the%20cbow%20model%2c%20the,used%20to%20predict%20the%20context%20",
+                "text": "https://towardsdatascience.com/nlp-Joanne1-word2vec-skip-gram-and-cbow-93512ee24314#:~:text=continuous%20bag%20of%20words%20model%20(cbow)%20and%20skip%2dgram&text=in%20the%20cbow%20model%2c%20the,used%20to%20predict%20the%20context%20"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/nlp-Joanne1-word2vec-skip-gram-and-cbow-93512ee24314#:~:text=continuous%20bag%20of%20words%20model%20(cbow)%20and%20skip%2dgram&text=in%20the%20cbow%20model%2c%20the,used%20to%20predict%20the%20context%20",
+        "ts": 1603742935,
+        "image_url": "https://miro.medium.com/max/1200/0*d9wj3dhi4vsobklb",
+        "image_width": 333,
+        "image_height": 250,
+        "image_bytes": 97172,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/nlp-Joanne1-word2vec-skip-gram-and-cbow-93512ee24314#:~:text=continuous%20bag%20of%20words%20model%20(cbow)%20and%20skip%2dgram&amp;text=in%20the%20cbow%20model%2c%20the,used%20to%20predict%20the%20context%20",
+        "fallback": "medium: nlp Joanne1: word2vec\u200a\u2014\u200askip-gram and cbow",
+        "text": "a crash course in word embedding.",
+        "title": "nlp Joanne1: word2vec\u200a\u2014\u200askip-gram and cbow",
+        "title_link": "https://towardsdatascience.com/nlp-Joanne1-word2vec-skip-gram-and-cbow-93512ee24314#:~:text=continuous%20bag%20of%20words%20model%20(cbow)%20and%20skip%2dgram&text=in%20the%20cbow%20model%2c%20the,used%20to%20predict%20the%20context%20",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "7 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1486ace3-3596-468e-80c6-2eddce080d0f",
+    "type": "message",
+    "text": "for those who want to play with interactive demos of nlp\n<https://gpt2.apps.allenai.org/?text=joel%20is|https://gpt2.apps.allenai.org/?text=joel%20is>",
+    "user": "U03UG0YHAUT",
+    "ts": "1663019461.162949",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Y=lY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "for those who want to play with interactive demos of nlp\n"
+              },
+              {
+                "type": "link",
+                "url": "https://gpt2.apps.allenai.org/?text=joel%20is",
+                "text": "https://gpt2.apps.allenai.org/?text=joel%20is"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://gpt2.apps.allenai.org/?text=joel%20is",
+        "id": 1,
+        "original_url": "https://gpt2.apps.allenai.org/?text=joel%20is",
+        "fallback": "allennlp demo",
+        "text": "a collection of interactive demos of over 20 popular nlp models.",
+        "title": "allennlp demo",
+        "title_link": "https://gpt2.apps.allenai.org/?text=joel%20is",
+        "service_name": "demo.allennlp.org",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1e89058a-bb6c-4932-9bfd-3fdbccf8cc12",
+    "type": "message",
+    "text": "<https://colab.research.stephanie.com/Johnson/1xqxsv6mtaolxxemi8rvaw8tw-7bvybdf#scrollto=f-f9bunsugqn>",
+    "user": "U03UUR571A5",
+    "ts": "1663021650.788689",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rRfh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://colab.research.stephanie.com/Johnson/1xqxsv6mtaolxxemi8rvaw8tw-7bvybdf#scrollto=f-f9bunsugqn",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://colab.research.stephanie.com/Johnson/1xqxsv6mtaolxxemi8rvaw8tw-7bvybdf#scrollto=f-f9bunsugqn",
+        "image_url": "https://colab.research.Stephanie.com/img/colab_favicon_256px.png",
+        "image_width": 250,
+        "image_height": 250,
+        "image_bytes": 4534,
+        "service_icon": "https://colab.research.Stephanie.com/img/favicon.ico?vrz=colab-20220909-060048-rc00_473212632",
+        "id": 1,
+        "original_url": "https://colab.research.stephanie.com/Johnson/1xqxsv6mtaolxxemi8rvaw8tw-7bvybdf#scrollto=f-f9bunsugqn",
+        "fallback": "Stephanie colaboratory",
+        "title": "Stephanie colaboratory",
+        "title_link": "https://colab.research.stephanie.com/Johnson/1xqxsv6mtaolxxemi8rvaw8tw-7bvybdf#scrollto=f-f9bunsugqn",
+        "service_name": "colab.research.Stephanie.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d2b0fd53-03ee-4379-9ae6-e58439897517",
+    "type": "message",
+    "text": "<https://pyimagesearch.com/2022/08/22/neural-machine-translation-with-bahdanaus-attention-using-tensorflow-and-keras/>",
+    "user": "U03UUR571A5",
+    "ts": "1663021874.999389",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "z9d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://pyimagesearch.com/2022/08/22/neural-machine-translation-with-bahdanaus-attention-using-tensorflow-and-keras/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://pyimagesearch.com/2022/08/22/neural-machine-translation-with-bahdanaus-attention-using-tensorflow-and-keras/",
+        "ts": 1661173200,
+        "image_url": "https://pyimagesearch.com/wp-content/uploads/2022/08/bahdanau-attention-featured.png",
+        "image_width": 445,
+        "image_height": 250,
+        "image_bytes": 197684,
+        "service_icon": "https://pyimagesearch.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://pyimagesearch.com/2022/08/22/neural-machine-translation-with-bahdanaus-attention-using-tensorflow-and-keras/",
+        "fallback": "pyimagesearch: neural machine translation with bahdanau's attention using tensorflow and keras - pyimagesearch",
+        "text": "a tutorial on the neural machine translation with the bahdanau attention using tensorflow and keras api.",
+        "title": "neural machine translation with bahdanau's attention using tensorflow and keras - pyimagesearch",
+        "title_link": "https://pyimagesearch.com/2022/08/22/neural-machine-translation-with-bahdanaus-attention-using-tensorflow-and-keras/",
+        "service_name": "pyimagesearch",
+        "fields": [
+          {
+            "value": "Aritra Roy Gosthipaty and Ritwik Raha",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "34 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3e43af0f-5705-401c-a2f7-e75d28a5240a",
+    "type": "message",
+    "text": "a prompt is worth Joanne00 conventional data points.....\n<https://aclanthology.org/2021.naacl-main.208.pdf|https://aclanthology.org/2021.naacl-main.208.pdf>",
+    "user": "U03UG0YHAUT",
+    "ts": "1663022621.312569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UwM2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "a prompt is worth Joanne00 conventional data points.....\n"
+              },
+              {
+                "type": "link",
+                "url": "https://aclanthology.org/2021.naacl-main.208.pdf",
+                "text": "https://aclanthology.org/2021.naacl-main.208.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2537a7f6-6c81-4f08-bc31-dff866ba661e",
+    "type": "message",
+    "text": "<https://www.youtube.com/redirect?event=video_description&amp;redir_token=quffluhqazktzzrpqkxsu1p6wuvfx0douxddclnsyvdxqxxbq3jtc0turw5rqxvqzvvuzhhrnf91b2rtvnfmrwhztvzxyu45vgu0ckvwuvpdevjwztzeyxk5sjduvzc0vf9wtxbxque1rfyyq1hreunontvnulyzuxrlbu1uq1jha2rveta3qxrin0ldnhbvsudkddnjyjjovq&amp;q=https%3a%2f%2fMichelle.com%2fopenai%2fgpt-3&amp;v=sy5pvzrjhle|https://www.youtube.com/redirect?event=video_description&amp;redir_token=quffluhqazktzzr[\u2026]ovq&amp;q=https%3a%2f%2fMichelle.com%2fopenai%2fgpt-3&amp;v=sy5pvzrjhle>",
+    "user": "U03UFV7TUTV",
+    "ts": "1663023797.914639",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+uJE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/redirect?event=video_description&redir_token=quffluhqazktzzrpqkxsu1p6wuvfx0douxddclnsyvdxqxxbq3jtc0turw5rqxvqzvvuzhhrnf91b2rtvnfmrwhztvzxyu45vgu0ckvwuvpdevjwztzeyxk5sjduvzc0vf9wtxbxque1rfyyq1hreunontvnulyzuxrlbu1uq1jha2rveta3qxrin0ldnhbvsudkddnjyjjovq&q=https%3a%2f%2fMichelle.com%2fopenai%2fgpt-3&v=sy5pvzrjhle",
+                "text": "https://www.youtube.com/redirect?event=video_description&redir_token=quffluhqazktzzr[\u2026]ovq&q=https%3a%2f%2fMichelle.com%2fopenai%2fgpt-3&v=sy5pvzrjhle"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g2d3549811da",
+      "image_72": "https://secure.gravatar.com/avatar/2d3549811dae404f2ab1ffd6d153680c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Bryan",
+      "real_name": "Bryan Clark",
+      "display_name": "Bryan Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Bryan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c272fe70-c251-421a-9c4f-18d1976c259d",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=w8ywxqwqymu>",
+    "user": "U03V785NLSU",
+    "ts": "1663028334.335819",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "amv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=w8ywxqwqymu",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=w8ywxqwqymu",
+        "thumb_url": "https://i.ytimg.com/vi/w8ywxqwqymu/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/w8ywxqwqymu?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"building a neural network from scratch (no tensorflow/pytorch, just numpy & math)\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=w8ywxqwqymu",
+        "fallback": "youtube video: building a neural network from scratch (no tensorflow/pytorch, just numpy & math)",
+        "title": "building a neural network from scratch (no tensorflow/pytorch, just numpy &amp; math)",
+        "title_link": "https://www.youtube.com/watch?v=w8ywxqwqymu",
+        "author_name": "samson zhang",
+        "author_link": "https://www.youtube.com/c/samsonzhangthesalmon",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5e8ee194-a0b9-467e-83d6-4654615482ae",
+    "type": "message",
+    "text": "a simple introduction about positional encoding in transformer model...\n<https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/>",
+    "user": "U03UD4FEDHB",
+    "ts": "1663043728.752329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CKJD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "a simple introduction about positional encoding in transformer model...\n"
+              },
+              {
+                "type": "link",
+                "url": "https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g48fef055f8a",
+      "image_72": "https://secure.gravatar.com/avatar/48fef055f8a8b8a4c0bcfefbf5e3eec3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Michael",
+      "real_name": "Michael Fowler",
+      "display_name": "Michael Fowler",
+      "team": "T03U4J8HMUG",
+      "name": "Michael",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ff2e4b47-586e-45f0-8017-4fc7fc6089e3",
+    "type": "message",
+    "text": "a three part series that explains all the details of transformers\n<https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452|https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452>",
+    "user": "U03UG0YHAUT",
+    "ts": "1663047060.435729",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IYz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "a three part series that explains all the details of transformers\n"
+              },
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452",
+                "text": "https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452",
+        "ts": 1622690638,
+        "image_url": "https://miro.medium.com/max/720/1*0g4qdq7rt6qvdalffakl5g.png",
+        "image_width": 336,
+        "image_height": 250,
+        "image_bytes": 54332,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452",
+        "fallback": "medium: transformers explained visually (part 1): overview of functionality",
+        "text": "a gentle guide to transformers for nlp, and why they are better than rnns, in plain english. how attention helps improve performance.",
+        "title": "transformers explained visually (part 1): overview of functionality",
+        "title_link": "https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "10 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "da205a4b-76a9-4a00-a840-c7515032a296",
+    "type": "message",
+    "text": "<https://medium.com/swlh/openai-gpt-3-and-prompt-engineering-dcdc2c5fcd29>",
+    "user": "U03UG32J3PC",
+    "ts": "1663051464.526169",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qmX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/swlh/openai-gpt-3-and-prompt-engineering-dcdc2c5fcd29",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/swlh/openai-gpt-3-and-prompt-engineering-dcdc2c5fcd29",
+        "ts": 1598472613,
+        "image_url": "https://miro.medium.com/max/1200/1*thzmwvzc1kthy8dkyg4seg.png",
+        "image_width": 674,
+        "image_height": 250,
+        "image_bytes": 141017,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://medium.com/swlh/openai-gpt-3-and-prompt-engineering-dcdc2c5fcd29",
+        "fallback": "medium: openai gpt-3 and prompt engineering",
+        "text": "openai released their gpt-3 language model in june 2020. it was trained on 175 billion parameters, which is Joannex more parameters than their\u2026",
+        "title": "openai gpt-3 and prompt engineering",
+        "title_link": "https://medium.com/swlh/openai-gpt-3-and-prompt-engineering-dcdc2c5fcd29",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "13 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7TUTV"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "93a735a8-bb51-4a21-8f05-b10eed93cc6d",
+    "type": "message",
+    "text": "<https://www.researchgate.net/publication/357115270_learning_to_retrieve_prompts_for_in-context_learning>",
+    "user": "U03V5Q9N516",
+    "ts": "1663051842.022719",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+D4y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.researchgate.net/publication/357115270_learning_to_retrieve_prompts_for_in-context_learning",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g164928c3a69",
+      "image_72": "https://secure.gravatar.com/avatar/164928c3a69af29d42a5e90b928e2f71.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Steven",
+      "real_name": "Steven Haas",
+      "display_name": "Steven Haas",
+      "team": "T03U4J8HMUG",
+      "name": "Steven",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "93b5fee5-8662-4930-a658-e716d971c240",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/advanced-ner-with-gpt-3-and-gpt-j-ce43dc6cdb9c>",
+    "user": "U03UG4Q7V42",
+    "ts": "1663052188.533339",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1rv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/advanced-ner-with-gpt-3-and-gpt-j-ce43dc6cdb9c",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/advanced-ner-with-gpt-3-and-gpt-j-ce43dc6cdb9c",
+        "ts": 1652253927,
+        "image_url": "https://miro.medium.com/max/1200/1*szwisa5zdbf3e329v-996q.jpeg",
+        "image_width": 333,
+        "image_height": 250,
+        "image_bytes": 318386,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/advanced-ner-with-gpt-3-and-gpt-j-ce43dc6cdb9c",
+        "fallback": "medium: advanced ner with gpt-3 and gpt-j",
+        "text": "gpt-3 and gpt-j are very good at performing advanced entity extraction without having to be trained for that. let\u2019s see how to extract\u2026",
+        "title": "advanced ner with gpt-3 and gpt-j",
+        "title_link": "https://towardsdatascience.com/advanced-ner-with-gpt-3-and-gpt-j-ce43dc6cdb9c",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "7 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3f943dc0-60d8-4cfa-a232-e61c4f500114",
+    "type": "message",
+    "text": "this blog gives a breif introduction of prompts\n<https://www.techopedia.com/prompt-learning-a-new-way-to-train-foundation-models-in-ai/2/34793|https://www.techopedia.com/prompt-learning-a-new-way-to-train-foundation-models-in-ai/2/34793>",
+    "user": "U03UG0YHAUT",
+    "ts": "1663052329.606629",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "02KJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this blog gives a breif introduction of prompts\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.techopedia.com/prompt-learning-a-new-way-to-train-foundation-models-in-ai/2/34793",
+                "text": "https://www.techopedia.com/prompt-learning-a-new-way-to-train-foundation-models-in-ai/2/34793"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.techopedia.com/prompt-learning-a-new-way-to-train-foundation-models-in-ai/2/34793",
+        "image_url": "https://images.techopedia.com/images/uploads/prompt-learning.jpg",
+        "image_width": 366,
+        "image_height": 250,
+        "image_bytes": 42910,
+        "service_icon": "https://www.techopedia.com/resource/images/favicon/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://www.techopedia.com/prompt-learning-a-new-way-to-train-foundation-models-in-ai/2/34793",
+        "fallback": "techopedia.com: prompt learning: a new way to train foundation models in ai",
+        "text": "prompt learning is an emerging way to train foundation models to perform specific tasks. h",
+        "title": "prompt learning: a new way to train foundation models in ai",
+        "title_link": "https://www.techopedia.com/prompt-learning-a-new-way-to-train-foundation-models-in-ai/2/34793",
+        "service_name": "techopedia.com",
+        "message_blocks": null
+      }
+    ]
+  }
+]

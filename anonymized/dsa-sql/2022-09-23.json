@@ -1,0 +1,449 @@
+[
+  {
+    "client_msg_id": "343479a1-b42b-4fcf-9c71-1346fb1d87e8",
+    "type": "message",
+    "text": "hello <!channel> are you excited for today challenge.\n<https://Joanneacademybatch6.slack.com/archives/c03u4j8j4lq/p1663923030698099>",
+    "user": "U03U9DB7REG",
+    "ts": "1663923115.889489",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ILQsN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " are you excited for today challenge.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://Joanneacademybatch6.slack.com/archives/c03u4j8j4lq/p1663923030698099",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "10b2063307e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3958997027442_10b2063307e91bfe2157_72.png",
+      "first_name": "Dawn",
+      "real_name": "Dawn Green",
+      "display_name": "Dawn Green",
+      "team": "T03U4J8HMUG",
+      "name": "Dawn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Joanneacademybatch6.slack.com/archives/c03u4j8j4lq/p1663923030698099",
+        "ts": "1663923030.698099",
+        "author_id": "u03u9db7reg",
+        "channel_team": "t03u4j8hmug",
+        "channel_id": "c03u4j8j4lq",
+        "is_msg_unfurl": true,
+        "message_blocks": [
+          {
+            "team": "T03U4J8HMUG",
+            "channel": "C03U4J8J4LQ",
+            "ts": "1663923030.698099",
+            "message": {
+              "blocks": [
+                {
+                  "type": "rich_text",
+                  "block_id": "mDP6",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "weekly timed contest work reminder!! ",
+                          "style": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "type": "broadcast",
+                          "range": "here",
+                          "style": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "please note that weekly timed contest is  in the next Joannemin",
+                          "style": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_list",
+                      "elements": [
+                        {
+                          "type": "rich_text_section",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Session: ",
+                              "style": {
+                                "bold": true
+                              }
+                            },
+                            {
+                              "type": "text",
+                              "text": "Weekly timed contest (You will be working on SQL and DSA challenge)"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "rich_text_section",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Time",
+                              "style": {
+                                "bold": true
+                              }
+                            },
+                            {
+                              "type": "text",
+                              "text": ": From 3:00 PM - 4:00 PM UTC."
+                            }
+                          ]
+                        },
+                        {
+                          "type": "rich_text_section",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Link",
+                              "style": {
+                                "bold": true
+                              }
+                            },
+                            {
+                              "type": "text",
+                              "text": " : "
+                            },
+                            {
+                              "type": "link",
+                              "url": "https://www.hackerrank.com/10-academy-batch-6-challenge-05"
+                            }
+                          ]
+                        }
+                      ],
+                      "style": "bullet",
+                      "indent": 0,
+                      "border": 0
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": []
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "id": 1,
+        "original_url": "https://Joanneacademybatch6.slack.com/archives/c03u4j8j4lq/p1663923030698099",
+        "fallback": "[september 23rd, 2022 1:50 am] Dawn: *weekly timed contest work reminder!! <!here>*\n*please note that weekly timed contest is  in the next joannemin*\n\u2022 *session:* weekly timed contest (you will be working on sql and dsa challenge)\n\u2022 *time*: from 3:00 pm - 4:00 pm utc.\n\u2022 *link* : <https://www.hackerrank.com/joanne-academy-batch-6-challenge-05>",
+        "text": "*weekly timed contest work reminder!! <!here>*\n*please note that weekly timed contest is  in the next Joannemin*\n\u2022 *session:* weekly timed contest (you will be working on sql and dsa challenge)\n\u2022 *time*: from 3:00 pm - 4:00 pm utc.\n\u2022 *link* : <https://www.hackerrank.com/Joanne-academy-batch-6-challenge-05>",
+        "author_name": "dawn Green",
+        "author_link": "https://Joanneacademybatch6.slack.com/team/u03u9db7reg",
+        "author_icon": "https://avatars.slack-edge.com/2022-08-18/3958997027442_Joanneb2063307e91bfe2157_48.png",
+        "author_subname": "dawn Green",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "footer": "slack conversation"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03U1HAG9TR"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "282cb50f-4475-4707-9de8-8f2ccc01c37c",
+    "type": "message",
+    "text": "<!channel> please note to use python for your submissions on the coding challenges.",
+    "user": "U03V8LHPDME",
+    "ts": "1663923598.495059",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3cZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " please note to use python for your submissions on the coding challenges."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Albert",
+      "real_name": "Albert Rodriguez",
+      "display_name": "Albert Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Albert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB",
+          "U03UFV7HFNF"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a073c4b8-95bf-4d09-8bc6-691645b75bc9",
+    "type": "message",
+    "text": ":sob:my power went out is it possible to do the challenge later <@u03v8lhpdme>?",
+    "user": "U03UG4Q7V42",
+    "ts": "1663925055.445839",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/OsC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "sob",
+                "unicode": "1f62d"
+              },
+              {
+                "type": "text",
+                "text": "my power went out is it possible to do the challenge later "
+              },
+              {
+                "type": "user",
+                "user_id": "U03V8LHPDME"
+              },
+              {
+                "type": "text",
+                "text": "?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UG4Q7V42",
+      "ts": "1663925279.000000"
+    },
+    "thread_ts": "1663925055.445839",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1663926012.732709",
+    "reply_users": [
+      "U03U9DB7REG",
+      "U03UG4Q7V42"
+    ],
+    "replies": [
+      {
+        "user": "U03U9DB7REG",
+        "ts": "1663925457.301159"
+      },
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1663926012.732709"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "97d65f64-839d-448d-b72d-31cc8bb1214c",
+    "type": "message",
+    "text": "oh thats too bad. the contest has a timer and it will end  after 30min. you can still attempt the challenge on your own later tho.",
+    "user": "U03U9DB7REG",
+    "ts": "1663925457.301159",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6B1L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "oh thats too bad. the contest has a timer and it will end  after 30min. you can still attempt the challenge on your own later tho."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "10b2063307e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3958997027442_10b2063307e91bfe2157_72.png",
+      "first_name": "Dawn",
+      "real_name": "Dawn Green",
+      "display_name": "Dawn Green",
+      "team": "T03U4J8HMUG",
+      "name": "Dawn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663925055.445839",
+    "parent_user_id": "U03UG4Q7V42",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "fc0680ab-2e8a-4cac-b8c1-143cd93ce630",
+    "type": "message",
+    "text": "okay i will do that. thanks",
+    "user": "U03UG4Q7V42",
+    "ts": "1663926012.732709",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fc8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay i will do that. thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663925055.445839",
+    "parent_user_id": "U03UG4Q7V42",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e91386ff-6de8-4bc9-b3d4-c0c99de2c534",
+    "type": "message",
+    "text": "and that;s a wrap! hope all of you have attempted the questions and learnt somethings. unfortunately we will not be discussing about the challenge since we have one-on-one session scheduled with y'all. next week we will have more challenge on these topics and we will have a longer discussion.",
+    "user": "U03U9DB7REG",
+    "ts": "1663927200.300569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8rhl+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "and that;s a wrap! hope all of you have attempted the questions and learnt somethings. unfortunately we will not be discussing about the challenge since we have one-on-one session scheduled with y'all. next week we will have more challenge on these topics and we will have a longer discussion."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "10b2063307e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3958997027442_10b2063307e91bfe2157_72.png",
+      "first_name": "Dawn",
+      "real_name": "Dawn Green",
+      "display_name": "Dawn Green",
+      "team": "T03U4J8HMUG",
+      "name": "Dawn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  }
+]

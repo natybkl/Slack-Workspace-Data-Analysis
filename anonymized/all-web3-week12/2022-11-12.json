@@ -1,0 +1,56 @@
+[
+  {
+    "client_msg_id": "146418ca-26d2-4d03-ae94-213297d43511",
+    "type": "message",
+    "text": "how can i get the trainees that opted-in a given asset? when i print the status of an asset i can only see \u2018*its opted-in status*\u2019 but not who opted-in it.",
+    "user": "U03UJGRN5E0",
+    "ts": "1668272023.894179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uxVY=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how can i get the trainees that opted-in a given asset? when i print the status of an asset i can only see \u2018"
+              },
+              {
+                "type": "text",
+                "text": "its opted-in status",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\u2019 but not who opted-in it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UJGRN5E0",
+      "ts": "1668272189.000000"
+    },
+    "attachments": null
+  }
+]

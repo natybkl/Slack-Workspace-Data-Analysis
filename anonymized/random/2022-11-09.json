@@ -1,0 +1,132 @@
+[
+  {
+    "client_msg_id": "70310505-a5ce-4f20-957d-eda33201606f",
+    "type": "message",
+    "text": "what a presentation :clap: \n<https://www.youtube.com/watch?v=x5ilf-cszu0|https://www.youtube.com/watch?v=x5ilf-cszu0>",
+    "user": "U03UG0YHAUT",
+    "ts": "1667983627.427919",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j8g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what a presentation "
+              },
+              {
+                "type": "emoji",
+                "name": "clap",
+                "unicode": "1f44f"
+              },
+              {
+                "type": "text",
+                "text": " \n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=x5ilf-cszu0",
+                "text": "https://www.youtube.com/watch?v=x5ilf-cszu0"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=x5ilf-cszu0",
+        "thumb_url": "https://i.ytimg.com/vi/x5ilf-cszu0/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/x5ilf-cszu0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Stephanie presents: ai@ \u201822\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=x5ilf-cszu0",
+        "fallback": "youtube video: Stephanie presents: ai@ \u201822",
+        "title": "Stephanie presents: ai@ \u201822",
+        "title_link": "https://www.youtube.com/watch?v=x5ilf-cszu0",
+        "author_name": "Stephanie research",
+        "author_link": "https://www.youtube.com/c/Stephanieresearch",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e10cb243-fbb0-4274-9440-f34763691681",
+    "type": "message",
+    "text": "<https://www.linkedin.com/news/story/ibm-s-quantum-computing-leap-5494732|https://www.linkedin.com/news/story/ibm-s-quantum-computing-leap-5494732>",
+    "user": "U03UG0YHAUT",
+    "ts": "1668026023.494319",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XUo9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/news/story/ibm-s-quantum-computing-leap-5494732",
+                "text": "https://www.linkedin.com/news/story/ibm-s-quantum-computing-leap-5494732"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.linkedin.com/news/story/ibm-s-quantum-computing-leap-5494732",
+        "thumb_url": "https://media-exp1.licdn.com/dms/image/d561aaqgmgqnrmkeroq/storylineheaderimage-shrink_400_400/0/1668012609738?e=2147483647&v=beta&t=9tkgdrgbzl8kzxpse3axt898vyjedvyyhwcgpesslkc",
+        "thumb_width": 400,
+        "thumb_height": 242,
+        "service_icon": "https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "id": 1,
+        "original_url": "https://www.linkedin.com/news/story/ibm-s-quantum-computing-leap-5494732",
+        "fallback": "ibm&amp;#39;s quantum computing leap | linkedin",
+        "text": "ibm now boasts a quantum computer with a 433-qubit processor \u2014 over three times more powerful than what the company announced last year.",
+        "title": "ibm&amp;#39;s quantum computing leap | linkedin",
+        "title_link": "https://www.linkedin.com/news/story/ibm-s-quantum-computing-leap-5494732",
+        "service_name": "linkedin.com",
+        "message_blocks": null
+      }
+    ]
+  }
+]

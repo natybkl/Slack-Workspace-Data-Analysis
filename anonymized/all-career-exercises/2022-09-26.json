@@ -1,0 +1,125 @@
+[
+  {
+    "client_msg_id": "02946189-130b-40f6-b16d-8d9454453ef2",
+    "type": "message",
+    "text": "morning <!channel>\nweek 6 careers exercise is a redo of week 3 - developing curiosity.\nthere will be a \"how to ask question\" session on wednesday 9 am utc",
+    "user": "U03TT5KEYCF",
+    "ts": "1664182273.896489",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qU9Xx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "morning "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\nweek 6 careers exercise is a redo of week 3 - developing curiosity.\nthere will be a \"how to ask question\" session on wednesday 9 am utc"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "aae36184306b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3945210198087_aae36184306bb9e0b018_72.jpg",
+      "first_name": "Brian",
+      "real_name": "Brian Flores",
+      "display_name": "Brian Flores",
+      "team": "T03U4J8HMUG",
+      "name": "Brian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5792332f-184f-4dc2-8831-960559b4ee29",
+    "type": "message",
+    "text": "<@u03uur571a5> <@u03ufv7hfnf> <@u03u1hag9tr> <@u03ud4fedhb> please kindly share your cv with me in preparation for tomorrow's mock interview.\nthanks !",
+    "user": "U03TT5KEYCF",
+    "ts": "1664182402.657149",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8dmlC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UUR571A5"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UFV7HFNF"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03U1HAG9TR"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UD4FEDHB"
+              },
+              {
+                "type": "text",
+                "text": " please kindly share your cv with me in preparation for tomorrow's mock interview.\nthanks !"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "aae36184306b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3945210198087_aae36184306bb9e0b018_72.jpg",
+      "first_name": "Brian",
+      "real_name": "Brian Flores",
+      "display_name": "Brian Flores",
+      "team": "T03U4J8HMUG",
+      "name": "Brian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UFV7HFNF"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  }
+]

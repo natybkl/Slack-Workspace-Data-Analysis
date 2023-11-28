@@ -1,0 +1,220 @@
+[
+  {
+    "client_msg_id": "95E2D51C-A202-441E-93EB-575B91711771",
+    "type": "message",
+    "text": "guys meeting has started",
+    "user": "U03V61VGQG0",
+    "ts": "1667545497.985049",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KIeB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "guys meeting has started"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Diane",
+      "real_name": "Diane Cruz",
+      "display_name": "Diane Cruz",
+      "team": "T03U4J8HMUG",
+      "name": "Diane",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b1babe47-4b11-47cf-b4ec-5bdbfb0b7b02",
+    "type": "message",
+    "text": "can anyone please explain to me what we are expected to in this step? <@u03ukl27b0r> *\"with this task, you are expected to develop a machine learning framework in a modular way to determine the click likelihood of the creative.\"*",
+    "user": "U03UAKATQ22",
+    "ts": "1667568314.731399",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KQwcp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "can anyone please explain to me what we are expected to in this step? "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "\"with this task, you are expected to develop a machine learning framework in a modular way to determine the click likelihood of the creative.\"",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a2d0afeb249a",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3969267243922_a2d0afeb249a9b4f3842_72.png",
+      "first_name": "Thomas",
+      "real_name": "Thomas Rivera",
+      "display_name": "Thomas Rivera",
+      "team": "T03U4J8HMUG",
+      "name": "Thomas",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667568314.731399",
+    "reply_count": 5,
+    "reply_users_count": 4,
+    "latest_reply": "1667664177.090949",
+    "reply_users": [
+      "U03UH397319",
+      "U03UUN8M4RX",
+      "U03UAKATQ22",
+      "U03UKL27B0R"
+    ],
+    "replies": [
+      {
+        "user": "U03UH397319",
+        "ts": "1667585219.678799"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667585236.508469"
+      },
+      {
+        "user": "U03UUN8M4RX",
+        "ts": "1667631921.620319"
+      },
+      {
+        "user": "U03UAKATQ22",
+        "ts": "1667636773.829589"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1667664177.090949"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "78116b44-69d3-4178-99bf-79595f555e75",
+    "type": "message",
+    "text": "i think the objective is to predict if the user will interact or not with the creative. then, we're going to predict how the creative will perform, here if the user will click or not.. if possible, we can come up with a probability that he will make a click.",
+    "user": "U03UH397319",
+    "ts": "1667585219.678799",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qrC8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think the objective is to predict if the user will interact or not with the creative. then, we're going to predict how the creative will perform, here if the user will click or not.. if possible, we can come up with a probability that he will make a click."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667568314.731399",
+    "parent_user_id": "U03UAKATQ22",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UAKATQ22"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "bba6981e-6c69-45a0-ab86-3660af775272",
+    "type": "message",
+    "text": "that's it based on my understanding",
+    "user": "U03UH397319",
+    "ts": "1667585236.508469",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FsPw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that's it based on my understanding"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667568314.731399",
+    "parent_user_id": "U03UAKATQ22",
+    "attachments": null
+  }
+]

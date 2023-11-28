@@ -1,0 +1,237 @@
+[
+  {
+    "client_msg_id": "9bf9b2d5-8549-44a3-b684-3ba5ce65524f",
+    "type": "message",
+    "text": "<!channel> - we are on the call",
+    "user": "U03TT5KEYCF",
+    "ts": "1667556067.549389",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yQeGj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " - we are on the call"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "aae36184306b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3945210198087_aae36184306bb9e0b018_72.jpg",
+      "first_name": "Brian",
+      "real_name": "Brian Flores",
+      "display_name": "Brian Flores",
+      "team": "T03U4J8HMUG",
+      "name": "Brian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "00bc1e7d-3721-4181-8769-71331d7edde9",
+    "type": "message",
+    "text": "me too",
+    "user": "U03UHB8CXDY",
+    "ts": "1667556084.859769",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tbQ+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "me too"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "60c3bb20-5db4-4996-9129-29638f8eb703",
+    "type": "message",
+    "text": "can u share the link",
+    "user": "U03U1GHT39V",
+    "ts": "1667556647.165259",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iROv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "can u share the link"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f5bb15f03854",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965163973445_f5bb15f03854384b8288_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Montgomery",
+      "display_name": "Daniel Montgomery",
+      "team": "T03U4J8HMUG",
+      "name": "Daniel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "f3379b10-ed3c-40ca-a411-fc693b41e7cd",
+    "type": "message",
+    "text": "<http://meet.Stephanie.com/ysb-kjdn-hpp>",
+    "user": "U03TT5KEYCF",
+    "ts": "1667556684.141909",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BcSW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://meet.Stephanie.com/ysb-kjdn-hpp",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "aae36184306b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3945210198087_aae36184306bb9e0b018_72.jpg",
+      "first_name": "Brian",
+      "real_name": "Brian Flores",
+      "display_name": "Brian Flores",
+      "team": "T03U4J8HMUG",
+      "name": "Brian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "http://meet.Stephanie.com/ysb-kjdn-hpp",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "thumb_height": 192,
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "id": 1,
+        "original_url": "http://meet.Stephanie.com/ysb-kjdn-hpp",
+        "fallback": "meet",
+        "text": "real-time meetings by Stephanie. using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "title": "meet",
+        "title_link": "http://meet.Stephanie.com/ysb-kjdn-hpp",
+        "service_name": "meet.Stephanie.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "44fd330d-22b7-4184-b5cc-40ae02e039c5",
+    "type": "message",
+    "text": "<!channel> please share your updated Joanne academy profile + cv (making sure you have addressed previous comments) with your assigned careers tutor for another round of review by tomorrow, thanks",
+    "user": "U03TT5KEYCF",
+    "ts": "1667563237.223389",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FVm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " please share your updated Joanne academy profile + cv (making sure you have addressed previous comments) with your assigned careers tutor for another round of review by tomorrow, thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "aae36184306b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3945210198087_aae36184306bb9e0b018_72.jpg",
+      "first_name": "Brian",
+      "real_name": "Brian Flores",
+      "display_name": "Brian Flores",
+      "team": "T03U4J8HMUG",
+      "name": "Brian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667563237.223389",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1667673612.901239",
+    "reply_users": [
+      "U03UHB8CXDY"
+    ],
+    "replies": [
+      {
+        "user": "U03UHB8CXDY",
+        "ts": "1667673612.901239"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  }
+]

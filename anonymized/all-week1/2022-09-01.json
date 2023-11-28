@@ -1,0 +1,52 @@
+[
+  {
+    "client_msg_id": "0a26708b-78ee-4543-84be-4770e2ae8574",
+    "type": "message",
+    "text": "thank you so much",
+    "user": "U03UGB3T3MY",
+    "ts": "1662015960.997039",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IvV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you so much"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "bc7bd41571eb",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3981003133089_bc7bd41571eb59dd063d_72.jpg",
+      "first_name": "Allison",
+      "real_name": "Allison Berry",
+      "display_name": "Allison Berry",
+      "team": "T03U4J8HMUG",
+      "name": "Allison",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661638084.234439",
+    "parent_user_id": "U03UFV7HFNF",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7HFNF"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  }
+]

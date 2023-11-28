@@ -1,0 +1,45 @@
+[
+  {
+    "client_msg_id": "22f737d7-c8b8-49b9-932c-f78cb5cb79e3",
+    "type": "message",
+    "text": "<!channel> for those of you that chose to interview monday, the interview has started kindly join on time.",
+    "user": "U03U9DB7REG",
+    "ts": "1668415352.292289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EpVY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " for those of you that chose to interview monday, the interview has started kindly join on time."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "10b2063307e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3958997027442_10b2063307e91bfe2157_72.png",
+      "first_name": "Dawn",
+      "real_name": "Dawn Green",
+      "display_name": "Dawn Green",
+      "team": "T03U4J8HMUG",
+      "name": "Dawn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  }
+]

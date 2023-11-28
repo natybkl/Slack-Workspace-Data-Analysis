@@ -1,0 +1,71 @@
+[
+  {
+    "client_msg_id": "03c5e1e7-e61e-499a-bf8b-17116aabd25a",
+    "type": "message",
+    "text": "a nice introduction to machine learning pipelines.\n<https://towardsdatascience.com/from-ml-model-to-ml-pipeline-9f95c32c6512|https://towardsdatascience.com/from-ml-model-to-ml-pipeline-9f95c32c6512>",
+    "user": "U03UUP56MDF",
+    "ts": "1661690893.746079",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "N/ba",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "a nice introduction to machine learning pipelines.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/from-ml-model-to-ml-pipeline-9f95c32c6512",
+                "text": "https://towardsdatascience.com/from-ml-model-to-ml-pipeline-9f95c32c6512"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g00725318689",
+      "image_72": "https://secure.gravatar.com/avatar/007253186898705d4f28c384188b8a63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Margaret",
+      "real_name": "Margaret Jackson",
+      "display_name": "Margaret Jackson",
+      "team": "T03U4J8HMUG",
+      "name": "Margaret",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/from-ml-model-to-ml-pipeline-9f95c32c6512",
+        "ts": 1651659971,
+        "image_url": "https://miro.medium.com/max/1200/0*kttzoixw-aiuzs60",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 127268,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/from-ml-model-to-ml-pipeline-9f95c32c6512",
+        "fallback": "medium: from ml model to ml pipeline",
+        "text": "with scikit-learn in python",
+        "title": "from ml model to ml pipeline",
+        "title_link": "https://towardsdatascience.com/from-ml-model-to-ml-pipeline-9f95c32c6512",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "6 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,967 @@
+[
+  {
+    "client_msg_id": "8d9b08cb-8eca-4e8e-a162-98f34ae43873",
+    "type": "message",
+    "text": "<https://valohai.com/machine-learning-pipeline/>",
+    "user": "U03U1J51VFZ",
+    "ts": "1662198829.916699",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ExToZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://valohai.com/machine-learning-pipeline/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f10afbc7b806",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968075210083_f10afbc7b8060c472ad0_72.png",
+      "first_name": "Heidi",
+      "real_name": "Heidi Martin",
+      "display_name": "Heidi Martin",
+      "team": "T03U4J8HMUG",
+      "name": "Heidi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://valohai.com/machine-learning-pipeline/",
+        "image_url": "https://valohai.com/assets/img/machine-learning-pipeline-og.png",
+        "image_width": 500,
+        "image_height": 250,
+        "image_bytes": 29679,
+        "service_icon": "https://valohai.com/assets/img/favicon.ico",
+        "id": 1,
+        "original_url": "https://valohai.com/machine-learning-pipeline/",
+        "fallback": "what is a machine learning pipeline?",
+        "text": "what is the benefit of an end-to-end machine learning pipeline, and how should you go about building one. ml pipelines are a core concept of mlops.",
+        "title": "what is a machine learning pipeline?",
+        "title_link": "https://valohai.com/machine-learning-pipeline/",
+        "service_name": "valohai.com",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      },
+      {
+        "name": "eyes",
+        "users": [
+          "U03UVHCV6KB",
+          "U03UFV7TUTV"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "126f8d37-06e5-4ffb-a87a-533d484ae4aa",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/how-to-split-data-into-three-sets-train-validation-and-test-and-why-e50d22d3e54c>\nsplitting data for train /test /validate",
+    "user": "U03V6HMRPGQ",
+    "ts": "1662200709.301079",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Xxd0o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/how-to-split-data-into-three-sets-train-validation-and-test-and-why-e50d22d3e54c",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\nsplitting data for train /test /validate"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/how-to-split-data-into-three-sets-train-validation-and-test-and-why-e50d22d3e54c",
+        "ts": 1621436076,
+        "image_url": "https://miro.medium.com/max/1200/1*hyodzpzbfu-gzk0y_qreqa.jpeg",
+        "image_width": 264,
+        "image_height": 250,
+        "image_bytes": 252886,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/how-to-split-data-into-three-sets-train-validation-and-test-and-why-e50d22d3e54c",
+        "fallback": "medium: how to split data into three sets (train, validation, and test) and why?",
+        "text": "you don\u2019t want your model to over-learn from training data and perform poorly after being deployed in production. you need to have a mechanism to assess how well your model is generalizing. hence\u2026",
+        "title": "how to split data into three sets (train, validation, and test) and why?",
+        "title_link": "https://towardsdatascience.com/how-to-split-data-into-three-sets-train-validation-and-test-and-why-e50d22d3e54c",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "5 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f8c490a5-1dba-41ab-bcb1-c81af67738cd",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=6_kk6wrtzhk>",
+    "user": "U03UD68RQH3",
+    "ts": "1662204254.067469",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4b7n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=6_kk6wrtzhk",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=6_kk6wrtzhk",
+        "thumb_url": "https://i.ytimg.com/vi/6_kk6wrtzhk/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/6_kk6wrtzhk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"reproducible machine learning & experiment tracking pipeline with python and dvc\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=6_kk6wrtzhk",
+        "fallback": "youtube video: reproducible machine learning & experiment tracking pipeline with python and dvc",
+        "title": "reproducible machine learning &amp; experiment tracking pipeline with python and dvc",
+        "title_link": "https://www.youtube.com/watch?v=6_kk6wrtzhk",
+        "author_name": "venelin valkov",
+        "author_link": "https://www.youtube.com/c/venelinvalkovbg",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03U9FWPNCE"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "446c362c-aff4-464c-90c2-d7a4b57227a3",
+    "type": "message",
+    "text": "nice tutorial for a/b test\n<https://www.youtube.com/watch?v=zdc8dwl0rli>",
+    "user": "U03U9FWPNCE",
+    "ts": "1662204258.038039",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "idQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "nice tutorial for a/b test\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=zdc8dwl0rli",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "2d070dcf37d6",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991845605680_2d070dcf37d67d809af7_72.jpg",
+      "first_name": "Maria",
+      "real_name": "Maria Martin",
+      "display_name": "Maria Martin",
+      "team": "T03U4J8HMUG",
+      "name": "Maria",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=zdc8dwl0rli",
+        "thumb_url": "https://i.ytimg.com/vi/zdc8dwl0rli/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/zdc8dwl0rli?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"a/b testing for data science ( python and r) | june 30th, 2021\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=zdc8dwl0rli",
+        "fallback": "youtube video: a/b testing for data science ( python and r) | june 30th, 2021",
+        "title": "a/b testing for data science ( python and r) | june 30th, 2021",
+        "title_link": "https://www.youtube.com/watch?v=zdc8dwl0rli",
+        "author_name": "nyc data science academy",
+        "author_link": "https://www.youtube.com/c/nycdatascienceacademy",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UD68RQH3"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c31714a6-4983-4a60-9a83-df431536563b",
+    "type": "message",
+    "text": "<https://scikit-learn.org/stable/modules/linear_model.html>",
+    "user": "U03U1FNPEUX",
+    "ts": "1662204733.617319",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9hWUj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://scikit-learn.org/stable/modules/linear_model.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://scikit-learn.org/stable/modules/linear_model.html",
+        "service_icon": "https://scikit-learn.org/stable/_static/favicon.ico",
+        "id": 1,
+        "original_url": "https://scikit-learn.org/stable/modules/linear_model.html",
+        "fallback": "scikit-learn: 1.1. linear models",
+        "text": "the following are a set of methods intended for regression in which the target value is expected to be a linear combination of the features. in mathematical notation, if\\hat{y} is the predicted val...",
+        "title": "1.1. linear models",
+        "title_link": "https://scikit-learn.org/stable/modules/linear_model.html",
+        "service_name": "scikit-learn",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3abab358-a8e5-40a5-acb0-6d2b80271d66",
+    "type": "message",
+    "text": "<https://scikit-learn.org/stable/modules/ensemble.html>",
+    "user": "U03U1FNPEUX",
+    "ts": "1662204760.894859",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KUL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://scikit-learn.org/stable/modules/ensemble.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://scikit-learn.org/stable/modules/ensemble.html",
+        "service_icon": "https://scikit-learn.org/stable/_static/favicon.ico",
+        "id": 1,
+        "original_url": "https://scikit-learn.org/stable/modules/ensemble.html",
+        "fallback": "scikit-learn: 1.11. ensemble methods",
+        "text": "the goal of ensemble methods is to combine the predictions of several base estimators built with a given learning algorithm in order to improve generalizability / robustness over a single estimator...",
+        "title": "1.11. ensemble methods",
+        "title_link": "https://scikit-learn.org/stable/modules/ensemble.html",
+        "service_name": "scikit-learn",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7TUTV"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9ac76608-106c-427d-9ba0-b1836f5c8647",
+    "type": "message",
+    "text": "<https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.kfold.html>",
+    "user": "U03U1FNPEUX",
+    "ts": "1662204839.449239",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1g2c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.kfold.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.kfold.html",
+        "service_icon": "https://scikit-learn.org/stable/_static/favicon.ico",
+        "id": 1,
+        "original_url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.kfold.html",
+        "fallback": "scikit-learn: sklearn.model_selection.kfold",
+        "text": "examples using sklearn.model_selection.kfold: feature agglomeration vs. univariate selection feature agglomeration vs. univariate selection gradient boosting out-of-bag estimates gradient boosting ...",
+        "title": "sklearn.model_selection.kfold",
+        "title_link": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.kfold.html",
+        "service_name": "scikit-learn",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "14e73330-7652-454a-85b8-8ffb54a0dbf5",
+    "type": "message",
+    "text": "<https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=random%20forest%20is%20a%20supervised,average%20in%20case%20of%20regression|https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=random%20forest%20is%20a%20supervised,average%20in%20case%20of%20regression>.",
+    "user": "U03UFV7TUTV",
+    "ts": "1662206030.469819",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fXvE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=random%20forest%20is%20a%20supervised,average%20in%20case%20of%20regression",
+                "text": "https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=random%20forest%20is%20a%20supervised,average%20in%20case%20of%20regression"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g2d3549811da",
+      "image_72": "https://secure.gravatar.com/avatar/2d3549811dae404f2ab1ffd6d153680c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Bryan",
+      "real_name": "Bryan Clark",
+      "display_name": "Bryan Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Bryan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=random%20forest%20is%20a%20supervised,average%20in%20case%20of%20regression",
+        "ts": 1623931675,
+        "thumb_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/84303images-1.jpg",
+        "thumb_width": 275,
+        "thumb_height": 183,
+        "service_icon": "https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo_square_v2.jpg",
+        "id": 1,
+        "original_url": "https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=random%20forest%20is%20a%20supervised,average%20in%20case%20of%20regression",
+        "fallback": "analytics vidhya: random forest | introduction to random forest algorithm",
+        "text": "random forest is a supervised machine learning algorithm. this is an introduction to understanding random forest, its working and features.",
+        "title": "random forest | introduction to random forest algorithm",
+        "title_link": "https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=random%20forest%20is%20a%20supervised,average%20in%20case%20of%20regression",
+        "service_name": "analytics vidhya",
+        "fields": [
+          {
+            "value": "Sruthi E R",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "12 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e145394b-8c72-46f7-ac66-230c97f440d3",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=drkjtmvjkji>",
+    "user": "U03UD68RQH3",
+    "ts": "1662208389.089289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "c+EsV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=drkjtmvjkji",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=drkjtmvjkji",
+        "thumb_url": "https://i.ytimg.com/vi/drkjtmvjkji/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/drkjtmvjkji?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"from jupyter notebooks to reproducible and automated experiments with dvc, mikhailrozhkov\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=drkjtmvjkji",
+        "fallback": "youtube video: from jupyter notebooks to reproducible and automated experiments with dvc, mikhailrozhkov",
+        "title": "from jupyter notebooks to reproducible and automated experiments with dvc, mikhailrozhkov",
+        "title_link": "https://www.youtube.com/watch?v=drkjtmvjkji",
+        "author_name": "machine learning repa",
+        "author_link": "https://www.youtube.com/c/machinelearningrepa",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "180db05b-01eb-4add-9bb6-d33fdcc0e8f6",
+    "type": "message",
+    "text": "<https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/>",
+    "user": "U03UVHCV6KB",
+    "ts": "1662208980.081379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ivi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "86291e0f-0d0a-4e0a-8837-c170f56d4199",
+    "type": "message",
+    "text": "<https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks>",
+    "user": "U03UVHCV6KB",
+    "ts": "1662208987.676239",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2b/Y6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "504568e3-7dcc-48ed-846d-d1bbc13cf90a",
+    "type": "message",
+    "text": "i would like to invite you this wonderful resource for this weekend\n<https://www.Stephanie.com/amp/s/dagshub.com/blog/ci-cd-for-machine-learning-test-and-and-deploy-your-ml-model-with-michelle-actions/amp/|https://www.Stephanie.com/amp/s/dagshub.com/blog/ci-cd-for-machine-learning-test-and-and-deploy-your-ml-model-with-michelle-actions/amp/>",
+    "user": "U03UG0YHAUT",
+    "ts": "1662208996.262139",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DT7p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i would like to invite you this wonderful resource for this weekend\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.Stephanie.com/amp/s/dagshub.com/blog/ci-cd-for-machine-learning-test-and-and-deploy-your-ml-model-with-michelle-actions/amp/",
+                "text": "https://www.Stephanie.com/amp/s/dagshub.com/blog/ci-cd-for-machine-learning-test-and-and-deploy-your-ml-model-with-michelle-actions/amp/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7TUTV"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "aff521de-377c-41de-9889-439378d96076",
+    "type": "message",
+    "text": "this is a good resource on sci-kit learn pipeline.\n<https://towardsdatascience.com/step-by-step-tutorial-of-sci-kit-learn-pipeline-62402d5629b6>",
+    "user": "U03UKL27B0R",
+    "ts": "1662211084.279109",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wdA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this is a good resource on sci-kit learn pipeline.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/step-by-step-tutorial-of-sci-kit-learn-pipeline-62402d5629b6",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/step-by-step-tutorial-of-sci-kit-learn-pipeline-62402d5629b6",
+        "ts": 1621297943,
+        "image_url": "https://miro.medium.com/max/1200/0*9koh3ki0uqmcvbvp",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 157401,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/step-by-step-tutorial-of-sci-kit-learn-pipeline-62402d5629b6",
+        "fallback": "medium: step by step tutorial of sci-kit learn pipeline",
+        "text": "use pipelines to streamline your data science project right now!",
+        "title": "step by step tutorial of sci-kit learn pipeline",
+        "title_link": "https://towardsdatascience.com/step-by-step-tutorial-of-sci-kit-learn-pipeline-62402d5629b6",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "5 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7TUTV",
+          "U03U9EJR362"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "4b50e20c-79e2-4887-a0f6-f7f00138dbfe",
+    "type": "message",
+    "text": "<https://pub.towardsai.net/manage-ml-automation-workflow-with-dagshub-Michelle-action-and-cml-a37fb50d5cb0>",
+    "user": "U03U9EJR362",
+    "ts": "1662216544.559499",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ROXl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://pub.towardsai.net/manage-ml-automation-workflow-with-dagshub-Michelle-action-and-cml-a37fb50d5cb0",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Catherine",
+      "real_name": "Catherine Campos",
+      "display_name": "Catherine Campos",
+      "team": "T03U4J8HMUG",
+      "name": "Catherine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://pub.towardsai.net/manage-ml-automation-workflow-with-dagshub-Michelle-action-and-cml-a37fb50d5cb0",
+        "ts": 1653681721,
+        "image_url": "https://miro.medium.com/max/1200/0*vkhhq-bk_ofqjt9j",
+        "image_width": 299,
+        "image_height": 250,
+        "image_bytes": 141306,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://pub.towardsai.net/manage-ml-automation-workflow-with-dagshub-Michelle-action-and-cml-a37fb50d5cb0",
+        "fallback": "medium: manage ml automation workflow with dagshub, Michelle action, and cml",
+        "text": "machine learning automation is part of data scientist work",
+        "title": "manage ml automation workflow with dagshub, Michelle action, and cml",
+        "title_link": "https://pub.towardsai.net/manage-ml-automation-workflow-with-dagshub-Michelle-action-and-cml-a37fb50d5cb0",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "11 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2135c561-4850-4e36-b38f-c1e3d421a7d8",
+    "type": "message",
+    "text": "<https://medium.com/analytics-vidhya/how-to-analyze-a-b-test-results-b93c9eafbc61>",
+    "user": "U03U9EJR362",
+    "ts": "1662216641.491679",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BFg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/analytics-vidhya/how-to-analyze-a-b-test-results-b93c9eafbc61",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Catherine",
+      "real_name": "Catherine Campos",
+      "display_name": "Catherine Campos",
+      "team": "T03U4J8HMUG",
+      "name": "Catherine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/analytics-vidhya/how-to-analyze-a-b-test-results-b93c9eafbc61",
+        "ts": 1594914161,
+        "image_url": "https://miro.medium.com/max/1200/1*8p307tox4t1fvvujmbxrva.png",
+        "image_width": 430,
+        "image_height": 250,
+        "image_bytes": 140686,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://medium.com/analytics-vidhya/how-to-analyze-a-b-test-results-b93c9eafbc61",
+        "fallback": "medium: how to analyze a/b test results?",
+        "text": "in this article, i will take you through analysing a hypothetical a/b test conducted by a mobile game developer.",
+        "title": "how to analyze a/b test results?",
+        "title_link": "https://medium.com/analytics-vidhya/how-to-analyze-a-b-test-results-b93c9eafbc61",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "7 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,3308 @@
+[
+  {
+    "client_msg_id": "9f7e8816-2725-4de4-bec7-be62d4061ce2",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=nyktbp1wfs8>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663657310.274029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Isq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=nyktbp1wfs8",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=nyktbp1wfs8",
+        "thumb_url": "https://i.ytimg.com/vi/nyktbp1wfs8/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/nyktbp1wfs8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"every python function explained\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=nyktbp1wfs8",
+        "fallback": "youtube video: every python function explained",
+        "title": "every python function explained",
+        "title_link": "https://www.youtube.com/watch?v=nyktbp1wfs8",
+        "author_name": "tech with tim",
+        "author_link": "https://www.youtube.com/c/techwithtim",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0959738e-5182-4f37-947f-58e5225ae6b7",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=8fzzivifjvo|https://www.youtube.com/watch?v=8fzzivifjvo>",
+    "user": "U03UG0YHAUT",
+    "ts": "1663657733.435629",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B9uT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=8fzzivifjvo",
+                "text": "https://www.youtube.com/watch?v=8fzzivifjvo"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=8fzzivifjvo",
+        "thumb_url": "https://i.ytimg.com/vi/8fzzivifjvo/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/8fzzivifjvo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"what is dbt and why is it so popular -  intro to data infrastructure part 3\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=8fzzivifjvo",
+        "fallback": "youtube video: what is dbt and why is it so popular -  intro to data infrastructure part 3",
+        "title": "what is dbt and why is it so popular -  intro to data infrastructure part 3",
+        "title_link": "https://www.youtube.com/watch?v=8fzzivifjvo",
+        "author_name": "seattle data guy",
+        "author_link": "https://www.youtube.com/c/seattledataguy",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "be78d89e-8d25-4cc4-b56d-fb5edce67455",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=n7iithr8hgk|https://www.youtube.com/watch?v=n7iithr8hgk>",
+    "user": "U03UG0YHAUT",
+    "ts": "1663658300.820549",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gOts",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=n7iithr8hgk",
+                "text": "https://www.youtube.com/watch?v=n7iithr8hgk"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=n7iithr8hgk",
+        "thumb_url": "https://i.ytimg.com/vi/n7iithr8hgk/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/n7iithr8hgk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"airflow with dbt core & cloud, dbt labs\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=n7iithr8hgk",
+        "fallback": "youtube video: airflow with dbt core & cloud, dbt labs",
+        "title": "airflow with dbt core &amp; cloud, dbt labs",
+        "title_link": "https://www.youtube.com/watch?v=n7iithr8hgk",
+        "author_name": "dbt",
+        "author_link": "https://www.youtube.com/c/dbt-labs",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "cc888976-9b59-46b1-aa51-51b5545f18dc",
+    "type": "message",
+    "text": "<https://docs.getdbt.com/docs/running-a-dbt-project/running-dbt-in-production|https://docs.getdbt.com/docs/running-a-dbt-project/running-dbt-in-production>",
+    "user": "U03UG0YHAUT",
+    "ts": "1663659031.143409",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dBn9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.getdbt.com/docs/running-a-dbt-project/running-dbt-in-production",
+                "text": "https://docs.getdbt.com/docs/running-a-dbt-project/running-dbt-in-production"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://docs.getdbt.com/docs/running-a-dbt-project/running-dbt-in-production",
+        "image_url": "https://docs.getdbt.com/img/avatar.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 40717,
+        "service_icon": "https://docs.getdbt.com/img/favicon.ico",
+        "id": 1,
+        "original_url": "https://docs.getdbt.com/docs/running-a-dbt-project/running-dbt-in-production",
+        "fallback": "running dbt in production | dbt docs",
+        "text": "what does running dbt in production mean?",
+        "title": "running dbt in production | dbt docs",
+        "title_link": "https://docs.getdbt.com/docs/running-a-dbt-project/running-dbt-in-production",
+        "service_name": "docs.getdbt.com",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "72087992-23ee-4bca-86b4-aec44375ffa5",
+    "type": "message",
+    "text": "how to install postgresql: <https://www.guru99.com/download-install-postgresql.html>",
+    "user": "U03UJH1EQQL",
+    "ts": "1663659791.182839",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tCX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how to install postgresql: "
+              },
+              {
+                "type": "link",
+                "url": "https://www.guru99.com/download-install-postgresql.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.guru99.com/download-install-postgresql.html",
+        "ts": 1578681000,
+        "image_url": "https://www.guru99.com/images/1/080418_0846_howtodownlo1.png",
+        "image_width": 434,
+        "image_height": 250,
+        "image_bytes": 22195,
+        "service_icon": "https://www.guru99.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.guru99.com/download-install-postgresql.html",
+        "fallback": "guru99: how to download &amp; install postgresql for windows [17 steps]",
+        "text": "this tutorial covers the step-by-step process of downloading and installing postgresql in windows with screenshot guidance.",
+        "title": "how to download &amp; install postgresql for windows [17 steps]",
+        "title_link": "https://www.guru99.com/download-install-postgresql.html",
+        "service_name": "guru99",
+        "fields": [
+          {
+            "value": "Richard Peterson",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "1 minute",
+            "title": "Time to read",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e3a6a1f1-3c56-4827-bfde-0164ee10c105",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=5jsblpdl7oy>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663664569.990199",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/SrSv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=5jsblpdl7oy",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=5jsblpdl7oy",
+        "thumb_url": "https://i.ytimg.com/vi/5jsblpdl7oy/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/5jsblpdl7oy?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"how to learn data science and have fun - 365 data science v3.0 [new]\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=5jsblpdl7oy",
+        "fallback": "youtube video: how to learn data science and have fun - 365 data science v3.0 [new]",
+        "title": "how to learn data science and have fun - 365 data science v3.0 [new]",
+        "title_link": "https://www.youtube.com/watch?v=5jsblpdl7oy",
+        "author_name": "365 data science",
+        "author_link": "https://www.youtube.com/c/365datascience",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1663664569.990199",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1663666049.040219",
+    "reply_users": [
+      "U03UG1Z21JP"
+    ],
+    "replies": [
+      {
+        "user": "U03UG1Z21JP",
+        "ts": "1663666049.040219"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "d0c9e9d0-67d7-4b6e-9c39-fbffb54fab44",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=28ui_usxbqo>",
+    "user": "U03UJGRN5E0",
+    "ts": "1663664627.371289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NAuS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=28ui_usxbqo",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=28ui_usxbqo",
+        "thumb_url": "https://i.ytimg.com/vi/28ui_usxbqo/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/28ui_usxbqo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"build your first pipeline dag | apache airflow for beginners\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=28ui_usxbqo",
+        "fallback": "youtube video: build your first pipeline dag | apache airflow for beginners",
+        "title": "build your first pipeline dag | apache airflow for beginners",
+        "title_link": "https://www.youtube.com/watch?v=28ui_usxbqo",
+        "author_name": "maxcotec learning",
+        "author_link": "https://www.youtube.com/channel/uclzm8v9myvhflg1_ojpqltg",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "31958a6f-f284-45d4-b1e6-daafe8cbf6a5",
+    "type": "message",
+    "text": "i have been with 365 almost 1 and half year. they are good for beginners. the way they break down the concepts is wow. kudos to them.",
+    "user": "U03UG1Z21JP",
+    "ts": "1663666049.040219",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "16NfH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i have been with 365 almost 1 and half year. they are good for beginners. the way they break down the concepts is wow. kudos to them."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663664569.990199",
+    "parent_user_id": "U03UVHCV6KB",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "32e489f6-91a9-4725-a1f3-d773cc9331c3",
+    "type": "message",
+    "text": "intro to data build tool (dbt) // create your first project!intro to data build tool (dbt) // create your first project!\n<https://www.youtube.com/watch?v=5rnqurnnb4e&amp;list=ply4ocwimjzbljzlyxpxapumcwp8j1esvt>",
+    "user": "U03UHB8CXDY",
+    "ts": "1663667090.003199",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TrbJt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "intro to data build tool (dbt) // create your first project!intro to data build tool (dbt) // create your first project!\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=5rnqurnnb4e&list=ply4ocwimjzbljzlyxpxapumcwp8j1esvt",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=5rnqurnnb4e",
+        "thumb_url": "https://i.ytimg.com/vi/5rnqurnnb4e/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/5rnqurnnb4e?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"intro to data build tool (dbt)  // create your first project!\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=5rnqurnnb4e&amp;list=ply4ocwimjzbljzlyxpxapumcwp8j1esvt",
+        "fallback": "youtube video: intro to data build tool (dbt)  // create your first project!",
+        "title": "intro to data build tool (dbt)  // create your first project!",
+        "title_link": "https://www.youtube.com/watch?v=5rnqurnnb4e",
+        "author_name": "kahan data solutions",
+        "author_link": "https://www.youtube.com/c/kahandatasolutions",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b38a1a4a-d66c-4884-9421-7a858cda241a",
+    "type": "message",
+    "text": "<https://Michelle.com/andkret/cookbook>",
+    "user": "U03UFV7HFNF",
+    "ts": "1663667290.144319",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Hvq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://Michelle.com/andkret/cookbook",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "id": 1,
+        "color": "24292f",
+        "bot_id": "b03uyh1bwqz",
+        "app_unfurl_url": "https://Michelle.com/andkret/cookbook",
+        "is_app_unfurl": true,
+        "app_id": "a01bp7r4kny",
+        "fallback": "andkret/cookbook",
+        "text": "the data engineering cookbook",
+        "title": "andkret/cookbook",
+        "fields": [
+          {
+            "value": "<https://learndataengineering.com/>",
+            "title": "Website",
+            "short": true
+          },
+          {
+            "value": "10756",
+            "title": "Stars",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c8fb79c1-52d2-404c-9401-92f3feb257c1",
+    "type": "message",
+    "text": "<https://www.postgresql.org/docs/current/>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663669208.232029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4G=G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.postgresql.org/docs/current/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.postgresql.org/docs/current/",
+        "ts": 1660212194,
+        "image_url": "https://www.postgresql.org/media/img/about/press/elephant.png",
+        "image_width": 242,
+        "image_height": 250,
+        "image_bytes": 50279,
+        "service_icon": "https://www.postgresql.org/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.postgresql.org/docs/current/",
+        "fallback": "postgresql documentation: postgresql 14.5 documentation",
+        "text": "postgresql 14.5 documentation the postgresql global development group copyright \u00a9 1996\u20132022 the postgresql global development group legal notice table of \u2026",
+        "title": "postgresql 14.5 documentation",
+        "title_link": "https://www.postgresql.org/docs/current/",
+        "service_name": "postgresql documentation",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "cbdc916e-f4ca-473b-975f-7a5f176bee69",
+    "type": "message",
+    "text": "this saved lots of time for me",
+    "user": "U03UVHCV6KB",
+    "ts": "1663669230.688619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+Fd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this saved lots of time for me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "12fb30ab-8952-4c09-bd0d-11516617ee03",
+    "type": "message",
+    "text": "<https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html>",
+    "user": "U03UD68RQH3",
+    "ts": "1663669231.286439",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7ew",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0bc121f5-9ab3-4818-8981-6683d60ba52a",
+    "type": "message",
+    "text": "<https://medium.com/@tutorialcreation81/airflow-dbt-and-redash-elt-pipeline-3c45427cJoanneca>",
+    "user": "U03UD4FEDHB",
+    "ts": "1663669400.866819",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1Qz2b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/@tutorialcreation81/airflow-dbt-and-redash-elt-pipeline-3c45427cJoanneca",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g48fef055f8a",
+      "image_72": "https://secure.gravatar.com/avatar/48fef055f8a8b8a4c0bcfefbf5e3eec3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Michael",
+      "real_name": "Michael Fowler",
+      "display_name": "Michael Fowler",
+      "team": "T03U4J8HMUG",
+      "name": "Michael",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/@tutorialcreation81/airflow-dbt-and-redash-elt-pipeline-3c45427cJoanneca",
+        "ts": 1658738479,
+        "image_url": "https://miro.medium.com/max/1200/0*flrnt6zmkfs65uzw",
+        "image_width": 665,
+        "image_height": 250,
+        "image_bytes": 90111,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://medium.com/@tutorialcreation81/airflow-dbt-and-redash-elt-pipeline-3c45427cJoanneca",
+        "fallback": "medium: airflow, dbt and redash elt pipeline.",
+        "text": "introduction.",
+        "title": "airflow, dbt and redash elt pipeline.",
+        "title_link": "https://medium.com/@tutorialcreation81/airflow-dbt-and-redash-elt-pipeline-3c45427cJoanneca",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "7 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e455bd30-64c6-46ae-a266-0e9e7c3f5b71",
+    "type": "message",
+    "text": "<https://docs.python.org/3/library/logging.html>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663670527.512119",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dky2s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.python.org/3/library/logging.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b9e0efb7-7721-4063-a847-017f58a05839",
+    "type": "message",
+    "text": "<https://docs.python.org/3/library/logging.html>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663670547.417719",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tVf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.python.org/3/library/logging.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "793390fc-cdcc-478a-87fc-648f4b09425f",
+    "type": "message",
+    "text": "<https://docs.python.org/3/library/logging.html#levels>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663670558.669159",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hNZ3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.python.org/3/library/logging.html#levels",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c05f455c-bea6-4bc7-8ee2-3f05c6d7eb42",
+    "type": "message",
+    "text": "<https://www.postgresqltutorial.com/postgresql-Joanneistration/postgresql-show-tables/#:~:text=the%20system%20tables.-,summary,table%20information%20from%20the%20pg_catalog>.",
+    "user": "U03UVHCV6KB",
+    "ts": "1663670600.975809",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p81",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.postgresqltutorial.com/postgresql-Joanneistration/postgresql-show-tables/#:~:text=the%20system%20tables.-,summary,table%20information%20from%20the%20pg_catalog",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.postgresqltutorial.com/postgresql-Joanneistration/postgresql-show-tables/#:~:text=the%20system%20tables.-,summary,table%20information%20from%20the%20pg_catalog",
+        "service_icon": "https://www.postgresqltutorial.com/wp-content/uploads/2017/03/favicon.png",
+        "id": 1,
+        "original_url": "https://www.postgresqltutorial.com/postgresql-Joanneistration/postgresql-show-tables/#:~:text=the%20system%20tables.-,summary,table%20information%20from%20the%20pg_catalog",
+        "fallback": "postgresql show tables",
+        "text": "this tutorial shows you various ways to show tables in a specific database using psql and querying pg_catalog schema in postgresql",
+        "title": "postgresql show tables",
+        "title_link": "https://www.postgresqltutorial.com/postgresql-Joanneistration/postgresql-show-tables/#:~:text=the%20system%20tables.-,summary,table%20information%20from%20the%20pg_catalog",
+        "service_name": "postgresqltutorial.com",
+        "fields": [
+          {
+            "value": "3 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c90413d9-eb59-4030-b9cc-61a2b5aeb87a",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/run-airflow-docker-1b83a57616fb>",
+    "user": "U03UD4FEDHB",
+    "ts": "1663671152.727429",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "obqW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/run-airflow-docker-1b83a57616fb",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g48fef055f8a",
+      "image_72": "https://secure.gravatar.com/avatar/48fef055f8a8b8a4c0bcfefbf5e3eec3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Michael",
+      "real_name": "Michael Fowler",
+      "display_name": "Michael Fowler",
+      "team": "T03U4J8HMUG",
+      "name": "Michael",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/run-airflow-docker-1b83a57616fb",
+        "ts": 1652450418,
+        "image_url": "https://miro.medium.com/max/1200/1*u8mmjcv-sxa2y9wqp5bv0w.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 63097,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/run-airflow-docker-1b83a57616fb",
+        "fallback": "medium: how to run airflow locally with docker",
+        "text": "a step by step guide for running airflow with docker on your local machine",
+        "title": "how to run airflow locally with docker",
+        "title_link": "https://towardsdatascience.com/run-airflow-docker-1b83a57616fb",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "5 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3333adb9-8043-4bcb-bb37-1afc56827ce5",
+    "type": "message",
+    "text": "<https://airflow.apache.org/docs/apache-airflow/stable/howto/operator/python.html>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663671305.559959",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pVP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://airflow.apache.org/docs/apache-airflow/stable/howto/operator/python.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "bac11aff-78b6-41ba-aaae-c5092cc1a5f6",
+    "type": "message",
+    "text": "<https://crontab.guru/>",
+    "user": "U03UD68RQH3",
+    "ts": "1663671393.193219",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "X+ROy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://crontab.guru/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://crontab.guru/",
+        "service_icon": "https://crontab.guru/favicon.ico",
+        "id": 1,
+        "original_url": "https://crontab.guru/",
+        "fallback": "crontab.guru - the cron schedule expression editor",
+        "text": "an easy to use editor for crontab schedules.",
+        "title": "crontab.guru - the cron schedule expression editor",
+        "title_link": "https://crontab.guru/",
+        "service_name": "crontab.guru",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5f8d9410-986c-4a3b-83e3-3e393f479279",
+    "type": "message",
+    "text": "<https://www.pgJoanne.org/download/pgJoanne-4-apt/>\n\nthis will save you lots and lots of time",
+    "user": "U03UVHCV6KB",
+    "ts": "1663672551.358979",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1wJda",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.pgJoanne.org/download/pgJoanne-4-apt/",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n\nthis will save you lots and lots of time"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.pgJoanne.org/download/pgJoanne-4-apt/",
+        "service_icon": "https://www.pgJoanne.org/static/compiled/assets/img/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.pgJoanne.org/download/pgJoanne-4-apt/",
+        "fallback": "download",
+        "text": "pgJoanne - postgresql tools for windows, mac, linux and the web",
+        "title": "download",
+        "title_link": "https://www.pgJoanne.org/download/pgJoanne-4-apt/",
+        "service_name": "pgJoanne.org",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "03b920b8-38c6-4423-ab94-8e599a49eb10",
+    "type": "message",
+    "text": "forwarded from <@u03v8lhpdme>, helpful resource about airflow\n<https://www.astronomer.io/blog/>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663672637.535159",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ySiKu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "forwarded from "
+              },
+              {
+                "type": "user",
+                "user_id": "U03V8LHPDME"
+              },
+              {
+                "type": "text",
+                "text": ", helpful resource about airflow\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.astronomer.io/blog/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.astronomer.io/blog/",
+        "image_url": "https://www.astronomer.io/assets/images/astronomer-og.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 16784,
+        "service_icon": "https://www.astronomer.io/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.astronomer.io/blog/",
+        "fallback": "blog - astronomer",
+        "text": "the latest astronomer and apache airflow news and posts",
+        "title": "blog - astronomer",
+        "title_link": "https://www.astronomer.io/blog/",
+        "service_name": "astronomer.io",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "4981062e-1bfb-4a5a-85b9-f8748ca297e7",
+    "type": "message",
+    "text": "forwarded from <@u03v8lhpdme>, important resource on airflow\n\n<https://www.youtube.com/c/marclamberti>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663672667.691839",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6=Zn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "forwarded from "
+              },
+              {
+                "type": "user",
+                "user_id": "U03V8LHPDME"
+              },
+              {
+                "type": "text",
+                "text": ", important resource on airflow\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/c/marclamberti",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/c/marclamberti",
+        "thumb_url": "https://yt3.ggpht.com/gandun458ombobb9z-x_fgywk6ffm7nlajc84yzejfrvnpyomrbrw8r6hp44xy31peuqpn-v3a=s900-c-k-c0x00ffffff-no-rj",
+        "thumb_width": 900,
+        "thumb_height": 900,
+        "service_icon": "https://www.youtube.com/s/desktop/363846af/img/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.youtube.com/c/marclamberti",
+        "fallback": "youtube: data with marc",
+        "text": "as a 30-year-old data engineer and trainer, best selling author on udemy about apache airflow, and head of customer training at astronomer, i've created this channel to share my knowledge, best practices, tutorials and to support those who are thinking of getting into the field of data engineering or who want to learn more about the incredible world of data. i'm obsessed with providing high-value content that is highly engaging. engineering courses don't have to be boring! let's stop the curse! expect to see a lot of hands-on tutorials mainly about apache airflow but not only. i also love training and public speaking. you will find awesome content if you want to start sharing your knowledge as well! oh, subscribe, all cool engineers subscribe to an interesting youtube channel like this one. feel free to follow me on ig: _marc_lamberti",
+        "title": "data with marc",
+        "title_link": "https://www.youtube.com/c/marclamberti",
+        "service_name": "youtube",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c0cbb251-dc73-4f85-9a8a-9fad9402a0c4",
+    "type": "message",
+    "text": "<https://unixcop.com/how-to-install-apache-airflow-on-ubuntu-20/>",
+    "user": "U03U9EJR362",
+    "ts": "1663674566.203899",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2TQE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://unixcop.com/how-to-install-apache-airflow-on-ubuntu-20/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Catherine",
+      "real_name": "Catherine Campos",
+      "display_name": "Catherine Campos",
+      "team": "T03U4J8HMUG",
+      "name": "Catherine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://unixcop.com/how-to-install-apache-airflow-on-ubuntu-20/",
+        "ts": 1648608840,
+        "image_url": "https://1118798822.rsc.cdn77.org/wp-content/uploads/2022/03/apache_airflow_700x400.jpg",
+        "image_width": 438,
+        "image_height": 250,
+        "image_bytes": 38039,
+        "service_icon": "https://1118798822.rsc.cdn77.org/wp-content/uploads/2021/02/16px-x-16px-trans.png",
+        "id": 1,
+        "original_url": "https://unixcop.com/how-to-install-apache-airflow-on-ubuntu-20/",
+        "fallback": "unix / linux the Joannes tutorials: how to install apache airflow on ubuntu 20.04 - unix / linux the Joannes tutorials",
+        "text": "unixcop - linux and unix howtos, tutorials, guides, news, devops, cloud, monitoing, tips and tricks etc ....",
+        "title": "how to install apache airflow on ubuntu 20.04 - unix / linux the Joannes tutorials",
+        "title_link": "https://unixcop.com/how-to-install-apache-airflow-on-ubuntu-20/",
+        "service_name": "unix / linux the Joannes tutorials",
+        "fields": [
+          {
+            "value": "MQ-Jr",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "4 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "fb4c0f21-58b8-4774-b8ad-f68f33474b98",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=ih1-0hwfzrq>",
+    "user": "U03UG32J3PC",
+    "ts": "1663676702.729329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qKoWx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=ih1-0hwfzrq",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=ih1-0hwfzrq",
+        "thumb_url": "https://i.ytimg.com/vi/ih1-0hwfzrq/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/ih1-0hwfzrq?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"airflow dag: coding your first dag for beginners\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=ih1-0hwfzrq",
+        "fallback": "youtube video: airflow dag: coding your first dag for beginners",
+        "title": "airflow dag: coding your first dag for beginners",
+        "title_link": "https://www.youtube.com/watch?v=ih1-0hwfzrq",
+        "author_name": "data with marc",
+        "author_link": "https://www.youtube.com/c/marclamberti",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "4a35d817-7186-4400-957b-d0dd4d440588",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=lkl7dmifmyc>",
+    "user": "U03UFV7HFNF",
+    "ts": "1663676782.888099",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Le1O7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=lkl7dmifmyc",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=lkl7dmifmyc",
+        "thumb_url": "https://i.ytimg.com/vi/lkl7dmifmyc/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/lkl7dmifmyc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"how to install apache airflow on local machine?: airflow tutorial\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 300,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=lkl7dmifmyc",
+        "fallback": "youtube video: how to install apache airflow on local machine?: airflow tutorial",
+        "title": "how to install apache airflow on local machine?: airflow tutorial",
+        "title_link": "https://www.youtube.com/watch?v=lkl7dmifmyc",
+        "author_name": "qubole",
+        "author_link": "https://www.youtube.com/channel/ucdakbmx6_bdfhshjec_ovlq",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "aa87c0b5-4c3d-4f38-b46b-1bec0d8c1c54",
+    "type": "message",
+    "text": "<https://docs.docker.com/compose/install/>",
+    "user": "U03UH397319",
+    "ts": "1663677035.920929",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PUmYu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.docker.com/compose/install/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://docs.docker.com/compose/install/",
+        "ts": 1663666920,
+        "image_url": "https://docs.docker.com/assets/images/docs@2x.png",
+        "image_width": 475,
+        "image_height": 250,
+        "image_bytes": 27740,
+        "service_icon": "https://docs.docker.com/assets/favicons/docs@2x.ico",
+        "id": 1,
+        "original_url": "https://docs.docker.com/compose/install/",
+        "fallback": "docker documentation: install docker compose",
+        "text": "how to install docker compose",
+        "title": "install docker compose",
+        "title_link": "https://docs.docker.com/compose/install/",
+        "service_name": "docker documentation",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1e5795ca-70ba-4c59-8d0b-21b0a78c77d1",
+    "type": "message",
+    "text": "<https://appdividend.com/2021/07/03/how-to-create-directory-if-not-exist-in-python/#:~:text=to%20create%20a%20directory%20if,makedirs()%20method>.",
+    "user": "U03UVHCV6KB",
+    "ts": "1663686940.435319",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Rf0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://appdividend.com/2021/07/03/how-to-create-directory-if-not-exist-in-python/#:~:text=to%20create%20a%20directory%20if,makedirs()%20method",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://appdividend.com/2021/07/03/how-to-create-directory-if-not-exist-in-python/#:~:text=to%20create%20a%20directory%20if,makedirs()%20method",
+        "ts": 1625296204,
+        "thumb_url": "https://appdividend.com/wp-content/uploads/2021/07/how-to-create-directory-if-not-exist-in-python.png",
+        "thumb_width": 1236,
+        "thumb_height": 1396,
+        "service_icon": "https://appdividend.com/wp-content/uploads/2017/08/cropped-apdivi-180x180.png",
+        "id": 1,
+        "original_url": "https://appdividend.com/2021/07/03/how-to-create-directory-if-not-exist-in-python/#:~:text=to%20create%20a%20directory%20if,makedirs()%20method",
+        "fallback": "appdividend: how to create directory if not exist in python",
+        "text": "to create a directory if not exist in python, check if it already exists using the os.path.exists() method, and then you can create it using the os.makedirs() method.",
+        "title": "how to create directory if not exist in python",
+        "title_link": "https://appdividend.com/2021/07/03/how-to-create-directory-if-not-exist-in-python/#:~:text=to%20create%20a%20directory%20if,makedirs()%20method",
+        "service_name": "appdividend",
+        "fields": [
+          {
+            "value": "Krunal",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "3 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "dedb59a4-d241-45f0-afc6-fc8b3dfa2775",
+    "type": "message",
+    "text": "docker on vscode <https://Michelle.com/microsoft/vscode-docker>",
+    "user": "U03V785NLSU",
+    "ts": "1663696574.879379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E+fRJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "docker on vscode "
+              },
+              {
+                "type": "link",
+                "url": "https://Michelle.com/microsoft/vscode-docker",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "id": 1,
+        "color": "24292f",
+        "bot_id": "b03uyh1bwqz",
+        "app_unfurl_url": "https://Michelle.com/microsoft/vscode-docker",
+        "is_app_unfurl": true,
+        "app_id": "a01bp7r4kny",
+        "fallback": "microsoft/vscode-docker",
+        "text": "docker extension for visual studio code",
+        "title": "microsoft/vscode-docker",
+        "fields": [
+          {
+            "value": "<https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker>",
+            "title": "Website",
+            "short": true
+          },
+          {
+            "value": "969",
+            "title": "Stars",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "326a7d67-d6d4-410e-9482-d23b57ce9e70",
+    "type": "message",
+    "text": "<https://medium.com/snowflake/using-airflow-as-a-scheduler-to-orchestrate-dbt-on-snowflake-6bef760c6c7>",
+    "user": "U03UG32J3PC",
+    "ts": "1663697207.111099",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9WWYH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/snowflake/using-airflow-as-a-scheduler-to-orchestrate-dbt-on-snowflake-6bef760c6c7",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/snowflake/using-airflow-as-a-scheduler-to-orchestrate-dbt-on-snowflake-6bef760c6c7",
+        "ts": 1659370586,
+        "image_url": "https://miro.medium.com/max/1200/1*qlxttu_3ta1iyez_ko1tlq.png",
+        "image_width": 585,
+        "image_height": 250,
+        "image_bytes": 77243,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://medium.com/snowflake/using-airflow-as-a-scheduler-to-orchestrate-dbt-on-snowflake-6bef760c6c7",
+        "fallback": "medium: using airflow as a scheduler to orchestrate dbt on snowflake",
+        "text": "overview",
+        "title": "using airflow as a scheduler to orchestrate dbt on snowflake",
+        "title_link": "https://medium.com/snowflake/using-airflow-as-a-scheduler-to-orchestrate-dbt-on-snowflake-6bef760c6c7",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "6 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "423ff0f6-a934-47e3-9aae-c8c68f53a99a",
+    "type": "message",
+    "text": "to understand tech stack flow <https://hevodata.com/learn/building-a-big-data-technology-stack/>",
+    "user": "U03V785NLSU",
+    "ts": "1663699736.379899",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bj5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "to understand tech stack flow "
+              },
+              {
+                "type": "link",
+                "url": "https://hevodata.com/learn/building-a-big-data-technology-stack/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://hevodata.com/learn/building-a-big-data-technology-stack/",
+        "ts": 1609995136,
+        "image_url": "https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1609994882/hevo-learn/bigdata-tech/bigdata-tech.png?_i=aa",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 70518,
+        "service_icon": "https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1587655389/logo-8/logo-8.png?_i=aa",
+        "id": 1,
+        "original_url": "https://hevodata.com/learn/building-a-big-data-technology-stack/",
+        "fallback": "learn | hevo: building a big data technology stack: made easy",
+        "text": "this blog teaches you how to build a big data technology stack &amp; provides you with in-depth knowledge of its different layers to simplify the building process!",
+        "title": "building a big data technology stack: made easy",
+        "title_link": "https://hevodata.com/learn/building-a-big-data-technology-stack/",
+        "service_name": "learn | hevo",
+        "fields": [
+          {
+            "value": "Nicholas Samuel",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "8 minutes",
+            "title": "Time to read",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "22f08cbd-d5e4-4b43-ba7f-d62b6cbbd031",
+    "type": "message",
+    "text": "<https://www.astronomer.io/blog/airflow-dbt-2/>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663700028.365659",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "u1Xm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.astronomer.io/blog/airflow-dbt-2/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.astronomer.io/blog/airflow-dbt-2/",
+        "image_url": "https://images.ctfassets.net/bsbv786nih7n/5jbv1uebmd980uqwmzpxyy/845d3a80f7e64ab75795b5431c80781e/astronomer_rebranded_dbt_airflow2.png",
+        "image_width": 448,
+        "image_height": 250,
+        "image_bytes": 41341,
+        "service_icon": "https://www.astronomer.io/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.astronomer.io/blog/airflow-dbt-2/",
+        "fallback": "scalable analytics architecture with airflow and dbt: 2 - astronomer",
+        "text": "see how to deploy airflow dags running locally and built from a dbt manifest.json file in production. learn to use dbt with broader etl or elt workflows.",
+        "title": "scalable analytics architecture with airflow and dbt: 2 - astronomer",
+        "title_link": "https://www.astronomer.io/blog/airflow-dbt-2/",
+        "service_name": "astronomer.io",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9988f557-0964-4146-8d2e-1f5282fb00b0",
+    "type": "message",
+    "text": "<https://www.youtube.com/playlist?list=ply4ocwimjzbljzlyxpxapumcwp8j1esvt>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663700158.711019",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h3q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/playlist?list=ply4ocwimjzbljzlyxpxapumcwp8j1esvt",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/playlist?list=ply4ocwimjzbljzlyxpxapumcwp8j1esvt",
+        "thumb_url": "https://i.ytimg.com/vi/5rnqurnnb4e/hqdefault.jpg?sqp=-oaymwewckgbef5iwvkriqkdcqgbfqaaieiyaq==&rs=aon4clcgqdoqyk2rozepfjw8lryty0ndmq&days_since_epoch=19255",
+        "thumb_width": 168,
+        "thumb_height": 94,
+        "service_icon": "https://www.youtube.com/s/desktop/363846af/img/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.youtube.com/playlist?list=ply4ocwimjzbljzlyxpxapumcwp8j1esvt",
+        "fallback": "youtube: data build tool (dbt)",
+        "text": "dbt (data build tool) is a game-changing tool for those using the modern cloud-based data stack. it enables data analysts and engineers to transform data in ...",
+        "title": "data build tool (dbt)",
+        "title_link": "https://www.youtube.com/playlist?list=ply4ocwimjzbljzlyxpxapumcwp8j1esvt",
+        "service_name": "youtube",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f818e560-cf4c-4d24-990d-198ff485c78c",
+    "type": "message",
+    "text": "<https://www.projectpro.io/recipes/use-postgresql-airflow-dag>",
+    "user": "U03UG1Z21JP",
+    "ts": "1663704777.418869",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1HZc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.projectpro.io/recipes/use-postgresql-airflow-dag",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.projectpro.io/recipes/use-postgresql-airflow-dag",
+        "service_icon": "http://daxg39y63pxwu.cloudfront.net/dezyre/images/favicon_io/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://www.projectpro.io/recipes/use-postgresql-airflow-dag",
+        "fallback": "projectpro: how to use the postgresql in the airflow dag -",
+        "text": "this recipe helps you use the postgresql in the airflow dag",
+        "title": "how to use the postgresql in the airflow dag -",
+        "title_link": "https://www.projectpro.io/recipes/use-postgresql-airflow-dag",
+        "service_name": "projectpro",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03V785NLSU"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "086ecd68-7162-4b33-be6f-c9a62878f340",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=p28piyy_wv8>",
+    "user": "U03UG5VFN03",
+    "ts": "1663704858.125869",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q8m",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=p28piyy_wv8",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Susan",
+      "real_name": "Susan Lewis",
+      "display_name": "Susan Lewis",
+      "team": "T03U4J8HMUG",
+      "name": "Susan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=p28piyy_wv8",
+        "thumb_url": "https://i.ytimg.com/vi/p28piyy_wv8/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/p28piyy_wv8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"docker tutorial for beginners | full course [2021]\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=p28piyy_wv8",
+        "fallback": "youtube video: docker tutorial for beginners | full course [2021]",
+        "title": "docker tutorial for beginners | full course [2021]",
+        "title_link": "https://www.youtube.com/watch?v=p28piyy_wv8",
+        "author_name": "amigoscode",
+        "author_link": "https://www.youtube.com/c/amigoscode",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f0d54529-7198-494a-8380-7061b1102d19",
+    "type": "message",
+    "text": "<https://medium.com/apache-airflow/apache-airflow-2-0-tutorial-41329bbf7211>",
+    "user": "U03UUR571A5",
+    "ts": "1663704902.454389",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "An2b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/apache-airflow/apache-airflow-2-0-tutorial-41329bbf7211",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/apache-airflow/apache-airflow-2-0-tutorial-41329bbf7211",
+        "ts": 1614093080,
+        "image_url": "https://miro.medium.com/max/1200/1*cvmer0we-ebggeqf8galtw.png",
+        "image_width": 798,
+        "image_height": 250,
+        "image_bytes": 123544,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://medium.com/apache-airflow/apache-airflow-2-0-tutorial-41329bbf7211",
+        "fallback": "medium: apache airflow 2.0 tutorial",
+        "text": "apache airflow is already a commonly used tool for scheduling data pipelines. but the upcoming airflow 2.0 is going to be a bigger thing\u2026",
+        "title": "apache airflow 2.0 tutorial",
+        "title_link": "https://medium.com/apache-airflow/apache-airflow-2-0-tutorial-41329bbf7211",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "11 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F04371NJ34J",
+        "created": 1663705502,
+        "timestamp": 1663705502,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03V785NLSU",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 639221,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F04371NJ34J/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F04371NJ34J/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04371NJ34J-a4654275be/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04371NJ34J-a4654275be/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04371NJ34J-a4654275be/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 346,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04371NJ34J-a4654275be/image_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 462,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04371NJ34J-a4654275be/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04371NJ34J-a4654275be/image_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 693,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04371NJ34J-a4654275be/image_800.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_800_w": 800,
+        "thumb_800_h": 831,
+        "thumb_960": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04371NJ34J-a4654275be/image_960.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_960_w": 924,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04371NJ34J-a4654275be/image_1024.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_1024_w": 986,
+        "thumb_1024_h": 1024,
+        "original_w": 3617,
+        "original_h": 3758,
+        "thumb_tiny": "AwAwAC6ggiwu4nPf0qQ/ZvLON27d+mf8KhRN5PIAHNDoyHDD6cdaAJGEG9trNt425/Wnzra7x5bHbjtzzVapDCwXI+bHJAB4oAj4ooAzQaAFTcWwmcn0p80rSEBwAVGKajtGwZDg+tCgySYLAE9SaAG1MryxxFsHa4xk0TW5iRW3qwPpT3gfyM+crKnbmi4FcUhpaSgAxTkJRgwGceoq1DOixKpkwR221J9oj/56/wDjtTzPsVyruVZZmlUKQAB6Cla4cxlNqgHrgVP50RYky/8AjtAmiOcy/wDjtUmQ1Yo80U5iCzEHvTaBn//Z",
+        "permalink": "https://10academybatch6.slack.com/files/U03V785NLSU/F04371NJ34J/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F04371NJ34J-ad19c8e41e",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03V785NLSU",
+    "display_as_bot": false,
+    "ts": "1663705514.133889",
+    "client_msg_id": "41a980d2-0dec-47e2-8f74-9fb3f549a412",
+    "thread_ts": "1663705514.133889",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1663706808.408719",
+    "reply_users": [
+      "U03UVHCV6KB"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1663706808.408719"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB",
+          "U03U9EJR362"
+        ],
+        "count": 2
+      }
+    ],
+    "blocks": null,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "40a6521c-d16f-4b20-9592-f8ae65380231",
+    "type": "message",
+    "text": "<https://forums.docker.com/t/docker-pull-results-in-request-canceled-while-waiting-for-connection-client-timeout-exceeded-while-awaiting-headers/73064|https://forums.docker.com/t/docker-pull-results-in-request-canceled-while-waiting-for-connection-client-timeout-exceeded-while-awaiting-headers/73064>",
+    "user": "U03UG0YHAUT",
+    "ts": "1663706185.509369",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h5w+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://forums.docker.com/t/docker-pull-results-in-request-canceled-while-waiting-for-connection-client-timeout-exceeded-while-awaiting-headers/73064",
+                "text": "https://forums.docker.com/t/docker-pull-results-in-request-canceled-while-waiting-for-connection-client-timeout-exceeded-while-awaiting-headers/73064"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://forums.docker.com/t/docker-pull-results-in-request-canceled-while-waiting-for-connection-client-timeout-exceeded-while-awaiting-headers/73064",
+        "ts": 1555215332,
+        "service_icon": "https://global.discourse-cdn.com/docker/optimized/3x/a/4/a4943a8f788d2b9e5d62636c83cdaa957e1594dc_2_180x180.png",
+        "id": 1,
+        "original_url": "https://forums.docker.com/t/docker-pull-results-in-request-canceled-while-waiting-for-connection-client-timeout-exceeded-while-awaiting-headers/73064",
+        "fallback": "docker community forums: docker pull results in \"request canceled while waiting for connection (client.timeout exceeded while awaiting headers)\"",
+        "text": "issue type \u2013 error when trying to pull docker containers from i am confronted with this error: using default tag: latest error response from daemon: get <https://registry-1.docker.io/v2/>: net/http: request canceled while waiting for connection (client.timeout exceeded while awaiting headers) os version ubuntu 18.04 (bionic) docker version client: version: 18.09.4 api version: 1.39 go version: go1.Joanne.8 git commit: d14af54266 built: wed mar 27 ...",
+        "title": "docker pull results in \"request canceled while waiting for connection (client.timeout exceeded while awaiting headers)\"",
+        "title_link": "https://forums.docker.com/t/docker-pull-results-in-request-canceled-while-waiting-for-connection-client-timeout-exceeded-while-awaiting-headers/73064",
+        "service_name": "docker community forums",
+        "fields": [
+          {
+            "value": "4 mins :clock2:",
+            "title": "Reading time",
+            "short": true
+          },
+          {
+            "value": "24 :heart:",
+            "title": "Likes",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2b31d858-7e8f-4b08-9e50-604b28a886b7",
+    "type": "message",
+    "text": "sometime a picture is truly worth a thousand words",
+    "user": "U03UVHCV6KB",
+    "ts": "1663706808.408719",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lvp68",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sometime a picture is truly worth a thousand words"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663705514.133889",
+    "parent_user_id": "U03V785NLSU",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "sometimes a picture is worth a thousand words.",
+    "files": [
+      {
+        "id": "F043475RR7F",
+        "created": 1663707398,
+        "timestamp": 1663707398,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UVHCV6KB",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 110100,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F043475RR7F/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F043475RR7F/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F043475RR7F-adbd495621/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F043475RR7F-adbd495621/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F043475RR7F-adbd495621/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 96,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F043475RR7F-adbd495621/image_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 128,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F043475RR7F-adbd495621/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F043475RR7F-adbd495621/image_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 192,
+        "thumb_800": "https://files.slack.com/files-tmb/T03U4J8HMUG-F043475RR7F-adbd495621/image_800.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_800_w": 800,
+        "thumb_800_h": 213,
+        "thumb_960": "https://files.slack.com/files-tmb/T03U4J8HMUG-F043475RR7F-adbd495621/image_960.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_960_w": 960,
+        "thumb_960_h": 255,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03U4J8HMUG-F043475RR7F-adbd495621/image_1024.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 272,
+        "original_w": 1244,
+        "original_h": 331,
+        "thumb_tiny": "AwAMADDT5pCcdSKTJpDg9QD+FAC0tNyaMmgB3NFJk0ZoA//Z",
+        "permalink": "https://10academybatch6.slack.com/files/U03UVHCV6KB/F043475RR7F/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F043475RR7F-74cd97604e",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UVHCV6KB",
+    "display_as_bot": false,
+    "ts": "1663707414.240039",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VREr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sometimes a picture is worth a thousand words."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "232a8a68-d499-4762-88ed-e68294c7d859",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "6459f758-2026-4456-acad-0c3e28e46e5d",
+    "type": "message",
+    "text": "<https://app.sendgrid.com/>\n\nsend emails free and easily when for example dags fail or when dbt faces errors",
+    "user": "U03UVHCV6KB",
+    "ts": "1663710044.832889",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QpLDM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://app.sendgrid.com/",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n\nsend emails free and easily when for example dags fail or when dbt faces errors"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://app.sendgrid.com/",
+        "service_icon": "https://app.sendgrid.com/icons-569f9425d703aac6c402ce69253149dd/apple-touch-icon-57x57.png",
+        "id": 1,
+        "original_url": "https://app.sendgrid.com/",
+        "fallback": "sendgrid",
+        "text": "delivering your transactional and marketing email through one reErinble platform.",
+        "title": "sendgrid",
+        "title_link": "https://app.sendgrid.com/",
+        "service_name": "twilio sendgrid",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1d6b329e-68cc-4a2b-b63a-cc7be0446c6d",
+    "type": "message",
+    "text": "and this video kind of cleared my questions on what exactly the differences are between dbt and airflow\n<https://www.youtube.com/watch?v=n7iithr8hgk>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663711257.727029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kmVM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "and this video kind of cleared my questions on what exactly the differences are between dbt and airflow\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=n7iithr8hgk",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=n7iithr8hgk",
+        "thumb_url": "https://i.ytimg.com/vi/n7iithr8hgk/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/n7iithr8hgk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"airflow with dbt core & cloud, dbt labs\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=n7iithr8hgk",
+        "fallback": "youtube video: airflow with dbt core & cloud, dbt labs",
+        "title": "airflow with dbt core &amp; cloud, dbt labs",
+        "title_link": "https://www.youtube.com/watch?v=n7iithr8hgk",
+        "author_name": "dbt",
+        "author_link": "https://www.youtube.com/c/dbt-labs",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1c65d0e7-335f-4748-8bc6-517c83e72788",
+    "type": "message",
+    "text": "<https://hevodata.com/learn/airflow-postgres-operator/>",
+    "user": "U03UUMR26Q1",
+    "ts": "1663711896.508079",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6wE7X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://hevodata.com/learn/airflow-postgres-operator/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "706054da5590",
+      "image_72": "https://avatars.slack-edge.com/2022-09-02/4051525321520_706054da55906fd18009_72.jpg",
+      "first_name": "Trevor",
+      "real_name": "Trevor Duffy",
+      "display_name": "Trevor Duffy",
+      "team": "T03U4J8HMUG",
+      "name": "Trevor",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://hevodata.com/learn/airflow-postgres-operator/",
+        "ts": 1643785175,
+        "image_url": "https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1643783579/hevo-learn/airflow-postgres-operator-fi/airflow-postgres-operator-fi.png?_i=aa",
+        "image_width": 442,
+        "image_height": 250,
+        "image_bytes": 24957,
+        "service_icon": "https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1587655389/logo-8/logo-8.png?_i=aa",
+        "id": 1,
+        "original_url": "https://hevodata.com/learn/airflow-postgres-operator/",
+        "fallback": "learn | hevo: airflow postgres operator Joanne1: how to connect and execute operations? - learn | hevo",
+        "text": "this blog talks about the different steps you can take to establish airflow postgres operator seamlessly. it also gives a brief introduction to apache airflow.",
+        "title": "airflow postgres operator Joanne1: how to connect and execute operations? - learn | hevo",
+        "title_link": "https://hevodata.com/learn/airflow-postgres-operator/",
+        "service_name": "learn | hevo",
+        "fields": [
+          {
+            "value": "Amit Phaujdar",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "16 minutes",
+            "title": "Time to read",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03U9EJR362"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "791871e4-78b7-4562-87aa-2cf1fd96f74c",
+    "type": "message",
+    "text": "<https://www.crunchydata.com/blog/easy-postgresql-Joanne-and-pgjoanne-4-setup-with-docker>",
+    "user": "U03U9EJR362",
+    "ts": "1663721998.402919",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ETov",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.crunchydata.com/blog/easy-postgresql-Joanne-and-pgjoanne-4-setup-with-docker",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Catherine",
+      "real_name": "Catherine Campos",
+      "display_name": "Catherine Campos",
+      "team": "T03U4J8HMUG",
+      "name": "Catherine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.crunchydata.com/blog/easy-postgresql-Joanne-and-pgjoanne-4-setup-with-docker",
+        "image_url": "https://cdn2.hubspot.net/hubfs/2283855/2018.02.05.jpg",
+        "image_width": 478,
+        "image_height": 250,
+        "image_bytes": 99239,
+        "service_icon": "https://www.crunchydata.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.crunchydata.com/blog/easy-postgresql-Joanne-and-pgjoanne-4-setup-with-docker",
+        "fallback": "crunchy data: easy postgresql Joanne and pgjoanne 4 setup with docker",
+        "text": "easy setup and installation for postgresql Joanne and pgjoanne 4 with docker and open source containers packaged by crunchy data.",
+        "title": "easy postgresql Joanne and pgjoanne 4 setup with docker",
+        "title_link": "https://www.crunchydata.com/blog/easy-postgresql-Joanne-and-pgjoanne-4-setup-with-docker",
+        "service_name": "crunchy data",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c8b4b162-446f-4bcf-9eeb-73e91f2d63e5",
+    "type": "message",
+    "text": "<https://thedatasoup.com/data-ingestion-running-a-pipeline-with-python-postgres-and-pgJoanne-using-docker/>",
+    "user": "U03U9EJR362",
+    "ts": "1663722043.454669",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DYfZe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://thedatasoup.com/data-ingestion-running-a-pipeline-with-python-postgres-and-pgJoanne-using-docker/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Catherine",
+      "real_name": "Catherine Campos",
+      "display_name": "Catherine Campos",
+      "team": "T03U4J8HMUG",
+      "name": "Catherine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://thedatasoup.com/data-ingestion-running-a-pipeline-with-python-postgres-and-pgJoanne-using-docker/",
+        "ts": 1644611507,
+        "image_url": "https://static.ghost.org/v4.0.0/images/publication-cover.jpg",
+        "image_width": 622,
+        "image_height": 250,
+        "image_bytes": 585006,
+        "service_icon": "https://thedatasoup.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://thedatasoup.com/data-ingestion-running-a-pipeline-with-python-postgres-and-pgJoanne-using-docker/",
+        "fallback": "the data soup: data ingestion: running a pipeline with python, postgres and pgJoanne using docker",
+        "text": "in this tutorial we will use \u00a0docker to run a python script to ingest a csv to a postgres database and use pgJoanne to query the data. the plan:running postgres and pgJoanne with docker-composecreating an ingestion script with pythonconnecting the ingestion script to postgres with sqlalchemydockerizing the ingestion scriptperforming",
+        "title": "data ingestion: running a pipeline with python, postgres and pgJoanne using docker",
+        "title_link": "https://thedatasoup.com/data-ingestion-running-a-pipeline-with-python-postgres-and-pgJoanne-using-docker/",
+        "service_name": "the data soup",
+        "fields": [
+          {
+            "value": "Lyes Dehili",
+            "title": "Written by",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "pray",
+        "users": [
+          "U03UH397319"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1a4a80ba-6453-4d0b-9c41-6282231ca8a7",
+    "type": "message",
+    "text": "solutions for problem that occur during wsl installation <https://learn.microsoft.com/en-us/windows/wsl/troubleshooting>",
+    "user": "U03V5Q9N516",
+    "ts": "1663728906.711619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SQpG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "solutions for problem that occur during wsl installation "
+              },
+              {
+                "type": "link",
+                "url": "https://learn.microsoft.com/en-us/windows/wsl/troubleshooting",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g164928c3a69",
+      "image_72": "https://secure.gravatar.com/avatar/164928c3a69af29d42a5e90b928e2f71.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Steven",
+      "real_name": "Steven Haas",
+      "display_name": "Steven Haas",
+      "team": "T03U4J8HMUG",
+      "name": "Steven",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://learn.microsoft.com/en-us/windows/wsl/troubleshooting",
+        "thumb_url": "https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png",
+        "thumb_width": 400,
+        "thumb_height": 400,
+        "service_icon": "https://learn.microsoft.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://learn.microsoft.com/en-us/windows/wsl/troubleshooting",
+        "fallback": "troubleshooting windows subsystem for linux",
+        "text": "provides detailed information about common errors and issues people run into while running linux on the windows subsystem for linux.",
+        "title": "troubleshooting windows subsystem for linux",
+        "title_link": "https://learn.microsoft.com/en-us/windows/wsl/troubleshooting",
+        "service_name": "learn.microsoft.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f9e9c78f-eb58-495a-993a-437305157db9",
+    "type": "message",
+    "text": "<https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#2-install-wsl>",
+    "user": "U03V5Q9N516",
+    "ts": "1663730305.954979",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FvMUi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#2-install-wsl",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g164928c3a69",
+      "image_72": "https://secure.gravatar.com/avatar/164928c3a69af29d42a5e90b928e2f71.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Steven",
+      "real_name": "Steven Haas",
+      "display_name": "Steven Haas",
+      "team": "T03U4J8HMUG",
+      "name": "Steven",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#2-install-wsl",
+        "image_url": "https://assets.ubuntu.com/v1/ebdfffbf-aubergine_suru_background.png",
+        "image_width": 915,
+        "image_height": 250,
+        "image_bytes": 4435,
+        "service_icon": "https://assets.ubuntu.com/v1/17b68252-apple-touch-icon-180x180-precomposed-ubuntu.png",
+        "id": 1,
+        "original_url": "https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#2-install-wsl",
+        "fallback": "ubuntu: install ubuntu on wsl2 on windows 11 with gui support | ubuntu",
+        "text": "ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things.",
+        "title": "install ubuntu on wsl2 on windows 11 with gui support | ubuntu",
+        "title_link": "https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#2-install-wsl",
+        "service_name": "ubuntu",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5e2a5f31-cb41-4829-95c3-9bb6c90cfbc4",
+    "type": "message",
+    "text": "<https://docs.getdbt.com/reference/warehouse-profiles/postgres-profile>",
+    "user": "U03UJGRN5E0",
+    "ts": "1663738009.727969",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LL6e6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.getdbt.com/reference/warehouse-profiles/postgres-profile",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://docs.getdbt.com/reference/warehouse-profiles/postgres-profile",
+        "image_url": "https://docs.getdbt.com/img/avatar.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 40717,
+        "service_icon": "https://docs.getdbt.com/img/favicon.ico",
+        "id": 1,
+        "original_url": "https://docs.getdbt.com/reference/warehouse-profiles/postgres-profile",
+        "fallback": "postgres profile | dbt docs",
+        "text": "overview of dbt-postgres",
+        "title": "postgres profile | dbt docs",
+        "title_link": "https://docs.getdbt.com/reference/warehouse-profiles/postgres-profile",
+        "service_name": "docs.getdbt.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "028a4d66-9117-4b08-a536-3570c243bcf3",
+    "type": "message",
+    "text": "hi <!here>, links from lena (<https://twitter.com/gigahierz>)\n\nhello Lawrence,\n\n\nthank you again for the invitation and connecting me with your amazing community. there were a lot of interesting questions.\n\nsome daos to follow/join:\nbankless dao: <https://bankless.notion.site/banklessdao-82ba81e7da1c42adb7c4ab67a4f22e8f>\ndeveloper dao: <https://www.developerdao.com/de?ref=remote3.co>\nblack leaders dao: <https://blackleadersdao.webflow.io>\n\nfemale led daos:\nbaddies in tech: <https://www.baddiesintech.com>\nh.e.r. dao: <https://linktr.ee/h.e.r.dao>\nblu3 dao: <https://www.blu3dao.com>\nwomen build web3: <https://www.womenbuildweb3.com>\n\nweb3 educator:\nmabel tech : <https://www.instagram.com/mabel.tech/>\nafrishan: <https://twitter.com/afrishan>\nlink to all my socials:<https://linktr.ee/gigahierz>\n\n\nweb3 communites:\nnigeria: <https://twitter.com/metablocks_>\nkenya:\n\u2022 <https://www.instagram.com/kenyannftclub/>\n\u2022 <https://twitter.com/herdao_kenya>\nplease send me more so i can promote them.\n\n\nweb3 educational programms:\n\nekolance (coding): <https://www.linkedin.com/company/ekolance/>\nencode club (coding): <https://www.encode.club>\nniyo network (coding, women): <https://niyonetwork.com>\n\nunit masters (base knowledge): <https://www.unitmasters.org>\nshefi (defi women): <https://www.shefi.org>\nkernel (product): <https://www.kernel.community/en/>\ndlt talents (women): <https://my.dlt-talents.com>\n\n (<https://linktr.ee/h.e.r.dao>",
+    "user": "U03U93GNNVB",
+    "ts": "1663739574.902659",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UZa=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hi "
+              },
+              {
+                "type": "broadcast",
+                "range": "here"
+              },
+              {
+                "type": "text",
+                "text": ", links from lena ("
+              },
+              {
+                "type": "link",
+                "url": "https://twitter.com/gigahierz",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": ")\n\nhello Lawrence,\n\n\nthank you again for the invitation and connecting me with your amazing community. there were a lot of interesting questions.\n\nsome daos to follow/join:\nbankless dao: "
+              },
+              {
+                "type": "link",
+                "url": "https://bankless.notion.site/banklessdao-82ba81e7da1c42adb7c4ab67a4f22e8f",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\ndeveloper dao: "
+              },
+              {
+                "type": "link",
+                "url": "https://www.developerdao.com/de?ref=remote3.co",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\nblack leaders dao: "
+              },
+              {
+                "type": "link",
+                "url": "https://blackleadersdao.webflow.io",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n\nfemale led daos:\nbaddies in tech: "
+              },
+              {
+                "type": "link",
+                "url": "https://www.baddiesintech.com",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\nh.e.r. dao: "
+              },
+              {
+                "type": "link",
+                "url": "https://linktr.ee/h.e.r.dao",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\nblu3 dao: "
+              },
+              {
+                "type": "link",
+                "url": "https://www.blu3dao.com",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\nwomen build web3: "
+              },
+              {
+                "type": "link",
+                "url": "https://www.womenbuildweb3.com",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n\nweb3 educator:\nmabel tech : "
+              },
+              {
+                "type": "link",
+                "url": "https://www.instagram.com/mabel.tech/",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\nafrishan: "
+              },
+              {
+                "type": "link",
+                "url": "https://twitter.com/afrishan",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\nlink to all my socials:"
+              },
+              {
+                "type": "link",
+                "url": "https://linktr.ee/gigahierz",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n\n\nweb3 communites:\nnigeria: "
+              },
+              {
+                "type": "link",
+                "url": "https://twitter.com/metablocks_",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\nkenya:\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "link",
+                    "url": "https://www.instagram.com/kenyannftclub/"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "link",
+                    "url": "https://twitter.com/HERDAO_Kenya"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "please send me more so i can promote them.\n\n\nweb3 educational programms:\n\nekolance (coding): "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/company/ekolance/",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\nencode club (coding): "
+              },
+              {
+                "type": "link",
+                "url": "https://www.encode.club",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\nniyo network (coding, women): "
+              },
+              {
+                "type": "link",
+                "url": "https://niyonetwork.com",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n\nunit masters (base knowledge): "
+              },
+              {
+                "type": "link",
+                "url": "https://www.unitmasters.org",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\nshefi (defi women): "
+              },
+              {
+                "type": "link",
+                "url": "https://www.shefi.org",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\nkernel (product): "
+              },
+              {
+                "type": "link",
+                "url": "https://www.kernel.community/en/",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\ndlt talents (women): "
+              },
+              {
+                "type": "link",
+                "url": "https://my.dlt-talents.com",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n\n ("
+              },
+              {
+                "type": "link",
+                "url": "https://linktr.ee/h.e.r.dao",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "pray",
+        "users": [
+          "U03UH397319",
+          "U03U9EJR362"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  }
+]

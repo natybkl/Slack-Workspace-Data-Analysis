@@ -1,0 +1,499 @@
+[
+  {
+    "client_msg_id": "38452c3c-9bb4-409d-8853-38595f059cec",
+    "type": "message",
+    "text": "what does this mean? <https://ai.facebook.com/blog/pytorch-foundation/>",
+    "user": "U03U93GNNVB",
+    "ts": "1663055834.765049",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=Cq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what does this mean? "
+              },
+              {
+                "type": "link",
+                "url": "https://ai.facebook.com/blog/pytorch-foundation/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://ai.facebook.com/blog/pytorch-foundation/",
+        "service_icon": "https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/wujbsvi4ruf.png",
+        "id": 1,
+        "original_url": "https://ai.facebook.com/blog/pytorch-foundation/",
+        "fallback": "announcing the pytorch foundation: a new era for the cutting-edge ai framework",
+        "text": "pytorch is moving to a new, independent pytorch foundation. the project will join the linux foundation with a diverse governing board composed of representatives from amd, amazon web services, Stephanie cloud, meta, microsoft azure, and nvidia, with the intention to expand over time.",
+        "title": "announcing the pytorch foundation: a new era for the cutting-edge ai framework",
+        "title_link": "https://ai.facebook.com/blog/pytorch-foundation/",
+        "service_name": "ai.facebook.com",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1663055834.765049",
+    "reply_count": 6,
+    "reply_users_count": 2,
+    "latest_reply": "1663129146.014529",
+    "reply_users": [
+      "U03U1GHT39V",
+      "U03U93GNNVB"
+    ],
+    "replies": [
+      {
+        "user": "U03U1GHT39V",
+        "ts": "1663056131.472819"
+      },
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1663056169.763379"
+      },
+      {
+        "user": "U03U1GHT39V",
+        "ts": "1663056311.793419"
+      },
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1663056596.339899"
+      },
+      {
+        "user": "U03U1GHT39V",
+        "ts": "1663056870.333329"
+      },
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1663129146.014529"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "2c4a9baa-e7cc-4859-857b-f36869dba88e",
+    "type": "message",
+    "text": "it means pytorch wont be in the company\u2019s [meta/facebook] direct control it will become its own entity, the pytorch foundation, a subsidiary within the larger linux foundation.",
+    "user": "U03U1GHT39V",
+    "ts": "1663056131.472819",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DeOW=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it means pytorch wont be in the company\u2019s [meta/facebook] direct control it will become its own entity, the pytorch foundation, a subsidiary within the larger linux foundation."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f5bb15f03854",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965163973445_f5bb15f03854384b8288_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Montgomery",
+      "display_name": "Daniel Montgomery",
+      "team": "T03U4J8HMUG",
+      "name": "Daniel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663055834.765049",
+    "parent_user_id": "U03U93GNNVB",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "20f18fe4-b1ef-448f-a50d-98f5a993d99a",
+    "type": "message",
+    "text": "got that <@u03u1ght39v> - but what does it mean in terms of competition with other frameworks, and development",
+    "user": "U03U93GNNVB",
+    "ts": "1663056169.763379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E1=gx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "got that "
+              },
+              {
+                "type": "user",
+                "user_id": "U03U1GHT39V"
+              },
+              {
+                "type": "text",
+                "text": " - but what does it mean in terms of competition with other frameworks, and development"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663055834.765049",
+    "parent_user_id": "U03U93GNNVB",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "278e8433-2ebc-432c-bf20-dd93a6bead87",
+    "type": "message",
+    "text": "i am thinking lots of contribution to the development of pytorch from the ai community",
+    "user": "U03U1GHT39V",
+    "ts": "1663056311.793419",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "000zx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i am thinking lots of contribution to the development of pytorch from the ai community"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f5bb15f03854",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965163973445_f5bb15f03854384b8288_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Montgomery",
+      "display_name": "Daniel Montgomery",
+      "team": "T03U4J8HMUG",
+      "name": "Daniel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663055834.765049",
+    "parent_user_id": "U03U93GNNVB",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "35abd4a8-39db-4d83-b88f-5319e66bd6f6",
+    "type": "message",
+    "text": "what about tensorflow vs pytorch?",
+    "user": "U03U93GNNVB",
+    "ts": "1663056596.339899",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FTN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what about tensorflow vs pytorch?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663055834.765049",
+    "parent_user_id": "U03U93GNNVB",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "bb039f9f-b4ac-4323-820f-e8f477e06047",
+    "type": "message",
+    "text": "tensorflow is still maintained by Stephanie, Stephanie has this tpu hardware to train huge deep learning models, the device was designed to on tensorflow code base",
+    "user": "U03U1GHT39V",
+    "ts": "1663056870.333329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FTveB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "tensorflow is still maintained by Stephanie, Stephanie has this tpu hardware to train huge deep learning models, the device was designed to on tensorflow code base"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f5bb15f03854",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965163973445_f5bb15f03854384b8288_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Montgomery",
+      "display_name": "Daniel Montgomery",
+      "team": "T03U4J8HMUG",
+      "name": "Daniel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663055834.765049",
+    "parent_user_id": "U03U93GNNVB",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "645f3443-d6e7-4a69-a6a3-b92363440abd",
+    "type": "message",
+    "text": "<https://www.theguardian.com/technology/2022/sep/13/unboxing-bad-baby-evil-santa-youtube-swamped-creepy-kids-content>",
+    "user": "U03U93GNNVB",
+    "ts": "1663129125.860079",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZaO=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.theguardian.com/technology/2022/sep/13/unboxing-bad-baby-evil-santa-youtube-swamped-creepy-kids-content",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.theguardian.com/technology/2022/sep/13/unboxing-bad-baby-evil-santa-youtube-swamped-creepy-kids-content",
+        "ts": 1663045207,
+        "image_url": "https://i.guim.co.uk/img/media/2b30abfb11bcdde37897e88372c9c1e6fcbd9e0d/1_0_3139_1884/master/3139.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2cleft&overlay-width=Joanne0p&overlay-base64=l2ltzy9zdgf0awmvb3zlcmxhexmvdgctzgvmyxvsdc5wbmc&enable=upscale&s=5189f1cee2b026717bf856e89200cac3",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 132623,
+        "service_icon": "https://static.guim.co.uk/images/favicon-32x32.ico",
+        "id": 1,
+        "original_url": "https://www.theguardian.com/technology/2022/sep/13/unboxing-bad-baby-evil-santa-youtube-swamped-creepy-kids-content",
+        "fallback": "the guardian: unboxing, bad baby and evil santa: how youtube got swamped with creepy content for kids",
+        "text": "the long read: when children first started flocking to youtube, some seriously strange stuff started to appear \u2013 and after much outcry, the company found itself scrambling to fix the problem",
+        "title": "unboxing, bad baby and evil santa: how youtube got swamped with creepy content for kids",
+        "title_link": "https://www.theguardian.com/technology/2022/sep/13/unboxing-bad-baby-evil-santa-youtube-swamped-creepy-kids-content",
+        "service_name": "the guardian",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d95a229c-b737-445b-90c9-60bd8e513643",
+    "type": "message",
+    "text": "do we think this will change the race between tensorflow and pytorch?  is there a race?",
+    "user": "U03U93GNNVB",
+    "ts": "1663129146.014529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aVDGx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "do we think this will change the race between tensorflow and pytorch?  is there a race?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663055834.765049",
+    "parent_user_id": "U03U93GNNVB",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c98d704f-e812-4737-8fc3-5fda74cabc39",
+    "type": "message",
+    "text": "a thought for today:\nmost people are mirrors, reflecting the moods and emotions of the times; few are windows, bringing light to bear on the dark corners where troubles fester. the whole purpose of education is to turn mirrors into windows. -sydney j. harris, journalist and author (14 sep 1917-1986)",
+    "user": "U03U93GNNVB",
+    "ts": "1663136297.011759",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZSTQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "a thought for today:\nmost people are mirrors, reflecting the moods and emotions of the times; few are windows, bringing light to bear on the dark corners where troubles fester. the whole purpose of education is to turn mirrors into windows. -sydney j. harris, journalist and author (14 sep 1917-1986)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7TUTV",
+          "U03UVHCV6KB",
+          "U03UG4Q7V42",
+          "U03U9DB7REG",
+          "U03U1HAG9TR"
+        ],
+        "count": 5
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1eec7299-24e7-4118-a514-8c97ae89ffad",
+    "type": "message",
+    "text": "<https://twitter.com/pazunre/status/1569743778524680192>",
+    "user": "U03U93GNNVB",
+    "ts": "1663137217.277019",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "U32Si",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://twitter.com/pazunre/status/1569743778524680192",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  }
+]

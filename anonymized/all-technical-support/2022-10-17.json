@@ -1,0 +1,268 @@
+[
+  {
+    "client_msg_id": "3a92899d-b434-43f2-baf3-99769cbf3858",
+    "type": "message",
+    "text": "hello, i can't get access to our group aws instance since yesterday. what's the reason?",
+    "user": "U03UD68RQH3",
+    "ts": "1665991331.193779",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ufhph",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello, i can't get access to our group aws instance since yesterday. what's the reason?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665991331.193779",
+    "reply_count": 4,
+    "reply_users_count": 2,
+    "latest_reply": "1665995285.105619",
+    "reply_users": [
+      "U03TEPYRM2P",
+      "U03U93GNNVB"
+    ],
+    "replies": [
+      {
+        "user": "U03TEPYRM2P",
+        "ts": "1665991535.261289"
+      },
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1665995255.287059"
+      },
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1665995265.497859"
+      },
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1665995285.105619"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1665995285.105619",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5DB4BC7E-34C0-43BA-A8CC-47591F399D09",
+    "type": "message",
+    "text": "<@u03ukl27b0r> <@u03up7v9q57> ",
+    "user": "U03TEPYRM2P",
+    "ts": "1665991535.261289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OHOd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UP7V9Q57"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Bridget",
+      "real_name": "Bridget Glover",
+      "display_name": "Bridget Glover",
+      "team": "T03U4J8HMUG",
+      "name": "Bridget",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665991331.193779",
+    "parent_user_id": "U03UD68RQH3",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UD68RQH3"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "efb8fc11-7047-42b0-9d0c-f0a9dbaa6aba",
+    "type": "message",
+    "text": "<@u03ud68rqh3> it's down",
+    "user": "U03U93GNNVB",
+    "ts": "1665995255.287059",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p=t=e",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UD68RQH3"
+              },
+              {
+                "type": "text",
+                "text": " it's down"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665991331.193779",
+    "parent_user_id": "U03UD68RQH3",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "f09c43db-1b49-45e7-865b-622086d1f15f",
+    "type": "message",
+    "text": "aws is $$$ - we take them down post-challenge",
+    "user": "U03U93GNNVB",
+    "ts": "1665995265.497859",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bqO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "aws is $$$ - we take them down post-challenge"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665991331.193779",
+    "parent_user_id": "U03UD68RQH3",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0677d896-fe90-46dd-b1bd-81d27fcda444",
+    "type": "message",
+    "text": "happy to spin the instance back up for you for Joanne0 birr",
+    "user": "U03U93GNNVB",
+    "ts": "1665995285.105619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4iAj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "happy to spin the instance back up for you for Joanne0 birr"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665991331.193779",
+    "parent_user_id": "U03UD68RQH3",
+    "reactions": [
+      {
+        "name": "smiley",
+        "users": [
+          "U03U1FNPEUX"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  }
+]

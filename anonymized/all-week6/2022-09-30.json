@@ -1,0 +1,406 @@
+[
+  {
+    "client_msg_id": "feab634c-ca1a-4ad1-994c-ef7e1bb6d6d5",
+    "type": "message",
+    "text": "<!channel> join us for the last standup of the week and the month. <https://meet.Stephanie.com/ysb-kjdn-hpp>",
+    "user": "U03TEPYRM2P",
+    "ts": "1664525025.548629",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aFX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " join us for the last standup of the week and the month. "
+              },
+              {
+                "type": "link",
+                "url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Bridget",
+      "real_name": "Bridget Glover",
+      "display_name": "Bridget Glover",
+      "team": "T03U4J8HMUG",
+      "name": "Bridget",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "thumb_height": 192,
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "id": 1,
+        "original_url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "fallback": "meet",
+        "text": "real-time meetings by Stephanie. using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "title": "meet",
+        "title_link": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "service_name": "meet.Stephanie.com",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03TT5KEYCF"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "tombstone",
+    "text": "this message was deleted.",
+    "user": "USLACKBOT",
+    "hidden": true,
+    "ts": "1664546673.281359",
+    "thread_ts": "1664546673.281359",
+    "parent_user_id": "USLACKBOT",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1664546858.123449",
+    "reply_users": [
+      "U03U1HAG9TR"
+    ],
+    "replies": [
+      {
+        "user": "U03U1HAG9TR",
+        "ts": "1664546858.123449"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": null,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "04682215-4757-4fc0-87b4-4f7fedf0b087",
+    "type": "message",
+    "text": "<https://meet.Stephanie.com/ysb-kjdn-hpp>\nsession link",
+    "user": "U03V6HMRPGQ",
+    "ts": "1664546739.439469",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZD5I",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\nsession link"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "thumb_height": 192,
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "id": 1,
+        "original_url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "fallback": "meet",
+        "text": "real-time meetings by Stephanie. using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "title": "meet",
+        "title_link": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "service_name": "meet.Stephanie.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2dbb4bc2-a72a-4161-a0f6-24694ee1ec09",
+    "type": "message",
+    "text": "yeah",
+    "user": "U03U1HAG9TR",
+    "ts": "1664546858.123449",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kavN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "4e4331305ef1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980783297649_4e4331305ef102cc4346_72.jpg",
+      "first_name": "Melanie",
+      "real_name": "Melanie Cole",
+      "display_name": "Melanie Cole",
+      "team": "T03U4J8HMUG",
+      "name": "Melanie",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664546673.281359",
+    "parent_user_id": "USLACKBOT",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2df5a24f-9dd6-4d3a-8cae-4ceb080861df",
+    "type": "message",
+    "text": "<!channel>\nther is a section that says\n\u2022 link to your deployed dapp\non the submission. any suggestions?\n<@u03v8lhpdme> <@u03u9db7reg> <@u03ukl27b0r>",
+    "user": "U03UVHCV6KB",
+    "ts": "1664605706.762079",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SX=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\nther is a section that says\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Link to your deployed dApp"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "on the submission. any suggestions?\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U03V8LHPDME"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03U9DB7REG"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UVHCV6KB",
+      "ts": "1664605734.000000"
+    },
+    "thread_ts": "1664605706.762079",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1664608021.850469",
+    "reply_users": [
+      "U03U9DB7REG",
+      "U03UVHCV6KB"
+    ],
+    "replies": [
+      {
+        "user": "U03U9DB7REG",
+        "ts": "1664607266.298479"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1664608021.850469"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e4d73e79-9efc-437a-abb8-fbf7b36996ac",
+    "type": "message",
+    "text": "you can just deploy your front-end &amp; back-end part on netlify or heroku and submit that link.",
+    "user": "U03U9DB7REG",
+    "ts": "1664607266.298479",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T334",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you can just deploy your front-end & back-end part on netlify or heroku and submit that link."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "10b2063307e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3958997027442_10b2063307e91bfe2157_72.png",
+      "first_name": "Dawn",
+      "real_name": "Dawn Green",
+      "display_name": "Dawn Green",
+      "team": "T03U4J8HMUG",
+      "name": "Dawn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664605706.762079",
+    "parent_user_id": "U03UVHCV6KB",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "11d53e00-0440-4d29-b314-4b732c965104",
+    "type": "message",
+    "text": "where you able to solve this?",
+    "user": "U03U9DB7REG",
+    "ts": "1664607307.915149",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dxv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "where you able to solve this?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "10b2063307e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3958997027442_10b2063307e91bfe2157_72.png",
+      "first_name": "Dawn",
+      "real_name": "Dawn Green",
+      "display_name": "Dawn Green",
+      "team": "T03U4J8HMUG",
+      "name": "Dawn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664476854.945189",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  }
+]

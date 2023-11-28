@@ -1,0 +1,386 @@
+[
+  {
+    "client_msg_id": "c28f8db4-45bb-46e4-954a-cdf8c10e834c",
+    "type": "message",
+    "text": "<!here> we're on gmeet...if you're online join us",
+    "user": "U03UJGP0C68",
+    "ts": "1663139588.116659",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "F8p/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "here"
+              },
+              {
+                "type": "text",
+                "text": " we're on gmeet...if you're online join us"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d6a71e20-720f-4996-a2c1-1039c58de7bc",
+    "type": "message",
+    "text": "<@u03uh397319> <https://anderfernandez.com/en/blog/how-to-create-api-python/>",
+    "user": "U03UJGP0C68",
+    "ts": "1663142046.799109",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5yZx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UH397319"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "https://anderfernandez.com/en/blog/how-to-create-api-python/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://anderfernandez.com/en/blog/how-to-create-api-python/",
+        "ts": 1622522325,
+        "image_url": "https://anderfernandez.com/wp-content/uploads/2021/05/como-crear-apis-en-python.jpg",
+        "image_width": 432,
+        "image_height": 250,
+        "image_bytes": 7179,
+        "service_icon": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_180,h_180/https://anderfernandez.com/wp-content/uploads/2019/07/cropped-faviconajustado-180x180.png",
+        "id": 1,
+        "original_url": "https://anderfernandez.com/en/blog/how-to-create-api-python/",
+        "fallback": "ander fern\u00e1ndez: how to create an api in python - ander fern\u00e1ndez",
+        "text": "in this post i explain how you can create an api in python. for this i explain the two of the main frameworks: fastapi and flask.",
+        "title": "how to create an api in python - ander fern\u00e1ndez",
+        "title_link": "https://anderfernandez.com/en/blog/how-to-create-api-python/",
+        "service_name": "ander fern\u00e1ndez",
+        "fields": [
+          {
+            "value": "Ander Fern\u00e1ndez Jauregui",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "14 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03U1HAG9TR",
+          "U03UG4Q7V42"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "bad8d85f-91df-4e89-96b3-eb46b721dd84",
+    "type": "message",
+    "text": "when running your api try `python3 -m uvicorn main:app --reload` or `python -m uvicorn main:app --reload`",
+    "user": "U03UJGP0C68",
+    "ts": "1663142094.022539",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VP1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "when running your api try "
+              },
+              {
+                "type": "text",
+                "text": "python3 -m uvicorn main:app --reload ",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "or "
+              },
+              {
+                "type": "text",
+                "text": "python -m uvicorn main:app --reload",
+                "style": {
+                  "code": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UJGP0C68",
+      "ts": "1663142116.000000"
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "cd8f2d9b-0e2e-4a24-97f5-1f109387f22e",
+    "type": "message",
+    "text": "well received with thanks <@u03ujgp0c68>",
+    "user": "U03UH397319",
+    "ts": "1663142486.253059",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lRek",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "well received with thanks "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UJGP0C68"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5c6a2191-b45d-45ab-8aff-f7709c89555e",
+    "type": "message",
+    "text": "good afternoon everyone. i am sorry for having missed the meeting earlier. i am not feeling well today.",
+    "user": "U03UJKJGRAQ",
+    "ts": "1663151073.400859",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vgHq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "good afternoon everyone. i am sorry for having missed the meeting earlier. i am not feeling well today."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3d318a55b9e2",
+      "image_72": "https://avatars.slack-edge.com/2022-10-03/4158852852038_3d318a55b9e221ad2cb3_72.jpg",
+      "first_name": "Kenneth",
+      "real_name": "Kenneth Williams",
+      "display_name": "Kenneth Williams",
+      "team": "T03U4J8HMUG",
+      "name": "Kenneth",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663151073.400859",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1663154349.239879",
+    "reply_users": [
+      "U03UH397319",
+      "U03UJKJGRAQ"
+    ],
+    "replies": [
+      {
+        "user": "U03UH397319",
+        "ts": "1663151654.034779"
+      },
+      {
+        "user": "U03UJKJGRAQ",
+        "ts": "1663154349.239879"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "dbcfd2c1-e160-4bf5-9aa6-0b922a232136",
+    "type": "message",
+    "text": "sorry for your health <@u03ujkjgraq> get well soon",
+    "user": "U03UH397319",
+    "ts": "1663151654.034779",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DDh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sorry for your health "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UJKJGRAQ"
+              },
+              {
+                "type": "text",
+                "text": " get well soon"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663151073.400859",
+    "parent_user_id": "U03UJKJGRAQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "675331b3-a64b-4764-9da8-d5eef5e79361",
+    "type": "message",
+    "text": "thank you",
+    "user": "U03UJKJGRAQ",
+    "ts": "1663154349.239879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E2ry8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3d318a55b9e2",
+      "image_72": "https://avatars.slack-edge.com/2022-10-03/4158852852038_3d318a55b9e221ad2cb3_72.jpg",
+      "first_name": "Kenneth",
+      "real_name": "Kenneth Williams",
+      "display_name": "Kenneth Williams",
+      "team": "T03U4J8HMUG",
+      "name": "Kenneth",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663151073.400859",
+    "parent_user_id": "U03UJKJGRAQ",
+    "attachments": null
+  }
+]

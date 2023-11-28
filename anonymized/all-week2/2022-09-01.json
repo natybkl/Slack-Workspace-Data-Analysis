@@ -1,0 +1,4655 @@
+[
+  {
+    "client_msg_id": "95a5484e-db56-4e52-bcdc-eb8ee288b27e",
+    "type": "message",
+    "text": "hmm i was confused too, thank you, i got it now.",
+    "user": "U03UGB3T3MY",
+    "ts": "1662016120.578259",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G4f/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hmm i was confused too, thank you, i got it now."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "bc7bd41571eb",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3981003133089_bc7bd41571eb59dd063d_72.jpg",
+      "first_name": "Allison",
+      "real_name": "Allison Berry",
+      "display_name": "Allison Berry",
+      "team": "T03U4J8HMUG",
+      "name": "Allison",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661977007.796809",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1bfe3a43-1d51-480a-8712-ec079a00d19f",
+    "type": "message",
+    "text": "i think for the machine learning part you should use the groups that has more sample.",
+    "user": "U03UUR571A5",
+    "ts": "1662016473.313379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oMq1W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think for the machine learning part you should use the groups that has more sample."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661981163.395879",
+    "parent_user_id": "U03UH397319",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UUN8M4RX"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2935fc39-63d8-46f0-90a3-fc8e23380718",
+    "type": "message",
+    "text": "in general, yes do only what makes sense - model only when you have sufficient data (definitely not those with less than 30 rows)",
+    "user": "U03UUN8M4RX",
+    "ts": "1662019536.014619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sui=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "in general, yes do only what makes sense - model only when you have sufficient data (definitely not those with less than 30 rows)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "bc5543c34cbf",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965164038549_bc5543c34cbf4cc3f27d_72.png",
+      "first_name": "Matthew",
+      "real_name": "Matthew Rodriguez",
+      "display_name": "Matthew Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Matthew",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661981163.395879",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "3d154a0f-9f10-4801-8193-aae7c49effac",
+    "type": "message",
+    "text": "<@u03uun8m4rx> thanks",
+    "user": "U03UH397319",
+    "ts": "1662021011.231279",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+qQx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UUN8M4RX"
+              },
+              {
+                "type": "text",
+                "text": " thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661981163.395879",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "303089bb-b747-4779-a9b3-b49575b2f358",
+    "type": "message",
+    "text": "hello everyone, after i came back to the class, i can't get the schedule and Stephanie meet links. please share me.",
+    "user": "U03UGB3T3MY",
+    "ts": "1662021768.029959",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "s5Z/M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello everyone, after i came back to the class, i can't get the schedule and Stephanie meet links. please share me."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "bc7bd41571eb",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3981003133089_bc7bd41571eb59dd063d_72.jpg",
+      "first_name": "Allison",
+      "real_name": "Allison Berry",
+      "display_name": "Allison Berry",
+      "team": "T03U4J8HMUG",
+      "name": "Allison",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662021768.029959",
+    "reply_count": 4,
+    "reply_users_count": 2,
+    "latest_reply": "1662037816.298669",
+    "reply_users": [
+      "U03UFV7HFNF",
+      "U03UGB3T3MY"
+    ],
+    "replies": [
+      {
+        "user": "U03UFV7HFNF",
+        "ts": "1662021787.915439"
+      },
+      {
+        "user": "U03UFV7HFNF",
+        "ts": "1662021809.301429"
+      },
+      {
+        "user": "U03UGB3T3MY",
+        "ts": "1662037513.040259"
+      },
+      {
+        "user": "U03UFV7HFNF",
+        "ts": "1662037816.298669"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0a19cae9-23a1-44f7-a66f-d6b65faacbcf",
+    "type": "message",
+    "text": "<https://meet.Stephanie.com/ysb-kjdn-hpp>",
+    "user": "U03UFV7HFNF",
+    "ts": "1662021787.915439",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SnTK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "thumb_height": 192,
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "id": 1,
+        "original_url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "fallback": "meet",
+        "text": "real-time meetings by Stephanie. using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "title": "meet",
+        "title_link": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "service_name": "meet.Stephanie.com",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1662021768.029959",
+    "parent_user_id": "U03UGB3T3MY",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a48f06c3-07de-47c5-bbe9-d45db0f0406e",
+    "type": "message",
+    "text": "<https://Joanneacademy.notion.site/fbb7cd301a7948b698d9953fdeeb414d?v=88c78bae0a42459f8ba07339b44d512b>",
+    "user": "U03UFV7HFNF",
+    "ts": "1662021809.301429",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "m4h7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://Joanneacademy.notion.site/fbb7cd301a7948b698d9953fdeeb414d?v=88c78bae0a42459f8ba07339b44d512b",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Joanneacademy.notion.site/fbb7cd301a7948b698d9953fdeeb414d?v=88c78bae0a42459f8ba07339b44d512b",
+        "image_url": "https://Joanneacademy.notion.site/image/https%3a%2f%2fJoanneacademy.notion.site%2fimages%2fpage-cover%2fnasa_earth_grid.jpg?table=collection&id=287b88cb-cfdc-4ce2-ae09-36fc4117d5ea&spaceid=Joanne6c421d-e3c3-4f2d-a11e-44e044358d74&width=2000&userid=&cache=v2",
+        "image_width": 376,
+        "image_height": 250,
+        "image_bytes": 171698,
+        "service_icon": "https://Joanneacademy.notion.site/images/favicon.ico",
+        "id": 1,
+        "original_url": "https://Joanneacademy.notion.site/fbb7cd301a7948b698d9953fdeeb414d?v=88c78bae0a42459f8ba07339b44d512b",
+        "fallback": "Joanne academy on notion: Joanne academy - batch 6 - week 2 - schedule",
+        "text": "a new tool for teams &amp; individuals that blends everyday work apps into one.",
+        "title": "Joanne academy - batch 6 - week 2 - schedule",
+        "title_link": "https://Joanneacademy.notion.site/fbb7cd301a7948b698d9953fdeeb414d?v=88c78bae0a42459f8ba07339b44d512b",
+        "service_name": "Joanne academy on notion",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1662021768.029959",
+    "parent_user_id": "U03UGB3T3MY",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2231d269-80e1-4e49-a5c2-ff393fb4d1d3",
+    "type": "message",
+    "text": "does having 0 in both the yes and no columns means the user does not respond to the survey?",
+    "user": "U03UJN29Y4C",
+    "ts": "1662021836.909649",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AoA0y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "does having 0 in both the yes and no columns means the user does not respond to the survey?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662021836.909649",
+    "reply_count": 5,
+    "reply_users_count": 5,
+    "latest_reply": "1662025755.760039",
+    "reply_users": [
+      "U03UG32J3PC",
+      "U03UG4Q7V42",
+      "U03UG0YHAUT",
+      "U03UJN29Y4C",
+      "U03UVHCV6KB"
+    ],
+    "replies": [
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1662021861.276449"
+      },
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1662021869.349059"
+      },
+      {
+        "user": "U03UG0YHAUT",
+        "ts": "1662023033.591069"
+      },
+      {
+        "user": "U03UJN29Y4C",
+        "ts": "1662023068.256679"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1662025755.760039"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5801e73a-1146-4369-a9a6-fe7874d45c9f",
+    "type": "message",
+    "text": "yes, that means the user is neutral",
+    "user": "U03UG32J3PC",
+    "ts": "1662021861.276449",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3d=p6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes, that means the user is neutral"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662021836.909649",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a9d1982c-d078-4d3c-8684-9278e8eb26e8",
+    "type": "message",
+    "text": "yes",
+    "user": "U03UG4Q7V42",
+    "ts": "1662021869.349059",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5mbV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662021836.909649",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "CC6E9285-DA82-4509-802F-D710C7105551",
+    "type": "message",
+    "text": "good morning you all, i am grateful for your response, and with this support i will overcome those challenges. i had problems on finding resources on how to implement classical ab testing/p value/ and sequential. ",
+    "user": "U03V6HMRPGQ",
+    "ts": "1662022772.482249",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "N4G+T",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "good"
+              },
+              {
+                "type": "text",
+                "text": " morning "
+              },
+              {
+                "type": "text",
+                "text": "you"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "all,"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "i"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "am"
+              },
+              {
+                "type": "text",
+                "text": " grateful "
+              },
+              {
+                "type": "text",
+                "text": "for"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "your"
+              },
+              {
+                "type": "text",
+                "text": " response"
+              },
+              {
+                "type": "text",
+                "text": ","
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "and"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "with"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "this"
+              },
+              {
+                "type": "text",
+                "text": " support "
+              },
+              {
+                "type": "text",
+                "text": "i"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "will"
+              },
+              {
+                "type": "text",
+                "text": " overcome those challenge"
+              },
+              {
+                "type": "text",
+                "text": "s."
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "i"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "had"
+              },
+              {
+                "type": "text",
+                "text": " problems "
+              },
+              {
+                "type": "text",
+                "text": "on"
+              },
+              {
+                "type": "text",
+                "text": " finding resources "
+              },
+              {
+                "type": "text",
+                "text": "on"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "how"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "to"
+              },
+              {
+                "type": "text",
+                "text": " implement classical "
+              },
+              {
+                "type": "text",
+                "text": "ab"
+              },
+              {
+                "type": "text",
+                "text": " testing"
+              },
+              {
+                "type": "text",
+                "text": "/p"
+              },
+              {
+                "type": "text",
+                "text": " value"
+              },
+              {
+                "type": "text",
+                "text": "/"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "and"
+              },
+              {
+                "type": "text",
+                "text": " sequential"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661963172.744539",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "3009b7f3-0c44-46f3-a8ba-e17c42ace26e",
+    "type": "message",
+    "text": "yeah, definitely <@u03ujn29y4c>",
+    "user": "U03UG0YHAUT",
+    "ts": "1662023033.591069",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JK9D",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah, definitely "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UJN29Y4C"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UG0YHAUT",
+      "ts": "1662023056.000000"
+    },
+    "thread_ts": "1662021836.909649",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "272e9aee-33fb-40af-bc5b-14bf6b007aec",
+    "type": "message",
+    "text": "alright, thanks guys",
+    "user": "U03UJN29Y4C",
+    "ts": "1662023068.256679",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q8y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "alright, thanks guys"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662021836.909649",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "my seaborn plot is not showing labels, what am i doing wrong please\n`sns.kdeplot(exp_posterior, shade=true, label=\"experiment\")`\n`sns.kdeplot(con_posterior, shade=true, label=\"control\")`\n`plt.show()`",
+    "files": [
+      {
+        "id": "F041BN5MT6U",
+        "created": 1662024775,
+        "timestamp": 1662024775,
+        "name": "Screen Shot 2022-09-01 at 10.31.31 AM.png",
+        "title": "Screen Shot 2022-09-01 at 10.31.31 AM.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UJN29Y4C",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 24505,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F041BN5MT6U/screen_shot_2022-09-01_at_10.31.31_am.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F041BN5MT6U/download/screen_shot_2022-09-01_at_10.31.31_am.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041BN5MT6U-07127c4be9/screen_shot_2022-09-01_at_10.31.31_am_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041BN5MT6U-07127c4be9/screen_shot_2022-09-01_at_10.31.31_am_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041BN5MT6U-07127c4be9/screen_shot_2022-09-01_at_10.31.31_am_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 246,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041BN5MT6U-07127c4be9/screen_shot_2022-09-01_at_10.31.31_am_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "image_exif_rotation": 1,
+        "original_w": 409,
+        "original_h": 280,
+        "thumb_tiny": "AwAgADCzHaQNEjGNclRmn/Y7f/nkKdDzDHx0UVLQBXNpbggeUKDaW4xmMc1K3Wkc5ahag9Bn2O3/AOeQqK4tYUgdljAIHBq4DkA1Dd/8esn0oAWHHkx/7oqWqsV3AsKKZACAM8Gl+2Qn/lqPyNAEp603Oai+1QEf60D8DSC5gA/1oz9DSWg3qWkPy/So7v8A49ZPpUYuoRyJRn6Gm3F1C8DqsgJI4GDTEf/Z",
+        "permalink": "https://10academybatch6.slack.com/files/U03UJN29Y4C/F041BN5MT6U/screen_shot_2022-09-01_at_10.31.31_am.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F041BN5MT6U-bf9c368a7f",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UJN29Y4C",
+    "display_as_bot": false,
+    "ts": "1662024779.341389",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rfow5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "my seaborn plot is not showing labels, what am i doing wrong please\n"
+              },
+              {
+                "type": "text",
+                "text": "sns.kdeplot(exp_posterior, shade=true, label=\"experiment\")",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "sns.kdeplot(con_posterior, shade=true, label=\"control\")",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "plt.show()",
+                "style": {
+                  "code": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "d0092c14-52fd-481a-9f3a-814d66b526b2",
+    "thread_ts": "1662024779.341389",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1662025920.672179",
+    "reply_users": [
+      "U03U1FNPEUX",
+      "U03UJN29Y4C",
+      "U03UVHCV6KB"
+    ],
+    "replies": [
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1662025350.382859"
+      },
+      {
+        "user": "U03UJN29Y4C",
+        "ts": "1662025404.497809"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1662025920.672179"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "F464EDB7-D4F8-476F-A897-29DBE26B2895",
+    "type": "message",
+    "text": "may b use set_title()",
+    "user": "U03U1FNPEUX",
+    "ts": "1662025350.382859",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iTf3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "may b use set_title()"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662024779.341389",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5f8efc06-c9f9-4381-ba81-d7160f952929",
+    "type": "message",
+    "text": "thank you, i've used legend",
+    "user": "U03UJN29Y4C",
+    "ts": "1662025404.497809",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xt3M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you, i've used legend"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662024779.341389",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e83fb3cc-88a1-42f4-9e1d-30ca5b89c8db",
+    "type": "message",
+    "text": "quite a few people actually participated in the bio questionnaire right?",
+    "user": "U03UVHCV6KB",
+    "ts": "1662025755.760039",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pGf+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "quite a few people actually participated in the bio questionnaire right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662021836.909649",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "also, you can set the x and y parameters using this, so it can show you the labels of the x and y axes.",
+    "files": [
+      {
+        "id": "F040N4AJ07L",
+        "created": 1662025898,
+        "timestamp": 1662025898,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UVHCV6KB",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 1305,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F040N4AJ07L/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F040N4AJ07L/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040N4AJ07L-33848a103e/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040N4AJ07L-33848a103e/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040N4AJ07L-33848a103e/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 46,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040N4AJ07L-33848a103e/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "original_w": 373,
+        "original_h": 48,
+        "thumb_tiny": "AwAGADDR2D3/ADNBB5x/OnUUAM2+3/jxpQCO3606igBOfQfnRznoKWigD//Z",
+        "permalink": "https://10academybatch6.slack.com/files/U03UVHCV6KB/F040N4AJ07L/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F040N4AJ07L-91785b851a",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UVHCV6KB",
+    "display_as_bot": false,
+    "ts": "1662025920.672179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NWu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "also, you can set the x and y parameters using this, so it can show you the labels of the x and y axes."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "edited": {
+      "user": "U03UVHCV6KB",
+      "ts": "1662025966.000000"
+    },
+    "client_msg_id": "8dab8472-df63-4791-a02e-b3448b44e427",
+    "thread_ts": "1662024779.341389",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e55eda84-456d-4a8c-a273-e49d5281b737",
+    "type": "message",
+    "text": "use set_xlabel and set_ylable instead of just label",
+    "user": "U03UGB3T3MY",
+    "ts": "1662026448.037199",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Mkot",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "use set_xlabel and set_ylable instead of just label"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "bc7bd41571eb",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3981003133089_bc7bd41571eb59dd063d_72.jpg",
+      "first_name": "Allison",
+      "real_name": "Allison Berry",
+      "display_name": "Allison Berry",
+      "team": "T03U4J8HMUG",
+      "name": "Allison",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "3f0f1d02-1df6-4133-8bdd-5b7a50b0f6e8",
+    "type": "message",
+    "text": "<@u03u9db7reg> for the assignment of \"joanne academy hackerrank account\" due today. after filling the Stephanie form, should we mark as done, or do we need to submit something?",
+    "user": "U03UJKJGRAQ",
+    "ts": "1662028009.272199",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UHoFx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03U9DB7REG"
+              },
+              {
+                "type": "text",
+                "text": " for the assignment of \"joanne academy hackerrank account\" due today. after filling the Stephanie form, should we mark as done, or do we need to submit something?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3d318a55b9e2",
+      "image_72": "https://avatars.slack-edge.com/2022-10-03/4158852852038_3d318a55b9e221ad2cb3_72.jpg",
+      "first_name": "Kenneth",
+      "real_name": "Kenneth Williams",
+      "display_name": "Kenneth Williams",
+      "team": "T03U4J8HMUG",
+      "name": "Kenneth",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662028009.272199",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1662031019.979349",
+    "reply_users": [
+      "U03UVHCV6KB",
+      "U03U9DB7REG",
+      "U03UJKJGRAQ"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1662028871.565869"
+      },
+      {
+        "user": "U03U9DB7REG",
+        "ts": "1662029930.330189"
+      },
+      {
+        "user": "U03UJKJGRAQ",
+        "ts": "1662031019.979349"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "331e4652-48fd-422f-aa49-edf7c5d92ff4",
+    "type": "message",
+    "text": "did this two references provided in the reference section helpful for that?\n\u2022 <https://www.kaggle.com/code/jgroff/unit-3-hypothesis-testing/notebook|unit 3 - hypothesis testing | kaggle>\n\u2022 statistical significance in a/b testing \u2013 a complete guide | <http://analytics-toolkit.com|analytics-toolkit.com>",
+    "user": "U03UUN8M4RX",
+    "ts": "1662028171.885969",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VTXcx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "did this two references provided in the reference section helpful for that?\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "link",
+                    "url": "https://www.kaggle.com/code/jgroff/unit-3-hypothesis-testing/notebook",
+                    "text": "Unit 3 - Hypothesis Testing | Kaggle"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Statistical Significance in A/B Testing \u2013 a Complete Guide | "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://Analytics-Toolkit.com",
+                    "text": "Analytics-Toolkit.com"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "bc5543c34cbf",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965164038549_bc5543c34cbf4cc3f27d_72.png",
+      "first_name": "Matthew",
+      "real_name": "Matthew Rodriguez",
+      "display_name": "Matthew Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Matthew",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.kaggle.com/code/jgroff/unit-3-hypothesis-testing/notebook",
+        "thumb_url": "https://storage.Stephanieapis.com/kaggle-avatars/thumbnails/1422644-kg.jpg",
+        "thumb_width": 100,
+        "thumb_height": 100,
+        "service_icon": "https://www.kaggle.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.kaggle.com/code/jgroff/unit-3-hypothesis-testing/notebook",
+        "fallback": "unit 3 - hypothesis testing",
+        "text": "explore and run machine learning code with kaggle notebooks | using data from wine reviews",
+        "title": "unit 3 - hypothesis testing",
+        "title_link": "https://www.kaggle.com/code/jgroff/unit-3-hypothesis-testing/notebook",
+        "service_name": "kaggle.com",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1661963172.744539",
+    "parent_user_id": "U03V6HMRPGQ"
+  },
+  {
+    "client_msg_id": "c235b5fe-e146-44d1-8318-d9cfcf3b841f",
+    "type": "message",
+    "text": "there were a few others in kaggle notebooks <https://www.kaggle.com/code/ruslankl/bio-statistics-in-r-part-3/notebook|(bio)statistics in r: part #3 | kaggle> that also had code and concept on p-value etc.?",
+    "user": "U03UUN8M4RX",
+    "ts": "1662028313.210999",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VAluM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "there were a few others in kaggle notebooks "
+              },
+              {
+                "type": "link",
+                "url": "https://www.kaggle.com/code/ruslankl/bio-statistics-in-r-part-3/notebook",
+                "text": "(bio)statistics in r: part #3 | kaggle"
+              },
+              {
+                "type": "text",
+                "text": " that also had code and concept on p-value etc.?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "bc5543c34cbf",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965164038549_bc5543c34cbf4cc3f27d_72.png",
+      "first_name": "Matthew",
+      "real_name": "Matthew Rodriguez",
+      "display_name": "Matthew Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Matthew",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.kaggle.com/code/ruslankl/bio-statistics-in-r-part-3/notebook",
+        "thumb_url": "https://storage.Stephanieapis.com/kaggle-avatars/thumbnails/1516652-kg.jpg",
+        "thumb_width": 100,
+        "thumb_height": 100,
+        "service_icon": "https://www.kaggle.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.kaggle.com/code/ruslankl/bio-statistics-in-r-part-3/notebook",
+        "fallback": "(bio)statistics in r: part #3",
+        "text": "explore and run machine learning code with kaggle notebooks | using data from [private datasource]",
+        "title": "(bio)statistics in r: part #3",
+        "title_link": "https://www.kaggle.com/code/ruslankl/bio-statistics-in-r-part-3/notebook",
+        "service_name": "kaggle.com",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1661963172.744539",
+    "parent_user_id": "U03V6HMRPGQ"
+  },
+  {
+    "client_msg_id": "78350ecf-e131-41ab-b7ce-98bd7bc65151",
+    "type": "message",
+    "text": "what was missing for you? what could be better? it is how we organise the references or something else?",
+    "user": "U03UUN8M4RX",
+    "ts": "1662028336.379879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/INfK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what was missing for you? what could be better? it is how we organise the references or something else?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "bc5543c34cbf",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965164038549_bc5543c34cbf4cc3f27d_72.png",
+      "first_name": "Matthew",
+      "real_name": "Matthew Rodriguez",
+      "display_name": "Matthew Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Matthew",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UUN8M4RX",
+      "ts": "1662028413.000000"
+    },
+    "thread_ts": "1661963172.744539",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0265429b-f71c-4464-8782-5d940770b808",
+    "type": "message",
+    "text": "nice one, i think we are only supposed to fill in the Stephanie form.",
+    "user": "U03UVHCV6KB",
+    "ts": "1662028871.565869",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tGs7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "nice one, i think we are only supposed to fill in the Stephanie form."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662028009.272199",
+    "parent_user_id": "U03UJKJGRAQ",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UJKJGRAQ"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2934cf96-d5d2-4fc6-83d3-cd8f06bc4194",
+    "type": "message",
+    "text": "just fill out the form. we are collecting trainees username to integrate it to the tenx dashboard.",
+    "user": "U03U9DB7REG",
+    "ts": "1662029930.330189",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bds8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "just fill out the form. we are collecting trainees username to integrate it to the tenx dashboard."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "10b2063307e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3958997027442_10b2063307e91bfe2157_72.png",
+      "first_name": "Dawn",
+      "real_name": "Dawn Green",
+      "display_name": "Dawn Green",
+      "team": "T03U4J8HMUG",
+      "name": "Dawn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662028009.272199",
+    "parent_user_id": "U03UJKJGRAQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "56f3e274-1305-43c0-a022-975b3d18ac5f",
+    "type": "message",
+    "text": "<@u03u9db7reg> understood. thank you.",
+    "user": "U03UJKJGRAQ",
+    "ts": "1662031019.979349",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7yg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03U9DB7REG"
+              },
+              {
+                "type": "text",
+                "text": " understood. thank you."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3d318a55b9e2",
+      "image_72": "https://avatars.slack-edge.com/2022-10-03/4158852852038_3d318a55b9e221ad2cb3_72.jpg",
+      "first_name": "Kenneth",
+      "real_name": "Kenneth Williams",
+      "display_name": "Kenneth Williams",
+      "team": "T03U4J8HMUG",
+      "name": "Kenneth",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662028009.272199",
+    "parent_user_id": "U03UJKJGRAQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e3e2079a-0a51-4712-83ad-5dca932a4bbf",
+    "type": "message",
+    "text": "hi, in task 2.2, when splitting the data by browser and platform_os, is this after transforming it (removing rows of non-responsive users) or do we transform it _then_ split it?\n\nalso, are we supposed to split the raw data we were provided by browser and platform_os or can we also split aggregates of the raw data, like splitting a dataset the control group and another one containing the exposed group?",
+    "user": "U03UD5B7C3X",
+    "ts": "1662036836.979539",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RdHL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hi, in task 2.2, when splitting the data by browser and platform_os, is this after transforming it (removing rows of non-responsive users) or do we transform it "
+              },
+              {
+                "type": "text",
+                "text": "then ",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "split it?\n\nalso, are we supposed to split the raw data we were provided by browser and platform_os or can we also split aggregates of the raw data, like splitting a dataset the control group and another one containing the exposed group?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662036836.979539",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1662044256.681299",
+    "reply_users": [
+      "U03UKL27B0R",
+      "U03UD5B7C3X"
+    ],
+    "replies": [
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1662042748.078299"
+      },
+      {
+        "user": "U03UD5B7C3X",
+        "ts": "1662044256.681299"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U03UG1Z21JP"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "eef5f555-8e4b-45dd-9667-d344eebb4151",
+    "type": "message",
+    "text": "thanks bro",
+    "user": "U03UGB3T3MY",
+    "ts": "1662037513.040259",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MU3vL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thanks bro"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "bc7bd41571eb",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3981003133089_bc7bd41571eb59dd063d_72.jpg",
+      "first_name": "Allison",
+      "real_name": "Allison Berry",
+      "display_name": "Allison Berry",
+      "team": "T03U4J8HMUG",
+      "name": "Allison",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662021768.029959",
+    "parent_user_id": "U03UGB3T3MY",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "fbf57b0e-3677-4d90-a74d-167bf5139f79",
+    "type": "message",
+    "text": "you are welcome.",
+    "user": "U03UFV7HFNF",
+    "ts": "1662037816.298669",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BhK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you are welcome."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662021768.029959",
+    "parent_user_id": "U03UGB3T3MY",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e97301af-b735-4362-8ff7-e5045deec0d5",
+    "type": "message",
+    "text": "<@u03v6hmrpgq>",
+    "user": "U03U93GNNVB",
+    "ts": "1662039325.177119",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4w9n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03V6HMRPGQ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661963172.744539",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d23fc73b-f11a-4e78-a0dc-e655c5feac23",
+    "type": "message",
+    "text": "when you are trying to understand which features are driving to the results in the ml model you are going to build, you would be more interested in users that have given a response.\nwhen building the model, you will need all relevant features to understand their importance for the final outcome.",
+    "user": "U03UKL27B0R",
+    "ts": "1662042748.078299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VGuu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "when you are trying to understand which features are driving to the results in the ml model you are going to build, you would be more interested in users that have given a response.\nwhen building the model, you will need all relevant features to understand their importance for the final outcome."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662036836.979539",
+    "parent_user_id": "U03UD5B7C3X",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "9479c6f8-d38f-4b9a-aaa4-b9d196e423cc",
+    "type": "message",
+    "text": "hello everyone the dvc api might not get you the data you require when you use\n\ndata_url = dvc.api.get_url(\n    path = path,\n    repo = repo,\n    rev = version\n)\n\nso like <@u03uur571a5> specified on our call if you're having issues when using multiple versions on dvc specify the data_url manually as we were only using it to get the data from dvc and using it on `pd.read_csv()`. so logging manually should be a quick workaround and use the log_param to output the specific versions. if you're facing any issues send them here!",
+    "user": "U03V8LHPDME",
+    "ts": "1662043149.372669",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5iq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello everyone the dvc api might not get you the data you require when you use\n\ndata_url = dvc.api.get_url(\n    path = path,\n    repo = repo,\n    rev = version\n)\n\nso like "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UUR571A5"
+              },
+              {
+                "type": "text",
+                "text": " specified on our call if you're having issues when using multiple versions on dvc specify the data_url manually as we were only using it to get the data from dvc and using it on "
+              },
+              {
+                "type": "text",
+                "text": "pd.read_csv()",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ". so logging manually should be a quick workaround and use the log_param to output the specific versions. if you're facing any issues send them here!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Albert",
+      "real_name": "Albert Rodriguez",
+      "display_name": "Albert Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Albert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662043149.372669",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1662068816.681249",
+    "reply_users": [
+      "U03UVHCV6KB",
+      "U03UD68RQH3",
+      "U03V8LHPDME"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1662046943.343799"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1662047030.611609"
+      },
+      {
+        "user": "U03UD68RQH3",
+        "ts": "1662047059.903579"
+      },
+      {
+        "user": "U03V8LHPDME",
+        "ts": "1662068816.681249"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7TUTV"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "i got this when i do `dvc push`  <@u03v8lhpdme>",
+    "files": [
+      {
+        "id": "F040H1LTFAS",
+        "created": 1662043239,
+        "timestamp": 1662043239,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UD68RQH3",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 126666,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F040H1LTFAS/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F040H1LTFAS/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040H1LTFAS-db3236537b/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040H1LTFAS-db3236537b/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040H1LTFAS-db3236537b/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 39,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040H1LTFAS-db3236537b/image_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 52,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040H1LTFAS-db3236537b/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040H1LTFAS-db3236537b/image_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 78,
+        "thumb_800": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040H1LTFAS-db3236537b/image_800.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_800_w": 800,
+        "thumb_800_h": 86,
+        "thumb_960": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040H1LTFAS-db3236537b/image_960.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_960_w": 960,
+        "thumb_960_h": 104,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040H1LTFAS-db3236537b/image_1024.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 111,
+        "original_w": 1434,
+        "original_h": 155,
+        "thumb_tiny": "AwAFADCng+tGD60HrRTENYkd6TdSv1FMpDHZpQDjrTaeOlAH/9k=",
+        "permalink": "https://10academybatch6.slack.com/files/U03UD68RQH3/F040H1LTFAS/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F040H1LTFAS-f551ce61e0",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UD68RQH3",
+    "display_as_bot": false,
+    "ts": "1662043249.126819",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "F8L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i got this when i do "
+              },
+              {
+                "type": "text",
+                "text": "dvc push",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  "
+              },
+              {
+                "type": "user",
+                "user_id": "U03V8LHPDME"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "ac964b69-9984-43e0-8f00-50979dfd2bab",
+    "thread_ts": "1662043249.126819",
+    "reply_count": 6,
+    "reply_users_count": 4,
+    "latest_reply": "1662047384.929569",
+    "reply_users": [
+      "U03V8LHPDME",
+      "U03UGB3T3MY",
+      "U03UD68RQH3",
+      "U03UVHCV6KB"
+    ],
+    "replies": [
+      {
+        "user": "U03V8LHPDME",
+        "ts": "1662043358.412259"
+      },
+      {
+        "user": "U03V8LHPDME",
+        "ts": "1662043384.533299"
+      },
+      {
+        "user": "U03UGB3T3MY",
+        "ts": "1662044488.126439"
+      },
+      {
+        "user": "U03UD68RQH3",
+        "ts": "1662045287.103049"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1662047246.979879"
+      },
+      {
+        "user": "U03UD68RQH3",
+        "ts": "1662047384.929569"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "afff53eb-69c8-415b-94a3-58e2ecc62647",
+    "type": "message",
+    "text": "pip install dvc[all]",
+    "user": "U03V8LHPDME",
+    "ts": "1662043358.412259",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "41G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "pip install dvc[all]"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Albert",
+      "real_name": "Albert Rodriguez",
+      "display_name": "Albert Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Albert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662043249.126819",
+    "parent_user_id": "U03UD68RQH3",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "4c34bf6f-1391-494c-9479-0d1930c842c7",
+    "type": "message",
+    "text": "or a pip install dvc-gJohnson",
+    "user": "U03V8LHPDME",
+    "ts": "1662043384.533299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WDA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "or a pip install dvc-gJohnson"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Albert",
+      "real_name": "Albert Rodriguez",
+      "display_name": "Albert Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Albert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662043249.126819",
+    "parent_user_id": "U03UD68RQH3",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UD68RQH3"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "3fbf80cf-0865-42aa-b0cb-245a7f213e4a",
+    "type": "message",
+    "text": "ok thank you",
+    "user": "U03UD5B7C3X",
+    "ts": "1662044256.681299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "k6rVe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok thank you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662036836.979539",
+    "parent_user_id": "U03UD5B7C3X",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ed99eeeb-c160-4fc0-91e6-1e29097a2529",
+    "type": "message",
+    "text": "yeah install it with either of these\n1. choco install dvc\n2. conda install -c conda-forge mamba # installs much faster than conda\n     $ mamba install -c conda-forge dvc\n3.\n```pip install dvc```",
+    "user": "U03UGB3T3MY",
+    "ts": "1662044488.126439",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zSha",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah install it with either of these\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "choco install dvc"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "conda install -c conda-forge mamba # installs much faster than conda"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "     $ mamba install -c conda-forge dvc\n3.\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "pip install dvc"
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "bc7bd41571eb",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3981003133089_bc7bd41571eb59dd063d_72.jpg",
+      "first_name": "Allison",
+      "real_name": "Allison Berry",
+      "display_name": "Allison Berry",
+      "team": "T03U4J8HMUG",
+      "name": "Allison",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662043249.126819",
+    "parent_user_id": "U03UD68RQH3",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UD68RQH3"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b2664b60-82d6-4385-a252-4ee3ba95bae3",
+    "type": "message",
+    "text": "okay thanks in advance",
+    "user": "U03UGB3T3MY",
+    "ts": "1662044529.958419",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6qBYw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay thanks in advance"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "bc7bd41571eb",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3981003133089_bc7bd41571eb59dd063d_72.jpg",
+      "first_name": "Allison",
+      "real_name": "Allison Berry",
+      "display_name": "Allison Berry",
+      "team": "T03U4J8HMUG",
+      "name": "Allison",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661956023.426109",
+    "parent_user_id": "U03UGB3T3MY",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "22769d0f-a75c-46a4-9d43-7a0360308e12",
+    "type": "message",
+    "text": "thanks guys it worked",
+    "user": "U03UD68RQH3",
+    "ts": "1662045287.103049",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L6Z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thanks guys it worked"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662043249.126819",
+    "parent_user_id": "U03UD68RQH3",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "8b438580-3256-4863-9782-4e18a0a76950",
+    "type": "message",
+    "text": "who can explain this am confused \n\ntask 2, says split ur data by browser and os...., does it mean to split our data by browser type and os type and versioning each ...., or just splitting our dataset into two data frames browser and os??\n\n<@u03v8lhpdme> <@u03ukl27b0r>",
+    "user": "U03V5Q9N516",
+    "ts": "1662046077.444499",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xDrDE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "who can explain this am confused \n\ntask 2, says split ur data by browser and os...., does it mean to split our data by browser type and os type and versioning each ...., or just splitting our dataset into two data frames browser and os??\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U03V8LHPDME"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g164928c3a69",
+      "image_72": "https://secure.gravatar.com/avatar/164928c3a69af29d42a5e90b928e2f71.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Steven",
+      "real_name": "Steven Haas",
+      "display_name": "Steven Haas",
+      "team": "T03U4J8HMUG",
+      "name": "Steven",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662046077.444499",
+    "reply_count": 5,
+    "reply_users_count": 4,
+    "latest_reply": "1662059469.420259",
+    "reply_users": [
+      "U03UG4Q7V42",
+      "U03UKL27B0R",
+      "U03V5Q9N516",
+      "U03V6HMRPGQ"
+    ],
+    "replies": [
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1662046112.599179"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1662046325.554769"
+      },
+      {
+        "user": "U03V5Q9N516",
+        "ts": "1662046768.829079"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1662054877.921519"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1662059469.420259"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "58212f5d-db42-43a6-ba8d-19ec073fdb67",
+    "type": "message",
+    "text": "<https://Joanneacademybatch6.slack.com/archives/c03v9gfavun/p1662036836979539?thread_ts=1662036836.979539&amp;cid=c03v9gfavun|https://Joanneacademybatch6.slack.com/archives/c03v9gfavun/p1662036836979539?thread_ts=1662036836.979539&amp;cid=c03v9gfavun>",
+    "user": "U03UG4Q7V42",
+    "ts": "1662046112.599179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h4dD3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://Joanneacademybatch6.slack.com/archives/c03v9gfavun/p1662036836979539?thread_ts=1662036836.979539&cid=c03v9gfavun",
+                "text": "https://Joanneacademybatch6.slack.com/archives/c03v9gfavun/p1662036836979539?thread_ts=1662036836.979539&cid=c03v9gfavun"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Joanneacademybatch6.slack.com/archives/c03v9gfavun/p1662036836979539?thread_ts=1662036836.979539&amp;cid=c03v9gfavun",
+        "ts": "1662036836.979539",
+        "author_id": "u03ud5b7c3x",
+        "channel_team": "t03u4j8hmug",
+        "channel_id": "c03v9gfavun",
+        "is_msg_unfurl": true,
+        "is_thread_root_unfurl": true,
+        "message_blocks": [
+          {
+            "team": "T03U4J8HMUG",
+            "channel": "C03V9GFAVUN",
+            "ts": "1662036836.979539",
+            "message": {
+              "blocks": [
+                {
+                  "type": "rich_text",
+                  "block_id": "RdHL",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "hi, in task 2.2, when splitting the data by browser and platform_os, is this after transforming it (removing rows of non-responsive users) or do we transform it "
+                        },
+                        {
+                          "type": "text",
+                          "text": "then ",
+                          "style": {
+                            "italic": true
+                          }
+                        },
+                        {
+                          "type": "text",
+                          "text": "split it?\n\nalso, are we supposed to split the raw data we were provided by browser and platform_os or can we also split aggregates of the raw data, like splitting a dataset the control group and another one containing the exposed group?"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "id": 1,
+        "original_url": "https://Joanneacademybatch6.slack.com/archives/c03v9gfavun/p1662036836979539?thread_ts=1662036836.979539&amp;cid=c03v9gfavun",
+        "fallback": "[september 1st, 2022 5:53 am] Christopher: hi, in task 2.2, when splitting the data by browser and platform_os, is this after transforming it (removing rows of non-responsive users) or do we transform it _then_ split it?\n\nalso, are we supposed to split the raw data we were provided by browser and platform_os or can we also split aggregates of the raw data, like splitting a dataset the control group and another one containing the exposed group?",
+        "text": "hi, in task 2.2, when splitting the data by browser and platform_os, is this after transforming it (removing rows of non-responsive users) or do we transform it _then_ split it?\n\nalso, are we supposed to split the raw data we were provided by browser and platform_os or can we also split aggregates of the raw data, like splitting a dataset the control group and another one containing the exposed group?",
+        "author_name": "Christopher Hernandez",
+        "author_link": "https://Joanneacademybatch6.slack.com/team/u03ud5b7c3x",
+        "author_icon": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=48&d=https%3a%2f%2fa.slack-edge.com%2fdfJoanned%2fimg%2favatars%2fava_0005-48.png",
+        "author_subname": "Christopher Hernandez",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "footer": "thread in slack conversation"
+      }
+    ],
+    "thread_ts": "1662046077.444499",
+    "parent_user_id": "U03V5Q9N516"
+  },
+  {
+    "client_msg_id": "671041e9-c80d-488a-9bea-501dd50b6a84",
+    "type": "message",
+    "text": "you will be creating a separate dataset, one grouped by browser and the other by platform and so on then track them separately using dvc.",
+    "user": "U03UKL27B0R",
+    "ts": "1662046325.554769",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1kyq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you will be creating a separate dataset, one grouped by browser and the other by platform and so on then track them separately using dvc."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662046077.444499",
+    "parent_user_id": "U03V5Q9N516",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB",
+          "U03V61VGQG0"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "eeb87e52-bab1-4bde-b2ca-1d0074e6d97e",
+    "type": "message",
+    "text": "okay thank you",
+    "user": "U03V5Q9N516",
+    "ts": "1662046768.829079",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "v=+eV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay thank you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g164928c3a69",
+      "image_72": "https://secure.gravatar.com/avatar/164928c3a69af29d42a5e90b928e2f71.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Steven",
+      "real_name": "Steven Haas",
+      "display_name": "Steven Haas",
+      "team": "T03U4J8HMUG",
+      "name": "Steven",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662046077.444499",
+    "parent_user_id": "U03V5Q9N516",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ec4206cb-6092-4e04-bec9-3bf536c0c69d",
+    "type": "message",
+    "text": "<@u03v8lhpdme> i did not do any reading on log param, and this might have been easily solved if i just Stephanied 'dvc log_param'. but how exactly are we supposed to use log_param to output specific versions?\n\nalso, you might have explained this in today's tutorial, but the lights went out and i was not there.\n\nthanks in advance",
+    "user": "U03UVHCV6KB",
+    "ts": "1662046943.343799",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SgIg+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03V8LHPDME"
+              },
+              {
+                "type": "text",
+                "text": " i did not do any reading on log param, and this might have been easily solved if i just Stephanied 'dvc log_param'. but how exactly are we supposed to use log_param to output specific versions?\n\nalso, you might have explained this in today's tutorial, but the lights went out and i was not there.\n\nthanks in advance"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662043149.372669",
+    "parent_user_id": "U03V8LHPDME",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d94e37f3-a74b-4b99-acc3-5a6c1608851f",
+    "type": "message",
+    "text": "<@u03ud68rqh3> what is your os?\n\nnb: not related to the question you asked!",
+    "user": "U03UVHCV6KB",
+    "ts": "1662047030.611609",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Fzq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UD68RQH3"
+              },
+              {
+                "type": "text",
+                "text": " what is your os?\n\nnb: not related to the question you asked!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662043149.372669",
+    "parent_user_id": "U03V8LHPDME",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "f3de3669-64d3-4ba7-894c-40a34f22d266",
+    "type": "message",
+    "text": "windows Joanne but i dev environment is wsl2",
+    "user": "U03UD68RQH3",
+    "ts": "1662047059.903579",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "i3Jq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "windows Joanne but i dev environment is wsl2"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662043149.372669",
+    "parent_user_id": "U03V8LHPDME",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b41bb07e-e1a1-4224-804d-b5e7bf9f127e",
+    "type": "message",
+    "text": "<@u03ud68rqh3> i thought i asked the question in this thread?",
+    "user": "U03UVHCV6KB",
+    "ts": "1662047246.979879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Js3p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UD68RQH3"
+              },
+              {
+                "type": "text",
+                "text": " i thought i asked the question in this thread?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662043249.126819",
+    "parent_user_id": "U03UD68RQH3",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0af4225f-a968-4d96-b472-19eecf9ac8a5",
+    "type": "message",
+    "text": "<@u03uvhcv6kb> :smiley: i get it",
+    "user": "U03UD68RQH3",
+    "ts": "1662047384.929569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "839k",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UVHCV6KB"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "smiley",
+                "unicode": "1f603"
+              },
+              {
+                "type": "text",
+                "text": " i get it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662043249.126819",
+    "parent_user_id": "U03UD68RQH3",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b2b15105-a488-44d8-9958-3d03a4517d31",
+    "type": "message",
+    "text": "<@u03uun8m4rx>, <@u03u93gnnvb> sorry for late response i was busy doing tasks and attending sessions.\n\u2022 firstly, all of the provided documents are good but does not help very much when it comes to tasks, it kind off building general intuition about a topic.\n\u2022 secondly, what i assume it will fit my needs is ,  same week project doc with attached  links or key words to guide us in our searching for each task separately. for example, could be a figure under each task listing links and helpful key words.\n\u2022 thirdly, in tutorials, it be very helpful if the tutors explained which functions we will be using in our week project , and linking directly where we will use the tool or the topic he is explaining right now in the project or tasks. and this maybe for the first few weeks when we are trying to famiErinrize ourselves with flow of work and calm down the stress\ni am very tankful for listening to my thought, and i hope to be a good contribution to joanne academy",
+    "user": "U03V6HMRPGQ",
+    "ts": "1662047564.115029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2m+Ec",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UUN8M4RX"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "user",
+                "user_id": "U03U93GNNVB"
+              },
+              {
+                "type": "text",
+                "text": " sorry for late response i was busy doing tasks and attending sessions.\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "firstly, all of the provided documents are good but does not help very much when it comes to tasks, it kind off building general intuition about a topic."
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "secondly, what I assume it will fit my needs is ,  same week project doc with attached  links or key words to guide us in our searching for each task separately. for example, could be a figure under each task listing links and helpful key words."
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Thirdly, in tutorials, it be very helpful if the tutors explained which functions we will be using in our week project , and linking directly where we will use the tool or the topic he is explaining right now in the project or tasks. and this maybe for the first few weeks when we are trying to familiarize ourselves with flow of work and calm down the stress"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i am very tankful for listening to my thought, and i hope to be a good contribution to Joanne academy"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661963172.744539",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "514bc852-2859-4ccb-b1de-a4a753870c11",
+    "type": "message",
+    "text": "does that mean we drop platform when we grouping by browser ?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1662054877.921519",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GvTak",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "does that mean we drop platform when we grouping by browser ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662046077.444499",
+    "parent_user_id": "U03V5Q9N516",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "<@u03v8lhpdme> coud you please help me with this `attributeerror`  when using `dvc`  command in my terminal?",
+    "files": [
+      {
+        "id": "F041EKRGW3S",
+        "created": 1662055492,
+        "timestamp": 1662055492,
+        "name": "Screen Shot 2022-09-01 at 7.59.53 PM.png",
+        "title": "Screen Shot 2022-09-01 at 7.59.53 PM.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UG1Z21JP",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 254648,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F041EKRGW3S/screen_shot_2022-09-01_at_7.59.53_pm.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F041EKRGW3S/download/screen_shot_2022-09-01_at_7.59.53_pm.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041EKRGW3S-6098119a07/screen_shot_2022-09-01_at_7.59.53_pm_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041EKRGW3S-6098119a07/screen_shot_2022-09-01_at_7.59.53_pm_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041EKRGW3S-6098119a07/screen_shot_2022-09-01_at_7.59.53_pm_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 218,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041EKRGW3S-6098119a07/screen_shot_2022-09-01_at_7.59.53_pm_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 291,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041EKRGW3S-6098119a07/screen_shot_2022-09-01_at_7.59.53_pm_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041EKRGW3S-6098119a07/screen_shot_2022-09-01_at_7.59.53_pm_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 436,
+        "thumb_800": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041EKRGW3S-6098119a07/screen_shot_2022-09-01_at_7.59.53_pm_800.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_800_w": 800,
+        "thumb_800_h": 485,
+        "thumb_960": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041EKRGW3S-6098119a07/screen_shot_2022-09-01_at_7.59.53_pm_960.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_960_w": 960,
+        "thumb_960_h": 582,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041EKRGW3S-6098119a07/screen_shot_2022-09-01_at_7.59.53_pm_1024.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 621,
+        "original_w": 1437,
+        "original_h": 871,
+        "thumb_tiny": "AwAdADCgWI4zSBjilPWk/CgBdzUm4+tH4UnHpQAbz609GJPPNRHrT4+p+lACnrQelKRzRigBuKbTyPek20AMPWnx9T9KQjiljHNAH//Z",
+        "permalink": "https://10academybatch6.slack.com/files/U03UG1Z21JP/F041EKRGW3S/screen_shot_2022-09-01_at_7.59.53_pm.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F041EKRGW3S-627b15671f",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      },
+      {
+        "id": "F040N062LDB",
+        "created": 1662055509,
+        "timestamp": 1662055509,
+        "name": "Screen Shot 2022-09-01 at 8.01.14 PM.png",
+        "title": "Screen Shot 2022-09-01 at 8.01.14 PM.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UG1Z21JP",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 29331,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F040N062LDB/screen_shot_2022-09-01_at_8.01.14_pm.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F040N062LDB/download/screen_shot_2022-09-01_at_8.01.14_pm.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040N062LDB-6a91461582/screen_shot_2022-09-01_at_8.01.14_pm_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040N062LDB-6a91461582/screen_shot_2022-09-01_at_8.01.14_pm_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040N062LDB-6a91461582/screen_shot_2022-09-01_at_8.01.14_pm_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 25,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040N062LDB-6a91461582/screen_shot_2022-09-01_at_8.01.14_pm_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 34,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040N062LDB-6a91461582/screen_shot_2022-09-01_at_8.01.14_pm_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040N062LDB-6a91461582/screen_shot_2022-09-01_at_8.01.14_pm_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 51,
+        "thumb_800": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040N062LDB-6a91461582/screen_shot_2022-09-01_at_8.01.14_pm_800.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_800_w": 800,
+        "thumb_800_h": 56,
+        "thumb_960": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040N062LDB-6a91461582/screen_shot_2022-09-01_at_8.01.14_pm_960.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_960_w": 960,
+        "thumb_960_h": 67,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040N062LDB-6a91461582/screen_shot_2022-09-01_at_8.01.14_pm_1024.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 72,
+        "original_w": 1437,
+        "original_h": 101,
+        "thumb_tiny": "AwADADCi3GDTcmnP0FMpgLmm0tJSAMU+Mcn6Uynx9T9KAP/Z",
+        "permalink": "https://10academybatch6.slack.com/files/U03UG1Z21JP/F040N062LDB/screen_shot_2022-09-01_at_8.01.14_pm.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F040N062LDB-c986a93a0f",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UG1Z21JP",
+    "ts": "1662055513.774459",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ex+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03V8LHPDME"
+              },
+              {
+                "type": "text",
+                "text": " coud you please help me with this "
+              },
+              {
+                "type": "text",
+                "text": "attributeerror",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  when using "
+              },
+              {
+                "type": "text",
+                "text": "dvc",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  command in my terminal?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "61c34d31-956c-49cd-8440-494a84b4974c",
+    "thread_ts": "1662055513.774459",
+    "reply_count": 7,
+    "reply_users_count": 3,
+    "latest_reply": "1662142585.700099",
+    "reply_users": [
+      "U03V8LHPDME",
+      "U03UVHCV6KB",
+      "U03UG1Z21JP"
+    ],
+    "replies": [
+      {
+        "user": "U03V8LHPDME",
+        "ts": "1662062733.108579"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1662064065.260479"
+      },
+      {
+        "user": "U03UG1Z21JP",
+        "ts": "1662102224.539569"
+      },
+      {
+        "user": "U03UG1Z21JP",
+        "ts": "1662103074.955879"
+      },
+      {
+        "user": "U03UG1Z21JP",
+        "ts": "1662103674.370349"
+      },
+      {
+        "user": "U03UG1Z21JP",
+        "ts": "1662124211.043549"
+      },
+      {
+        "user": "U03V8LHPDME",
+        "ts": "1662142585.700099"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "6fe99670-5e76-478d-ad17-a54779575b26",
+    "type": "message",
+    "text": "what functions did you use for splitting datasets ? i used groupby function and it is not valid for saving as a dataset",
+    "user": "U03V6HMRPGQ",
+    "ts": "1662058410.501289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZoWn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what functions did you use for splitting datasets ? i used groupby function and it is not valid for saving as a dataset"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03V6HMRPGQ",
+      "ts": "1662058494.000000"
+    },
+    "thread_ts": "1662058410.501289",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1662059524.991519",
+    "reply_users": [
+      "U03UKL27B0R"
+    ],
+    "replies": [
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1662059524.991519"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5dc04c69-3c7c-4e36-be37-b0f8413203c1",
+    "type": "message",
+    "text": "no, you don't have to drop other columns. we just need to version based on specified features by grouping them.",
+    "user": "U03UKL27B0R",
+    "ts": "1662059469.420259",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Tn8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no, you don't have to drop other columns. we just need to version based on specified features by grouping them."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662046077.444499",
+    "parent_user_id": "U03V5Q9N516",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "220ea1cc-c131-4e07-bfe3-020e3e39cf1a",
+    "type": "message",
+    "text": "have you looked at the output of the data after grouping them?",
+    "user": "U03UKL27B0R",
+    "ts": "1662059524.991519",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HVT11",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "have you looked at the output of the data after grouping them?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662058410.501289",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "any help ?",
+    "files": [
+      {
+        "id": "F04140PRX5X",
+        "created": 1662060172,
+        "timestamp": 1662060172,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03V61VGQG0",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 18023,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F04140PRX5X/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F04140PRX5X/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04140PRX5X-2b7a446780/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04140PRX5X-2b7a446780/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04140PRX5X-2b7a446780/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 17,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04140PRX5X-2b7a446780/image_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 23,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04140PRX5X-2b7a446780/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04140PRX5X-2b7a446780/image_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 34,
+        "thumb_800": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04140PRX5X-2b7a446780/image_800.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_800_w": 800,
+        "thumb_800_h": 38,
+        "thumb_960": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04140PRX5X-2b7a446780/image_960.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_960_w": 960,
+        "thumb_960_h": 45,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04140PRX5X-2b7a446780/image_1024.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 48,
+        "original_w": 1230,
+        "original_h": 58,
+        "thumb_tiny": "AwACADCjQaKDTRQClPSkFKelADcn1pMmiigD/9k=",
+        "permalink": "https://10academybatch6.slack.com/files/U03V61VGQG0/F04140PRX5X/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F04140PRX5X-f0192857e0",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03V61VGQG0",
+    "display_as_bot": false,
+    "ts": "1662060181.968219",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4WpkQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "any help ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "cfc0ea97-c35b-4f1f-ac5c-2acadd2a08d6",
+    "thread_ts": "1662060181.968219",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1662074162.620539",
+    "reply_users": [
+      "U03V8LHPDME"
+    ],
+    "replies": [
+      {
+        "user": "U03V8LHPDME",
+        "ts": "1662074162.620539"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "3aa4f67f-2e5d-49a6-b504-687a6273a46c",
+    "type": "message",
+    "text": "did dvc install successfully? what do you get when you do `dvc --version`",
+    "user": "U03V8LHPDME",
+    "ts": "1662062733.108579",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iHL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "did dvc install successfully? what do you get when you do "
+              },
+              {
+                "type": "text",
+                "text": "dvc --version",
+                "style": {
+                  "code": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Albert",
+      "real_name": "Albert Rodriguez",
+      "display_name": "Albert Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Albert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662055513.774459",
+    "parent_user_id": "U03UG1Z21JP",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "46cde211-03ea-45f1-a83f-36cc170d36bf",
+    "type": "message",
+    "text": "i don't know if we are having the same type of <http://problem.bi|problem. but i> was having issues with the newer version of dvc installations. when i reverted back to dvc 2.11.0 some of the errors i had gone away.",
+    "user": "U03UVHCV6KB",
+    "ts": "1662064065.260479",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YMC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i don't know if we are having the same type of "
+              },
+              {
+                "type": "link",
+                "url": "http://problem.bi",
+                "text": "problem. but i"
+              },
+              {
+                "type": "text",
+                "text": " was having issues with the newer version of dvc installations. when i reverted back to dvc 2.11.0 some of the errors i had gone away."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662055513.774459",
+    "parent_user_id": "U03UG1Z21JP",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "55bd0a05-da58-4a8f-a369-81747d2517ce",
+    "type": "message",
+    "text": "after pushing dvc data. with dvc push, does it mean anyone else will be able to access your dataset after pulling from Michelle?",
+    "user": "U03U9FWPNCE",
+    "ts": "1662066711.351919",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "O82wa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "after pushing dvc data. with dvc push, does it mean anyone else will be able to access your dataset after pulling from Michelle?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "2d070dcf37d6",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991845605680_2d070dcf37d67d809af7_72.jpg",
+      "first_name": "Maria",
+      "real_name": "Maria Martin",
+      "display_name": "Maria Martin",
+      "team": "T03U4J8HMUG",
+      "name": "Maria",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662066711.351919",
+    "reply_count": 2,
+    "reply_users_count": 1,
+    "latest_reply": "1662067433.764709",
+    "reply_users": [
+      "U03UFV7HFNF"
+    ],
+    "replies": [
+      {
+        "user": "U03UFV7HFNF",
+        "ts": "1662066981.807789"
+      },
+      {
+        "user": "U03UFV7HFNF",
+        "ts": "1662067433.764709"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e2ded67b-4650-40db-82b3-e75e53e5c450",
+    "type": "message",
+    "text": "the actual data is not stored on Michelle. in fact when you use dvc push it automatically put the data path into .gitignore file so that the data will not be pushed into the Michelle.\nso basically what is saved in Michelle is only the metadata of the different versions of the actual data.\ni hope i clarify it.",
+    "user": "U03UFV7HFNF",
+    "ts": "1662066981.807789",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uA561",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the actual data is not stored on Michelle. in fact when you use dvc push it automatically put the data path into .gitignore file so that the data will not be pushed into the Michelle.\nso basically what is saved in Michelle is only the metadata of the different versions of the actual data.\ni hope i clarify it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UFV7HFNF",
+      "ts": "1662067077.000000"
+    },
+    "thread_ts": "1662066711.351919",
+    "parent_user_id": "U03U9FWPNCE",
+    "reactions": [
+      {
+        "name": "fire",
+        "users": [
+          "U03V8LHPDME"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "8c995195-1bfc-4b19-b965-00d10124a56e",
+    "type": "message",
+    "text": "<@u03v8lhpdme>",
+    "user": "U03UFV7HFNF",
+    "ts": "1662067433.764709",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4Xm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03V8LHPDME"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662066711.351919",
+    "parent_user_id": "U03U9FWPNCE",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2720d52a-f4c0-4e1a-a86a-a05f920f153b",
+    "type": "message",
+    "text": "<@u03uvhcv6kb> log_params just logs a batch of parameters for the current experiment you are running.\n\nso one way to log your dvc version would be if your data is tagged with v1 you would create a dictionary\n`params = {`\n   `\"dvc_data_ver\": \"v1\"`\n`}`\n``` mlflow.log_params(params)```\nyou can also use log_param to log a single key:value pair\n\n<https://mlflow.org/docs/latest/python_api/mlflow.html#mlflow.log_params>",
+    "user": "U03V8LHPDME",
+    "ts": "1662068816.681249",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PGi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UVHCV6KB"
+              },
+              {
+                "type": "text",
+                "text": " log_params just logs a batch of parameters for the current experiment you are running.\n\nso one way to log your dvc version would be if your data is tagged with v1 you would create a dictionary\n"
+              },
+              {
+                "type": "text",
+                "text": "params = {",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "   \"dvc_data_ver\": \"v1\"",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "}",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": " mlflow.log_params(params)"
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nyou can also use log_param to log a single key:value pair\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://mlflow.org/docs/latest/python_api/mlflow.html#mlflow.log_params",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Albert",
+      "real_name": "Albert Rodriguez",
+      "display_name": "Albert Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Albert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03V8LHPDME",
+      "ts": "1662068927.000000"
+    },
+    "thread_ts": "1662043149.372669",
+    "parent_user_id": "U03V8LHPDME",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c592bfd3-583e-40af-a90c-b0a1b21f7188",
+    "type": "message",
+    "text": "it's like dvc.api.get_url is not working. how tho change the version of my data when running the code?",
+    "user": "U03UH397319",
+    "ts": "1662069471.633329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/N4/6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it's like dvc.api.get_url is not working. how tho change the version of my data when running the code?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662069471.633329",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1662073536.391609",
+    "reply_users": [
+      "U03V8LHPDME"
+    ],
+    "replies": [
+      {
+        "user": "U03V8LHPDME",
+        "ts": "1662073536.391609"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b2a72680-a9ad-4868-9e19-87afaeecee25",
+    "type": "message",
+    "text": "i definitely caused some confusion so to clear things up --\n\nfrom a fresh setup, you start off with these commands by initializing a git and a dvc repository\n```git init\ndvc init\ngit commit -m \"initial commit\"```\nyou then follow on to set the dvc remote -- this is the most crucial step and should be done first because messing with different remotes and then tracking the changes on multiple unsynchronized remotes will lead to unnecessary complications as we saw.\n```dvc remote add -d myremote <gJohnson://folderid>\ngit commit -m \"sets dvc remote\"```\nthe remote url can be in your local file system but using stephanie Johnson will be really helpful for collaboration as you are working in teams. please follow this <https://dvc.org/doc/user-guide/setup-stephanie-Johnson-remote|link> to learn more.\n\nafter this will follow the steps where you will actually track the data.\n```dvc add path_to_data\ngit add path_to_data.dvc\ngit commit -m \"data:track\"```\nyou then tag the specific commit and then push it to your dvc remote using `dvc push`\n```git tag -a 'v1' -m \"raw data\"\ndvc push```\nthe final two steps are the only steps that are necessary and the steps you'll iterate over and over once dvc and your dvc remote are set and you start making changes to your data.",
+    "user": "U03V8LHPDME",
+    "ts": "1662073315.332009",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NgDKu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i definitely caused some confusion so to clear things up --\n\nfrom a fresh setup, you start off with these commands by initializing a git and a dvc repository\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "git init\ndvc init\ngit commit -m \"initial commit\""
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you then follow on to set the dvc remote -- this is the most crucial step and should be done first because messing with different remotes and then tracking the changes on multiple unsynchronized remotes will lead to unnecessary complications as we saw.\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "dvc remote add -d myremote "
+              },
+              {
+                "type": "link",
+                "url": "gJohnson://folderid",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\ngit commit -m \"sets dvc remote\""
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the remote url can be in your local file system but using stephanie Johnson will be really helpful for collaboration as you are working in teams. please follow this "
+              },
+              {
+                "type": "link",
+                "url": "https://dvc.org/doc/user-guide/setup-stephanie-Johnson-remote",
+                "text": "link"
+              },
+              {
+                "type": "text",
+                "text": " to learn more.\n\nafter this will follow the steps where you will actually track the data.\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "dvc add path_to_data\ngit add path_to_data.dvc\ngit commit -m \"data:track\""
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you then tag the specific commit and then push it to your dvc remote using "
+              },
+              {
+                "type": "text",
+                "text": "dvc push",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "git tag -a 'v1' -m \"raw data\"\ndvc push"
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nthe final two steps are the only steps that are necessary and the steps you'll iterate over and over once dvc and your dvc remote are set and you start making changes to your data."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Albert",
+      "real_name": "Albert Rodriguez",
+      "display_name": "Albert Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Albert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03V8LHPDME",
+      "ts": "1662074109.000000"
+    },
+    "attachments": [
+      {
+        "from_url": "https://dvc.org/doc/user-guide/setup-stephanie-Johnson-remote",
+        "thumb_url": "https://dvc.org/social-share.png",
+        "thumb_width": 1200,
+        "thumb_height": 675,
+        "service_icon": "https://dvc.org/apple-touch-icon-48x48.png?v=dfbc4a93a926127fc4495e9d640409f8",
+        "id": 1,
+        "original_url": "https://dvc.org/doc/user-guide/setup-stephanie-Johnson-remote",
+        "fallback": "data version control \u00b7 dvc: setup stephanie Johnson remote",
+        "text": "open-source version control system for data science and machine learning projects. git-like experience to organize your data, models, and experiments.",
+        "title": "setup stephanie Johnson remote",
+        "title_link": "https://dvc.org/doc/user-guide/setup-stephanie-Johnson-remote",
+        "service_name": "data version control \u00b7 dvc",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1662073315.332009",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1662477316.800639",
+    "reply_users": [
+      "U03U1FNPEUX",
+      "U03UJN29Y4C"
+    ],
+    "replies": [
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1662113986.207649"
+      },
+      {
+        "user": "U03UJN29Y4C",
+        "ts": "1662477316.800639"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7TUTV",
+          "U03UJN29Y4C"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7871e99d-34ca-4977-984e-059d64f3479f",
+    "type": "message",
+    "text": "so if you've changed your remote and then are trying to go back and get a tagged version of your data using dvc.api.get_url that will lead to the data url being in a previous remote. if you have set multiple remotes and are sure the data is there try adding the remote argument.\n`data_url = dvc.api.get_url(`\n    `path = path,`\n    `repo = repo,`\n    `rev = version,`\n    `remote = 'remotename'`\n`)`\nif that doesn't solve it go through <https://Joanneacademybatch6.slack.com/archives/c03v9gfavun/p1662073315332009|this thread> and let me know if it works.",
+    "user": "U03V8LHPDME",
+    "ts": "1662073536.391609",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+AI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so if you've changed your remote and then are trying to go back and get a tagged version of your data using dvc.api.get_url that will lead to the data url being in a previous remote. if you have set multiple remotes and are sure the data is there try adding the remote argument.\n"
+              },
+              {
+                "type": "text",
+                "text": "data_url = dvc.api.get_url(",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "    path = path,",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "    repo = repo,",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "    rev = version,",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "    remote = 'remotename'",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": ")",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nif that doesn't solve it go through "
+              },
+              {
+                "type": "link",
+                "url": "https://Joanneacademybatch6.slack.com/archives/c03v9gfavun/p1662073315332009",
+                "text": "this thread"
+              },
+              {
+                "type": "text",
+                "text": " and let me know if it works."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Albert",
+      "real_name": "Albert Rodriguez",
+      "display_name": "Albert Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Albert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Joanneacademybatch6.slack.com/archives/c03v9gfavun/p1662073315332009",
+        "ts": "1662073315.332009",
+        "author_id": "u03v8lhpdme",
+        "channel_team": "t03u4j8hmug",
+        "channel_id": "c03v9gfavun",
+        "is_msg_unfurl": true,
+        "message_blocks": [
+          {
+            "team": "T03U4J8HMUG",
+            "channel": "C03V9GFAVUN",
+            "ts": "1662073315.332009",
+            "message": {
+              "blocks": [
+                {
+                  "type": "rich_text",
+                  "block_id": "0sK",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "i definitely caused some confusion so to clear things up --\n\nfrom a fresh setup, you start off with these commands by initializing a git and a dvc repository\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_preformatted",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "git init\ndvc init\ngit commit -m \"initial commit\""
+                        }
+                      ],
+                      "border": 0
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "you then follow on to set the dvc remote -- this is the most crucial step and should be done first because messing with different remotes and then tracking the changes on multiple unsynchronized remotes will lead to unnecessary complications as we saw.\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_preformatted",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "dvc remote add -d myremote "
+                        },
+                        {
+                          "type": "link",
+                          "url": "gdrive://fileid/dvcstore"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\ngit commit -m \"sets dvc remote\""
+                        }
+                      ],
+                      "border": 0
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "the remote url can be in your local file system but using stephanie Johnson will be really helpful for collaboration as you are working in teams. please follow this "
+                        },
+                        {
+                          "type": "link",
+                          "url": "https://dvc.org/doc/user-guide/setup-google-drive-remote",
+                          "text": "link"
+                        },
+                        {
+                          "type": "text",
+                          "text": " to learn more.\n\nafter this will follow the steps where you will actually track the data.\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_preformatted",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "dvc add path_to_data\ngit add path_to_data.dvc\ngit commit -m \"data:track\""
+                        }
+                      ],
+                      "border": 0
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "you then tag the specific commit and then push it to your dvc remote using "
+                        },
+                        {
+                          "type": "text",
+                          "text": "dvc push",
+                          "style": {
+                            "code": true
+                          }
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_preformatted",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "git tag -a 'v1' -m \"raw data\"\ndvc push"
+                        }
+                      ],
+                      "border": 0
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "\nthe final two steps are the only steps that are necessary and the steps you'll iterate over and over once dvc and your dvc remote are set and you start making changes to your data."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "id": 1,
+        "original_url": "https://Joanneacademybatch6.slack.com/archives/c03v9gfavun/p1662073315332009",
+        "fallback": "[september 1st, 2022 4:01 pm] albert: i definitely caused some confusion so to clear things up --\n\nfrom a fresh setup, you start off with these commands by initializing a git and a dvc repository\n```git init\ndvc init\ngit commit -m \"initial commit\"```\nyou then follow on to set the dvc remote -- this is the most crucial step and should be done first because messing with different remotes and then tracking the changes on multiple unsynchronized remotes will lead to unnecessary complications as we saw.\n```dvc remote add -d myremote <gJohnson://fileid/dvcstore>\ngit commit -m \"sets dvc remote\"```\nthe remote url can be in your local file system but using stephanie Johnson will be really helpful for collaboration as you are working in teams. please follow this <https://dvc.org/doc/user-guide/setup-stephanie-Johnson-remote|link> to learn more.\n\nafter this will follow the steps where you will actually track the data.\n```dvc add path_to_data\ngit add path_to_data.dvc\ngit commit -m \"data:track\"```\nyou then tag the specific commit and then push it to your dvc remote using `dvc push`\n```git tag -a 'v1' -m \"raw data\"\ndvc push```\nthe final two steps are the only steps that are necessary and the steps you'll iterate over and over once dvc and your dvc remote are set and you start making changes to your data.",
+        "text": "i definitely caused some confusion so to clear things up --\n\nfrom a fresh setup, you start off with these commands by initializing a git and a dvc repository\n```git init\ndvc init\ngit commit -m \"initial commit\"```\nyou then follow on to set the dvc remote -- this is the most crucial step and should be done first because messing with different remotes and then tracking the changes on multiple unsynchronized remotes will lead to unnecessary complications as we saw.\n```dvc remote add -d myremote <gJohnson://fileid/dvcstore>\ngit commit -m \"sets dvc remote\"```\nthe remote url can be in your local file system but using stephanie Johnson will be really helpful for collaboration as you are working in teams. please follow this <https://dvc.org/doc/user-guide/setup-stephanie-Johnson-remote|link> to learn more.\n\nafter this will follow the steps where you will actually track the data.\n```dvc add path_to_data\ngit add path_to_data.dvc\ngit commit -m \"data:track\"```\nyou then tag the specific commit and then push it to your dvc remote using `dvc push`\n```git tag -a 'v1' -m \"raw data\"\ndvc push```\nthe final two steps are the only steps that are necessary and the steps you'll iterate over and over once dvc and your dvc remote are set and you start making changes to your data.",
+        "author_name": "Albert tamrat",
+        "author_link": "https://Joanneacademybatch6.slack.com/team/u03v8lhpdme",
+        "author_icon": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_48.png",
+        "author_subname": "Albert tamrat",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "footer": "slack conversation"
+      }
+    ],
+    "thread_ts": "1662069471.633329",
+    "parent_user_id": "U03UH397319"
+  },
+  {
+    "client_msg_id": "d6a507fc-6534-4c6c-8ea7-cc6184e40612",
+    "type": "message",
+    "text": "maybe you took more time than allowed in copying the verification code? the error happened after you got the Stephanie auth request of dvc?",
+    "user": "U03V8LHPDME",
+    "ts": "1662074162.620539",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xoM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "maybe you took more time than allowed in copying the verification code? the error happened after you got the Stephanie auth request of dvc?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Albert",
+      "real_name": "Albert Rodriguez",
+      "display_name": "Albert Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Albert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662060181.968219",
+    "parent_user_id": "U03V61VGQG0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "df1190e9-9515-4f5f-a32c-f1fca50f70db",
+    "type": "message",
+    "text": "<@u03v8lhpdme> thanks",
+    "user": "U03UH397319",
+    "ts": "1662096877.347239",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8Gi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03V8LHPDME"
+              },
+              {
+                "type": "text",
+                "text": " thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e97fe559-4d57-4e50-8822-f85a2b2a8f28",
+    "type": "message",
+    "text": "for the 3rd point, have you tried asking these questions?",
+    "user": "U03U93GNNVB",
+    "ts": "1662097108.786339",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZJy8Z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "for the 3rd point, have you tried asking these questions?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661963172.744539",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5527626c-b649-43a6-a8cb-a0204f0c7f11",
+    "type": "message",
+    "text": "for the second - i believe that we're hitting the gap between school with this approach.  if your manager gives you a task to get done, do you expect him-her to guide you on how to do every step of it?",
+    "user": "U03U93GNNVB",
+    "ts": "1662097162.904189",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KDb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "for the second - i believe that we're hitting the gap between school with this approach.  if your manager gives you a task to get done, do you expect him-her to guide you on how to do every step of it?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661963172.744539",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "slightly_smiling_face",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "18506240-7218-410a-b601-250bc6161e1a",
+    "type": "message",
+    "text": "i think that you are underutilizing the community for keywords and other help",
+    "user": "U03U93GNNVB",
+    "ts": "1662097198.804499",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OUP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think that you are underutilizing the community for keywords and other help"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661963172.744539",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a86e330d-d4df-47bf-bd1b-842d89df283c",
+    "type": "message",
+    "text": "they should become a valuable source of input, guidance and fast feedback",
+    "user": "U03U93GNNVB",
+    "ts": "1662097222.232639",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HX/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "they should become a valuable source of input, guidance and fast feedback"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661963172.744539",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  }
+]

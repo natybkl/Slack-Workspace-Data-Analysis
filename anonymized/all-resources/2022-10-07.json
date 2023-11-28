@@ -1,0 +1,934 @@
+[
+  {
+    "client_msg_id": "864c760d-eb1e-4b90-854d-ed6c7bc7ef9d",
+    "type": "message",
+    "text": "<https://www.astronomer.io/guides/airflow-passing-data-between-tasks/>",
+    "user": "U03UVHCV6KB",
+    "ts": "1665132356.426299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K1mBK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.astronomer.io/guides/airflow-passing-data-between-tasks/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.astronomer.io/guides/airflow-passing-data-between-tasks/",
+        "image_url": "https://www.astronomer.io/assets/images/astronomer-og.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 16784,
+        "service_icon": "https://www.astronomer.io/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.astronomer.io/guides/airflow-passing-data-between-tasks/",
+        "fallback": "passing data between airflow tasks - airflow guides",
+        "text": "methods for sharing metadata and information between tasks in your apache airflow dags, including xcom.",
+        "title": "passing data between airflow tasks - airflow guides",
+        "title_link": "https://www.astronomer.io/guides/airflow-passing-data-between-tasks/",
+        "service_name": "astronomer.io",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5322d337-0a9e-4b6c-adb3-4424876ea25b",
+    "type": "message",
+    "text": "<https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html>",
+    "user": "U03U1FNPEUX",
+    "ts": "1665142858.809649",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tmpBk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "98ab73db-3351-41fc-a66b-42961208364e",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=akradpnpwwq>",
+    "user": "U03V6HMRPGQ",
+    "ts": "1665149273.209639",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XtPt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=akradpnpwwq",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=akradpnpwwq",
+        "thumb_url": "https://i.ytimg.com/vi/akradpnpwwq/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/akradpnpwwq?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"react.js project to build webrtc video,audio &amp; screen recorder using react-media-recorder library\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=akradpnpwwq",
+        "fallback": "youtube video: react.js project to build webrtc video,audio & screen recorder using react-media-recorder library",
+        "title": "react.js project to build webrtc video,audio &amp; screen recorder using react-media-recorder library",
+        "title_link": "https://www.youtube.com/watch?v=akradpnpwwq",
+        "author_name": "coding shiksha",
+        "author_link": "https://www.youtube.com/c/codingshiksha",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b56bb3f0-819b-474e-a7db-903a32ee73bc",
+    "type": "message",
+    "text": "<https://www.npmjs.com/package/react-media-recorder>",
+    "user": "U03V6HMRPGQ",
+    "ts": "1665149297.762319",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Qad1K",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.npmjs.com/package/react-media-recorder",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.npmjs.com/package/react-media-recorder",
+        "thumb_url": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+        "thumb_width": 1200,
+        "thumb_height": 630,
+        "service_icon": "https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png",
+        "id": 1,
+        "original_url": "https://www.npmjs.com/package/react-media-recorder",
+        "fallback": "npm: react-media-recorder",
+        "text": "a react component based on mediarecorder() api to record audio/video streams. latest version: 1.6.6, last published: 5 months ago. start using react-media-recorder in your project by running `npm i react-media-recorder`. there are Joanne other projects in the npm registry using react-media-recorder.",
+        "title": "react-media-recorder",
+        "title_link": "https://www.npmjs.com/package/react-media-recorder",
+        "service_name": "npm",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d18f67a6-fb03-453b-87ca-7d35eeb9b101",
+    "type": "message",
+    "text": "<https://www.zibtek.com/blog/react-js-why-developers-prefer-react-for-front-end-development/>",
+    "user": "U03UG5VFN03",
+    "ts": "1665149712.146719",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dJnCA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.zibtek.com/blog/react-js-why-developers-prefer-react-for-front-end-development/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Susan",
+      "real_name": "Susan Lewis",
+      "display_name": "Susan Lewis",
+      "team": "T03U4J8HMUG",
+      "name": "Susan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.zibtek.com/blog/react-js-why-developers-prefer-react-for-front-end-development/",
+        "ts": 1641220068,
+        "image_url": "https://www.zibtek.com/blog/content/images/2021/12/react-js.jpg",
+        "image_width": 313,
+        "image_height": 250,
+        "image_bytes": 80860,
+        "service_icon": "https://www.zibtek.com/blog/favicon.png",
+        "id": 1,
+        "original_url": "https://www.zibtek.com/blog/react-js-why-developers-prefer-react-for-front-end-development/",
+        "fallback": "custom software development insights | zibtek blog: react js: why developers prefer react for front-end development",
+        "text": "when used in combination with node js, react js plays a significant role in designing and building scalable server-side and network applications.",
+        "title": "react js: why developers prefer react for front-end development",
+        "title_link": "https://www.zibtek.com/blog/react-js-why-developers-prefer-react-for-front-end-development/",
+        "service_name": "custom software development insights | zibtek blog",
+        "fields": [
+          {
+            "value": "Colton Seitz",
+            "title": "Written by",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ce67575b-0bbf-4a5b-92b7-ad45d78ad587",
+    "type": "message",
+    "text": "<https://www.vantage-ai.com/en/blog/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow>",
+    "user": "U03UG5VFN03",
+    "ts": "1665149743.775729",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b=vb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.vantage-ai.com/en/blog/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Susan",
+      "real_name": "Susan Lewis",
+      "display_name": "Susan Lewis",
+      "team": "T03U4J8HMUG",
+      "name": "Susan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.vantage-ai.com/en/blog/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow",
+        "image_url": "https://www.vantage-ai.com/hubfs/blog%20fotos/kafka_shape.jpg#keepprotocol",
+        "image_width": 373,
+        "image_height": 250,
+        "image_bytes": 390973,
+        "service_icon": "https://www.vantage-ai.com/hubfs/favicon.png",
+        "id": 1,
+        "original_url": "https://www.vantage-ai.com/en/blog/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow",
+        "fallback": "keeping your ml model in shape with kafka, airflow and mlflow",
+        "text": "always wanted to learn how to keep your ml model in shape. this article explains how to do this using kafka, airflow and mlflow. read more to learn more.",
+        "title": "keeping your ml model in shape with kafka, airflow and mlflow",
+        "title_link": "https://www.vantage-ai.com/en/blog/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow",
+        "service_name": "vantage-ai.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "425cd883-a4f9-4ffb-b67e-01c2fe4d2b4a",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=iw_lm9ma4a8>",
+    "user": "U03UG5VFN03",
+    "ts": "1665149813.687959",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gCuv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=iw_lm9ma4a8",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Susan",
+      "real_name": "Susan Lewis",
+      "display_name": "Susan Lewis",
+      "team": "T03U4J8HMUG",
+      "name": "Susan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=iw_lm9ma4a8",
+        "thumb_url": "https://i.ytimg.com/vi/iw_lm9ma4a8/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/iw_lm9ma4a8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"migrating airflow-based apache spark jobs to kubernetes \u2013 the native way\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=iw_lm9ma4a8",
+        "fallback": "youtube video: migrating airflow-based apache spark jobs to kubernetes \u2013 the native way",
+        "title": "migrating airflow-based apache spark jobs to kubernetes \u2013 the native way",
+        "title_link": "https://www.youtube.com/watch?v=iw_lm9ma4a8",
+        "author_name": "databricks",
+        "author_link": "https://www.youtube.com/c/databricks",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6cb27d5f-b1e5-4360-9349-883018381c3b",
+    "type": "message",
+    "text": "<https://anant.us/blog/airflow-and-spark-running-spark-jobs-in-apache-airflow/>",
+    "user": "U03UG5VFN03",
+    "ts": "1665149852.615669",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cnbM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://anant.us/blog/airflow-and-spark-running-spark-jobs-in-apache-airflow/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Susan",
+      "real_name": "Susan Lewis",
+      "display_name": "Susan Lewis",
+      "team": "T03U4J8HMUG",
+      "name": "Susan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://anant.us/blog/airflow-and-spark-running-spark-jobs-in-apache-airflow/",
+        "ts": 1654092623,
+        "image_url": "https://anant.us/wp-content/uploads/2022/06/running_spark_jobs_on_airflow-2.png",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 364299,
+        "service_icon": "https://anant.us/wp-content/uploads/2021/04/cropped-anant-logo-600x600-1-180x180.png",
+        "id": 1,
+        "original_url": "https://anant.us/blog/airflow-and-spark-running-spark-jobs-in-apache-airflow/",
+        "fallback": "anant: airflow and spark: running spark jobs in apache airflow - anant",
+        "text": "we built a simple etl spark job that extracts data from an api, transforms the data, and loads the data into an aws s3 bucket. airflow is employed to run and schedule the spark job locally.",
+        "title": "airflow and spark: running spark jobs in apache airflow - anant",
+        "title_link": "https://anant.us/blog/airflow-and-spark-running-spark-jobs-in-apache-airflow/",
+        "service_name": "anant",
+        "fields": [
+          {
+            "value": "Isaac Omolayo",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "9 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5e33b93b-c1dc-4ffa-8098-c85a3d78e509",
+    "type": "message",
+    "text": "<https://www.npmjs.com/package/react-voice-recorder>",
+    "user": "U03UG32J3PC",
+    "ts": "1665164706.394389",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wdRr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.npmjs.com/package/react-voice-recorder",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.npmjs.com/package/react-voice-recorder",
+        "thumb_url": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+        "thumb_width": 1200,
+        "thumb_height": 630,
+        "service_icon": "https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png",
+        "id": 1,
+        "original_url": "https://www.npmjs.com/package/react-voice-recorder",
+        "fallback": "npm: react-voice-recorder",
+        "text": "this (react-voice-recorder) is a javascript library for react applicaiton which will be used to record voice as audio and download the same.. latest version: 2.1.2, last published: a year ago. start using react-voice-recorder in your project by running `npm i react-voice-recorder`. there are 8 other projects in the npm registry using react-voice-recorder.",
+        "title": "react-voice-recorder",
+        "title_link": "https://www.npmjs.com/package/react-voice-recorder",
+        "service_name": "npm",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7ba60c68-3cba-49f6-9bbf-819812b6b6cf",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/kafka-python-explained-in-Joanne-lines-of-code-800e3e07dad1>",
+    "user": "U03UUP56MDF",
+    "ts": "1665164762.470759",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e584",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/kafka-python-explained-in-Joanne-lines-of-code-800e3e07dad1",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g00725318689",
+      "image_72": "https://secure.gravatar.com/avatar/007253186898705d4f28c384188b8a63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Margaret",
+      "real_name": "Margaret Jackson",
+      "display_name": "Margaret Jackson",
+      "team": "T03U4J8HMUG",
+      "name": "Margaret",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/kafka-python-explained-in-Joanne-lines-of-code-800e3e07dad1",
+        "ts": 1534168571,
+        "image_url": "https://miro.medium.com/max/775/1*biizkei5hsavkyyxxohk2g.png",
+        "image_width": 483,
+        "image_height": 250,
+        "image_bytes": 36078,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/kafka-python-explained-in-Joanne-lines-of-code-800e3e07dad1",
+        "fallback": "medium: kafka-python explained in Joanne lines of code",
+        "text": "although it\u2019s not the newest library python has to offer, it\u2019s hard to find a comprehensive tutorial on how to use apache kafka with\u2026",
+        "title": "kafka-python explained in Joanne lines of code",
+        "title_link": "https://towardsdatascience.com/kafka-python-explained-in-Joanne-lines-of-code-800e3e07dad1",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "7 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "dcabbd8b-43cf-4892-8d95-816b674e4669",
+    "type": "message",
+    "text": "<https://newrelic.com/blog/best-practices/kafka-best-practices>",
+    "user": "U03UUP56MDF",
+    "ts": "1665164883.146569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XIQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://newrelic.com/blog/best-practices/kafka-best-practices",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g00725318689",
+      "image_72": "https://secure.gravatar.com/avatar/007253186898705d4f28c384188b8a63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Margaret",
+      "real_name": "Margaret Jackson",
+      "display_name": "Margaret Jackson",
+      "team": "T03U4J8HMUG",
+      "name": "Margaret",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://newrelic.com/blog/best-practices/kafka-best-practices",
+        "image_url": "https://newrelic.com/sites/default/files/styles/og_image/public/2021-04/istock-485920305-2-min_1.jpg?h=77039d24&itok=wtlaxtsb",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 42540,
+        "service_icon": "https://newrelic.com/themes/custom/erno/assets/images/metadata/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://newrelic.com/blog/best-practices/kafka-best-practices",
+        "fallback": "new relic: 20 best practices for working with apache kafka at scale",
+        "text": "apache kafka simplifies working with data streams, but it might get complex at scale. learn best practices to help simplify that complexity.",
+        "title": "20 best practices for working with apache kafka at scale",
+        "title_link": "https://newrelic.com/blog/best-practices/kafka-best-practices",
+        "service_name": "new relic",
+        "fields": [
+          {
+            "value": "Tony Mancill",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "10 min read",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7412b61e-651b-4fa8-8e13-12ece5613c75",
+    "type": "message",
+    "text": "<https://www.astronomer.io/guides/airflow-branch-operator/>",
+    "user": "U03UVHCV6KB",
+    "ts": "1665165771.262049",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2Ao8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.astronomer.io/guides/airflow-branch-operator/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.astronomer.io/guides/airflow-branch-operator/",
+        "image_url": "https://www.astronomer.io/assets/images/astronomer-og.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 16784,
+        "service_icon": "https://www.astronomer.io/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.astronomer.io/guides/airflow-branch-operator/",
+        "fallback": "branching in airflow - airflow guides",
+        "text": "use apache airflow's branchpythonoperator and shortcircuitoperator to execute conditional branches in your workflow",
+        "title": "branching in airflow - airflow guides",
+        "title_link": "https://www.astronomer.io/guides/airflow-branch-operator/",
+        "service_name": "astronomer.io",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8bc15c10-1f69-4160-bc38-ca2f3e27e940",
+    "type": "message",
+    "text": "<https://medium.com/seatfrog/aws-data-pipeline-with-airflow-4Joanne488af5009>",
+    "user": "U03UJH1EQQL",
+    "ts": "1665170188.375159",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9u=K",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/seatfrog/aws-data-pipeline-with-airflow-4Joanne488af5009",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/seatfrog/aws-data-pipeline-with-airflow-4Joanne488af5009",
+        "ts": 1602254539,
+        "image_url": "https://miro.medium.com/max/1190/1*v5u9h3qlyp9vnaqffnod4a.png",
+        "image_width": 518,
+        "image_height": 250,
+        "image_bytes": 107602,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://medium.com/seatfrog/aws-data-pipeline-with-airflow-4Joanne488af5009",
+        "fallback": "medium: aws data pipeline with airflow",
+        "text": "at seatfrog we continuously research new technologies to find the best solutions to tackle our challenges. that means when we add a new\u2026",
+        "title": "aws data pipeline with airflow",
+        "title_link": "https://medium.com/seatfrog/aws-data-pipeline-with-airflow-4Joanne488af5009",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "8 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "001b7753-8530-447d-82b8-b2bcd581c97a",
+    "type": "message",
+    "text": "<https://kafka-python.readthedocs.io/en/master/usage.html>",
+    "user": "U03UJGRN5E0",
+    "ts": "1665177895.271359",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d=7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://kafka-python.readthedocs.io/en/master/usage.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "4541bac1-ab5e-4c2c-9882-77ae357f2aad",
+    "type": "message",
+    "text": "<https://www.confluent.io/blog/apache-kafka-to-amazon-s3-exactly-once/>",
+    "user": "U03U9EJR362",
+    "ts": "1665178952.728779",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qwpU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.confluent.io/blog/apache-kafka-to-amazon-s3-exactly-once/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Catherine",
+      "real_name": "Catherine Campos",
+      "display_name": "Catherine Campos",
+      "team": "T03U4J8HMUG",
+      "name": "Catherine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.confluent.io/blog/apache-kafka-to-amazon-s3-exactly-once/",
+        "thumb_url": "https://cdn.confluent.io/wp-content/uploads/seo-logo-meadow.png",
+        "thumb_width": 748,
+        "thumb_height": 748,
+        "service_icon": "https://www.confluent.io/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.confluent.io/blog/apache-kafka-to-amazon-s3-exactly-once/",
+        "fallback": "confluent: from apache kafka to amazon s3: exactly once | confluent",
+        "text": "landing data to s3 is ubiquitous and key to almost every aws architecture. this explains why users have been looking for a reErinble way to stream their data from apache kafka\u00ae to s3 since kafka connect became available. since its initial release, the kafka connect s3 connector has been used to upload more than 75 pb of data from kafka to s3.",
+        "title": "from apache kafka to amazon s3: exactly once | confluent",
+        "title_link": "https://www.confluent.io/blog/apache-kafka-to-amazon-s3-exactly-once/",
+        "service_name": "confluent",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "daa74ed6-f6e4-4508-b081-7c0937d04e5f",
+    "type": "message",
+    "text": "<https://pypi.org/project/airflow-provider-kafka/0.1.0/>",
+    "user": "U03UJGP0C68",
+    "ts": "1665179065.635879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eJkvA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://pypi.org/project/airflow-provider-kafka/0.1.0/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://pypi.org/project/airflow-provider-kafka/0.1.0/",
+        "image_url": "https://pypi.org/static/images/twitter.6fecba6f.jpg",
+        "image_width": 250,
+        "image_height": 250,
+        "image_bytes": 6869,
+        "service_icon": "https://pypi.org/static/images/favicon.6a76275d.ico",
+        "id": 1,
+        "original_url": "https://pypi.org/project/airflow-provider-kafka/0.1.0/",
+        "fallback": "pypi: airflow-provider-kafka",
+        "text": "apache airflow kafka provider containing deferrable operators &amp; sensors.",
+        "title": "airflow-provider-kafka",
+        "title_link": "https://pypi.org/project/airflow-provider-kafka/0.1.0/",
+        "service_name": "pypi",
+        "message_blocks": null
+      }
+    ]
+  }
+]

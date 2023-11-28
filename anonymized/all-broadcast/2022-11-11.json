@@ -1,0 +1,473 @@
+[
+  {
+    "client_msg_id": "100dac16-7284-4a74-8cb2-27b2ad55f9a7",
+    "type": "message",
+    "text": "*reminder!!*:timer_clock:  *<!here>*  *<@u03ukl27b0r>* \n*please note that the timed contest in on in the next 5 minutes*\n\u2022 *time*: from 9:00 am - Joanne:00 am utc\n",
+    "user": "U03V1AM5TFA",
+    "ts": "1668156600.373259",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=45S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "reminder!!",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "timer_clock",
+                "unicode": "23f2-fe0f",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "please note that the timed contest in on in the next 5 minutes",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Time",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": From 9:00 AM - 10:00 AM UTC"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Shepherd",
+      "display_name": "Lynn Shepherd",
+      "team": "T03U4J8HMUG",
+      "name": "Lynn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "dc3b3c8c-da7b-461b-8f65-3e1a388e9866",
+    "type": "message",
+    "text": "*mock interview reminder!!*:timer_clock:  *<!here>*\n*<@u03tepyrm2p>* *<@u03u93gnnvb>*\n*please note* mock interview *is on in the next joannemin*\n\u2022 *time*: from 11:00 am - 12:00 pm utc (login 5 min before the starting time)\n\u2022 *platform:* Stephanie meet. <http://meet.Stephanie.com/ysb-kjdn-hpp|meet.Stephanie.com/ysb-kjdn-hpp>\n",
+    "user": "U03V1AM5TFA",
+    "ts": "1668163800.198879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ahS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "mock interview reminder!!",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "timer_clock",
+                "unicode": "23f2-fe0f",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U03TEPYRM2P",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "user",
+                "user_id": "U03U93GNNVB",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "please note ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "mock interview"
+              },
+              {
+                "type": "text",
+                "text": " is on in the next Joannemin",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Time",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": From 11:00 AM - 12:00 PM UTC (Login 5 min before the starting time)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Platform: ",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "Google meet. "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://meet.google.com/ysb-kjdn-hpp",
+                    "text": "meet.google.com/ysb-kjdn-hpp"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Shepherd",
+      "display_name": "Lynn Shepherd",
+      "team": "T03U4J8HMUG",
+      "name": "Lynn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b188bfe0-3f7f-4384-b3f8-5bcd9136385b",
+    "type": "message",
+    "text": "*independent challenge work reminder!! <!here>*\n*please note that independent challenge work is  in the next Joannemin*\n\u2022 *session:* independent challenge work (you will be working independently on today's challenge)\n\u2022 *time*: from 2:00 pm - 8:00 pm utc.\n",
+    "user": "U03V1AM5TFA",
+    "ts": "1668174600.485749",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "COcQ2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "independent challenge work reminder!! ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "please note that independent challenge work is  in the next Joannemin",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Session: ",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "Independent challenge work (You will be working independently on today's challenge)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Time",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": From 2:00 PM - 8:00 PM UTC."
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Shepherd",
+      "display_name": "Lynn Shepherd",
+      "team": "T03U4J8HMUG",
+      "name": "Lynn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "62a01861-7d8d-41cd-a28c-fd7f5dc6afb7",
+    "type": "message",
+    "text": "<!here> have you not booked your presentation yet? monday has two open slots! if you are among these two who haven't booked and are uncomfortable with monday - feel free to reach me privately!\n\n<https://Johnson.stephanie.com/Johnson/u/0/selfsched?sstoken=uui4ewfmz19hdedifgrlzmf1bhr8mzhkntfjmdy2zwrmnjiyyzfim2yzymu4ywq2yjy4ymq>",
+    "user": "U03T89ACUUW",
+    "ts": "1668176398.611359",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p0IX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "here"
+              },
+              {
+                "type": "text",
+                "text": " have you not booked your presentation yet? monday has two open slots! if you are among these two who haven't booked and are uncomfortable with monday - feel free to reach me privately!\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://Johnson.stephanie.com/Johnson/u/0/selfsched?sstoken=uui4ewfmz19hdedifgrlzmf1bhr8mzhkntfjmdy2zwrmnjiyyzfim2yzymu4ywq2yjy4ymq",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5d532c004550",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3979962953108_5d532c00455016e7842d_72.jpg",
+      "first_name": "Rachel",
+      "real_name": "Rachel Mann",
+      "display_name": "Rachel Mann",
+      "team": "T03U4J8HMUG",
+      "name": "Rachel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Johnson.stephanie.com/Johnson/u/0/selfsched?sstoken=uui4ewfmz19hdedifgrlzmf1bhr8mzhkntfjmdy2zwrmnjiyyzfim2yzymu4ywq2yjy4ymq",
+        "service_icon": "https://accounts.Stephanie.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://Johnson.stephanie.com/Johnson/u/0/selfsched?sstoken=uui4ewfmz19hdedifgrlzmf1bhr8mzhkntfjmdy2zwrmnjiyyzfim2yzymu4ywq2yjy4ymq",
+        "fallback": "Stephanie Johnson - sign in to access &amp; edit your schedule",
+        "text": "access stephanie johnson with a free Stephanie account (for personal use) or Stephanie workspace account (for business use).",
+        "title": "Stephanie Johnson - sign in to access &amp; edit your schedule",
+        "title_link": "https://Johnson.stephanie.com/Johnson/u/0/selfsched?sstoken=uui4ewfmz19hdedifgrlzmf1bhr8mzhkntfjmdy2zwrmnjiyyzfim2yzymu4ywq2yjy4ymq",
+        "service_name": "accounts.Stephanie.com",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB",
+          "U03UG0YHAUT"
+        ],
+        "count": 2
+      }
+    ]
+  }
+]

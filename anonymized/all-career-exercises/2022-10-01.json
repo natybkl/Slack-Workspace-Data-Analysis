@@ -1,0 +1,106 @@
+[
+  {
+    "client_msg_id": "f7352e66-0c20-4f7a-905d-b22cb545f601",
+    "type": "message",
+    "text": "should a question be longer to be a good questions? is it not possible to ask good open-ended question by just using 5 words?",
+    "user": "U03U1FNPEUX",
+    "ts": "1664639788.505779",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S+3N=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "should a question be longer to be a good questions? is it not possible to ask good open-ended question by just using 5 words?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664639788.505779",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1664641497.726439",
+    "reply_users": [
+      "U03UVHCV6KB"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1664641497.726439"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "06308f23-85ce-4f38-8dcf-995e84c7a1e0",
+    "type": "message",
+    "text": "i think it can. i think it depends on how you put it?",
+    "user": "U03UVHCV6KB",
+    "ts": "1664641497.726439",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JLTt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think it can. i think it depends on how you put it?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664639788.505779",
+    "parent_user_id": "U03U1FNPEUX",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03U1FNPEUX"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  }
+]

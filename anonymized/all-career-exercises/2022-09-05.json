@@ -1,0 +1,86 @@
+[
+  {
+    "client_msg_id": "df917ca7-aa64-446e-9620-030bc7cf559e",
+    "type": "message",
+    "text": "hello <!channel>, hope you're having a good day. please be aware that we'll be having a tutorial session for the week's career exercise tomorrow (*developing curiosity and the ability to ask good questions*). kindly check the tutorial guidelines in your folder so that you can prepare at least one question for the tomorrow's q/a session. please be aware that your participation in the q/a will have an impact on the exercise grade.:clinking_glasses:",
+    "user": "U03UL5LSTG9",
+    "ts": "1662377547.577609",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kibo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": ", hope you're having a good day. please be aware that we'll be having a tutorial session for the week's career exercise tomorrow ("
+              },
+              {
+                "type": "text",
+                "text": "developing curiosity and the ability to ask good questions",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "). kindly check the tutorial guidelines in your folder so that you can prepare at least one question for the tomorrow's q/a session. please be aware that your participation in the q/a will have an impact on the exercise grade."
+              },
+              {
+                "type": "emoji",
+                "name": "clinking_glasses",
+                "unicode": "1f942"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3fe4d3c0de24",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3978609497829_3fe4d3c0de24beaf8552_72.png",
+      "first_name": "Ashley",
+      "real_name": "Ashley Glenn",
+      "display_name": "Ashley Glenn",
+      "team": "T03U4J8HMUG",
+      "name": "Ashley",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UL5LSTG9",
+      "ts": "1662458907.000000"
+    },
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03U9EJR362",
+          "U03UFV7TUTV",
+          "U03UG5VFN03",
+          "U03UUR571A5",
+          "U03UG0YHAUT",
+          "U03UG4Q7V42",
+          "U03UH397319",
+          "U03UFV7HFNF",
+          "U03UVHCV6KB"
+        ],
+        "count": 9
+      }
+    ],
+    "attachments": null
+  }
+]

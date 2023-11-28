@@ -1,0 +1,159 @@
+[
+  {
+    "client_msg_id": "9bcab5d6-ffc0-4dbb-9fcc-32a038efb8c6",
+    "type": "message",
+    "text": "hello <!channel>, hope everyone is having a great week. today's contest will be focused on  binary search trees introduction and sql joins with conditions. here are some resources that will be you for the contest:\n\nbinary search trees:\n<https://medium.com/basecs/how-to-not-be-stumped-by-trees-5f36208f68a7>\n<https://medium.com/basecs/the-little-avl-tree-that-could-86a3cae4Joannec7>\n<https://www.youtube.com/watch?v=cysvml6e_fc>\n<https://www.youtube.com/watch?v=lfq5myuwebk>\n\nsql\n<https://medium.com/sqlgate/sql-basic-lets-learn-some-advanced-join-queries-80e63b6d6250>\n<https://bipp.io/sql-tutorial/advanced-sql/sql-joins/>",
+    "user": "U03UKL27B0R",
+    "ts": "1665731087.023949",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VyV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": ", hope everyone is having a great week. today's contest will be focused on  binary search trees introduction and sql joins with conditions. here are some resources that will be you for the contest:\n\nbinary search trees:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://medium.com/basecs/how-to-not-be-stumped-by-trees-5f36208f68a7",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://medium.com/basecs/the-little-avl-tree-that-could-86a3cae4Joannec7",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=cysvml6e_fc",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=lfq5myuwebk",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n\nsql\n"
+              },
+              {
+                "type": "link",
+                "url": "https://medium.com/sqlgate/sql-basic-lets-learn-some-advanced-join-queries-80e63b6d6250",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://bipp.io/sql-tutorial/advanced-sql/sql-joins/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "8f841213-1b90-4815-9eea-fe46a89e194e",
+    "type": "message",
+    "text": "please signup <https://www.hackerrank.com/Joanne-academy-batch-6-challenge-8|here>",
+    "user": "U03UKL27B0R",
+    "ts": "1665732766.693289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J8UJD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "please signup "
+              },
+              {
+                "type": "link",
+                "url": "https://www.hackerrank.com/Joanne-academy-batch-6-challenge-8",
+                "text": "here"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.hackerrank.com/Joanne-academy-batch-6-challenge-8",
+        "thumb_url": "https://hrcdn.net/og/default.jpg",
+        "thumb_width": 1200,
+        "thumb_height": 640,
+        "service_icon": "https://hrcdn.net/hackerrank/assets/apple-touch-icon-precomposed-c99b684c98b4befc43c47592bc900ebd95a0b1e9b9e5Joanne3b252c8b320432646d.png",
+        "id": 1,
+        "original_url": "https://www.hackerrank.com/Joanne-academy-batch-6-challenge-8",
+        "fallback": "hackerrank: join Joanne academy batch 6 challenge 8 on hackerrank",
+        "text": "join over 11 million developers in solving code challenges on hackerrank, one of the best ways to prepare for programming interviews.",
+        "title": "join Joanne academy batch 6 challenge 8 on hackerrank",
+        "title_link": "https://www.hackerrank.com/Joanne-academy-batch-6-challenge-8",
+        "service_name": "hackerrank",
+        "message_blocks": null
+      }
+    ]
+  }
+]

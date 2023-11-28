@@ -1,0 +1,752 @@
+[
+  {
+    "client_msg_id": "4f008f4e-a72b-4453-a9a9-4909342078eb",
+    "type": "message",
+    "text": "please share the week document <@u03uun8m4rx>",
+    "user": "U03UH397319",
+    "ts": "1667817586.333899",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "n33",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "please share the week document "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UUN8M4RX"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ce6e15c6-42d6-4c03-8262-2fca2123c748",
+    "type": "message",
+    "text": "what are we submitting today?",
+    "user": "U03V785NLSU",
+    "ts": "1667820880.607259",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QKg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what are we submitting today?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667820880.607259",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1667824574.375099",
+    "reply_users": [
+      "U03TEPYRM2P",
+      "U03UG0YHAUT"
+    ],
+    "replies": [
+      {
+        "user": "U03TEPYRM2P",
+        "ts": "1667822181.488179"
+      },
+      {
+        "user": "U03UG0YHAUT",
+        "ts": "1667824574.375099"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1667824574.375099",
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U03UG1Z21JP",
+          "U03U1HAG9TR"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "29985ae4-2835-4f13-9752-b9d7e1b90e32",
+    "type": "message",
+    "text": "select one of your previous project along the career path. submit the project you choose",
+    "user": "U03TEPYRM2P",
+    "ts": "1667822181.488179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Zlz2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "select one of your previous project along the career path. submit the project you choose"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Bridget",
+      "real_name": "Bridget Glover",
+      "display_name": "Bridget Glover",
+      "team": "T03U4J8HMUG",
+      "name": "Bridget",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667820880.607259",
+    "parent_user_id": "U03V785NLSU",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "f00e5ec0-ef71-46e7-8ee2-952311b70aea",
+    "type": "message",
+    "text": "do you mean just the title:face_with_raised_eyebrow:",
+    "user": "U03UG0YHAUT",
+    "ts": "1667824574.375099",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pPmIE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "do you mean just the title"
+              },
+              {
+                "type": "emoji",
+                "name": "face_with_raised_eyebrow",
+                "unicode": "1f928"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667820880.607259",
+    "parent_user_id": "U03V785NLSU",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "723512f4-2243-42e9-8ea0-d8a7231487c2",
+    "type": "message",
+    "text": "&gt; remember this?\n&gt; <https://Joanneacademybatch6.slack.com/archives/c03u4j8j4lq/p1667568888543719>\n&gt; :grin:",
+    "user": "U03UVHCV6KB",
+    "ts": "1667829318.255059",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Had5M",
+        "elements": [
+          {
+            "type": "rich_text_quote",
+            "elements": [
+              {
+                "type": "text",
+                "text": "remember this?\n"
+              },
+              {
+                "type": "link",
+                "url": "https://Joanneacademybatch6.slack.com/archives/c03u4j8j4lq/p1667568888543719",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "emoji",
+                "name": "grin",
+                "unicode": "1f601"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Joanneacademybatch6.slack.com/archives/c03u4j8j4lq/p1667568888543719",
+        "ts": "1667568888.543719",
+        "author_id": "u03tepyrm2p",
+        "channel_id": "c03u4j8j4lq",
+        "channel_team": "t03u4j8hmug",
+        "is_msg_unfurl": true,
+        "message_blocks": [
+          {
+            "team": "T03U4J8HMUG",
+            "channel": "C03U4J8J4LQ",
+            "ts": "1667568888.543719",
+            "message": {
+              "blocks": [
+                {
+                  "type": "rich_text",
+                  "block_id": "B=a",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "notice",
+                          "style": {
+                            "bold": true,
+                            "italic": false,
+                            "strike": false
+                          }
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n\nhi all,\n\nwe would like to pilot new approach for one day's standup in week 12! more about the pilot below:"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_list",
+                      "elements": [
+                        {
+                          "type": "rich_text_section",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "when : Tuesday standup"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "rich_text_section",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "How : This standup will be coordinated by trainees yourself "
+                            }
+                          ]
+                        }
+                      ],
+                      "style": "bullet",
+                      "indent": 0,
+                      "offset": 0,
+                      "border": 0
+                    },
+                    {
+                      "type": "rich_text_list",
+                      "elements": [
+                        {
+                          "type": "rich_text_section",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "You will pick and agree on the topic of discussion by Monday but it has to be related to the week 12 challenge"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "rich_text_section",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "You will select a moderator - session lead to facilitate the discussion "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "rich_text_section",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "We should have the moderator nominated by Monday 12:00 UTC"
+                            }
+                          ]
+                        }
+                      ],
+                      "style": "bullet",
+                      "indent": 1,
+                      "offset": 0,
+                      "border": 0
+                    },
+                    {
+                      "type": "rich_text_list",
+                      "elements": [
+                        {
+                          "type": "rich_text_section",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "We will observe as 10 Academy how it goes and think of how to implement similar approaches for the next batches or can choose another day for the rest the week 12 to go similar.  "
+                            }
+                          ]
+                        }
+                      ],
+                      "style": "bullet",
+                      "indent": 0,
+                      "offset": 0,
+                      "border": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "id": 1,
+        "original_url": "https://Joanneacademybatch6.slack.com/archives/c03u4j8j4lq/p1667568888543719",
+        "fallback": "[november 4th, 2022 6:34 am] bridget: *notice*\n\nhi all,\n\nwe would like to pilot new approach for one day's standup in week 12! more about the pilot below:\n\u2022 when : tuesday standup\n\u2022 how : this standup will be coordinated by trainees yourself \n    \u25e6 you will pick and agree on the topic of discussion by monday but it has to be related to the week 12 challenge\n    \u25e6 you will select a moderator - session lead to facilitate the discussion \n    \u25e6 we should have the moderator nominated by monday 12:00 utc\n\u2022 we will observe as Joanne academy how it goes and think of how to implement similar approaches for the next batches or can choose another day for the rest the week 12 to go similar.",
+        "text": "*notice*\n\nhi all,\n\nwe would like to pilot new approach for one day's standup in week 12! more about the pilot below:\n\u2022 when : tuesday standup\n\u2022 how : this standup will be coordinated by trainees yourself \n    \u25e6 you will pick and agree on the topic of discussion by monday but it has to be related to the week 12 challenge\n    \u25e6 you will select a moderator - session lead to facilitate the discussion \n    \u25e6 we should have the moderator nominated by monday 12:00 utc\n\u2022 we will observe as Joanne academy how it goes and think of how to implement similar approaches for the next batches or can choose another day for the rest the week 12 to go similar.",
+        "author_name": "Bridget Glover",
+        "author_link": "https://Joanneacademybatch6.slack.com/team/u03tepyrm2p",
+        "author_icon": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_48.jpg",
+        "author_subname": "Bridget Glover",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "footer": "slack conversation"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d7aafd63-404e-4bde-a7f5-ca45929527cf",
+    "type": "message",
+    "text": "how are we going to do the submission today? expecting a link to Stephanie classroom. <@u03tepyrm2p>",
+    "user": "U03UH397319",
+    "ts": "1667831518.280939",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FLkY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how are we going to do the submission today? expecting a link to Stephanie classroom. "
+              },
+              {
+                "type": "user",
+                "user_id": "U03TEPYRM2P"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667831518.280939",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1667831802.415459",
+    "reply_users": [
+      "U03TEPYRM2P"
+    ],
+    "replies": [
+      {
+        "user": "U03TEPYRM2P",
+        "ts": "1667831802.415459"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1667831802.415459",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "8D4CD7EF-04DF-4A32-8D08-5E3864895409",
+    "type": "message",
+    "text": "thank you ",
+    "user": "U03TEPYRM2P",
+    "ts": "1667831802.415459",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LiYT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Bridget",
+      "real_name": "Bridget Glover",
+      "display_name": "Bridget Glover",
+      "team": "T03U4J8HMUG",
+      "name": "Bridget",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667831518.280939",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "fedcf8d8-7f4a-4bc5-ad65-d9cb36e1db0e",
+    "type": "message",
+    "text": "the document is not uploaded yet, and what is the structure of the submissions",
+    "user": "U03V6HMRPGQ",
+    "ts": "1667833875.288709",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lGQc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the document is not uploaded yet, and what is the structure of the submissions"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667833875.288709",
+    "reply_count": 2,
+    "reply_users_count": 1,
+    "latest_reply": "1667835382.576969",
+    "reply_users": [
+      "U03UP7V9Q57"
+    ],
+    "replies": [
+      {
+        "user": "U03UP7V9Q57",
+        "ts": "1667835276.858319"
+      },
+      {
+        "user": "U03UP7V9Q57",
+        "ts": "1667835382.576969"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "the document will be shared soon.\n\nfor the submission structure, you can follow the following guideline:\n\u2022 the project chosen with a summary of the business understanding and tasks to be done.\n\u2022 what was accomplished during the week\n\u2022 how you plan to extend the project, and\n\u2022 the week plan (day by day) to extend the project.",
+    "user": "U03UP7V9Q57",
+    "ts": "1667835276.858319",
+    "thread_ts": "1667833875.288709",
+    "root": {
+      "client_msg_id": "fedcf8d8-7f4a-4bc5-ad65-d9cb36e1db0e",
+      "type": "message",
+      "text": "the document is not uploaded yet, and what is the structure of the submissions",
+      "user": "U03V6HMRPGQ",
+      "ts": "1667833875.288709",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lGQc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "the document is not uploaded yet, and what is the structure of the submissions"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T03U4J8HMUG",
+      "thread_ts": "1667833875.288709",
+      "reply_count": 2,
+      "reply_users_count": 1,
+      "latest_reply": "1667835382.576969",
+      "reply_users": [
+        "U03UP7V9Q57"
+      ],
+      "replies": [
+        {
+          "user": "U03UP7V9Q57",
+          "ts": "1667835276.858319"
+        },
+        {
+          "user": "U03UP7V9Q57",
+          "ts": "1667835382.576969"
+        }
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xuhhX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the document will be shared soon.\n\nfor the submission structure, you can follow the following guideline:\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "the project chosen with a summary of the business understanding and tasks to be done."
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "what was accomplished during the week"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "how you plan to extend the project, and"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "the week plan (day by day) to extend the project."
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "offset": 0,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "ae3cc27e-7940-4548-aac3-6bd04e08aec0",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03V6HMRPGQ",
+          "U03UG5VFN03",
+          "U03UHB8CXDY"
+        ],
+        "count": 3
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "be cautious on the plan provided as the interim report submission on wednesday will be a progress report against the plan you submit today",
+    "user": "U03UP7V9Q57",
+    "ts": "1667835382.576969",
+    "thread_ts": "1667833875.288709",
+    "root": {
+      "client_msg_id": "fedcf8d8-7f4a-4bc5-ad65-d9cb36e1db0e",
+      "type": "message",
+      "text": "the document is not uploaded yet, and what is the structure of the submissions",
+      "user": "U03V6HMRPGQ",
+      "ts": "1667833875.288709",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lGQc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "the document is not uploaded yet, and what is the structure of the submissions"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T03U4J8HMUG",
+      "thread_ts": "1667833875.288709",
+      "reply_count": 2,
+      "reply_users_count": 1,
+      "latest_reply": "1667835382.576969",
+      "reply_users": [
+        "U03UP7V9Q57"
+      ],
+      "replies": [
+        {
+          "user": "U03UP7V9Q57",
+          "ts": "1667835276.858319"
+        },
+        {
+          "user": "U03UP7V9Q57",
+          "ts": "1667835382.576969"
+        }
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L+t+4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "be cautious on the plan provided as the interim report submission on wednesday will be a progress report against the plan you submit today"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "cd2b2557-110f-4df9-90e1-28e2a50e5c12",
+    "attachments": null
+  }
+]

@@ -1,0 +1,2328 @@
+[
+  {
+    "client_msg_id": "be19684b-5208-4969-9816-3cf7efcecb60",
+    "type": "message",
+    "text": "<https://youtu.be/zapv1osephw|https://youtu.be/zapv1osephw>",
+    "user": "U03UG0YHAUT",
+    "ts": "1666164305.009619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eVEK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/zapv1osephw",
+                "text": "https://youtu.be/zapv1osephw"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/zapv1osephw",
+        "thumb_url": "https://i.ytimg.com/vi/zapv1osephw/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/zapv1osephw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"keynote: judea pearl - the new science of cause and effect\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/zapv1osephw",
+        "fallback": "youtube video: keynote: judea pearl - the new science of cause and effect",
+        "title": "keynote: judea pearl - the new science of cause and effect",
+        "title_link": "https://youtu.be/zapv1osephw",
+        "author_name": "pydata",
+        "author_link": "https://www.youtube.com/c/pydatatv",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d80db448-2b84-4739-8333-49439fcf8653",
+    "type": "message",
+    "text": "<https://analyticsindiamag.com/a-complete-guide-to-causal-inference-in-python/>",
+    "user": "U03UG1Z21JP",
+    "ts": "1666165702.054079",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z28s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://analyticsindiamag.com/a-complete-guide-to-causal-inference-in-python/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://analyticsindiamag.com/a-complete-guide-to-causal-inference-in-python/",
+        "ts": 1634992712,
+        "image_url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/Joanne/image-11.jpeg",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 67975,
+        "service_icon": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/11/cropped-aim-new-logo-1-22-3-180x180.jpg",
+        "id": 1,
+        "original_url": "https://analyticsindiamag.com/a-complete-guide-to-causal-inference-in-python/",
+        "fallback": "analytics india magazine: a complete guide to causal inference in python",
+        "text": "a complete guide that introduces causal inference, a part for behavioural science, with complete hands-on implementation in python.",
+        "title": "a complete guide to causal inference in python",
+        "title_link": "https://analyticsindiamag.com/a-complete-guide-to-causal-inference-in-python/",
+        "service_name": "analytics india magazine",
+        "fields": [
+          {
+            "value": "Yugesh Verma",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "20 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "460063d4-d1e1-411e-a43c-76b43e2458ab",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=w4dfqmh5ogw>",
+    "user": "U03UG1Z21JP",
+    "ts": "1666165898.159149",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XoVE/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=w4dfqmh5ogw",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=w4dfqmh5ogw",
+        "thumb_url": "https://i.ytimg.com/vi/w4dfqmh5ogw/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/w4dfqmh5ogw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"start asking your data \u201cwhy?\u201d - a gentle introduction to causal inference | pydata global 2021\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=w4dfqmh5ogw",
+        "fallback": "youtube video: start asking your data \u201cwhy?\u201d - a gentle introduction to causal inference | pydata global 2021",
+        "title": "start asking your data \u201cwhy?\u201d - a gentle introduction to causal inference | pydata global 2021",
+        "title_link": "https://www.youtube.com/watch?v=w4dfqmh5ogw",
+        "author_name": "pydata",
+        "author_link": "https://www.youtube.com/c/pydatatv",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ff99fc6b-c708-43b8-9204-de9441c36a46",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=grkuhg9wb-i>",
+    "user": "U03UUR571A5",
+    "ts": "1666166557.288679",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UDh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=grkuhg9wb-i",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=grkuhg9wb-i",
+        "thumb_url": "https://i.ytimg.com/vi/grkuhg9wb-i/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/grkuhg9wb-i?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"14. causal inference, part 1\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=grkuhg9wb-i",
+        "fallback": "youtube video: 14. causal inference, part 1",
+        "title": "14. causal inference, part 1",
+        "title_link": "https://www.youtube.com/watch?v=grkuhg9wb-i",
+        "author_name": "mit opencourseware",
+        "author_link": "https://www.youtube.com/c/mitocw",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1666166557.288679",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1666169579.752499",
+    "reply_users": [
+      "U03UJGP0C68",
+      "U03UUR571A5"
+    ],
+    "replies": [
+      {
+        "user": "U03UJGP0C68",
+        "ts": "1666169503.607189"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1666169579.752499"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "997e454a-73e9-455d-9799-d3f3f619375f",
+    "type": "message",
+    "text": "this lecture is just wow :Joanne0: thanks for sharing it man",
+    "user": "U03UJGP0C68",
+    "ts": "1666169503.607189",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S7CR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this lecture is just wow "
+              },
+              {
+                "type": "emoji",
+                "name": "100",
+                "unicode": "1f4af"
+              },
+              {
+                "type": "text",
+                "text": " thanks for sharing it man"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666166557.288679",
+    "parent_user_id": "U03UUR571A5",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UUR571A5"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "3f0c7710-eb20-42bd-b3a4-9bb58556da4d",
+    "type": "message",
+    "text": "<https://www.fastcompany.com/3030529/hilarious-graphs-prove-that-correlation-isnt-causation>",
+    "user": "U03UD68RQH3",
+    "ts": "1666169547.492049",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WkND",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.fastcompany.com/3030529/hilarious-graphs-prove-that-correlation-isnt-causation",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.fastcompany.com/3030529/hilarious-graphs-prove-that-correlation-isnt-causation",
+        "ts": 1399997700,
+        "image_url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2014/05/3030529-inline-prjk5ql-1.png",
+        "image_width": 417,
+        "image_height": 250,
+        "image_bytes": 44607,
+        "service_icon": "https://www.fastcompany.com/apple-touch-icon.png?v=5",
+        "id": 1,
+        "original_url": "https://www.fastcompany.com/3030529/hilarious-graphs-prove-that-correlation-isnt-causation",
+        "fallback": "fast company: hilarious graphs prove that correlation isn\u2019t causation",
+        "text": "that is, unless we do have nicholas cage to blame for all those people drowning in swimming pools.",
+        "title": "hilarious graphs prove that correlation isn\u2019t causation",
+        "title_link": "https://www.fastcompany.com/3030529/hilarious-graphs-prove-that-correlation-isnt-causation",
+        "service_name": "fast company",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f888a387-a01a-4266-9fd9-bc5988508ccc",
+    "type": "message",
+    "text": "yea the teacher wooowwwww",
+    "user": "U03UUR571A5",
+    "ts": "1666169579.752499",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wtw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yea the teacher wooowwwww"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666166557.288679",
+    "parent_user_id": "U03UUR571A5",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "44908616-ea0e-49f8-980a-5ff725180af4",
+    "type": "message",
+    "text": "<http://www.tylervigen.com/spurious-correlations>",
+    "user": "U03UD68RQH3",
+    "ts": "1666169623.501979",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7x6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://www.tylervigen.com/spurious-correlations",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "http://www.tylervigen.com/spurious-correlations",
+        "image_url": "http://tylervigen.com/images/spurious-correlations-share.png",
+        "image_width": 498,
+        "image_height": 250,
+        "image_bytes": 40677,
+        "service_icon": "http://www.tylervigen.com/images/icons/apple-icon-57x57.png",
+        "id": 1,
+        "original_url": "http://www.tylervigen.com/spurious-correlations",
+        "fallback": "spurious correlations",
+        "title": "spurious correlations",
+        "title_link": "http://www.tylervigen.com/spurious-correlations",
+        "service_name": "tylervigen.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5865bd4d-ebda-4514-aa34-029da5443b4d",
+    "type": "message",
+    "text": "<https://osmnx.readthedocs.io/en/stable/index.html>",
+    "user": "U03UD68RQH3",
+    "ts": "1666170243.054499",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "brw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://osmnx.readthedocs.io/en/stable/index.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U03UUR571A5"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "50b77ad6-1760-4f1d-aae3-ac17e9a73639",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/exploratory-spatial-data-analysis-esda-spatial-autocorrelation-7592edcbef9a>",
+    "user": "U03UUR571A5",
+    "ts": "1666170545.250269",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y/Cqh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/exploratory-spatial-data-analysis-esda-spatial-autocorrelation-7592edcbef9a",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/exploratory-spatial-data-analysis-esda-spatial-autocorrelation-7592edcbef9a",
+        "ts": 1610942744,
+        "image_url": "https://miro.medium.com/max/856/0*_uacedggptb9_4gn.png",
+        "image_width": 334,
+        "image_height": 250,
+        "image_bytes": 142571,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/exploratory-spatial-data-analysis-esda-spatial-autocorrelation-7592edcbef9a",
+        "fallback": "medium: exploratory spatial data analysis (esda)\u200a\u2014\u200aspatial autocorrelation",
+        "text": "explores toronto neighborhoods airbnb listing prices and identifies hot/cold areas",
+        "title": "exploratory spatial data analysis (esda)\u200a\u2014\u200aspatial autocorrelation",
+        "title_link": "https://towardsdatascience.com/exploratory-spatial-data-analysis-esda-spatial-autocorrelation-7592edcbef9a",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "7 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f078b676-afb3-4eee-9071-e74bfae96cb7",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/calculating-distance-between-two-geolocations-in-python-26ad3afe287b>",
+    "user": "U03UJH1EQQL",
+    "ts": "1666173077.814179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MXYV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/calculating-distance-between-two-geolocations-in-python-26ad3afe287b",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/calculating-distance-between-two-geolocations-in-python-26ad3afe287b",
+        "ts": 1592106453,
+        "image_url": "https://miro.medium.com/max/1200/0*9sybxmoposi8l7v7",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 109810,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/calculating-distance-between-two-geolocations-in-python-26ad3afe287b",
+        "fallback": "medium: calculating distance between two geolocations in python",
+        "text": "an introduction to \u201chaversine distance\u201d",
+        "title": "calculating distance between two geolocations in python",
+        "title_link": "https://towardsdatascience.com/calculating-distance-between-two-geolocations-in-python-26ad3afe287b",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "3 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UG4Q7V42",
+          "U03UHB8CXDY"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3eabf705-0743-422f-a668-0671d783b61f",
+    "type": "message",
+    "text": "<https://www.uber.com/blog/causal-inference-at-uber/>",
+    "user": "U03UHB8CXDY",
+    "ts": "1666177600.013739",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iVpmx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.uber.com/blog/causal-inference-at-uber/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.uber.com/blog/causal-inference-at-uber/",
+        "ts": 1560934856,
+        "image_url": "https://blogapi.uber.com/wp-content/uploads/2019/06/facebook.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 609436,
+        "service_icon": "https://www.uber.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.uber.com/blog/causal-inference-at-uber/",
+        "fallback": "uber blog: using causal inference to improve the uber user experience",
+        "text": "uber labs leverages causal inference, a statistical method for better understanding the cause of experiment results, to improve our products and operations analysis.",
+        "title": "using causal inference to improve the uber user experience",
+        "title_link": "https://www.uber.com/blog/causal-inference-at-uber/",
+        "service_name": "uber blog",
+        "fields": [
+          {
+            "value": "20 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03V785NLSU"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b4d541a1-fdb5-4097-9760-643eaa132deb",
+    "type": "message",
+    "text": "<https://causalnex.readthedocs.io/en/latest/>",
+    "user": "U03UD68RQH3",
+    "ts": "1666187063.017799",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0uNc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://causalnex.readthedocs.io/en/latest/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "52dcca96-d8b6-4731-b3ac-0fa3e2f5fef1",
+    "type": "message",
+    "text": "<https://causalnex.readthedocs.io/en/latest/03_tutorial/01_first_tutorial.html>",
+    "user": "U03UVHCV6KB",
+    "ts": "1666187735.221679",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HHjp2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://causalnex.readthedocs.io/en/latest/03_tutorial/01_first_tutorial.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UG1Z21JP"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b97449f6-de9d-40cf-a93e-8cbb71a11f60",
+    "type": "message",
+    "text": "<https://matheusfacure.Michelle.io/python-causality-handbook/01-introduction-to-causality.html>",
+    "user": "U03UJGRN5E0",
+    "ts": "1666195301.914179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uNlH2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://matheusfacure.Michelle.io/python-causality-handbook/01-introduction-to-causality.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "00d249e6-8735-49d9-aabd-b8b52ab4ac50",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=8zxdno8rr6g>",
+    "user": "U03UG5VFN03",
+    "ts": "1666197906.629319",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SPjY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=8zxdno8rr6g",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Susan",
+      "real_name": "Susan Lewis",
+      "display_name": "Susan Lewis",
+      "team": "T03U4J8HMUG",
+      "name": "Susan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=8zxdno8rr6g",
+        "thumb_url": "https://i.ytimg.com/vi/8zxdno8rr6g/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/8zxdno8rr6g?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"hanan shteingart: causality in python\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=8zxdno8rr6g",
+        "fallback": "youtube video: hanan shteingart: causality in python",
+        "title": "hanan shteingart: causality in python",
+        "title_link": "https://www.youtube.com/watch?v=8zxdno8rr6g",
+        "author_name": "pycon israel",
+        "author_link": "https://www.youtube.com/c/pyconisrael",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6ce8e3a4-209b-4031-812e-d564ba306a1a",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=o5-vbowqhlo>",
+    "user": "U03UG5VFN03",
+    "ts": "1666198348.770499",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VRs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=o5-vbowqhlo",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Susan",
+      "real_name": "Susan Lewis",
+      "display_name": "Susan Lewis",
+      "team": "T03U4J8HMUG",
+      "name": "Susan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=o5-vbowqhlo",
+        "thumb_url": "https://i.ytimg.com/vi/o5-vbowqhlo/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/o5-vbowqhlo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"causal inference: making the right intervention | quantumblack\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=o5-vbowqhlo",
+        "fallback": "youtube video: causal inference: making the right intervention | quantumblack",
+        "title": "causal inference: making the right intervention | quantumblack",
+        "title_link": "https://www.youtube.com/watch?v=o5-vbowqhlo",
+        "author_name": "data council",
+        "author_link": "https://www.youtube.com/c/datacouncil",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands::skin-tone-4",
+        "users": [
+          "U03UG4Q7V42"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UG1Z21JP"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "dc8ade49-03bd-4cd5-8b62-b695dd2eb83f",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=50vgblspnqm>",
+    "user": "U03UG5VFN03",
+    "ts": "1666198496.449169",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z=0b8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=50vgblspnqm",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Susan",
+      "real_name": "Susan Lewis",
+      "display_name": "Susan Lewis",
+      "team": "T03U4J8HMUG",
+      "name": "Susan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=50vgblspnqm",
+        "thumb_url": "https://i.ytimg.com/vi/50vgblspnqm/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/50vgblspnqm?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"ucl seminar - what is causal ai\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=50vgblspnqm",
+        "fallback": "youtube video: ucl seminar - what is causal ai",
+        "title": "ucl seminar - what is causal ai",
+        "title_link": "https://www.youtube.com/watch?v=50vgblspnqm",
+        "author_name": "causalens",
+        "author_link": "https://www.youtube.com/c/causalens",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d176c7b2-b3e2-4ffe-9d83-86fcb5670f9e",
+    "type": "message",
+    "text": "<https://www.kaggle.com/code/mohamed08/exploratory-data-analysis-for-uber-trips/data>",
+    "user": "U03V785NLSU",
+    "ts": "1666206315.331269",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T2G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.kaggle.com/code/mohamed08/exploratory-data-analysis-for-uber-trips/data",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.kaggle.com/code/mohamed08/exploratory-data-analysis-for-uber-trips/data",
+        "thumb_url": "https://storage.Stephanieapis.com/kaggle-avatars/thumbnails/1132925-fb.jpg",
+        "thumb_width": 100,
+        "thumb_height": 100,
+        "service_icon": "https://www.kaggle.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.kaggle.com/code/mohamed08/exploratory-data-analysis-for-uber-trips/data",
+        "fallback": "exploratory data analysis for uber trips",
+        "text": "explore and run machine learning code with kaggle notebooks | using data from my uber Johnsons",
+        "title": "exploratory data analysis for uber trips",
+        "title_link": "https://www.kaggle.com/code/mohamed08/exploratory-data-analysis-for-uber-trips/data",
+        "service_name": "kaggle.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2b4dc6a0-d7e1-4544-a979-a47f11625d54",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/exploratory-data-analysis-eda-a-pratical-approach-using-your-uber-rides-dataset-5e9f0e892149>",
+    "user": "U03V785NLSU",
+    "ts": "1666206603.496449",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ev4G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/exploratory-data-analysis-eda-a-pratical-approach-using-your-uber-rides-dataset-5e9f0e892149",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/exploratory-data-analysis-eda-a-pratical-approach-using-your-uber-rides-dataset-5e9f0e892149",
+        "ts": 1657016087,
+        "image_url": "https://miro.medium.com/max/1200/1*obgysw4eyb2nu5nyeijc0w.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 232619,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/exploratory-data-analysis-eda-a-pratical-approach-using-your-uber-rides-dataset-5e9f0e892149",
+        "fallback": "medium: exploratory data analysis (eda): a pratical approach using your uber rides dataset",
+        "text": "exploring data is certainly one of the most important stages on data science process. despite its simplicity, it could be a powerful tool\u2026",
+        "title": "exploratory data analysis (eda): a pratical approach using your uber rides dataset",
+        "title_link": "https://towardsdatascience.com/exploratory-data-analysis-eda-a-pratical-approach-using-your-uber-rides-dataset-5e9f0e892149",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "9 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "495d6d04-1569-4cc2-9958-a6edd6cc474d",
+    "type": "message",
+    "text": "<https://blog.ml.cmu.edu/2020/08/31/7-causality/>",
+    "user": "U03UD4FEDHB",
+    "ts": "1666206634.956369",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g4zJ3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://blog.ml.cmu.edu/2020/08/31/7-causality/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g48fef055f8a",
+      "image_72": "https://secure.gravatar.com/avatar/48fef055f8a8b8a4c0bcfefbf5e3eec3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Michael",
+      "real_name": "Michael Fowler",
+      "display_name": "Michael Fowler",
+      "team": "T03U4J8HMUG",
+      "name": "Michael",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://blog.ml.cmu.edu/2020/08/31/7-causality/",
+        "ts": 1598900408,
+        "image_url": "https://blog.ml.cmu.edu/wp-content/uploads/2019/11/xkcd_causation.png",
+        "image_width": 459,
+        "image_height": 185,
+        "image_bytes": 17253,
+        "service_icon": "https://blog.ml.cmu.edu/wp-content/uploads/2018/06/favicon.png",
+        "id": 1,
+        "original_url": "https://blog.ml.cmu.edu/2020/08/31/7-causality/",
+        "fallback": "machine learning blog | ml@cmu | carnegie mellon university: 7 - causal inference",
+        "text": "the rules of causality play a role in almost everything we do. criminal conviction is based on the principle of being the cause of a crime (guilt) as judged by a jury and most of us consider the effects of our actions before we make a decision. therefore, it is reasonable to assume that considering",
+        "title": "7 - causal inference",
+        "title_link": "https://blog.ml.cmu.edu/2020/08/31/7-causality/",
+        "service_name": "machine learning blog | ml@cmu | carnegie mellon university",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f9f7f8fe-6ca0-459f-91dd-c735e10fd52c",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f>",
+    "user": "U03UD4FEDHB",
+    "ts": "1666206718.433569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YKeT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g48fef055f8a",
+      "image_72": "https://secure.gravatar.com/avatar/48fef055f8a8b8a4c0bcfefbf5e3eec3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Michael",
+      "real_name": "Michael Fowler",
+      "display_name": "Michael Fowler",
+      "team": "T03U4J8HMUG",
+      "name": "Michael",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f",
+        "ts": 1594262689,
+        "image_url": "https://miro.medium.com/max/1200/1*4mrirfyocqhokoesx0cc4q.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 222582,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f",
+        "fallback": "medium: introduction to causality in machine learning",
+        "text": "why we need causality in machine learning (from a business perspective)",
+        "title": "introduction to causality in machine learning",
+        "title_link": "https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "8 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8381a379-7524-470e-9fe3-74f29bffd5f2",
+    "type": "message",
+    "text": "<https://osmnx.readthedocs.io/en/stable/>",
+    "user": "U03UVHCV6KB",
+    "ts": "1666207791.216109",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oU7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://osmnx.readthedocs.io/en/stable/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "43709427-d147-4595-a343-fd4cd6090562",
+    "type": "message",
+    "text": "<https://Michelle.com/gboeing/osmnx>",
+    "user": "U03UVHCV6KB",
+    "ts": "1666208503.918099",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Fgt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://Michelle.com/gboeing/osmnx",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "id": 1,
+        "color": "24292f",
+        "bot_id": "b03uyh1bwqz",
+        "app_unfurl_url": "https://Michelle.com/gboeing/osmnx",
+        "is_app_unfurl": true,
+        "app_id": "a01bp7r4kny",
+        "fallback": "gboeing/osmnx",
+        "text": "osmnx: python for street networks. retrieve, model, analyze, and visualize street networks and other spatial data from openstreetmap.",
+        "title": "gboeing/osmnx",
+        "fields": [
+          {
+            "value": "<https://geoffboeing.com/publications/osmnx-complex-street-networks/>",
+            "title": "Website",
+            "short": true
+          },
+          {
+            "value": "3871",
+            "title": "Stars",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ffc6ad82-daa0-4daf-bba0-a602278461b0",
+    "type": "message",
+    "text": "<https://pandas.pydata.org/docs/reference/api/pandas.dataframe.merge.html>",
+    "user": "U03UUR571A5",
+    "ts": "1666211001.805289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "35b+O",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://pandas.pydata.org/docs/reference/api/pandas.dataframe.merge.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "52a7b90f-ba1b-4693-a7ea-bd79f2c80dee",
+    "type": "message",
+    "text": "<https://blog.ml.cmu.edu/2020/08/31/7-causality/>",
+    "user": "U03V785NLSU",
+    "ts": "1666212060.552479",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mxw=G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://blog.ml.cmu.edu/2020/08/31/7-causality/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "38d966bc-17c1-4a43-bda1-27c05f582055",
+    "type": "message",
+    "text": "<https://youtu.be/od6oaz1op2k>",
+    "user": "U03V61VGQG0",
+    "ts": "1666212734.761569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J17N",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/od6oaz1op2k",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Diane",
+      "real_name": "Diane Cruz",
+      "display_name": "Diane Cruz",
+      "team": "T03U4J8HMUG",
+      "name": "Diane",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/od6oaz1op2k",
+        "thumb_url": "https://i.ytimg.com/vi/od6oaz1op2k/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/od6oaz1op2k?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"causal inference - explained!\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/od6oaz1op2k",
+        "fallback": "youtube video: causal inference - explained!",
+        "title": "causal inference - explained!",
+        "title_link": "https://youtu.be/od6oaz1op2k",
+        "author_name": "codeemporium",
+        "author_link": "https://www.youtube.com/c/codeemporium",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "346d307d-2562-4b0e-8630-84998dd2bf3f",
+    "type": "message",
+    "text": "<https://www.inference.vc/untitled/>",
+    "user": "U03V61VGQG0",
+    "ts": "1666213725.113719",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Kgf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.inference.vc/untitled/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Diane",
+      "real_name": "Diane Cruz",
+      "display_name": "Diane Cruz",
+      "team": "T03U4J8HMUG",
+      "name": "Diane",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.inference.vc/untitled/",
+        "ts": 1527170853,
+        "image_url": "https://www.inference.vc/content/images/2018/05/causality_-building-a-bridge-1.png",
+        "image_width": 316,
+        "image_height": 250,
+        "image_bytes": 49626,
+        "service_icon": "https://www.inference.vc/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.inference.vc/untitled/",
+        "fallback": "inference: ml beyond curve fitting: an intro to causal inference and do-calculus",
+        "text": "since writing this post back in 2018, i have extended this to a 4-part series on causal inference: :arrow_right: part 1: intro to causal inference and do-calculus part 2: illustrating interventions with a toy example part 3: counterfactuals part 4: causal diagrams, markov factorization, structural equation models you might have come...",
+        "title": "ml beyond curve fitting: an intro to causal inference and do-calculus",
+        "title_link": "https://www.inference.vc/untitled/",
+        "service_name": "inference",
+        "fields": [
+          {
+            "value": "Ferenc Huszar",
+            "title": "Written by",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "249c91b4-4b28-4480-8189-14df8530c329",
+    "type": "message",
+    "text": "<https://medium.com/data-science-at-microsoft/causal-inference-part-1-of-3-understanding-the-fundamentals-816f4723e54a>",
+    "user": "U03V61VGQG0",
+    "ts": "1666213853.135079",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0ICr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/data-science-at-microsoft/causal-inference-part-1-of-3-understanding-the-fundamentals-816f4723e54a",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Diane",
+      "real_name": "Diane Cruz",
+      "display_name": "Diane Cruz",
+      "team": "T03U4J8HMUG",
+      "name": "Diane",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/data-science-at-microsoft/causal-inference-part-1-of-3-understanding-the-fundamentals-816f4723e54a",
+        "ts": 1621635222,
+        "image_url": "https://miro.medium.com/max/635/1*35k3pgdikx9xv0zibem0vw.png",
+        "image_width": 448,
+        "image_height": 250,
+        "image_bytes": 39827,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://medium.com/data-science-at-microsoft/causal-inference-part-1-of-3-understanding-the-fundamentals-816f4723e54a",
+        "fallback": "medium: causal inference (part 1 of 3): understanding the fundamentals",
+        "text": "by jane huang, daniel yehdego, deepsha menghani, siddharth Martinr, lisa cohen, and ryan bouchard",
+        "title": "causal inference (part 1 of 3): understanding the fundamentals",
+        "title_link": "https://medium.com/data-science-at-microsoft/causal-inference-part-1-of-3-understanding-the-fundamentals-816f4723e54a",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "17 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "13acf44b-8987-47f5-8ba4-81bf97901128",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=zapv1osephw&amp;ab_channel=pydata>",
+    "user": "U03V61VGQG0",
+    "ts": "1666213890.473549",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ROa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=zapv1osephw&ab_channel=pydata",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Diane",
+      "real_name": "Diane Cruz",
+      "display_name": "Diane Cruz",
+      "team": "T03U4J8HMUG",
+      "name": "Diane",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=zapv1osephw&amp;ab_channel=pydata",
+        "thumb_url": "https://i.ytimg.com/vi/zapv1osephw/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/zapv1osephw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"keynote: judea pearl - the new science of cause and effect\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=zapv1osephw&amp;ab_channel=pydata",
+        "fallback": "youtube video: keynote: judea pearl - the new science of cause and effect",
+        "title": "keynote: judea pearl - the new science of cause and effect",
+        "title_link": "https://www.youtube.com/watch?v=zapv1osephw&amp;ab_channel=pydata",
+        "author_name": "pydata",
+        "author_link": "https://www.youtube.com/c/pydatatv",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8133a893-dd8b-48f5-a6ec-f688a9fd18d5",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/causal-inference-962ae97cefda>",
+    "user": "U03U9EJR362",
+    "ts": "1666216952.922339",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ioRW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/causal-inference-962ae97cefda",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Catherine",
+      "real_name": "Catherine Campos",
+      "display_name": "Catherine Campos",
+      "team": "T03U4J8HMUG",
+      "name": "Catherine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "988d2a3f-c673-4fbc-8fae-d0c154f40b71",
+    "type": "message",
+    "text": "<https://analyticsindiamag.com/a-complete-guide-to-causal-inference-in-python/>",
+    "user": "U03U9EJR362",
+    "ts": "1666218970.447019",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3XS9F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://analyticsindiamag.com/a-complete-guide-to-causal-inference-in-python/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Catherine",
+      "real_name": "Catherine Campos",
+      "display_name": "Catherine Campos",
+      "team": "T03U4J8HMUG",
+      "name": "Catherine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://analyticsindiamag.com/a-complete-guide-to-causal-inference-in-python/",
+        "ts": 1634992712,
+        "image_url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/Joanne/image-11.jpeg",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 67975,
+        "service_icon": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/11/cropped-aim-new-logo-1-22-3-180x180.jpg",
+        "id": 1,
+        "original_url": "https://analyticsindiamag.com/a-complete-guide-to-causal-inference-in-python/",
+        "fallback": "analytics india magazine: a complete guide to causal inference in python",
+        "text": "a complete guide that introduces causal inference, a part for behavioural science, with complete hands-on implementation in python.",
+        "title": "a complete guide to causal inference in python",
+        "title_link": "https://analyticsindiamag.com/a-complete-guide-to-causal-inference-in-python/",
+        "service_name": "analytics india magazine",
+        "fields": [
+          {
+            "value": "Yugesh Verma",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "20 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UG32J3PC"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "75c72dea-b0e5-4994-9198-ecef4a9ecaf0",
+    "type": "message",
+    "text": "<https://www.sciencedirect.com/topics/social-sciences/causal-inference#:~:text=causal%20inference%20refers%20to%20an,causal%20conclusions%20based%20on%20data|https://www.sciencedirect.com/topics/social-sciences/causal-inference#:~:text=causal%20inference%20refers%20to%20an,causal%20conclusions%20based%20on%20data>",
+    "user": "U03UG0YHAUT",
+    "ts": "1666226544.111799",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+T4w",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.sciencedirect.com/topics/social-sciences/causal-inference#:~:text=causal%20inference%20refers%20to%20an,causal%20conclusions%20based%20on%20data",
+                "text": "https://www.sciencedirect.com/topics/social-sciences/causal-inference#:~:text=causal%20inference%20refers%20to%20an,causal%20conclusions%20based%20on%20data"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2e04a4a4-3ac0-4a78-b70b-7c8f2413c879",
+    "type": "message",
+    "text": "<https://www.britannica.com/topic/thought/induction#ref990420|https://www.britannica.com/topic/thought/induction#ref990420>",
+    "user": "U03UG0YHAUT",
+    "ts": "1666226633.544099",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "okpB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.britannica.com/topic/thought/induction#ref990420",
+                "text": "https://www.britannica.com/topic/thought/induction#ref990420"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.britannica.com/topic/thought/induction#ref990420",
+        "image_url": "https://cdn.britannica.com/92/1Joanne192-050-641dd861/bf-skinner-1971.jpg",
+        "image_width": 154,
+        "image_height": 250,
+        "image_bytes": 384598,
+        "service_icon": "https://www.britannica.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.britannica.com/topic/thought/induction#ref990420",
+        "fallback": "encyclopedia britannica: thought - induction",
+        "text": "many aspects of problem solving involve inductive reasoning, or induction. simply put, induction is a means of reasoning from a part to a whole, from particulars to generals, from the past to the future, or from the observed to the unobserved. whereas valid deductive inferences guarantee the truth of their conclusions, in the sense that it is impossible for the premises to be true and the conclusion false, good inductive inferences guarantee only that, if the premises are true, the conclusion is probable, or likely to be true. there are several major kinds of inductive reasoning, including causal inference, categorical",
+        "title": "thought - induction",
+        "title_link": "https://www.britannica.com/topic/thought/induction#ref990420",
+        "service_name": "encyclopedia britannica",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "bc8a9b75-1efb-42c5-ac25-63cf2bd4e858",
+    "type": "message",
+    "text": "<https://www.britannica.com/topic/thought/induction#ref990420|https://www.britannica.com/topic/thought/induction#ref990420>",
+    "user": "U03UG0YHAUT",
+    "ts": "1666226692.268649",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h421",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.britannica.com/topic/thought/induction#ref990420",
+                "text": "https://www.britannica.com/topic/thought/induction#ref990420"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "f9accf29-4ba0-4cf2-8756-69e08d0a1d8c",
+    "type": "message",
+    "text": "<https://innovationatwork.ieee.org/what-is-causal-inference-and-why-is-it-key-to-machine-learning/#:~:text=unlike%20human%20beings%2c%20machine%20learning,happening%20within%20a%20larger%20system|https://innovationatwork.ieee.org/what-is-causal-inference-and-why-is-it-key-to-machine-learning/#:~:text=unlike%20human%20beings%2c%20machine%20learning,happening%20within%20a%20larger%20system>",
+    "user": "U03UG0YHAUT",
+    "ts": "1666226795.926679",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=BmT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://innovationatwork.ieee.org/what-is-causal-inference-and-why-is-it-key-to-machine-learning/#:~:text=unlike%20human%20beings%2c%20machine%20learning,happening%20within%20a%20larger%20system",
+                "text": "https://innovationatwork.ieee.org/what-is-causal-inference-and-why-is-it-key-to-machine-learning/#:~:text=unlike%20human%20beings%2c%20machine%20learning,happening%20within%20a%20larger%20system"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://innovationatwork.ieee.org/what-is-causal-inference-and-why-is-it-key-to-machine-learning/#:~:text=unlike%20human%20beings%2c%20machine%20learning,happening%20within%20a%20larger%20system",
+        "ts": 1618327759,
+        "image_url": "https://innovationatwork.ieee.org/wp-content/uploads/2021/04/bigstock-one-caucasian-young-golfer-man-325491793_Joanne24x684.png",
+        "image_width": 374,
+        "image_height": 250,
+        "image_bytes": 374517,
+        "id": 1,
+        "original_url": "https://innovationatwork.ieee.org/what-is-causal-inference-and-why-is-it-key-to-machine-learning/#:~:text=unlike%20human%20beings%2c%20machine%20learning,happening%20within%20a%20larger%20system",
+        "fallback": "ieee innovation at work: what is \u2018causal inference\u2019 and why is it key to machine learning? - ieee innovation at work",
+        "text": "unlike humans, machine learning algorithms struggle with \"causal inference\", but they excel at recognizing small patterns in massive data sets",
+        "title": "what is \u2018causal inference\u2019 and why is it key to machine learning? - ieee innovation at work",
+        "title_link": "https://innovationatwork.ieee.org/what-is-causal-inference-and-why-is-it-key-to-machine-learning/#:~:text=unlike%20human%20beings%2c%20machine%20learning,happening%20within%20a%20larger%20system",
+        "service_name": "ieee innovation at work",
+        "fields": [
+          {
+            "value": "Innovation at Work",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "4 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f006ce17-7581-4227-9b29-c3dfd936a56a",
+    "type": "message",
+    "text": "<https://www.nature.com/articles/s42256-020-0197-y|https://www.nature.com/articles/s42256-020-0197-y>",
+    "user": "U03UG0YHAUT",
+    "ts": "1666226920.518949",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nWT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.nature.com/articles/s42256-020-0197-y",
+                "text": "https://www.nature.com/articles/s42256-020-0197-y"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.nature.com/articles/s42256-020-0197-y",
+        "image_url": "https://media.springernature.com/full/springer-static/image/art%3aJoanne.Joanne38%2fs42256-020-0197-y/mediaobjects/42256_2020_197_fig1_html.png",
+        "image_width": 424,
+        "image_height": 250,
+        "image_bytes": 127406,
+        "service_icon": "https://www.nature.com/static/images/favicons/nature/apple-touch-icon-f39cb19454.png",
+        "id": 1,
+        "original_url": "https://www.nature.com/articles/s42256-020-0197-y",
+        "fallback": "nature: causal inference and counterfactual prediction in machine learning for actionable healthcare",
+        "text": "nature machine intelligence - machine learning models are commonly used to predict risks and outcomes in biomedical research. but healthcare often requires information about cause\u2013effect...",
+        "title": "causal inference and counterfactual prediction in machine learning for actionable healthcare",
+        "title_link": "https://www.nature.com/articles/s42256-020-0197-y",
+        "service_name": "nature",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "fd43041a-1d18-4dbb-bd61-d23d9ca529ba",
+    "type": "message",
+    "text": "<https://www.frontiersin.org/articles/Joanne.3389/fninf.2014.00064/full>",
+    "user": "U03UHB8CXDY",
+    "ts": "1666245601.615519",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qgl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.frontiersin.org/articles/Joanne.3389/fninf.2014.00064/full",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.frontiersin.org/articles/Joanne.3389/fninf.2014.00064/full",
+        "service_icon": "https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/favicon_16x16.ico",
+        "id": 1,
+        "original_url": "https://www.frontiersin.org/articles/Joanne.3389/fninf.2014.00064/full",
+        "fallback": "frontiers: algorithms of causal inference for the analysis of effective connectivity among brain regions",
+        "text": "in recent years, powerful general algorithms of causal inference have been developed. in particular, in the framework of pearl\u2019s causality, algorithms of inductive causation (ic and ic*) provide a procedure to determine which causal connections among nodes in a network can be inferred from empirical observations even in the presence of latent variables, indicating the limits of what can be learned without active manipulation of the system. these algorithms can in principle become important complements to established techniques such as granger causality and dynamic causal modeling (dcm) to analyze causal influences (effective connectivity) among brain regions. however, their application to dynamic processes has not been yet examined. here we study how to apply these algorithms to time-varying signals such as electrophysiological or neuroimaging signals. we propose a new algorithm which combines the basic principles of the previous algorithms with granger causality to obtain a representation of the causal relations suited to dynamic processes. furthermore, we use graphical criteria to predict dynamic statistical dependencies between the signals from the causal structure. we show how some problems for causal inference from neural signals (e.g., measurement noise, hemodynamic responses, and time aggregation) can be understood in a general graphical approach. focusing on the effect of spatial aggregation, we show that when causal inference is performed at a coarser scale than t...",
+        "title": "algorithms of causal inference for the analysis of effective connectivity among brain regions",
+        "title_link": "https://www.frontiersin.org/articles/Joanne.3389/fninf.2014.00064/full",
+        "service_name": "frontiers",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "bbb162e1-2a74-4e6b-a7f0-6955d778fdf4",
+    "type": "message",
+    "text": "<https://www.amazon.science/blog/causal-inference-when-treatments-are-continuous-variables>",
+    "user": "U03UHB8CXDY",
+    "ts": "1666245817.803399",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a+c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.amazon.science/blog/causal-inference-when-treatments-are-continuous-variables",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.amazon.science/blog/causal-inference-when-treatments-are-continuous-variables",
+        "ts": 1658545200,
+        "image_url": "https://assets.amazon.science/dims4/default/75590ba/2147483647/strip/true/crop/1920xJoanne08+0+37/resize/1200x630!/quality/90/?url=http%3a%2f%2famazon-topics-brightspot.s3.amazonaws.com%2fscience%2f41%2f6c%2f14c96dfd4a0faef7c8bf7ed08fb3%2fcontinuous-treatment-architecture.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 77254,
+        "service_icon": "https://www.amazon.science/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://www.amazon.science/blog/causal-inference-when-treatments-are-continuous-variables",
+        "fallback": "amazon science: causal inference when treatments are continuous variables",
+        "text": "combining a cutting-edge causal-inference technique and end-to-end machine learning reduces root-mean-square error by 27% to 38%.",
+        "title": "causal inference when treatments are continuous variables",
+        "title_link": "https://www.amazon.science/blog/causal-inference-when-treatments-are-continuous-variables",
+        "service_name": "amazon science",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6f074cb1-ce51-4da9-937e-c8df83e623ec",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/causal-inference-962ae97cefda>",
+    "user": "U03UG32J3PC",
+    "ts": "1666246389.603779",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zg3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/causal-inference-962ae97cefda",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/causal-inference-962ae97cefda",
+        "ts": 1664372633,
+        "image_url": "https://miro.medium.com/max/1200/1*7qyeekbkiw9iplqwiqw_1a.png",
+        "image_width": 423,
+        "image_height": 250,
+        "image_bytes": 103867,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/causal-inference-962ae97cefda",
+        "fallback": "medium: causal inference",
+        "text": "answering causal questions with python",
+        "title": "causal inference",
+        "title_link": "https://towardsdatascience.com/causal-inference-962ae97cefda",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "9 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  }
+]

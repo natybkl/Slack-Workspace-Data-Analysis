@@ -1,0 +1,1763 @@
+[
+  {
+    "client_msg_id": "f5dc36dc-1a8e-4574-82a3-a47df8ab35da",
+    "type": "message",
+    "text": "if you are facing problem with airflow installation with docker please try to follow <https://faun.pub/apache-airflow-2-0-complete-installation-with-docker-explained-f07aaJoanne49f1e|this> medium article. make sure that you have stopped related containers.\nuse:\n`docker stop $(docker ps -a -q)`\n`docker rm $(docker ps -a -q)`\nif you want to stop and remove all running containers and don't have a container that you want to keep running.",
+    "user": "U03UKL27B0R",
+    "ts": "1663834623.107539",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xbd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "if you are facing problem with airflow installation with docker please try to follow "
+              },
+              {
+                "type": "link",
+                "url": "https://faun.pub/apache-airflow-2-0-complete-installation-with-docker-explained-f07aaJoanne49f1e",
+                "text": "this"
+              },
+              {
+                "type": "text",
+                "text": " medium article. make sure that you have stopped related containers.\nuse:\n"
+              },
+              {
+                "type": "text",
+                "text": "docker stop $(docker ps -a -q)",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "docker rm $(docker ps -a -q)",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nif you want to stop and remove all running containers and don't have a container that you want to keep running."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://faun.pub/apache-airflow-2-0-complete-installation-with-docker-explained-f07aaJoanne49f1e",
+        "ts": 1623244785,
+        "image_url": "https://miro.medium.com/max/1200/1*0id_7z9t2ol78srnxaqmqa.png",
+        "image_width": 676,
+        "image_height": 250,
+        "image_bytes": 55815,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://faun.pub/apache-airflow-2-0-complete-installation-with-docker-explained-f07aaJoanne49f1e",
+        "fallback": "medium: apache airflow 2.0 postgresql complete installation with docker explained",
+        "text": "apache airflow is an open-source etl tool, that helps to extract the data from the source and then transform it according to our need, and\u2026",
+        "title": "apache airflow 2.0 postgresql complete installation with docker explained",
+        "title_link": "https://faun.pub/apache-airflow-2-0-complete-installation-with-docker-explained-f07aaJoanne49f1e",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "5 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UFV7HFNF",
+          "U03U9EJR362"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "17f1fa4e-8b71-420b-a850-aca10a5849fc",
+    "type": "message",
+    "text": "<https://www.deltaload.io/dbt-installation-tutorial/>",
+    "user": "U03UFV7HFNF",
+    "ts": "1663835241.926889",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R6L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.deltaload.io/dbt-installation-tutorial/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.deltaload.io/dbt-installation-tutorial/",
+        "id": 1,
+        "original_url": "https://www.deltaload.io/dbt-installation-tutorial/",
+        "fallback": "how to install dbt in a virtual environment",
+        "text": "dbt installation guide: the dbt package will be installed into a python virtual environment. this way we can install different version of dbt (or python) on your computer and check if the project still works or where it breaks. so whenever installing a new version of dbt, create a new virtual environment and install the dbt package in it. i used ubuntu 18.04 to install the dbt version 0.",
+        "title": "how to install dbt in a virtual environment",
+        "title_link": "https://www.deltaload.io/dbt-installation-tutorial/",
+        "service_name": "deltaload.io",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "486f968f-8f2f-4f33-95e6-307a2a42c4b5",
+    "type": "message",
+    "text": "<https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663840077.499169",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9a5u",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview",
+        "image_url": "https://assets.ubuntu.com/v1/ebdfffbf-aubergine_suru_background.png",
+        "image_width": 915,
+        "image_height": 250,
+        "image_bytes": 4435,
+        "service_icon": "https://assets.ubuntu.com/v1/17b68252-apple-touch-icon-180x180-precomposed-ubuntu.png",
+        "id": 1,
+        "original_url": "https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview",
+        "fallback": "ubuntu: install ubuntu desktop | ubuntu",
+        "text": "ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things.",
+        "title": "install ubuntu desktop | ubuntu",
+        "title_link": "https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview",
+        "service_name": "ubuntu",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f0d9e71b-ca32-4072-9902-191885a83194",
+    "type": "message",
+    "text": "<https://hevodata.com/learn/airflow-postgres-operator/>",
+    "user": "U03UUR571A5",
+    "ts": "1663840340.895279",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y8WX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://hevodata.com/learn/airflow-postgres-operator/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://hevodata.com/learn/airflow-postgres-operator/",
+        "ts": 1643785175,
+        "image_url": "https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1643783579/hevo-learn/airflow-postgres-operator-fi/airflow-postgres-operator-fi.png?_i=aa",
+        "image_width": 442,
+        "image_height": 250,
+        "image_bytes": 24957,
+        "service_icon": "https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1587655389/logo-8/logo-8.png?_i=aa",
+        "id": 1,
+        "original_url": "https://hevodata.com/learn/airflow-postgres-operator/",
+        "fallback": "learn | hevo: airflow postgres operator Joanne1: how to connect and execute operations? - learn | hevo",
+        "text": "this blog talks about the different steps you can take to establish airflow postgres operator seamlessly. it also gives a brief introduction to apache airflow.",
+        "title": "airflow postgres operator Joanne1: how to connect and execute operations? - learn | hevo",
+        "title_link": "https://hevodata.com/learn/airflow-postgres-operator/",
+        "service_name": "learn | hevo",
+        "fields": [
+          {
+            "value": "Amit Phaujdar",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "16 minutes",
+            "title": "Time to read",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "294b013d-dd25-46d5-80ca-5bc9c3466b55",
+    "type": "message",
+    "text": "<https://medium.com/apache-airflow/apache-airflow-2-0-tutorial-41329bbf7211>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663840579.944299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rbi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/apache-airflow/apache-airflow-2-0-tutorial-41329bbf7211",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/apache-airflow/apache-airflow-2-0-tutorial-41329bbf7211",
+        "ts": 1614093080,
+        "image_url": "https://miro.medium.com/max/1200/1*cvmer0we-ebggeqf8galtw.png",
+        "image_width": 798,
+        "image_height": 250,
+        "image_bytes": 123544,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://medium.com/apache-airflow/apache-airflow-2-0-tutorial-41329bbf7211",
+        "fallback": "medium: apache airflow 2.0 tutorial",
+        "text": "apache airflow is already a commonly used tool for scheduling data pipelines. but the upcoming airflow 2.0 is going to be a bigger thing\u2026",
+        "title": "apache airflow 2.0 tutorial",
+        "title_link": "https://medium.com/apache-airflow/apache-airflow-2-0-tutorial-41329bbf7211",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "11 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "61f4af79-5c67-49c2-8571-811eba2dccf1",
+    "type": "message",
+    "text": "<https://benny-lee.medium.com/using-tableau-for-developing-data-pipeline-7afe7ca5944c>",
+    "user": "U03UG1Z21JP",
+    "ts": "1663843932.783679",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "atF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://benny-lee.medium.com/using-tableau-for-developing-data-pipeline-7afe7ca5944c",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://benny-lee.medium.com/using-tableau-for-developing-data-pipeline-7afe7ca5944c",
+        "ts": 1629160998,
+        "image_url": "https://miro.medium.com/max/1200/0*msmaljwxq9vhndhi",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 160082,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://benny-lee.medium.com/using-tableau-for-developing-data-pipeline-7afe7ca5944c",
+        "fallback": "medium: using tableau for developing data pipeline",
+        "text": "this article provides a high level overview of using tableau prep, tableau desktop / online and tableau bridge to setup a data pipeline",
+        "title": "using tableau for developing data pipeline",
+        "title_link": "https://benny-lee.medium.com/using-tableau-for-developing-data-pipeline-7afe7ca5944c",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "3 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "974fbe32-80ee-423c-a609-5b30a5c21c29",
+    "type": "message",
+    "text": "<https://help.tableau.com/current/pro/desktop/en-us/dashboards_create.htm>",
+    "user": "U03UG1Z21JP",
+    "ts": "1663844051.398369",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yY+3D",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://help.tableau.com/current/pro/desktop/en-us/dashboards_create.htm",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://help.tableau.com/current/pro/desktop/en-us/dashboards_create.htm",
+        "image_url": "https://help.tableau.com/tableau_logo.png",
+        "image_width": 801,
+        "image_height": 167,
+        "image_bytes": 5396,
+        "service_icon": "https://help.tableau.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://help.tableau.com/current/pro/desktop/en-us/dashboards_create.htm",
+        "fallback": "create a dashboard",
+        "text": "after you've created one or more sheets, you can combine them in a dashboard, add interactivity, and much more",
+        "title": "create a dashboard",
+        "title_link": "https://help.tableau.com/current/pro/desktop/en-us/dashboards_create.htm",
+        "service_name": "help.tableau.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f6392116-d169-4e40-a36c-112821164b06",
+    "type": "message",
+    "text": "<https://www.figma.com>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663844678.276159",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PKDF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.figma.com",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.figma.com/",
+        "image_url": "https://cdn.sanity.io/images/599r6htc/localized/0ee4e52ec34a1aef92e1b2bb7e29820685083b3e-2400x1260.png?w=1200&q=70&fit=max&auto=format",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 82738,
+        "id": 1,
+        "original_url": "https://www.figma.com",
+        "fallback": "figma: figma: the collaborative interface design tool.",
+        "text": "build better products as a team. design, prototype, and gather feedback all in one place with figma.",
+        "title": "figma: the collaborative interface design tool.",
+        "title_link": "https://www.figma.com/",
+        "service_name": "figma",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3ebaaf6c-ed18-4c6b-be59-abaf2c748e2f",
+    "type": "message",
+    "text": "<https://www.databricks.com/blog/2022/08/25/cohort-analysis-databricks-using-fivetran-dbt-and-tableau.html>",
+    "user": "U03UHB8CXDY",
+    "ts": "1663848014.776599",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xnrOa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.databricks.com/blog/2022/08/25/cohort-analysis-databricks-using-fivetran-dbt-and-tableau.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.databricks.com/blog/2022/08/25/cohort-analysis-databricks-using-fivetran-dbt-and-tableau.html",
+        "image_url": "https://cms.databricks.com/sites/default/files/2022-08/db-303-cohort-analysis-og.png",
+        "image_width": 478,
+        "image_height": 250,
+        "image_bytes": 66921,
+        "service_icon": "https://www.databricks.com/en-blog-assets/icons/icon-48x48.png?v=c9b9916c3b27dc51866c46b79a6e9b88",
+        "id": 1,
+        "original_url": "https://www.databricks.com/blog/2022/08/25/cohort-analysis-databricks-using-fivetran-dbt-and-tableau.html",
+        "fallback": "databricks: cohort analysis on databricks using fivetran, dbt and tableau",
+        "text": "overview c",
+        "title": "cohort analysis on databricks using fivetran, dbt and tableau",
+        "title_link": "https://www.databricks.com/blog/2022/08/25/cohort-analysis-databricks-using-fivetran-dbt-and-tableau.html",
+        "service_name": "databricks",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "25f5abb5-5ac9-4661-8c99-146862b356fe",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421#:~:text=docker%20container%20kill%20%24(docker,)%20%e2%80%94%20kill%20all%20running%20containers.&amp;text=then%20you%20delete%20the%20container,containers%20that%20are%20not%20running>.",
+    "user": "U03UG4Q7V42",
+    "ts": "1663857887.109249",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "npqh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421#:~:text=docker%20container%20kill%20%24(docker,)%20%e2%80%94%20kill%20all%20running%20containers.&text=then%20you%20delete%20the%20container,containers%20that%20are%20not%20running",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421#:~:text=docker%20container%20kill%20%24(docker,)%20%e2%80%94%20kill%20all%20running%20containers.&text=then%20you%20delete%20the%20container,containers%20that%20are%20not%20running",
+        "ts": 1592577658,
+        "image_url": "https://miro.medium.com/max/1200/1*e91pqda0dji9kgwaxfxngg.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 298039,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421#:~:text=docker%20container%20kill%20%24(docker,)%20%e2%80%94%20kill%20all%20running%20containers.&amp;text=then%20you%20delete%20the%20container,containers%20that%20are%20not%20running",
+        "fallback": "medium: 15 docker commands you should know",
+        "text": "part 5 of learn enough docker to be useful",
+        "title": "15 docker commands you should know",
+        "title_link": "https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421#:~:text=docker%20container%20kill%20%24(docker,)%20%e2%80%94%20kill%20all%20running%20containers.&text=then%20you%20delete%20the%20container,containers%20that%20are%20not%20running",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "10 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "74dc5e4b-b222-4882-ab9c-e19b7248fd72",
+    "type": "message",
+    "text": "<https://www.figma.com/templates/tech-stack-diagram/#:~:text=a%20tech%20stack%20(sometimes%20called,project%2c%20app%2c%20or%20service>.",
+    "user": "U03V6HMRPGQ",
+    "ts": "1663860357.206849",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xB=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.figma.com/templates/tech-stack-diagram/#:~:text=a%20tech%20stack%20(sometimes%20called,project%2c%20app%2c%20or%20service",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.figma.com/templates/tech-stack-diagram/#:~:text=a%20tech%20stack%20(sometimes%20called,project%2c%20app%2c%20or%20service",
+        "image_url": "https://cdn.sanity.io/images/599r6htc/localized/2d98f37b14bfabde217cd89b38dd0b3481c5ef7f-1Joanne8x1Joanne8.png?w=1200&q=70&fit=max&auto=format",
+        "image_width": 250,
+        "image_height": 250,
+        "image_bytes": 48103,
+        "id": 1,
+        "original_url": "https://www.figma.com/templates/tech-stack-diagram/#:~:text=a%20tech%20stack%20(sometimes%20called,project%2c%20app%2c%20or%20service",
+        "fallback": "figma: tech stack diagram | free template | figjam",
+        "text": "use our free tech stack diagram to map out your technology stack and visualize your current systems. get started with figjam today.",
+        "title": "tech stack diagram | free template | figjam",
+        "title_link": "https://www.figma.com/templates/tech-stack-diagram/#:~:text=a%20tech%20stack%20(sometimes%20called,project%2c%20app%2c%20or%20service",
+        "service_name": "figma",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7ab8db34-4f0e-415c-aada-261a47b380ef",
+    "type": "message",
+    "text": "<https://www.postgresqltutorial.com/postgresql-python/connect/>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663869390.462159",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "321n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.postgresqltutorial.com/postgresql-python/connect/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.postgresqltutorial.com/postgresql-python/connect/",
+        "service_icon": "https://www.postgresqltutorial.com/wp-content/uploads/2017/03/favicon.png",
+        "id": 1,
+        "original_url": "https://www.postgresqltutorial.com/postgresql-python/connect/",
+        "fallback": "postgresql python: connect to postgresql database server",
+        "text": "in this tutorial, you will learn how to connect to the postgresql database server in python using the psycopg 2 database adapter.",
+        "title": "postgresql python: connect to postgresql database server",
+        "title_link": "https://www.postgresqltutorial.com/postgresql-python/connect/",
+        "service_name": "postgresqltutorial.com",
+        "fields": [
+          {
+            "value": "4 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b41c1d48-8d6d-46fd-a112-28805f5adacf",
+    "type": "message",
+    "text": "<https://pythontic.com/pandas/serialization/postgresql>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663869773.547149",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5YTx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://pythontic.com/pandas/serialization/postgresql",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://pythontic.com/pandas/serialization/postgresql",
+        "service_icon": "https://pythontic.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://pythontic.com/pandas/serialization/postgresql",
+        "fallback": "pandas dataframes - reading from and writing to postgresql table | pythontic.com",
+        "text": "the read_sql() method of pandas dataframe, reads from a postgresql table and loads the data into a dataframe object. the to_sql() method of the dataframe writes its contents to a postgresql table. the python example reads a dataframe from a postgresql table and writes a dataframe to a postgresql table.",
+        "title": "pandas dataframes - reading from and writing to postgresql table | pythontic.com",
+        "title_link": "https://pythontic.com/pandas/serialization/postgresql",
+        "service_name": "pythontic.com",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UG4Q7V42"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1711171e-e0af-43fe-838d-2e36ae68df42",
+    "type": "message",
+    "text": "<https://www.geeksforgeeks.org/how-to-insert-a-pandas-dataframe-to-an-existing-postgresql-table/>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663869886.332879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eXtb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.geeksforgeeks.org/how-to-insert-a-pandas-dataframe-to-an-existing-postgresql-table/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.geeksforgeeks.org/how-to-insert-a-pandas-dataframe-to-an-existing-postgresql-table/",
+        "ts": 1637410954,
+        "thumb_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+        "thumb_width": 200,
+        "thumb_height": 200,
+        "service_icon": "https://www.geeksforgeeks.org/wp-content/uploads/gfg_200x200.png",
+        "id": 1,
+        "original_url": "https://www.geeksforgeeks.org/how-to-insert-a-pandas-dataframe-to-an-existing-postgresql-table/",
+        "fallback": "geeksforgeeks: how to insert a pandas dataframe to an existing postgresql table? - geeksforgeeks",
+        "text": "a computer science portal for geeks. it contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview questions.",
+        "title": "how to insert a pandas dataframe to an existing postgresql table? - geeksforgeeks",
+        "title_link": "https://www.geeksforgeeks.org/how-to-insert-a-pandas-dataframe-to-an-existing-postgresql-table/",
+        "service_name": "geeksforgeeks",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c844b5ee-0bad-486d-8ef5-5e400e1797a6",
+    "type": "message",
+    "text": "<https://docs.sqlalchemy.org/en/14/dialects/postgresql.html#module-sqlalchemy.dialects.postgresql.psycopg2>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663877087.504619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vHPP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.sqlalchemy.org/en/14/dialects/postgresql.html#module-sqlalchemy.dialects.postgresql.psycopg2",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "edf24433-84cb-494e-98f1-79f432fae850",
+    "type": "message",
+    "text": "<https://docs.sqlalchemy.org/en/14/dialects/postgresql.html#module-sqlalchemy.dialects.postgresql.psycopg2>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663877106.303729",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "527",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.sqlalchemy.org/en/14/dialects/postgresql.html#module-sqlalchemy.dialects.postgresql.psycopg2",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "53fe3057-e7e9-41b4-9978-0c3dbedcc644",
+    "type": "message",
+    "text": "<https://medium.com/jakartasmartcity/data-pipeline-using-apache-airflow-to-import-data-from-public-api-7ff719118ac8>",
+    "user": "U03UFV7HFNF",
+    "ts": "1663882817.671329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QmsL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/jakartasmartcity/data-pipeline-using-apache-airflow-to-import-data-from-public-api-7ff719118ac8",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/jakartasmartcity/data-pipeline-using-apache-airflow-to-import-data-from-public-api-7ff719118ac8",
+        "ts": 1634199980,
+        "image_url": "https://miro.medium.com/max/1200/1*ulg-zhdnyq4zcw-djnuyna.jpeg",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 120336,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://medium.com/jakartasmartcity/data-pipeline-using-apache-airflow-to-import-data-from-public-api-7ff719118ac8",
+        "fallback": "medium: data pipeline using apache airflow to import data from public api",
+        "text": "a tutorial to write a data pipeline that imports time-series data from a public api and inserts it into the local database scheduled daily.",
+        "title": "data pipeline using apache airflow to import data from public api",
+        "title_link": "https://medium.com/jakartasmartcity/data-pipeline-using-apache-airflow-to-import-data-from-public-api-7ff719118ac8",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "8 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "62118cd6-9605-4acb-9b62-6889595f4153",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/run-airflow-docker-1b83a57616fb>",
+    "user": "U03U9EJR362",
+    "ts": "1663887132.731799",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IfU9t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/run-airflow-docker-1b83a57616fb",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Catherine",
+      "real_name": "Catherine Campos",
+      "display_name": "Catherine Campos",
+      "team": "T03U4J8HMUG",
+      "name": "Catherine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/run-airflow-docker-1b83a57616fb",
+        "ts": 1652450418,
+        "image_url": "https://miro.medium.com/max/1200/1*u8mmjcv-sxa2y9wqp5bv0w.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 63097,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/run-airflow-docker-1b83a57616fb",
+        "fallback": "medium: how to run airflow locally with docker",
+        "text": "a step by step guide for running airflow with docker on your local machine",
+        "title": "how to run airflow locally with docker",
+        "title_link": "https://towardsdatascience.com/run-airflow-docker-1b83a57616fb",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "5 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a0a1e5a7-8397-43b4-856c-f5955f34fe13",
+    "type": "message",
+    "text": "<https://analyticsmayhem.com/dbt/apache-airflow-dbt-docker-compose/>",
+    "user": "U03U9EJR362",
+    "ts": "1663887179.194439",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Sv0o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://analyticsmayhem.com/dbt/apache-airflow-dbt-docker-compose/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Catherine",
+      "real_name": "Catherine Campos",
+      "display_name": "Catherine Campos",
+      "team": "T03U4J8HMUG",
+      "name": "Catherine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://analyticsmayhem.com/dbt/apache-airflow-dbt-docker-compose/",
+        "ts": 1589189144,
+        "image_url": "https://analyticsmayhem.com/wp-content/uploads/2020/05/screenshot-2020-05-Joanne-at-23.55.22-Joanne24x623.png",
+        "image_width": 411,
+        "image_height": 250,
+        "image_bytes": 794847,
+        "id": 1,
+        "original_url": "https://analyticsmayhem.com/dbt/apache-airflow-dbt-docker-compose/",
+        "fallback": "analytics mayhem: apache airflow and dbt on docker compose | analytics mayhem",
+        "text": "run dbt models using apache airflow through docker compose. a practical example using the instacart public dataset from kaggle.",
+        "title": "apache airflow and dbt on docker compose | analytics mayhem",
+        "title_link": "https://analyticsmayhem.com/dbt/apache-airflow-dbt-docker-compose/",
+        "service_name": "analytics mayhem",
+        "fields": [
+          {
+            "value": "Konstantinos",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "7 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1663887179.194439",
+    "reply_count": 6,
+    "reply_users_count": 3,
+    "latest_reply": "1663931688.214039",
+    "reply_users": [
+      "U03UJGP0C68",
+      "U03UD68RQH3",
+      "U03U9EJR362"
+    ],
+    "replies": [
+      {
+        "user": "U03UJGP0C68",
+        "ts": "1663889347.437999"
+      },
+      {
+        "user": "U03UD68RQH3",
+        "ts": "1663891362.534659"
+      },
+      {
+        "user": "U03UJGP0C68",
+        "ts": "1663908499.287309"
+      },
+      {
+        "user": "U03U9EJR362",
+        "ts": "1663914743.131349"
+      },
+      {
+        "user": "U03UD68RQH3",
+        "ts": "1663931423.684669"
+      },
+      {
+        "user": "U03U9EJR362",
+        "ts": "1663931688.214039"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "88BD9771-AA83-46A8-ADB0-6AC69DFBA296",
+    "type": "message",
+    "text": "<https://pypi.org/project/airflow-dbt/|https://pypi.org/project/airflow-dbt/>",
+    "user": "U03UJGP0C68",
+    "ts": "1663889276.035649",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b88",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://pypi.org/project/airflow-dbt/",
+                "text": "https://pypi.org/project/airflow-dbt/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://pypi.org/project/airflow-dbt/",
+        "image_url": "https://pypi.org/static/images/twitter.6fecba6f.jpg",
+        "image_width": 250,
+        "image_height": 250,
+        "image_bytes": 6869,
+        "service_icon": "https://pypi.org/static/images/favicon.6a76275d.ico",
+        "id": 1,
+        "original_url": "https://pypi.org/project/airflow-dbt/",
+        "fallback": "pypi: airflow-dbt",
+        "text": "apache airflow integration for dbt",
+        "title": "airflow-dbt",
+        "title_link": "https://pypi.org/project/airflow-dbt/",
+        "service_name": "pypi",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2C6E8E91-022F-4E53-B008-D0D668FEDF2A",
+    "type": "message",
+    "text": "has this worked for you? it hasn't for me",
+    "user": "U03UJGP0C68",
+    "ts": "1663889347.437999",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wDL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "has"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "this"
+              },
+              {
+                "type": "text",
+                "text": " worked "
+              },
+              {
+                "type": "text",
+                "text": "for"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "you?"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "it"
+              },
+              {
+                "type": "text",
+                "text": " hasn't "
+              },
+              {
+                "type": "text",
+                "text": "for"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663887179.194439",
+    "parent_user_id": "U03U9EJR362",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "326a11ed-74b0-44b4-9206-4d512bc53523",
+    "type": "message",
+    "text": "<@u03ujgp0c68> me too",
+    "user": "U03UD68RQH3",
+    "ts": "1663891362.534659",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JEO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UJGP0C68"
+              },
+              {
+                "type": "text",
+                "text": " me too"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663887179.194439",
+    "parent_user_id": "U03U9EJR362",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "B926A2BE-C78E-4A10-9CE4-95D9CB2E764F",
+    "type": "message",
+    "text": "James, did you find another approach? for me the dbt and airflow are working fine independently, the problem arises when i try to include dbt in the airflow dag\u2026i'm kinda stuck\n",
+    "user": "U03UJGP0C68",
+    "ts": "1663908499.287309",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8I7Z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "James,"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "did"
+              },
+              {
+                "type": "text",
+                "text": " you find another approach"
+              },
+              {
+                "type": "text",
+                "text": "?"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "for"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "me"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "the"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "dbt"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "and"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "airflow"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "are"
+              },
+              {
+                "type": "text",
+                "text": " working "
+              },
+              {
+                "type": "text",
+                "text": "fine"
+              },
+              {
+                "type": "text",
+                "text": " independently"
+              },
+              {
+                "type": "text",
+                "text": ","
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "the"
+              },
+              {
+                "type": "text",
+                "text": " problem "
+              },
+              {
+                "type": "text",
+                "text": "arises"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "when"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "i"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "try"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "to"
+              },
+              {
+                "type": "text",
+                "text": " include "
+              },
+              {
+                "type": "text",
+                "text": "dbt"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "in"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "the"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "airflow"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "dag\u2026"
+              },
+              {
+                "type": "text",
+                "text": "i'm "
+              },
+              {
+                "type": "text",
+                "text": "kinda"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "stuck"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663887179.194439",
+    "parent_user_id": "U03U9EJR362",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "307941b7-c21e-4caf-94e0-59b4d68ca569",
+    "type": "message",
+    "text": "<https://apple.stackexchange.com/questions/192227/how-to-make-files-in-usr-local-writable-for-homebrew>",
+    "user": "U03UJN29Y4C",
+    "ts": "1663913661.207129",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h/zr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://apple.stackexchange.com/questions/192227/how-to-make-files-in-usr-local-writable-for-homebrew",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://apple.stackexchange.com/questions/192227/how-to-make-files-in-usr-local-writable-for-homebrew",
+        "thumb_url": "https://cdn.sstatic.net/sites/apple/img/apple-touch-icon@2.png?v=b514451ec60c",
+        "thumb_width": 316,
+        "thumb_height": 316,
+        "service_icon": "https://cdn.sstatic.net/sites/apple/img/apple-touch-icon.png?v=daa7ff1d953e",
+        "id": 1,
+        "original_url": "https://apple.stackexchange.com/questions/192227/how-to-make-files-in-usr-local-writable-for-homebrew",
+        "fallback": "ask different: how to make files in `/usr/local` writable for homebrew?",
+        "text": "i've been trying to get homebrew working nicely, but it appears everything inside /usr/local isn't writable, and everything falls over. it keeps telling me to recursively chown /usr/local, and i t...",
+        "title": "how to make files in `/usr/local` writable for homebrew?",
+        "title_link": "https://apple.stackexchange.com/questions/192227/how-to-make-files-in-usr-local-writable-for-homebrew",
+        "service_name": "ask different",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "Tammy, i am not sure. but i follow the general concept of it and structured like this.",
+    "files": [
+      {
+        "id": "F044AEF3TFA",
+        "created": 1663914624,
+        "timestamp": 1663914624,
+        "name": "Screenshot from 2022-09-23 09-29-38.png",
+        "title": "Screenshot from 2022-09-23 09-29-38.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03U9EJR362",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 27970,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F044AEF3TFA/screenshot_from_2022-09-23_09-29-38.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F044AEF3TFA/download/screenshot_from_2022-09-23_09-29-38.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F044AEF3TFA-5d6cd45e30/screenshot_from_2022-09-23_09-29-38_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F044AEF3TFA-5d6cd45e30/screenshot_from_2022-09-23_09-29-38_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F044AEF3TFA-5d6cd45e30/screenshot_from_2022-09-23_09-29-38_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 190,
+        "thumb_360_h": 360,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F044AEF3TFA-5d6cd45e30/screenshot_from_2022-09-23_09-29-38_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "original_w": 246,
+        "original_h": 467,
+        "thumb_tiny": "AwAwABmmM46D8qQknt+lOBO04zTc09BahzS/gKTNLuNGgahxik496ctNzSGJS8e9KNp6nFLhf71ACDoaSnLnFI30oAbRRS8etAH/2Q==",
+        "permalink": "https://10academybatch6.slack.com/files/U03U9EJR362/F044AEF3TFA/screenshot_from_2022-09-23_09-29-38.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F044AEF3TFA-25aaed2580",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03U9EJR362",
+    "display_as_bot": false,
+    "ts": "1663914743.131349",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AYmh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Tammy, i am not sure. but i follow the general concept of it and structured like this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "a82b8a76-b026-4b4d-99c3-f4c4d2649663",
+    "thread_ts": "1663887179.194439",
+    "parent_user_id": "U03U9EJR362",
+    "attachments": null
+  }
+]

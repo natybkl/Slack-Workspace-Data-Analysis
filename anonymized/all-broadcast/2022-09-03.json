@@ -1,0 +1,155 @@
+[
+  {
+    "client_msg_id": "f7a8aa54-f579-4c84-af35-b1425b46638d",
+    "type": "message",
+    "text": "<!channel> happy weekend everyone. a reminder that each group will present their work on monday's standup. please have a short presentation ready by then.",
+    "user": "U03T89ACUUW",
+    "ts": "1662195527.771169",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FL9TP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " happy weekend everyone. a reminder that each group will present their work on monday's standup. please have a short presentation ready by then."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5d532c004550",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3979962953108_5d532c00455016e7842d_72.jpg",
+      "first_name": "Rachel",
+      "real_name": "Rachel Mann",
+      "display_name": "Rachel Mann",
+      "team": "T03U4J8HMUG",
+      "name": "Rachel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662195527.771169",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1662203518.130779",
+    "reply_users": [
+      "U03UVHCV6KB"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1662203518.130779"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "dfa8d1b7-1867-41b9-a5dd-2aef7a8bc354",
+    "type": "message",
+    "text": "sweet",
+    "user": "U03UVHCV6KB",
+    "ts": "1662203518.130779",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BwV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sweet"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662195527.771169",
+    "parent_user_id": "U03T89ACUUW",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "02373faa-c716-42f4-bd59-71b3635dffcb",
+    "type": "message",
+    "text": "<!channel> week 1 leaderboard is live on the tenx platform. please login for the access",
+    "user": "U03T89ACUUW",
+    "ts": "1662213326.304179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9r=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " week 1 leaderboard is live on the tenx platform. please login for the access"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5d532c004550",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3979962953108_5d532c00455016e7842d_72.jpg",
+      "first_name": "Rachel",
+      "real_name": "Rachel Mann",
+      "display_name": "Rachel Mann",
+      "team": "T03U4J8HMUG",
+      "name": "Rachel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U03UUR571A5",
+          "U03UVHCV6KB",
+          "U03UFV7HFNF"
+        ],
+        "count": 3
+      }
+    ],
+    "attachments": null
+  }
+]

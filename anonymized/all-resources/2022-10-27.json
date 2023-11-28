@@ -1,0 +1,1435 @@
+[
+  {
+    "client_msg_id": "4b93d6d9-cf56-4e0c-b5f8-14e26fe9c7b5",
+    "type": "message",
+    "text": "did this work for you? it's telling me no etherium address found to fund. <@u03ug0yhaut>",
+    "user": "U03V785NLSU",
+    "ts": "1666857508.759009",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nThTB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "did this work for you? it's telling me no etherium address found to fund. "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UG0YHAUT"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03V785NLSU",
+      "ts": "1666857525.000000"
+    },
+    "thread_ts": "1666823878.065449",
+    "parent_user_id": "U03UG0YHAUT",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "13968c08-6cd7-4705-b3a7-88cb11901637",
+    "type": "message",
+    "text": "<https://docs.flutter.dev/get-started/codelab>",
+    "user": "U03UFV7HFNF",
+    "ts": "1666859141.653169",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0dua",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.flutter.dev/get-started/codelab",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://docs.flutter.dev/get-started/codelab",
+        "image_url": "https://docs.flutter.dev/assets/images/flutter-logo-sharing.png",
+        "image_width": 508,
+        "image_height": 250,
+        "image_bytes": 9625,
+        "service_icon": "https://docs.flutter.dev/assets/images/shared/brand/flutter/logo/flutter-logomark-320px.png",
+        "id": 1,
+        "original_url": "https://docs.flutter.dev/get-started/codelab",
+        "fallback": "write your first flutter app, part 1",
+        "text": "how to write a web-based app in flutter.",
+        "title": "write your first flutter app, part 1",
+        "title_link": "https://docs.flutter.dev/get-started/codelab",
+        "service_name": "docs.flutter.dev",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9dc08de6-7661-4a6d-ab57-06db6ca229ca",
+    "type": "message",
+    "text": "<https://www.youtube.com/playlist?list=plszsokudsvdtl3pw48-r8lck2oykk40cm>",
+    "user": "U03UFV7HFNF",
+    "ts": "1666859247.965339",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pzSOZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/playlist?list=plszsokudsvdtl3pw48-r8lck2oykk40cm",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/playlist?list=plszsokudsvdtl3pw48-r8lck2oykk40cm",
+        "thumb_url": "https://i.ytimg.com/vi/i9ceqw5ny-4/hqdefault.jpg?sqp=-oaymwewckgbef5iwvkriqkdcqgbfqaaieiyaq==&rs=aon4clairva4q0wmqxjxb1ipb5a6o5coya&days_since_epoch=19292",
+        "thumb_width": 168,
+        "thumb_height": 94,
+        "service_icon": "https://www.youtube.com/s/desktop/98b05ec2/img/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.youtube.com/playlist?list=plszsokudsvdtl3pw48-r8lck2oykk40cm",
+        "fallback": "youtube: how to build flutter apps for ios and android",
+        "text": "share your videos with friends, family, and the world",
+        "title": "how to build flutter apps for ios and android",
+        "title_link": "https://www.youtube.com/playlist?list=plszsokudsvdtl3pw48-r8lck2oykk40cm",
+        "service_name": "youtube",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1666859247.965339",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1666859835.357249",
+    "reply_users": [
+      "U03UHB8CXDY"
+    ],
+    "replies": [
+      {
+        "user": "U03UHB8CXDY",
+        "ts": "1666859835.357249"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "72b9f23c-1383-48e7-9b0c-02f2b7bc3045",
+    "type": "message",
+    "text": "yeah, it did work for me",
+    "user": "U03UG0YHAUT",
+    "ts": "1666859764.621939",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eOT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah, it did work for me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666823878.065449",
+    "parent_user_id": "U03UG0YHAUT",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "49162d2c-04f7-4e08-a3b4-e46017c0668e",
+    "type": "message",
+    "text": ":Joanne0:",
+    "user": "U03UHB8CXDY",
+    "ts": "1666859835.357249",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PpfbE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "100",
+                "unicode": "1f4af"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666859247.965339",
+    "parent_user_id": "U03UFV7HFNF",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b14ee391-baa3-41f8-bbef-6cfc88ea4b21",
+    "type": "message",
+    "text": "<https://www.geeksforgeeks.org/how-to-install-flutter-app-on-android/>",
+    "user": "U03UD68RQH3",
+    "ts": "1666860244.852979",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pul",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.geeksforgeeks.org/how-to-install-flutter-app-on-android/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.geeksforgeeks.org/how-to-install-flutter-app-on-android/",
+        "ts": 1636156812,
+        "thumb_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+        "thumb_width": 200,
+        "thumb_height": 200,
+        "service_icon": "https://www.geeksforgeeks.org/wp-content/uploads/gfg_200x200.png",
+        "id": 1,
+        "original_url": "https://www.geeksforgeeks.org/how-to-install-flutter-app-on-android/",
+        "fallback": "geeksforgeeks: how to install flutter app on android? - geeksforgeeks",
+        "text": "a computer science portal for geeks. it contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview questions.",
+        "title": "how to install flutter app on android? - geeksforgeeks",
+        "title_link": "https://www.geeksforgeeks.org/how-to-install-flutter-app-on-android/",
+        "service_name": "geeksforgeeks",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "434e2034-371a-4932-853e-2e97de6cf0c4",
+    "type": "message",
+    "text": "<https://Michelle.com/aniketambore/flutter-blockchain>",
+    "user": "U03UJGRN5E0",
+    "ts": "1666865763.484749",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pYl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://Michelle.com/aniketambore/flutter-blockchain",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "id": 1,
+        "color": "24292f",
+        "bot_id": "b03uyh1bwqz",
+        "app_unfurl_url": "https://Michelle.com/aniketambore/flutter-blockchain",
+        "is_app_unfurl": true,
+        "app_id": "a01bp7r4kny",
+        "fallback": "aniketambore/flutter-blockchain",
+        "text": "flutter and blockchain dapps",
+        "title": "aniketambore/flutter-blockchain",
+        "fields": [
+          {
+            "value": "111",
+            "title": "Stars",
+            "short": true
+          },
+          {
+            "value": "Dart",
+            "title": "Language",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "bdd7e6c6-11d4-4775-b8d7-9deb39012c43",
+    "type": "message",
+    "text": "<https://www.tutorialspoint.com/solidity/solidity_overview.htm>",
+    "user": "U03UJH1EQQL",
+    "ts": "1666865815.190669",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=y4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.tutorialspoint.com/solidity/solidity_overview.htm",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.tutorialspoint.com/solidity/solidity_overview.htm",
+        "service_icon": "https://www.tutorialspoint.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.tutorialspoint.com/solidity/solidity_overview.htm",
+        "fallback": "solidity - overview",
+        "text": "solidity - overview, solidity is a contract-oriented, high-level programming language for implementing smart contracts. solidity is highly influenced by c++, python and javascript a",
+        "title": "solidity - overview",
+        "title_link": "https://www.tutorialspoint.com/solidity/solidity_overview.htm",
+        "service_name": "tutorialspoint.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "37f277ca-48f3-4306-8564-6cf9172d9bec",
+    "type": "message",
+    "text": "<https://expo.dev/>",
+    "user": "U03UUR571A5",
+    "ts": "1666869923.063459",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "INLvM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://expo.dev/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://expo.dev/",
+        "thumb_url": "https://static.expo.dev/static/brand/square-512x512.png",
+        "thumb_width": 512,
+        "thumb_height": 512,
+        "service_icon": "https://static.expo.dev/static/brand/square-228x228.png",
+        "id": 1,
+        "original_url": "https://expo.dev/",
+        "fallback": "expo",
+        "text": "expo is an open-source platform for making universal native apps for android, ios, and the web with javascript and react.",
+        "title": "expo",
+        "title_link": "https://expo.dev/",
+        "service_name": "expo.dev",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9a91c9d4-92ff-4c88-94a4-3b7497de294f",
+    "type": "message",
+    "text": "<https://stackoverflow.com/questions/2279647/how-to-emulate-gps-location-in-the-android-emulator>",
+    "user": "U03UVHCV6KB",
+    "ts": "1666869969.381989",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aPh7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://stackoverflow.com/questions/2279647/how-to-emulate-gps-location-in-the-android-emulator",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://stackoverflow.com/questions/2279647/how-to-emulate-gps-location-in-the-android-emulator",
+        "thumb_url": "https://cdn.sstatic.net/sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+        "thumb_width": 316,
+        "thumb_height": 316,
+        "service_icon": "https://cdn.sstatic.net/sites/stackoverflow/img/apple-touch-icon.png?v=c78bd457575a",
+        "id": 1,
+        "original_url": "https://stackoverflow.com/questions/2279647/how-to-emulate-gps-location-in-the-android-emulator",
+        "fallback": "stack overflow: how to emulate gps location in the android emulator?",
+        "text": "i want to get longitude and latitude in android emulator for testing. can any one guide me how to achieve this? how do i set the location of the emulator to a test position?",
+        "title": "how to emulate gps location in the android emulator?",
+        "title_link": "https://stackoverflow.com/questions/2279647/how-to-emulate-gps-location-in-the-android-emulator",
+        "service_name": "stack overflow",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U03UUR571A5"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d4970b7d-e849-4429-815d-dea4cc29c04b",
+    "type": "message",
+    "text": "<https://docs.expo.dev/>",
+    "user": "U03UH397319",
+    "ts": "1666870008.450009",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "P4ZCS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.expo.dev/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://docs.expo.dev/",
+        "thumb_url": "https://docs.expo.dev/static/images/og.png",
+        "thumb_width": 1200,
+        "thumb_height": 627,
+        "service_icon": "https://docs.expo.dev/static/images/favicon.ico",
+        "id": 1,
+        "original_url": "https://docs.expo.dev/",
+        "fallback": "expo documentation",
+        "text": "expo is an open-source platform for making universal native apps for android, ios, and the web with javascript and react.",
+        "title": "expo documentation",
+        "title_link": "https://docs.expo.dev/",
+        "service_name": "docs.expo.dev",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "291090b3-d840-465d-ae74-19c61aba4a64",
+    "type": "message",
+    "text": "<https://reactnative.dev/>",
+    "user": "U03UHB8CXDY",
+    "ts": "1666872171.379349",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YUm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://reactnative.dev/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://reactnative.dev/",
+        "image_url": "https://reactnative.dev/img/logo-og.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 10754,
+        "service_icon": "https://reactnative.dev/img/pwa/manifest-icon-512.png",
+        "id": 1,
+        "original_url": "https://reactnative.dev/",
+        "fallback": "react native \u00b7 learn once, write anywhere",
+        "text": "a framework for building native apps using react",
+        "title": "react native \u00b7 learn once, write anywhere",
+        "title_link": "https://reactnative.dev/",
+        "service_name": "reactnative.dev",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d88f483e-085b-44af-a3b3-d355ec07f533",
+    "type": "message",
+    "text": "<https://medium.com/@phylypo/basic-step-by-step-react-native-tutorial-7ea9597d29b9>",
+    "user": "U03UHB8CXDY",
+    "ts": "1666872325.532709",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ck+u5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/@phylypo/basic-step-by-step-react-native-tutorial-7ea9597d29b9",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/@phylypo/basic-step-by-step-react-native-tutorial-7ea9597d29b9",
+        "ts": 1549079432,
+        "image_url": "https://miro.medium.com/max/668/1*bqpr-ndu0669qww6iojukg.png",
+        "image_width": 305,
+        "image_height": 250,
+        "image_bytes": 42441,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://medium.com/@phylypo/basic-step-by-step-react-native-tutorial-7ea9597d29b9",
+        "fallback": "medium: basic step by step react native tutorial",
+        "text": "this details my step by step approach as i started on my react native learning journey. my development environment is on a macbook air\u2026",
+        "title": "basic step by step react native tutorial",
+        "title_link": "https://medium.com/@phylypo/basic-step-by-step-react-native-tutorial-7ea9597d29b9",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "9 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1399fcdd-f230-4952-b332-0f634aec3b16",
+    "type": "message",
+    "text": "<https://www.web3.university/tracks/create-a-smart-contract/integrate-your-smart-contract-with-a-frontend>",
+    "user": "U03UG32J3PC",
+    "ts": "1666879368.924759",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5bw/B",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.web3.university/tracks/create-a-smart-contract/integrate-your-smart-contract-with-a-frontend",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.web3.university/tracks/create-a-smart-contract/integrate-your-smart-contract-with-a-frontend",
+        "id": 1,
+        "original_url": "https://www.web3.university/tracks/create-a-smart-contract/integrate-your-smart-contract-with-a-frontend",
+        "fallback": "integrate your smart contract with a frontend",
+        "text": "by the end of this tutorial, you'll know how to connect a metamask wallet to your dapp project, read data from your smart contract using the alchemy web3 api, and sign ethereum transactions using metamask.",
+        "title": "integrate your smart contract with a frontend",
+        "title_link": "https://www.web3.university/tracks/create-a-smart-contract/integrate-your-smart-contract-with-a-frontend",
+        "service_name": "web3.university",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e32b4ff0-0459-46b8-89c7-e61eb5a83098",
+    "type": "message",
+    "text": "<https://ethereum.org/en/developers/docs/smart-contracts/#:~:text=a%20%22smart%20contract%22%20is%20simply,be%20the%20target%20of%20transactions|https://ethereum.org/en/developers/docs/smart-contracts/#:~:text=a%20%22smart%20contract%22%20is%20simply,be%20the%20target%20of%20transactions>",
+    "user": "U03UG0YHAUT",
+    "ts": "1666879564.038589",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e85e",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://ethereum.org/en/developers/docs/smart-contracts/#:~:text=a%20%22smart%20contract%22%20is%20simply,be%20the%20target%20of%20transactions",
+                "text": "https://ethereum.org/en/developers/docs/smart-contracts/#:~:text=a%20%22smart%20contract%22%20is%20simply,be%20the%20target%20of%20transactions"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://ethereum.org/en/developers/docs/smart-contracts/#:~:text=a%20%22smart%20contract%22%20is%20simply,be%20the%20target%20of%20transactions",
+        "image_url": "https://ethereum.org/static/bf78b49d7e23b88a7eea934225b0cf96/1548e/enterprise-eth.png",
+        "image_width": 365,
+        "image_height": 250,
+        "image_bytes": 147586,
+        "service_icon": "https://ethereum.org/icons/icon-48x48.png?v=8b512faa8d4a0b019c123a771b6622aa",
+        "id": 1,
+        "original_url": "https://ethereum.org/en/developers/docs/smart-contracts/#:~:text=a%20%22smart%20contract%22%20is%20simply,be%20the%20target%20of%20transactions",
+        "fallback": "ethereum.org: introduction to smart contracts | ethereum.org",
+        "text": "an overview of smart contracts, focussing on their unique characteristics and limitations.",
+        "title": "introduction to smart contracts | ethereum.org",
+        "title_link": "https://ethereum.org/en/developers/docs/smart-contracts/#:~:text=a%20%22smart%20contract%22%20is%20simply,be%20the%20target%20of%20transactions",
+        "service_name": "ethereum.org",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "cfa27484-15ae-40e9-b413-798980c862b8",
+    "type": "message",
+    "text": "<https://ethereum.org/en/developers/docs/smart-contracts/#:~:text=a%20%22smart%20contract%22%20is%20simply,be%20the%20target%20of%20transactions|https://ethereum.org/en/developers/docs/smart-contracts/#:~:text=a%20%22smart%20contract%22%20is%20simply,be%20the%20target%20of%20transactions>",
+    "user": "U03UG0YHAUT",
+    "ts": "1666879814.878039",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K23",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://ethereum.org/en/developers/docs/smart-contracts/#:~:text=a%20%22smart%20contract%22%20is%20simply,be%20the%20target%20of%20transactions",
+                "text": "https://ethereum.org/en/developers/docs/smart-contracts/#:~:text=a%20%22smart%20contract%22%20is%20simply,be%20the%20target%20of%20transactions"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://ethereum.org/en/developers/docs/smart-contracts/#:~:text=a%20%22smart%20contract%22%20is%20simply,be%20the%20target%20of%20transactions",
+        "image_url": "https://ethereum.org/static/bf78b49d7e23b88a7eea934225b0cf96/1548e/enterprise-eth.png",
+        "image_width": 365,
+        "image_height": 250,
+        "image_bytes": 147586,
+        "service_icon": "https://ethereum.org/icons/icon-48x48.png?v=8b512faa8d4a0b019c123a771b6622aa",
+        "id": 1,
+        "original_url": "https://ethereum.org/en/developers/docs/smart-contracts/#:~:text=a%20%22smart%20contract%22%20is%20simply,be%20the%20target%20of%20transactions",
+        "fallback": "ethereum.org: introduction to smart contracts | ethereum.org",
+        "text": "an overview of smart contracts, focussing on their unique characteristics and limitations.",
+        "title": "introduction to smart contracts | ethereum.org",
+        "title_link": "https://ethereum.org/en/developers/docs/smart-contracts/#:~:text=a%20%22smart%20contract%22%20is%20simply,be%20the%20target%20of%20transactions",
+        "service_name": "ethereum.org",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "33d35d25-7816-41af-bdcb-bbf2724df9b7",
+    "type": "message",
+    "text": "<https://www.loginradius.com/blog/engineering/guest-post/ethereum-smart-contract-tutorial/|https://www.loginradius.com/blog/engineering/guest-post/ethereum-smart-contract-tutorial/>",
+    "user": "U03UG0YHAUT",
+    "ts": "1666879844.919079",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y32w8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.loginradius.com/blog/engineering/guest-post/ethereum-smart-contract-tutorial/",
+                "text": "https://www.loginradius.com/blog/engineering/guest-post/ethereum-smart-contract-tutorial/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.loginradius.com/blog/engineering/guest-post/ethereum-smart-contract-tutorial/",
+        "image_url": "https://www.loginradius.com/blog/static/32b53a158fcbe237c5223007d8b14857/03979/coverimage.png",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 21948,
+        "service_icon": "https://www.loginradius.com/blog/icons/icon-48x48.png?v=acc2b8a6a1419d2d2c168bdb319e4a23",
+        "id": 1,
+        "original_url": "https://www.loginradius.com/blog/engineering/guest-post/ethereum-smart-contract-tutorial/",
+        "fallback": "build your first smart contract with ethereum &amp; solidity | loginradius blog",
+        "text": "smart contracts are an exciting way to build decentralized applications (dapps) on a blockchain. this tutorial helps you learn and build your first smart contract using solidity on ethereum blockchain.",
+        "title": "build your first smart contract with ethereum &amp; solidity | loginradius blog",
+        "title_link": "https://www.loginradius.com/blog/engineering/guest-post/ethereum-smart-contract-tutorial/",
+        "service_name": "loginradius.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "137a476a-d89e-41eb-b576-cb06003f77ec",
+    "type": "message",
+    "text": "<https://www.hcltech.com/blogs/design-considerations-blockchain-smart-contracts>",
+    "user": "U03UH397319",
+    "ts": "1666886653.500099",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FDO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.hcltech.com/blogs/design-considerations-blockchain-smart-contracts",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.hcltech.com/blogs/design-considerations-blockchain-smart-contracts",
+        "image_url": "https://www.hcltech.com/sites/default/files/images/blog/title_images/wx8169_thumbnails_839x516-pix_1.jpg",
+        "image_width": 406,
+        "image_height": 250,
+        "image_bytes": 53527,
+        "service_icon": "https://www.hcltech.com/themes/custom/hcltech/hcltech.ico",
+        "id": 1,
+        "original_url": "https://www.hcltech.com/blogs/design-considerations-blockchain-smart-contracts",
+        "fallback": "design considerations for blockchain smart contracts",
+        "text": "smart contracts have enabled us to develop new business models and foster business relationships built on technology-based trust. based on blockchain technology, smart contracts inherently offer immutability, security, and transparency which differentiates them from traditional contracts, giving involved parties a credible mechanism to execute their business agreements with added cryptographic security. the blockchain programs are new, complex, and highly experimental. constant changes are expected in the development and security landscape, as new bugs and security risks are discovered, and new best practices are developed. however, with smart people putting their heads together to Johnson them, smart contracts are poised to transform the busienss landscape.",
+        "title": "design considerations for blockchain smart contracts",
+        "title_link": "https://www.hcltech.com/blogs/design-considerations-blockchain-smart-contracts",
+        "service_name": "hcltech.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "71a33694-4ae9-4904-a79c-8d874af934c7",
+    "type": "message",
+    "text": "<https://subscription.packtpub.com/book/application-development/9781788831383/1/ch01lvl1sec15/blockchain-and-ethereum-architecture>",
+    "user": "U03UFV7HFNF",
+    "ts": "1666889785.577319",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G3CN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://subscription.packtpub.com/book/application-development/9781788831383/1/ch01lvl1sec15/blockchain-and-ethereum-architecture",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://subscription.packtpub.com/book/application-development/9781788831383/1/ch01lvl1sec15/blockchain-and-ethereum-architecture",
+        "thumb_url": "https://static.packt-cdn.com/products/9781788831383/cover/smaller",
+        "thumb_width": 250,
+        "thumb_height": 309,
+        "service_icon": "https://d2aov160eccqlv.cloudfront.net/271739eb287c43adb004792095a0b2fc/images/7e26cb80ef4e68f870f1e40b5ef46584.ico",
+        "id": 1,
+        "original_url": "https://subscription.packtpub.com/book/application-development/9781788831383/1/ch01lvl1sec15/blockchain-and-ethereum-architecture",
+        "fallback": "packt: blockchain and ethereum architecture | solidity programming essentials",
+        "text": "blockchain is an architecture comprising multiple components and what makes blockchain unique is the way these components function and interact with each other.",
+        "title": "blockchain and ethereum architecture | solidity programming essentials",
+        "title_link": "https://subscription.packtpub.com/book/application-development/9781788831383/1/ch01lvl1sec15/blockchain-and-ethereum-architecture",
+        "service_name": "packt",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "df0ef104-30a7-48ef-ad30-a9561945dc53",
+    "type": "message",
+    "text": "<https://www.geeksforgeeks.org/what-is-ethereum-virtual-machine-and-how-it-works/#:~:text=ethereum%20virtual%20machine%20(evm)%20is,a%20particular%20function%20on%20it>.",
+    "user": "U03UH397319",
+    "ts": "1666889875.220229",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ei=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.geeksforgeeks.org/what-is-ethereum-virtual-machine-and-how-it-works/#:~:text=ethereum%20virtual%20machine%20(evm)%20is,a%20particular%20function%20on%20it",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.geeksforgeeks.org/what-is-ethereum-virtual-machine-and-how-it-works/#:~:text=ethereum%20virtual%20machine%20(evm)%20is,a%20particular%20function%20on%20it",
+        "ts": 1658275239,
+        "thumb_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+        "thumb_width": 200,
+        "thumb_height": 200,
+        "service_icon": "https://www.geeksforgeeks.org/wp-content/uploads/gfg_200x200.png",
+        "id": 1,
+        "original_url": "https://www.geeksforgeeks.org/what-is-ethereum-virtual-machine-and-how-it-works/#:~:text=ethereum%20virtual%20machine%20(evm)%20is,a%20particular%20function%20on%20it",
+        "fallback": "geeksforgeeks: what is ethereum virtual machine and how it works? - geeksforgeeks",
+        "text": "a computer science portal for geeks. it contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview questions.",
+        "title": "what is ethereum virtual machine and how it works? - geeksforgeeks",
+        "title_link": "https://www.geeksforgeeks.org/what-is-ethereum-virtual-machine-and-how-it-works/#:~:text=ethereum%20virtual%20machine%20(evm)%20is,a%20particular%20function%20on%20it",
+        "service_name": "geeksforgeeks",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "aa0f41b0-6aca-431a-be73-3f413f79dbe3",
+    "type": "message",
+    "text": "<https://www.ledgerinsights.com/blockchain-proof-of-location/>",
+    "user": "U03V785NLSU",
+    "ts": "1666899465.720489",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BPBt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.ledgerinsights.com/blockchain-proof-of-location/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.ledgerinsights.com/blockchain-proof-of-location/",
+        "ts": 1521302105,
+        "image_url": "https://www.ledgerinsights.com/wp-content/uploads/2018/03/34576539_m.jpg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 121071,
+        "service_icon": "https://www.ledgerinsights.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.ledgerinsights.com/blockchain-proof-of-location/",
+        "fallback": "ledger insights - blockchain for enterprise: proof of location for smart contracts - ledger insights - blockchain for enterprise",
+        "text": "several new blockchains are in development to provide 'proof of location' alternatives to gps which can be spoofed. the startups include foam, xyo and platin.",
+        "title": "proof of location for smart contracts - ledger insights - blockchain for enterprise",
+        "title_link": "https://www.ledgerinsights.com/blockchain-proof-of-location/",
+        "service_name": "ledger insights - blockchain for enterprise",
+        "fields": [
+          {
+            "value": "Nicky Morris",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "3 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "825af648-bb25-4150-ac4e-ff5285f671cc",
+    "type": "message",
+    "text": "<https://docs.flutter.dev/cookbook>",
+    "user": "U03UUP56MDF",
+    "ts": "1666900979.233319",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jMi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.flutter.dev/cookbook",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g00725318689",
+      "image_72": "https://secure.gravatar.com/avatar/007253186898705d4f28c384188b8a63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Margaret",
+      "real_name": "Margaret Jackson",
+      "display_name": "Margaret Jackson",
+      "team": "T03U4J8HMUG",
+      "name": "Margaret",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://docs.flutter.dev/cookbook",
+        "image_url": "https://docs.flutter.dev/assets/images/flutter-logo-sharing.png",
+        "image_width": 508,
+        "image_height": 250,
+        "image_bytes": 9625,
+        "service_icon": "https://docs.flutter.dev/assets/images/shared/brand/flutter/logo/flutter-logomark-320px.png",
+        "id": 1,
+        "original_url": "https://docs.flutter.dev/cookbook",
+        "fallback": "cookbook",
+        "text": "the flutter cookbook provides recipes for many commonly performed tasks.",
+        "title": "cookbook",
+        "title_link": "https://docs.flutter.dev/cookbook",
+        "service_name": "docs.flutter.dev",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ad6da3f5-bb19-48a7-b585-7be6e7e20273",
+    "type": "message",
+    "text": "<https://gallery.flutter.dev/>",
+    "user": "U03UUP56MDF",
+    "ts": "1666900989.073089",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pt9/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://gallery.flutter.dev/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g00725318689",
+      "image_72": "https://secure.gravatar.com/avatar/007253186898705d4f28c384188b8a63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Margaret",
+      "real_name": "Margaret Jackson",
+      "display_name": "Margaret Jackson",
+      "team": "T03U4J8HMUG",
+      "name": "Margaret",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://gallery.flutter.dev/",
+        "service_icon": "https://gallery.flutter.dev/icons/icon-192.png",
+        "id": 1,
+        "original_url": "https://gallery.flutter.dev/",
+        "fallback": "flutter gallery",
+        "text": "a resource to help developers evaluate and use flutter.",
+        "title": "flutter gallery",
+        "title_link": "https://gallery.flutter.dev/",
+        "service_name": "gallery.flutter.dev",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "31d308c9-0fea-481f-924a-b21a81a0ca5f",
+    "type": "message",
+    "text": "<https://pub.dev/packages/web3dart>",
+    "user": "U03UUP56MDF",
+    "ts": "1666900998.103029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ViIo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://pub.dev/packages/web3dart",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g00725318689",
+      "image_72": "https://secure.gravatar.com/avatar/007253186898705d4f28c384188b8a63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Margaret",
+      "real_name": "Margaret Jackson",
+      "display_name": "Margaret Jackson",
+      "team": "T03U4J8HMUG",
+      "name": "Margaret",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://pub.dev/packages/web3dart",
+        "id": 1,
+        "original_url": "https://pub.dev/packages/web3dart",
+        "fallback": "dart packages: web3dart | dart package",
+        "text": "dart library to connect to ethereum clients. send transactions and interact with smart contracts!",
+        "title": "web3dart | dart package",
+        "title_link": "https://pub.dev/packages/web3dart",
+        "service_name": "dart packages",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d8344116-d009-4928-ad39-ea21683bb37a",
+    "type": "message",
+    "text": "<https://blog.logrocket.com/ultimate-guide-data-types-solidity/#:~:text=there%20are%20several%20reference%20data,arrays%2c%20structs%2c%20and%20mapping.|the ultimate guide to data types in solidity - logrocket blog>",
+    "user": "U03UJH1EQQL",
+    "ts": "1666905268.480469",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "w1V",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://blog.logrocket.com/ultimate-guide-data-types-solidity/#:~:text=there%20are%20several%20reference%20data,arrays%2c%20structs%2c%20and%20mapping.",
+                "text": "the ultimate guide to data types in solidity - logrocket blog"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://blog.logrocket.com/ultimate-guide-data-types-solidity/#:~:text=there%20are%20several%20reference%20data,arrays%2c%20structs%2c%20and%20mapping.",
+        "ts": 1650897020,
+        "image_url": "https://blog.logrocket.com/wp-content/uploads/2022/04/ultimate-guide-key-data-types-solidity-nocdn.png",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 785525,
+        "service_icon": "https://blog.logrocket.com/wp-content/uploads/2019/06/cropped-cropped-favicon-196x196-180x180.png",
+        "id": 1,
+        "original_url": "https://blog.logrocket.com/ultimate-guide-data-types-solidity/#:~:text=there%20are%20several%20reference%20data,arrays%2c%20structs%2c%20and%20mapping.",
+        "fallback": "logrocket blog: the ultimate guide to data types in solidity - logrocket blog",
+        "text": "this comprehensive guide covers the relation and application of solidity value types and reference types in smart contract development.",
+        "title": "the ultimate guide to data types in solidity - logrocket blog",
+        "title_link": "https://blog.logrocket.com/ultimate-guide-data-types-solidity/#:~:text=there%20are%20several%20reference%20data,arrays%2c%20structs%2c%20and%20mapping.",
+        "service_name": "logrocket blog",
+        "fields": [
+          {
+            "value": "Teresa Amanwachi",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "11 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  }
+]

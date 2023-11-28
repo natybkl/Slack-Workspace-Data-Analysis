@@ -1,0 +1,280 @@
+[
+  {
+    "client_msg_id": "8a7c78d5-cc7a-4a2e-916f-6e39a78a91b5",
+    "type": "message",
+    "text": "<@u03uakatq22> as you could imagine we are extracting features from creatives to help us determine which part of the creative is correlated with users clicking the call to action in first screen (what becomes engagement rate) and the last screen (what becomes the click through rate or click likelihood). so your task in this step is to develop a machine learning model that relates the features you extracted with the click through rate. is that clear?",
+    "user": "U03UUN8M4RX",
+    "ts": "1667631921.620319",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e8f9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UAKATQ22"
+              },
+              {
+                "type": "text",
+                "text": " as you could imagine we are extracting features from creatives to help us determine which part of the creative is correlated with users clicking the call to action in first screen (what becomes engagement rate) and the last screen (what becomes the click through rate or click likelihood). so your task in this step is to develop a machine learning model that relates the features you extracted with the click through rate. is that clear?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "bc5543c34cbf",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965164038549_bc5543c34cbf4cc3f27d_72.png",
+      "first_name": "Matthew",
+      "real_name": "Matthew Rodriguez",
+      "display_name": "Matthew Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Matthew",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667568314.731399",
+    "parent_user_id": "U03UAKATQ22",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c264d592-c04c-4220-b647-e1484bef9d2b",
+    "type": "message",
+    "text": "<@u03uun8m4rx> yes, it is clear. thank you. so we have to develop our own model. we can't use a pre trained model. am i correct?",
+    "user": "U03UAKATQ22",
+    "ts": "1667636773.829589",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+d=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UUN8M4RX"
+              },
+              {
+                "type": "text",
+                "text": " yes, it is clear. thank you. so we have to develop our own model. we can't use a pre trained model. am i correct?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a2d0afeb249a",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3969267243922_a2d0afeb249a9b4f3842_72.png",
+      "first_name": "Thomas",
+      "real_name": "Thomas Rivera",
+      "display_name": "Thomas Rivera",
+      "team": "T03U4J8HMUG",
+      "name": "Thomas",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UAKATQ22",
+      "ts": "1667637708.000000"
+    },
+    "thread_ts": "1667568314.731399",
+    "parent_user_id": "U03UAKATQ22",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "45831258-f18a-4a8c-a781-cfdd8b54ca15",
+    "type": "message",
+    "text": "<https://www.projectpro.io/project-use-case/business-kpis-forecasting-with-python>",
+    "user": "U03UAKATQ22",
+    "ts": "1667637320.267089",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0DLB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.projectpro.io/project-use-case/business-kpis-forecasting-with-python",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a2d0afeb249a",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3969267243922_a2d0afeb249a9b4f3842_72.png",
+      "first_name": "Thomas",
+      "real_name": "Thomas Rivera",
+      "display_name": "Thomas Rivera",
+      "team": "T03U4J8HMUG",
+      "name": "Thomas",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.projectpro.io/project-use-case/business-kpis-forecasting-with-python",
+        "image_url": "https://dezyre.gumlet.io/files.dezyre.com/images/blog/data_science_project.webp",
+        "image_width": 438,
+        "image_height": 250,
+        "image_bytes": 75428,
+        "service_icon": "http://daxg39y63pxwu.cloudfront.net/dezyre/images/favicon_io/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://www.projectpro.io/project-use-case/business-kpis-forecasting-with-python",
+        "fallback": "projectpro: forecasting business kpi's with tensorflow and python",
+        "text": "in this machine learning project, you will use the video clip of an ipl match played between csk and rcb to forecast key performance indicators like the number of appearances of a brand logo, the frames, and the shortest and longest area percentage in the video.",
+        "title": "forecasting business kpi's with tensorflow and python",
+        "title_link": "https://www.projectpro.io/project-use-case/business-kpis-forecasting-with-python",
+        "service_name": "projectpro",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e7ad264c-94dc-4aee-b29b-8c0050eb9f90",
+    "type": "message",
+    "text": "hello turors... please could you check my connection to the instance? i'm getting public key error.",
+    "user": "U03UH397319",
+    "ts": "1667647314.095459",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XOC1i",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello turors... please could you check my connection to the instance? i'm getting public key error."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "7f13ff22-c072-4f71-9749-8d19a0fe27fd",
+    "type": "message",
+    "text": "<@u03ukl27b0r>",
+    "user": "U03UH397319",
+    "ts": "1667647322.615699",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jMg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "A51E50C2-E3D9-4523-A1B6-1D52B8AD2681",
+    "type": "message",
+    "text": "yes, you will have to develop a custom model. that\u2019s the final goal of the project.",
+    "user": "U03UKL27B0R",
+    "ts": "1667664177.090949",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Nl6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes, you will have to develop a custom model. "
+              },
+              {
+                "type": "text",
+                "text": "that\u2019s"
+              },
+              {
+                "type": "text",
+                "text": " the final goal of the project."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667568314.731399",
+    "parent_user_id": "U03UAKATQ22",
+    "attachments": null
+  }
+]

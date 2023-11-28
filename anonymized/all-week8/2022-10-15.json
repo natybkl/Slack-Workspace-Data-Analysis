@@ -1,0 +1,63 @@
+[
+  {
+    "client_msg_id": "a6699b4e-687c-4a22-a007-99594d6bb13a",
+    "type": "message",
+    "text": "<https://youtu.be/zokn4qk4mac>",
+    "user": "U03UJH1EQQL",
+    "ts": "1665837934.076499",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7M06R",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/zokn4qk4mac",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/zokn4qk4mac",
+        "thumb_url": "https://i.ytimg.com/vi/zokn4qk4mac/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/zokn4qk4mac?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"creating our own index fund with a python trading bot!\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/zokn4qk4mac",
+        "fallback": "youtube video: creating our own index fund with a python trading bot!",
+        "title": "creating our own index fund with a python trading bot!",
+        "title_link": "https://youtu.be/zokn4qk4mac",
+        "author_name": "ollie hooper",
+        "author_link": "https://www.youtube.com/c/olliehooper",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  }
+]

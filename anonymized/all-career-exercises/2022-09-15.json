@@ -1,0 +1,720 @@
+[
+  {
+    "client_msg_id": "f3cad7a2-da8e-4647-b4af-ddf551e1990f",
+    "type": "message",
+    "text": "hello everyone <!channel> <https://docs.Stephanie.com/presentation/d/1bc4cfqjqnn5hvixbt7be7di4gupjkdmu9kmduxhhi6i/edit?usp=sharing|here>  is copy of the t shaped careers exercise slides",
+    "user": "U03U4GULU3Y",
+    "ts": "1663241521.131779",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4rHcn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello everyone "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.Stephanie.com/presentation/d/1bc4cfqjqnn5hvixbt7be7di4gupjkdmu9kmduxhhi6i/edit?usp=sharing",
+                "text": "here"
+              },
+              {
+                "type": "text",
+                "text": "  is copy of the t shaped careers exercise slides"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "99e77e6d73e2",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3986877623392_99e77e6d73e294e4f45c_72.png",
+      "first_name": "Sara",
+      "real_name": "Sara Thompson",
+      "display_name": "Sara Thompson",
+      "team": "T03U4J8HMUG",
+      "name": "Sara",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03U4GULU3Y",
+      "ts": "1663241924.000000"
+    },
+    "thread_ts": "1663241521.131779",
+    "reply_count": 10,
+    "reply_users_count": 3,
+    "latest_reply": "1663242357.747909",
+    "reply_users": [
+      "U03UUR571A5",
+      "U03U4GULU3Y",
+      "U03UUMR26Q1"
+    ],
+    "replies": [
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663241790.763879"
+      },
+      {
+        "user": "U03U4GULU3Y",
+        "ts": "1663241940.289309"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663242052.904759"
+      },
+      {
+        "user": "U03U4GULU3Y",
+        "ts": "1663242098.557399"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663242182.251189"
+      },
+      {
+        "user": "U03U4GULU3Y",
+        "ts": "1663242216.618229"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663242270.409439"
+      },
+      {
+        "user": "U03UUMR26Q1",
+        "ts": "1663242285.916879"
+      },
+      {
+        "user": "U03U4GULU3Y",
+        "ts": "1663242333.246079"
+      },
+      {
+        "user": "U03UUMR26Q1",
+        "ts": "1663242357.747909"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UG32J3PC",
+          "U03UD68RQH3",
+          "U03UVHCV6KB"
+        ],
+        "count": 3
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "4b822923-d037-4da1-9aeb-bb614b69784a",
+    "type": "message",
+    "text": "but this is the doc file, which was in the careers folder,",
+    "user": "U03UUR571A5",
+    "ts": "1663241790.763879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jtp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "but this is the doc file, which was in the careers folder,"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663241521.131779",
+    "parent_user_id": "U03U4GULU3Y",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "789d68c7-ec62-413c-a0ba-b15dca1a8e4c",
+    "type": "message",
+    "text": "<@u03u4gulu3y> could you share the power point file that you have used on the tutorial session?",
+    "user": "U03UUMR26Q1",
+    "ts": "1663241874.282879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OaA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03U4GULU3Y"
+              },
+              {
+                "type": "text",
+                "text": " could you share the power point file that you have used on the tutorial session?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "706054da5590",
+      "image_72": "https://avatars.slack-edge.com/2022-09-02/4051525321520_706054da55906fd18009_72.jpg",
+      "first_name": "Trevor",
+      "real_name": "Trevor Duffy",
+      "display_name": "Trevor Duffy",
+      "team": "T03U4J8HMUG",
+      "name": "Trevor",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663241874.282879",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1663242073.627589",
+    "reply_users": [
+      "U03U4GULU3Y",
+      "U03UUMR26Q1"
+    ],
+    "replies": [
+      {
+        "user": "U03U4GULU3Y",
+        "ts": "1663241974.600409"
+      },
+      {
+        "user": "U03UUMR26Q1",
+        "ts": "1663242073.627589"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a4ab3330-9591-46b4-bbb0-f02d41b9d6df",
+    "type": "message",
+    "text": "check now",
+    "user": "U03U4GULU3Y",
+    "ts": "1663241940.289309",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dZ6M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "check now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "99e77e6d73e2",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3986877623392_99e77e6d73e294e4f45c_72.png",
+      "first_name": "Sara",
+      "real_name": "Sara Thompson",
+      "display_name": "Sara Thompson",
+      "team": "T03U4J8HMUG",
+      "name": "Sara",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663241521.131779",
+    "parent_user_id": "U03U4GULU3Y",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5bfdd209-a4f7-4882-92f9-3469b41cc60e",
+    "type": "message",
+    "text": "please check now",
+    "user": "U03U4GULU3Y",
+    "ts": "1663241974.600409",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "97z1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "please check now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "99e77e6d73e2",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3986877623392_99e77e6d73e294e4f45c_72.png",
+      "first_name": "Sara",
+      "real_name": "Sara Thompson",
+      "display_name": "Sara Thompson",
+      "team": "T03U4J8HMUG",
+      "name": "Sara",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663241874.282879",
+    "parent_user_id": "U03UUMR26Q1",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "13186195-5a02-4a86-87c9-e3defd58b109",
+    "type": "message",
+    "text": "now it requires access",
+    "user": "U03UUR571A5",
+    "ts": "1663242052.904759",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FNn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "now it requires access"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663241521.131779",
+    "parent_user_id": "U03U4GULU3Y",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "8cd0e86a-830d-43b0-986f-86e13778f904",
+    "type": "message",
+    "text": "let me check",
+    "user": "U03UUMR26Q1",
+    "ts": "1663242073.627589",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ruy6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "let me check"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "706054da5590",
+      "image_72": "https://avatars.slack-edge.com/2022-09-02/4051525321520_706054da55906fd18009_72.jpg",
+      "first_name": "Trevor",
+      "real_name": "Trevor Duffy",
+      "display_name": "Trevor Duffy",
+      "team": "T03U4J8HMUG",
+      "name": "Trevor",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663241874.282879",
+    "parent_user_id": "U03UUMR26Q1",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "6e845569-d9dd-4cc5-be86-79b5348401e4",
+    "type": "message",
+    "text": "login with the email you registered with Joanne academy",
+    "user": "U03U4GULU3Y",
+    "ts": "1663242098.557399",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L/09z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "login with the email you registered with Joanne academy"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "99e77e6d73e2",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3986877623392_99e77e6d73e294e4f45c_72.png",
+      "first_name": "Sara",
+      "real_name": "Sara Thompson",
+      "display_name": "Sara Thompson",
+      "team": "T03U4J8HMUG",
+      "name": "Sara",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663241521.131779",
+    "parent_user_id": "U03U4GULU3Y",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F042J3Z0V8A",
+        "created": 1663242175,
+        "timestamp": 1663242175,
+        "name": "Screenshot_2022-09-15_07-42-18.png",
+        "title": "Screenshot_2022-09-15_07-42-18.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UUR571A5",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 61100,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F042J3Z0V8A/screenshot_2022-09-15_07-42-18.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F042J3Z0V8A/download/screenshot_2022-09-15_07-42-18.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042J3Z0V8A-d325b7a2b6/screenshot_2022-09-15_07-42-18_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042J3Z0V8A-d325b7a2b6/screenshot_2022-09-15_07-42-18_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042J3Z0V8A-d325b7a2b6/screenshot_2022-09-15_07-42-18_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 165,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042J3Z0V8A-d325b7a2b6/screenshot_2022-09-15_07-42-18_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 220,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042J3Z0V8A-d325b7a2b6/screenshot_2022-09-15_07-42-18_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042J3Z0V8A-d325b7a2b6/screenshot_2022-09-15_07-42-18_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 331,
+        "thumb_800": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042J3Z0V8A-d325b7a2b6/screenshot_2022-09-15_07-42-18_800.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_800_w": 800,
+        "thumb_800_h": 367,
+        "thumb_960": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042J3Z0V8A-d325b7a2b6/screenshot_2022-09-15_07-42-18_960.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_960_w": 960,
+        "thumb_960_h": 441,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03U4J8HMUG-F042J3Z0V8A-d325b7a2b6/screenshot_2022-09-15_07-42-18_1024.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 470,
+        "original_w": 1548,
+        "original_h": 711,
+        "thumb_tiny": "AwAWADDToPSikbOPlxn3oAAT3FNkkEYy3TpSrnHzYz7UuB6UALRRRQAUUUUAFFFFABRRRQB//9k=",
+        "permalink": "https://10academybatch6.slack.com/files/U03UUR571A5/F042J3Z0V8A/screenshot_2022-09-15_07-42-18.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F042J3Z0V8A-8ed76dabdc",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UUR571A5",
+    "display_as_bot": false,
+    "ts": "1663242182.251189",
+    "client_msg_id": "bafcef37-70c2-445f-bf89-73e03df56b2a",
+    "thread_ts": "1663241521.131779",
+    "parent_user_id": "U03U4GULU3Y",
+    "blocks": null,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "13b61922-899c-4fbd-a9e5-70f606cdc5a0",
+    "type": "message",
+    "text": "how about now",
+    "user": "U03U4GULU3Y",
+    "ts": "1663242216.618229",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YQoPS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how about now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "99e77e6d73e2",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3986877623392_99e77e6d73e294e4f45c_72.png",
+      "first_name": "Sara",
+      "real_name": "Sara Thompson",
+      "display_name": "Sara Thompson",
+      "team": "T03U4J8HMUG",
+      "name": "Sara",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663241521.131779",
+    "parent_user_id": "U03U4GULU3Y",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "71d2cd49-2244-4e97-a2fd-6b23f7638e87",
+    "type": "message",
+    "text": "thank you, it works now.",
+    "user": "U03UUR571A5",
+    "ts": "1663242270.409439",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "u9Y=t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you, it works now."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663241521.131779",
+    "parent_user_id": "U03U4GULU3Y",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e7a2afb7-8f72-483c-8385-888a92615b49",
+    "type": "message",
+    "text": "<@u03u4gulu3y> i got same thing as <@u03uur571a5> screenshot",
+    "user": "U03UUMR26Q1",
+    "ts": "1663242285.916879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mxGb1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03U4GULU3Y"
+              },
+              {
+                "type": "text",
+                "text": " i got same thing as "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UUR571A5"
+              },
+              {
+                "type": "text",
+                "text": " screenshot"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "706054da5590",
+      "image_72": "https://avatars.slack-edge.com/2022-09-02/4051525321520_706054da55906fd18009_72.jpg",
+      "first_name": "Trevor",
+      "real_name": "Trevor Duffy",
+      "display_name": "Trevor Duffy",
+      "team": "T03U4J8HMUG",
+      "name": "Trevor",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663241521.131779",
+    "parent_user_id": "U03U4GULU3Y",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "97257dc9-d6a0-43d8-9a19-cf8fe8ea0d29",
+    "type": "message",
+    "text": "check again..it should work now",
+    "user": "U03U4GULU3Y",
+    "ts": "1663242333.246079",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "scF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "check again..it should work now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "99e77e6d73e2",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3986877623392_99e77e6d73e294e4f45c_72.png",
+      "first_name": "Sara",
+      "real_name": "Sara Thompson",
+      "display_name": "Sara Thompson",
+      "team": "T03U4J8HMUG",
+      "name": "Sara",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663241521.131779",
+    "parent_user_id": "U03U4GULU3Y",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "8fbe3a19-a4a1-4f13-a671-f238e5bb026e",
+    "type": "message",
+    "text": "now it works",
+    "user": "U03UUMR26Q1",
+    "ts": "1663242357.747909",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/yHp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "now it works"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "706054da5590",
+      "image_72": "https://avatars.slack-edge.com/2022-09-02/4051525321520_706054da55906fd18009_72.jpg",
+      "first_name": "Trevor",
+      "real_name": "Trevor Duffy",
+      "display_name": "Trevor Duffy",
+      "team": "T03U4J8HMUG",
+      "name": "Trevor",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663241521.131779",
+    "parent_user_id": "U03U4GULU3Y",
+    "attachments": null
+  }
+]

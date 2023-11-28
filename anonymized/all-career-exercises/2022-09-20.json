@@ -1,0 +1,125 @@
+[
+  {
+    "client_msg_id": "8645b1bc-cb4d-4ee5-a155-9331c3228eb0",
+    "type": "message",
+    "text": "review the list of 12x competencies\n\nwhat does this mean?",
+    "user": "U03UJN29Y4C",
+    "ts": "1663712617.508209",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LtS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "review the list of 12x competencies\n\nwhat does this mean?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663712617.508209",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1663719503.384219",
+    "reply_users": [
+      "U03TT5KEYCF"
+    ],
+    "replies": [
+      {
+        "user": "U03TT5KEYCF",
+        "ts": "1663719503.384219"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "the competency mapping at the ending part of the doc.\nthere are 12 essential competencies.",
+    "files": [
+      {
+        "id": "F0437NNDKB5",
+        "created": 1663719431,
+        "timestamp": 1663719431,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03TT5KEYCF",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 6816,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F0437NNDKB5/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F0437NNDKB5/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0437NNDKB5-30a7c746e1/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0437NNDKB5-30a7c746e1/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0437NNDKB5-30a7c746e1/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 77,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0437NNDKB5-30a7c746e1/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "original_w": 414,
+        "original_h": 88,
+        "thumb_tiny": "AwAKADDQeQIcEH8Kb9oQdQ3/AHzUtFAEXnr6P/3zSmdQMhWPOOB0qSigCL7Qn+1+VOSRXJAzkdcin0UAf//Z",
+        "permalink": "https://10academybatch6.slack.com/files/U03TT5KEYCF/F0437NNDKB5/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F0437NNDKB5-4e1d5973fe",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03TT5KEYCF",
+    "display_as_bot": false,
+    "ts": "1663719503.384219",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vzb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the competency mapping at the ending part of the doc.\nthere are 12 essential competencies."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "41097d70-9220-4ad9-9595-5e9bd91b6b36",
+    "thread_ts": "1663712617.508209",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  }
+]

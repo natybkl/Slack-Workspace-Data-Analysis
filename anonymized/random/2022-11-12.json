@@ -1,0 +1,59 @@
+[
+  {
+    "client_msg_id": "90ac9a20-8bd1-4f87-ad7c-8c4e5b06d060",
+    "type": "message",
+    "text": "<https://www.linkedin.com/posts/sebastianraschka_deeplearning-artificialintelligence-debugging-activity-6997267923631296512-pm3_?utm_source=share&amp;utm_medium=member_android|https://www.linkedin.com/posts/sebastianraschka_deeplearning-artificialintelligence-debugging-activity-6997267923631296512-pm3_?utm_source=share&amp;utm_medium=member_android>",
+    "user": "U03UG0YHAUT",
+    "ts": "1668312594.100469",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BKbvy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/posts/sebastianraschka_deeplearning-artificialintelligence-debugging-activity-6997267923631296512-pm3_?utm_source=share&utm_medium=member_android",
+                "text": "https://www.linkedin.com/posts/sebastianraschka_deeplearning-artificialintelligence-debugging-activity-6997267923631296512-pm3_?utm_source=share&utm_medium=member_android"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.linkedin.com/posts/sebastianraschka_deeplearning-artificialintelligence-debugging-activity-6997267923631296512-pm3_?utm_source=share&utm_medium=member_android",
+        "image_url": "https://static-exp1.licdn.com/sc/h/c45fy346jw096z9pbphyyhdz7",
+        "image_width": 438,
+        "image_height": 250,
+        "image_bytes": 34857,
+        "service_icon": "https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "id": 1,
+        "original_url": "https://www.linkedin.com/posts/sebastianraschka_deeplearning-artificialintelligence-debugging-activity-6997267923631296512-pm3_?utm_source=share&amp;utm_medium=member_android",
+        "fallback": "sebastian raschka, phd on linkedin: #deeplearning #artificialintelligence #debugging | 18 comments",
+        "text": "when implementing neural nets, the model sometimes doesn't learn. often, it's because\u00a0\n(1) we have bugs in the data loading &amp; shuffling pipeline,\u00a0\n(2) ... 18 comments on linkedin",
+        "title": "sebastian raschka, phd on linkedin: #deeplearning #artificialintelligence #debugging | 18 comments",
+        "title_link": "https://www.linkedin.com/posts/sebastianraschka_deeplearning-artificialintelligence-debugging-activity-6997267923631296512-pm3_?utm_source=share&utm_medium=member_android",
+        "service_name": "linkedin.com",
+        "message_blocks": null
+      }
+    ]
+  }
+]

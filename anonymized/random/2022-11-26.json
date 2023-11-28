@@ -1,0 +1,63 @@
+[
+  {
+    "client_msg_id": "be086f6a-217f-41e8-a050-55fa6f1c4555",
+    "type": "message",
+    "text": "<https://youtu.be/-dvyjdw4t9i|https://youtu.be/-dvyjdw4t9i>",
+    "user": "U03UG32J3PC",
+    "ts": "1669486226.376629",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yiOSL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/-dvyjdw4t9i",
+                "text": "https://youtu.be/-dvyjdw4t9i"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/-dvyjdw4t9i",
+        "thumb_url": "https://i.ytimg.com/vi/-dvyjdw4t9i/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/-dvyjdw4t9i?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"guido van rossum: python and the future of programming | lex fridman podcast #341\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/-dvyjdw4t9i",
+        "fallback": "youtube video: guido van rossum: python and the future of programming | lex fridman podcast #341",
+        "title": "guido van rossum: python and the future of programming | lex fridman podcast #341",
+        "title_link": "https://youtu.be/-dvyjdw4t9i",
+        "author_name": "lex fridman",
+        "author_link": "https://www.youtube.com/@lexfridman",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  }
+]

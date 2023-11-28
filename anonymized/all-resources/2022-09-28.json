@@ -1,0 +1,889 @@
+[
+  {
+    "client_msg_id": "702a47c1-a557-4560-be27-37ee36f17456",
+    "type": "message",
+    "text": "<https://youtu.be/nykz-zskkxm>",
+    "user": "U03UG32J3PC",
+    "ts": "1664365846.183749",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BmY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/nykz-zskkxm",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/nykz-zskkxm",
+        "thumb_url": "https://i.ytimg.com/vi/nykz-zskkxm/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/nykz-zskkxm?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"silvio micali's lecture on algorand\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/nykz-zskkxm",
+        "fallback": "youtube video: silvio micali's lecture on algorand",
+        "title": "silvio micali's lecture on algorand",
+        "title_link": "https://youtu.be/nykz-zskkxm",
+        "author_name": "algorand",
+        "author_link": "https://www.youtube.com/c/algorand",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9a056ecb-c95e-4dad-8cc4-332437fe4a91",
+    "type": "message",
+    "text": "<https://developer.algorand.org/>",
+    "user": "U03UVHCV6KB",
+    "ts": "1664367132.431889",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4hj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://developer.algorand.org/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://developer.algorand.org/",
+        "image_url": "https://algorand-devloper-portal-app.s3.amazonaws.com/static/img/algorandshareimage.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 275201,
+        "service_icon": "https://algorand-devloper-portal-app.s3.amazonaws.com/static/img/favicon.png",
+        "id": 1,
+        "original_url": "https://developer.algorand.org/",
+        "fallback": "algorand developer portal",
+        "text": "algorand developer docs, sdks, rest apis, cli tools, ecosystem projects, metrics dashboard and sample code, how-tos, and news from the algorand developer community",
+        "title": "algorand developer portal",
+        "title_link": "https://developer.algorand.org/",
+        "service_name": "developer.algorand.org",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d621d885-2628-4532-a87f-0f5312d8266b",
+    "type": "message",
+    "text": "this might help: <https://developer.algorand.org/docs/get-started/tokenization/nft/>",
+    "user": "U03UJH1EQQL",
+    "ts": "1664371970.583269",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "r+u",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this might help: "
+              },
+              {
+                "type": "link",
+                "url": "https://developer.algorand.org/docs/get-started/tokenization/nft/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://developer.algorand.org/docs/get-started/tokenization/nft/",
+        "image_url": "https://algorand-devloper-portal-app.s3.amazonaws.com/static/img/algorandshareimage.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 275201,
+        "service_icon": "https://developer.algorand.org/docs/assets/images/favicon.png",
+        "id": 1,
+        "original_url": "https://developer.algorand.org/docs/get-started/tokenization/nft/",
+        "fallback": "create an nft - algorand developer portal",
+        "text": "algorand developer docs, sdks, rest apis, cli tools, ecosystem projects, metrics dashboard and sample code, how-tos, and news from the algorand developer community",
+        "title": "create an nft - algorand developer portal",
+        "title_link": "https://developer.algorand.org/docs/get-started/tokenization/nft/",
+        "service_name": "developer.algorand.org",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e807f1d5-8135-47de-bee7-6e6304323723",
+    "type": "message",
+    "text": "<https://chrome.Stephanie.com/webstore/detail/algosigner/kmmolakhbgdlpkjkcjkebenjheonagdm>",
+    "user": "U03UD68RQH3",
+    "ts": "1664373240.033309",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+Okbj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://chrome.Stephanie.com/webstore/detail/algosigner/kmmolakhbgdlpkjkcjkebenjheonagdm",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://chrome.Stephanie.com/webstore/detail/algosigner/kmmolakhbgdlpkjkcjkebenjheonagdm",
+        "thumb_url": "https://lh3.Stephanieusercontent.com/q6ydjvco1mqevfjpnc59-d7rsqbd8zadjmamcqovymxfyjuuqihassug4lrcisbgik0kujwfgzgwivejrfrhah4h",
+        "thumb_width": 128,
+        "thumb_height": 128,
+        "service_icon": "https://www.Stephanie.com/images/icons/product/chrome_web_store-32.png",
+        "id": 1,
+        "original_url": "https://chrome.Stephanie.com/webstore/detail/algosigner/kmmolakhbgdlpkjkcjkebenjheonagdm",
+        "fallback": "algosigner",
+        "text": "algorand wallet extension | send &amp; receive algos | sign dapp transactions",
+        "title": "algosigner",
+        "title_link": "https://chrome.Stephanie.com/webstore/detail/algosigner/kmmolakhbgdlpkjkcjkebenjheonagdm",
+        "service_name": "chrome.Stephanie.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f74fccb6-8e10-427e-9576-d9c48a7764ba",
+    "type": "message",
+    "text": "<https://www.linkedin.com/pulse/web2-vs-web3-whats-difference-will-leatherman/?trk=articles_directory>",
+    "user": "U03UFV7HFNF",
+    "ts": "1664373853.414999",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rsJ89",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/pulse/web2-vs-web3-whats-difference-will-leatherman/?trk=articles_directory",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.linkedin.com/pulse/web2-vs-web3-whats-difference-will-leatherman/?trk=articles_directory",
+        "image_url": "https://media-exp1.licdn.com/dms/image/c4e12aqfiitzsxefrtw/article-cover_image-shrink_720_1280/0/1643065889184?e=2147483647&v=beta&t=5qnciljfatpaxv9wmfybes0ja1b15fh5gcpaeb5vlvq",
+        "image_width": 505,
+        "image_height": 250,
+        "image_bytes": 330194,
+        "service_icon": "https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "id": 1,
+        "original_url": "https://www.linkedin.com/pulse/web2-vs-web3-whats-difference-will-leatherman/?trk=articles_directory",
+        "fallback": "web2 vs. web3: what's the difference?",
+        "text": "written by conor pritchard, content marketer the internet age was born with web1; the first iteration of the internet was merely read-only with no other function than to facilitate the reading and storage of information. but now, the current phase of the internet is web2, with web3 slowly creeping i",
+        "title": "web2 vs. web3: what's the difference?",
+        "title_link": "https://www.linkedin.com/pulse/web2-vs-web3-whats-difference-will-leatherman/?trk=articles_directory",
+        "service_name": "linkedin.com",
+        "fields": [
+          {
+            "value": "Will Leatherman",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "6 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "4fa7c80a-736e-44df-9375-9713fd50e72a",
+    "type": "message",
+    "text": "from Roger <https://purestake.michelle.io/algosigner-dapp-example/>",
+    "user": "U03V61VGQG0",
+    "ts": "1664373943.655919",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Txc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "from Roger "
+              },
+              {
+                "type": "link",
+                "url": "https://purestake.Michelle.io/algosigner-dapp-example/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Diane",
+      "real_name": "Diane Cruz",
+      "display_name": "Diane Cruz",
+      "team": "T03U4J8HMUG",
+      "name": "Diane",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "dffc27b9-51fc-4a0a-9034-ad12fcdc6752",
+    "type": "message",
+    "text": "<https://www.linkedin.com/pulse/what-smart-contract-will-leatherman/>",
+    "user": "U03UFV7HFNF",
+    "ts": "1664374003.238669",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DsNz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/pulse/what-smart-contract-will-leatherman/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.linkedin.com/pulse/what-smart-contract-will-leatherman/",
+        "image_url": "https://media-exp1.licdn.com/dms/image/c4e12aqg9267d0tsh0w/article-cover_image-shrink_720_1280/0/1642168630458?e=2147483647&v=beta&t=mq1vdt946molj8gty4asjynhzy7bw2skcukbf8nipk8",
+        "image_width": 500,
+        "image_height": 250,
+        "image_bytes": 45053,
+        "service_icon": "https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "id": 1,
+        "original_url": "https://www.linkedin.com/pulse/what-smart-contract-will-leatherman/",
+        "fallback": "what is a smart contract?",
+        "text": "written by conor pritchard, content marketer &amp; david josephs, blockchain engineer we at parcl are committed to bridging the gap between mainstream and crypto \u2014 to start our mission, we are publishing a series of blockchain basics to help a broader group of people understand the innovation in this sp",
+        "title": "what is a smart contract?",
+        "title_link": "https://www.linkedin.com/pulse/what-smart-contract-will-leatherman/",
+        "service_name": "linkedin.com",
+        "fields": [
+          {
+            "value": "Will Leatherman",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "3 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "cd5fc97b-7f1f-42af-a33a-1d594fd5281c",
+    "type": "message",
+    "text": "algosigner extension <https://chrome.Stephanie.com/webstore/detail/algosigner/kmmolakhbgdlpkjkcjkebenjheonagdm>",
+    "user": "U03V61VGQG0",
+    "ts": "1664374039.556099",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NsueF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "algosigner extension "
+              },
+              {
+                "type": "link",
+                "url": "https://chrome.Stephanie.com/webstore/detail/algosigner/kmmolakhbgdlpkjkcjkebenjheonagdm",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Diane",
+      "real_name": "Diane Cruz",
+      "display_name": "Diane Cruz",
+      "team": "T03U4J8HMUG",
+      "name": "Diane",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "20c753a5-b005-4bf5-b7b4-074a42292be4",
+    "type": "message",
+    "text": "<https://purestake.Michelle.io/algosigner-dapp-example/>",
+    "user": "U03UG1Z21JP",
+    "ts": "1664374056.148059",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YhQF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://purestake.Michelle.io/algosigner-dapp-example/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "427b0c05-5b96-4eb3-a24c-518b2a289266",
+    "type": "message",
+    "text": "<https://purestake.Michelle.io/algosigner-dapp-example/>",
+    "user": "U03UG1Z21JP",
+    "ts": "1664374125.139809",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cXv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://purestake.Michelle.io/algosigner-dapp-example/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "7486026b-dd02-42f0-9d8d-fe62e32fde38",
+    "type": "message",
+    "text": "<https://purestake.Michelle.io/algosigner-dapp-example/asset-create.html>",
+    "user": "U03UUR571A5",
+    "ts": "1664375876.792479",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JdYc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://purestake.Michelle.io/algosigner-dapp-example/asset-create.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a2fe3f9b-1f64-4fcb-9744-8daa20b7af43",
+    "type": "message",
+    "text": "<https://git-scm.com/book/en/v2/git-tools-submodules>",
+    "user": "U03UVHCV6KB",
+    "ts": "1664376662.073479",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p3P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://git-scm.com/book/en/v2/git-tools-submodules",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "dd8f379d-0e35-41ca-a218-28578a8adabf",
+    "type": "message",
+    "text": "<https://hackernoon.com/the-web3-stack-for-people-in-a-hurry>",
+    "user": "U03UJGRN5E0",
+    "ts": "1664384294.080619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "D6Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://hackernoon.com/the-web3-stack-for-people-in-a-hurry",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://hackernoon.com/the-web3-stack-for-people-in-a-hurry",
+        "image_url": "https://cdn.hackernoon.com/images/orzsakixdnbsxibcilwu48pzrmf1-pd93kvf.png",
+        "image_width": 438,
+        "image_height": 250,
+        "image_bytes": 105069,
+        "service_icon": "https://hackernoon.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://hackernoon.com/the-web3-stack-for-people-in-a-hurry",
+        "fallback": "the web3 stack for people in a hurry | hackernoon",
+        "text": "the web3 stack is still evolving, but the core components of decentralized technology are beginning to emerge.",
+        "title": "the web3 stack for people in a hurry | hackernoon",
+        "title_link": "https://hackernoon.com/the-web3-stack-for-people-in-a-hurry",
+        "service_name": "hackernoon.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3095c126-75c0-4d77-8fda-7fa5e914df15",
+    "type": "message",
+    "text": "<https://www.leewayhertz.com/an-overview-of-web3-stack/>",
+    "user": "U03UFV7HFNF",
+    "ts": "1664389060.912029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "U9zT7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.leewayhertz.com/an-overview-of-web3-stack/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.leewayhertz.com/an-overview-of-web3-stack/",
+        "ts": 1660659681,
+        "image_url": "https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2022/08/170151Joanne/web3-stack-4.png",
+        "image_width": 365,
+        "image_height": 250,
+        "image_bytes": 16362,
+        "service_icon": "https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2021/05/20012953/leewayhertz-icon.png",
+        "id": 1,
+        "original_url": "https://www.leewayhertz.com/an-overview-of-web3-stack/",
+        "fallback": "leewayhertz - software development company: an overview of web3 stack | leewayhertz",
+        "text": "the web3 stack is a combination of technologies and tools that create better internet with enhanced control and user experience.",
+        "title": "an overview of web3 stack | leewayhertz",
+        "title_link": "https://www.leewayhertz.com/an-overview-of-web3-stack/",
+        "service_name": "leewayhertz - software development company",
+        "fields": [
+          {
+            "value": "Akash Takyar",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "15 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "20bd6177-ba15-4f40-9284-e89e1fbbce4f",
+    "type": "message",
+    "text": "<https://moralis.io/exploring-the-web3-tech-stack-full-guide/>",
+    "user": "U03UJH1EQQL",
+    "ts": "1664392808.837869",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mecj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://moralis.io/exploring-the-web3-tech-stack-full-guide/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://moralis.io/exploring-the-web3-tech-stack-full-guide/",
+        "ts": 1643067120,
+        "image_url": "https://moralis.io/wp-content/uploads/2022/01/22_01_the-ultimate-web3-tech-stack.jpg",
+        "image_width": 406,
+        "image_height": 250,
+        "image_bytes": 81941,
+        "id": 1,
+        "original_url": "https://moralis.io/exploring-the-web3-tech-stack-full-guide/",
+        "fallback": "moralis web3 | enterprise-grade web3 apis: exploring the web3 tech stack - full guide - moralis web3 | enterprise-grade web3 apis",
+        "text": "in this article, we explore the web3 tech stack, its importance, and the many different layers of the web3 tech stack.",
+        "title": "exploring the web3 tech stack - full guide - moralis web3 | enterprise-grade web3 apis",
+        "title_link": "https://moralis.io/exploring-the-web3-tech-stack-full-guide/",
+        "service_name": "moralis web3 | enterprise-grade web3 apis",
+        "fields": [
+          {
+            "value": "Moralis Blog",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "12 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ed4ac49b-577a-48cc-8fee-cbc0b9dc4d60",
+    "type": "message",
+    "text": "<https://limechain.tech/blog/eos-dapps-development-beginners-tutorial/>",
+    "user": "U03UJGRN5E0",
+    "ts": "1664394749.537049",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wwFB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://limechain.tech/blog/eos-dapps-development-beginners-tutorial/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://limechain.tech/blog/eos-dapps-development-beginners-tutorial/",
+        "ts": 1588097520,
+        "image_url": "https://limechain.tech/wp-content/uploads/2021/02/blog-eos-dapps-development.jpg",
+        "image_width": 500,
+        "image_height": 250,
+        "image_bytes": 97987,
+        "service_icon": "https://cdn-dfnhb.nitrocdn.com/ncvmsdtjqbfzbhjurpwfvbribtrvnxna/assets/static/optimized/rev-ca41c40/wp-content/uploads/2020/12/cropped-favicon-limechain-180x180.png",
+        "id": 1,
+        "original_url": "https://limechain.tech/blog/eos-dapps-development-beginners-tutorial/",
+        "fallback": "limechain: eos dapps development - a beginners guide by limechain",
+        "text": "this is a beginner's guide for eos dapp development for any developer who wants to build fully workable eos dapps.",
+        "title": "eos dapps development - a beginners guide by limechain",
+        "title_link": "https://limechain.tech/blog/eos-dapps-development-beginners-tutorial/",
+        "service_name": "limechain",
+        "fields": [
+          {
+            "value": "Lyubomir Kiprov",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "3 minutes",
+            "title": "Time to read",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  }
+]

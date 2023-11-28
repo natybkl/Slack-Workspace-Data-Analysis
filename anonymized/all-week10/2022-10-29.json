@@ -1,0 +1,350 @@
+[
+  {
+    "client_msg_id": "716b1fa6-1294-47d5-9f80-fcb0fe05a37e",
+    "type": "message",
+    "text": "any one using react-native for the frontend please",
+    "user": "U03UG0YHAUT",
+    "ts": "1667028167.635609",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jhkYT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "any one using react-native for the frontend please"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d8f1ede2-fcd5-4034-bc4f-3221f6c76251",
+    "type": "message",
+    "text": "how can i connect to the localhost computer from my flutter app running on my android phone, can i use the 127.0.0.1 ip-address?",
+    "user": "U03UJGRN5E0",
+    "ts": "1667033190.398279",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h579",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how can i connect to the localhost computer from my flutter app running on my android phone, can i use the 127.0.0.1 ip-address?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UJGRN5E0",
+      "ts": "1667033222.000000"
+    },
+    "thread_ts": "1667033190.398279",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1667037145.413989",
+    "reply_users": [
+      "U03UUR571A5",
+      "U03UJGRN5E0"
+    ],
+    "replies": [
+      {
+        "user": "U03UUR571A5",
+        "ts": "1667036865.549459"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1667037145.413989"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "409053d4-af4d-43af-8af5-6fd0d314529e",
+    "type": "message",
+    "text": "i think i think it's Joanne.0.0.2 maybe",
+    "user": "U03UJGP0C68",
+    "ts": "1667035472.913589",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "o72",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think i think it's Joanne.0.0.2 maybe"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UJGP0C68",
+      "ts": "1667035483.000000"
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "cf3e4b23-1e5e-4490-9590-216dbc663d50",
+    "type": "message",
+    "text": "if the app is running on your phone you can't connect to localhost.\nfirst your phone and pc should be in the same network,\nsecond change the service running in localhost to run on all network interfaces \nthird use &lt;ipaddress of your pc:port&gt; to connect",
+    "user": "U03UUR571A5",
+    "ts": "1667036865.549459",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GSxiQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "if the app is running on your phone you can't connect to localhost.\nfirst your phone and pc should be in the same network,\nsecond change the service running in localhost to run on all network interfaces \nthird use <ipaddress of your pc:port> to connect"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UUR571A5",
+      "ts": "1667036901.000000"
+    },
+    "thread_ts": "1667033190.398279",
+    "parent_user_id": "U03UJGRN5E0",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UJGRN5E0"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1328896e-859f-4106-a484-830d8cd2c458",
+    "type": "message",
+    "text": "it is working, thanks",
+    "user": "U03UJGRN5E0",
+    "ts": "1667037145.413989",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bwLxJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it is working, thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667033190.398279",
+    "parent_user_id": "U03UJGRN5E0",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UUR571A5"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "87484525-aef1-46a3-9c14-d15ff3d04233",
+    "type": "message",
+    "text": "expo go app keeps crashing after javascript finishes bundling <@u03ukl27b0r>",
+    "user": "U03UG4Q7V42",
+    "ts": "1667044397.584759",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YqR22",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "expo go app keeps crashing after javascript finishes bundling "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667044397.584759",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1667064547.183749",
+    "reply_users": [
+      "U03UKL27B0R"
+    ],
+    "replies": [
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1667064547.183749"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "45dbe07e-4f8f-44f2-9115-4c2112996e56",
+    "type": "message",
+    "text": "is there an error being returned on your terminal?",
+    "user": "U03UKL27B0R",
+    "ts": "1667064547.183749",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4Wz0b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "is there an error being returned on your terminal?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667044397.584759",
+    "parent_user_id": "U03UG4Q7V42",
+    "attachments": null
+  }
+]

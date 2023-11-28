@@ -1,0 +1,517 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1662979264.851939",
+    "user": "U03UJGRN5E0",
+    "text": "<@u03ujgrn5e0> has joined the channel",
+    "blocks": null,
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1662979273.144839",
+    "user": "U03UUP56MDF",
+    "text": "<@u03uup56mdf> has joined the channel",
+    "inviter": "U03UJGRN5E0",
+    "blocks": null,
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1662979288.737039",
+    "user": "U03UG32J3PC",
+    "text": "<@u03ug32j3pc> has joined the channel",
+    "inviter": "U03UJGRN5E0",
+    "blocks": null,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "07d379cf-d78d-4adf-b9cb-5069e53a3ca5",
+    "type": "message",
+    "text": "we can add other people who want to be with us.",
+    "user": "U03UJGRN5E0",
+    "ts": "1662979471.709679",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gzFv8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "we can add other people who want to be with us."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ba7fc14e-413a-4e0a-b73e-84928141d920",
+    "type": "message",
+    "text": "hello everyone, happy to be working with you all.",
+    "user": "U03UUP56MDF",
+    "ts": "1662979605.918509",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UXfTW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello everyone, happy to be working with you all."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g00725318689",
+      "image_72": "https://secure.gravatar.com/avatar/007253186898705d4f28c384188b8a63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Margaret",
+      "real_name": "Margaret Jackson",
+      "display_name": "Margaret Jackson",
+      "team": "T03U4J8HMUG",
+      "name": "Margaret",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "93973a4c-f592-4674-b6a5-fea4639a914e",
+    "type": "message",
+    "text": "thanks gedi, i am happy to work with you too",
+    "user": "U03UG32J3PC",
+    "ts": "1662979644.096599",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HDxdd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thanks gedi, i am happy to work with you too"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1662983607.184759",
+    "user": "U03V785NLSU",
+    "text": "<@u03v785nlsu> has joined the channel",
+    "inviter": "U03UG32J3PC",
+    "blocks": null,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1a0398c3-a4f0-44fd-b301-874639722421",
+    "type": "message",
+    "text": "hi, what's the way forward with this group?",
+    "user": "U03V785NLSU",
+    "ts": "1663000959.907549",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UFC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hi, what's the way forward with this group?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "bf2be9fb-58e9-416f-be1a-e15227cae39a",
+    "type": "message",
+    "text": "i think we should famiErinrize ourselves with the reference materials and discuss our findings tomorrow. what do you guys think?",
+    "user": "U03UUP56MDF",
+    "ts": "1663001418.802869",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3+uHb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think we should famiErinrize ourselves with the reference materials and discuss our findings tomorrow. what do you guys think?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g00725318689",
+      "image_72": "https://secure.gravatar.com/avatar/007253186898705d4f28c384188b8a63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Margaret",
+      "real_name": "Margaret Jackson",
+      "display_name": "Margaret Jackson",
+      "team": "T03U4J8HMUG",
+      "name": "Margaret",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "f03de7db-425f-4bef-b9f8-bcd82f21ae84",
+    "type": "message",
+    "text": "that would be great, we will share what we read. please try to write some notes while reading so that you will be able to share it during our meeting.",
+    "user": "U03UJGRN5E0",
+    "ts": "1663002323.361279",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oBkf4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that would be great, we will share what we read. please try to write some notes while reading so that you will be able to share it during our meeting."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UJGRN5E0",
+      "ts": "1663002348.000000"
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "879bddd2-630d-4009-8d05-f03ee9c12cc3",
+    "type": "message",
+    "text": "i am currently reading word embedding(<https://jalammar.Michelle.io/illustrated-word2vec/|word2vec>). i will also read the transformer in detail.",
+    "user": "U03UJGRN5E0",
+    "ts": "1663002542.540549",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xCwh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i am currently reading word embedding("
+              },
+              {
+                "type": "link",
+                "url": "https://jalammar.Michelle.io/illustrated-word2vec/",
+                "text": "word2vec"
+              },
+              {
+                "type": "text",
+                "text": "). i will also read the transformer in detail."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2a796b19-a798-4388-8bde-a1318e405734",
+    "type": "message",
+    "text": "<https://www.analyticsvidhya.com/blog/2020/05/what-is-tokenization-nlp/>",
+    "user": "U03UJGRN5E0",
+    "ts": "1663005034.891059",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WY17",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.analyticsvidhya.com/blog/2020/05/what-is-tokenization-nlp/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.analyticsvidhya.com/blog/2020/05/what-is-tokenization-nlp/",
+        "ts": 1590435060,
+        "thumb_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/language-.jpg",
+        "thumb_width": 1050,
+        "thumb_height": 520,
+        "service_icon": "https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo_square_v2.jpg",
+        "id": 1,
+        "original_url": "https://www.analyticsvidhya.com/blog/2020/05/what-is-tokenization-nlp/",
+        "fallback": "analytics vidhya: what is tokenization | tokenization in nlp",
+        "text": "tokenization is an nlp concept you should know before entering the field. learn what is tokenization and working of tokenization in nlp using python.",
+        "title": "what is tokenization | tokenization in nlp",
+        "title_link": "https://www.analyticsvidhya.com/blog/2020/05/what-is-tokenization-nlp/",
+        "service_name": "analytics vidhya",
+        "fields": [
+          {
+            "value": "Aravindpai Pai",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "13 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8855a2a6-be78-43f1-8ac4-a77997906ffa",
+    "type": "message",
+    "text": "<https://huggingface.co/docs/transformers/quicktour>",
+    "user": "U03UJGRN5E0",
+    "ts": "1663005236.690349",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8aq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://huggingface.co/docs/transformers/quicktour",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UJGRN5E0",
+      "ts": "1663005313.000000"
+    },
+    "attachments": [
+      {
+        "from_url": "https://huggingface.co/docs/transformers/quicktour",
+        "image_url": "https://huggingface.co/front/thumbnails/docs/transformers.png",
+        "image_width": 463,
+        "image_height": 250,
+        "image_bytes": 34499,
+        "id": 1,
+        "original_url": "https://huggingface.co/docs/transformers/quicktour",
+        "fallback": "quick tour",
+        "text": "we\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+        "title": "quick tour",
+        "title_link": "https://huggingface.co/docs/transformers/quicktour",
+        "service_name": "huggingface.co",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "06e75418-e2de-4a46-8400-7b673bff39f4",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=uqrcemrv1gq>",
+    "user": "U03UJGRN5E0",
+    "ts": "1663008795.988049",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JXK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=uqrcemrv1gq",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=uqrcemrv1gq",
+        "thumb_url": "https://i.ytimg.com/vi/uqrcemrv1gq/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/uqrcemrv1gq?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"word2vec - skipgram and cbow\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=uqrcemrv1gq",
+        "fallback": "youtube video: word2vec - skipgram and cbow",
+        "title": "word2vec - skipgram and cbow",
+        "title_link": "https://www.youtube.com/watch?v=uqrcemrv1gq",
+        "author_name": "the semicolon",
+        "author_link": "https://www.youtube.com/c/thesemicolon",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  }
+]

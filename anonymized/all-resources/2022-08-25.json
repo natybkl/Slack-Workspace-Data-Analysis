@@ -1,0 +1,702 @@
+[
+  {
+    "client_msg_id": "4ead8e7a-6113-4060-a31d-18b1021069a9",
+    "type": "message",
+    "text": "in case you need 3d interactive plot\n<https://plotly.com/python/3d-scatter-plots/>",
+    "user": "U03UJGRN5E0",
+    "ts": "1661410817.043299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5nDo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "in case you need 3d interactive plot\n"
+              },
+              {
+                "type": "link",
+                "url": "https://plotly.com/python/3d-scatter-plots/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://plotly.com/python/3d-scatter-plots/",
+        "thumb_url": "https://images.plot.ly/plotly-documentation/thumbnail/3d-scatter.jpg",
+        "thumb_width": 160,
+        "thumb_height": 160,
+        "id": 1,
+        "original_url": "https://plotly.com/python/3d-scatter-plots/",
+        "fallback": "3d",
+        "text": "detailed examples of 3d scatter plots including changing color, size, log axes, and more in python.",
+        "title": "3d",
+        "title_link": "https://plotly.com/python/3d-scatter-plots/",
+        "service_name": "plotly.com",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "heavy_check_mark",
+        "users": [
+          "U03U9DB7REG"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b563e97d-5743-4e90-bb08-2d33be4e3d33",
+    "type": "message",
+    "text": "concise text on scaling and normalization\n<https://www.geeksforgeeks.org/normalization-vs-standardization/>\n<https://www.kdnuggets.com/2020/04/data-transformation-standardization-normalization.html>",
+    "user": "U03UVHCV6KB",
+    "ts": "1661416421.371509",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RTeI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "concise text on scaling and normalization\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.geeksforgeeks.org/normalization-vs-standardization/",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.kdnuggets.com/2020/04/data-transformation-standardization-normalization.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.geeksforgeeks.org/normalization-vs-standardization/",
+        "ts": 1591648467,
+        "thumb_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+        "thumb_width": 200,
+        "thumb_height": 200,
+        "service_icon": "https://www.geeksforgeeks.org/wp-content/uploads/gfg_200x200.png",
+        "id": 1,
+        "original_url": "https://www.geeksforgeeks.org/normalization-vs-standardization/",
+        "fallback": "geeksforgeeks: normalization vs standardization - geeksforgeeks",
+        "text": "a computer science portal for geeks. it contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview questions.",
+        "title": "normalization vs standardization - geeksforgeeks",
+        "title_link": "https://www.geeksforgeeks.org/normalization-vs-standardization/",
+        "service_name": "geeksforgeeks",
+        "message_blocks": null
+      },
+      {
+        "from_url": "https://www.kdnuggets.com/2020/04/data-transformation-standardization-normalization.html",
+        "thumb_url": "https://www.kdnuggets.com/wp-content/uploads/std-vs-norm-small-preview.jpg",
+        "thumb_width": 338,
+        "thumb_height": 279,
+        "service_icon": "https://www.kdnuggets.com/wp-content/themes/kdn17/images/favicon.ico",
+        "id": 2,
+        "original_url": "https://www.kdnuggets.com/2020/04/data-transformation-standardization-normalization.html",
+        "fallback": "kdnuggets: data transformation: standardization vs normalization - kdnuggets",
+        "text": "increasing accuracy in your models is often obtained through the first steps of data transformations. this guide explains the difference between the key feature scaling methods of standardization and normalization, and demonstrates when and how to apply each approach.",
+        "title": "data transformation: standardization vs normalization - kdnuggets",
+        "title_link": "https://www.kdnuggets.com/2020/04/data-transformation-standardization-normalization.html",
+        "service_name": "kdnuggets",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c56925c0-0b4b-4861-ad8c-e3889e58c374",
+    "type": "message",
+    "text": "little bit of detailed text on scaling and normalization\n<https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/>",
+    "user": "U03UVHCV6KB",
+    "ts": "1661416466.998289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p7bWD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "little bit of detailed text on scaling and normalization\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/",
+        "ts": 1585879742,
+        "thumb_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/feature-image-normalization-vs.-standardization.png",
+        "thumb_width": 1050,
+        "thumb_height": 520,
+        "service_icon": "https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo_square_v2.jpg",
+        "id": 1,
+        "original_url": "https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/",
+        "fallback": "analytics vidhya: feature scaling | standardization vs normalization",
+        "text": "learn why to perform feature scaling on data in machine learning. know when to use normalization over standardization and vice-versa with a sklearn example.",
+        "title": "feature scaling | standardization vs normalization",
+        "title_link": "https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/",
+        "service_name": "analytics vidhya",
+        "fields": [
+          {
+            "value": "Aniruddha Bhandari",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "13 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ff89854a-0004-466c-a1fa-2a325927fadf",
+    "type": "message",
+    "text": "understand the math here.",
+    "user": "U03U1FNPEUX",
+    "ts": "1661417170.182859",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+LRkd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "understand the math here."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "8fca6410-6042-45e3-9b0c-b9f72187cd1a",
+    "type": "message",
+    "text": "<https://builtin.com/data-science/step-step-explanation-principal-component-analysis>",
+    "user": "U03U1FNPEUX",
+    "ts": "1661417185.883919",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ws=uh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://builtin.com/data-science/step-step-explanation-principal-component-analysis",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://builtin.com/data-science/step-step-explanation-principal-component-analysis",
+        "image_url": "https://builtin.com/sites/www.builtin.com/files/styles/og/public/principal-component-analysis-hero.jpg",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 102204,
+        "service_icon": "https://cdn.builtin.com/profiles/builtin/themes/bix/bi_favicon%2032x32.png",
+        "id": 1,
+        "original_url": "https://builtin.com/data-science/step-step-explanation-principal-component-analysis",
+        "fallback": "built in: a step-by-step explanation of principal component analysis (pca) | built in",
+        "text": "principal component analysis, or pca, is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets by transforming a large set of variables into a smaller one that still contains most of the information in the large set.",
+        "title": "a step-by-step explanation of principal component analysis (pca) | built in",
+        "title_link": "https://builtin.com/data-science/step-step-explanation-principal-component-analysis",
+        "service_name": "built in",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "88c2f2ed-96e8-484d-ba8b-8a614e2609e3",
+    "type": "message",
+    "text": "this contains python implementation of pca and code in git hub and colab",
+    "user": "U03U1FNPEUX",
+    "ts": "1661417248.027479",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PAz8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this contains python implementation of pca and code in git hub and colab"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b4eeae71-7e82-42de-8064-77505c125009",
+    "type": "message",
+    "text": "<https://morioh.com/p/c97c5f518bce>",
+    "user": "U03U1FNPEUX",
+    "ts": "1661417262.987379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q8hRy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://morioh.com/p/c97c5f518bce",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://morioh.com/p/c97c5f518bce",
+        "image_url": "https://i.morioh.com/201Joanne5/c5064e03.webp",
+        "image_width": 451,
+        "image_height": 250,
+        "image_bytes": 33904,
+        "service_icon": "https://i.morioh.com/assets/favicon/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://morioh.com/p/c97c5f518bce",
+        "fallback": "principal component analysis (pca) in python",
+        "text": "an in-depth tutorial on principal component analysis (pca) with mathematics and python coding examples. principal component analysis (pca) is essential for data science, machine learning, data visualization, statistics, and other quantitative fields.",
+        "title": "principal component analysis (pca) in python",
+        "title_link": "https://morioh.com/p/c97c5f518bce",
+        "service_name": "morioh.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a9d1c524-cfc4-4be1-b1d1-b59e7d351363",
+    "type": "message",
+    "text": "<https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/>",
+    "user": "U03UJGRN5E0",
+    "ts": "1661433809.209069",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4Jac",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/",
+        "ts": 1611134709,
+        "thumb_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/k_means_clustering.jpg",
+        "thumb_width": 1020,
+        "thumb_height": 520,
+        "service_icon": "https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo_square_v2.jpg",
+        "id": 1,
+        "original_url": "https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/",
+        "fallback": "analytics vidhya: k means clustering | k means clustering algorithm in machine learning",
+        "text": "k-means clustering is the simplest, commonly used iterative type unsupervised learning algorithm. learn about k means clustering here",
+        "title": "k means clustering | k means clustering algorithm in machine learning",
+        "title_link": "https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/",
+        "service_name": "analytics vidhya",
+        "fields": [
+          {
+            "value": "Basil Saji",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "5 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "19e0fc56-09a9-4c4b-814d-d211d0b05fd9",
+    "type": "message",
+    "text": "one of my favourite analogies is the one used to describe zero knowledge proofs.\nnormally, if you want to send a crypto asset, say bitcoin, the network would first verify if you have the said amount of bitcoin in the first place. but for privacy conscious users of blockchain, zero knowledge proof provide a cryptographic proof of ownership without revealing too much information to the network.\nthough a zero-knowledge proof is a sophisticated method of authenticating a transaction without revealing much details about it, the analogy below breaks down its most basic function.\n\nlet's say <@u03uumm7y8h> is colourblind but doesn't know it. now <@u03ukgsdgsg> needs to proof to Elizabeth that there's a difference between green and red. she gives Elizabeth two snooker balls, one green and one red but they are otherwise identical.\n\nElizabeth couldn't see the difference and he's pretty skeptical. to verify john's claim that they are indeed different in colour, he device a proof system.\n\nElizabeth holds one snooker ball in each hand and put them behind his back. he either switches the balls or just leaves them be.\n\nthere's an equal chance of switching and not switching. he then brings them out from his back. john now has to guess whether Elizabeth switched the balls or not. she can know with certainty whether Elizabeth switched the balls just by looking at the colours because she's not colourblind.\n\nif she had lied, and the balls were of the same colour, then she only has 50% probability of guessing the switches correctly. so, one try wouldn't be enough to get Elizabeth convinced. Elizabeth and john then go ahead to repeat this proof multiple times.\n\nwith each time john gets it right, the chance it was just plan luck goes away. Elizabeth eventually is convinced that the balls are of different colours.\n\nthe proof is zero-knowledge because Elizabeth never learns which ball is green and which one is red. he just knows they're different colours.",
+    "user": "U03UJN29Y4C",
+    "ts": "1661434221.694369",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p1g9l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "one of my favourite analogies is the one used to describe zero knowledge proofs.\nnormally, if you want to send a crypto asset, say bitcoin, the network would first verify if you have the said amount of bitcoin in the first place. but for privacy conscious users of blockchain, zero knowledge proof provide a cryptographic proof of ownership without revealing too much information to the network.\nthough a zero-knowledge proof is a sophisticated method of authenticating a transaction without revealing much details about it, the analogy below breaks down its most basic function.\n\nlet's say "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UUMM7Y8H"
+              },
+              {
+                "type": "text",
+                "text": " is colourblind but doesn't know it. now "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UKGSDGSG"
+              },
+              {
+                "type": "text",
+                "text": " needs to proof to Elizabeth that there's a difference between green and red. she gives Elizabeth two snooker balls, one green and one red but they are otherwise identical.\n\nElizabeth couldn't see the difference and he's pretty skeptical. to verify john's claim that they are indeed different in colour, he device a proof system.\n\nElizabeth holds one snooker ball in each hand and put them behind his back. he either switches the balls or just leaves them be.\n\nthere's an equal chance of switching and not switching. he then brings them out from his back. john now has to guess whether Elizabeth switched the balls or not. she can know with certainty whether Elizabeth switched the balls just by looking at the colours because she's not colourblind.\n\nif she had lied, and the balls were of the same colour, then she only has 50% probability of guessing the switches correctly. so, one try wouldn't be enough to get Elizabeth convinced. Elizabeth and john then go ahead to repeat this proof multiple times.\n\nwith each time john gets it right, the chance it was just plan luck goes away. Elizabeth eventually is convinced that the balls are of different colours.\n\nthe proof is zero-knowledge because Elizabeth never learns which ball is green and which one is red. he just knows they're different colours."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UJN29Y4C",
+      "ts": "1661434349.000000"
+    },
+    "reactions": [
+      {
+        "name": "slightly_smiling_face",
+        "users": [
+          "U03UJGRN5E0",
+          "U03UJN29Y4C"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5d6debca-3a36-433b-ae68-2cd0cf8df479",
+    "type": "message",
+    "text": "very helpful when you try to scale features, the thing is you can only scale numerical features. therefore you need to transform your categorical (object, string) features into numbers. and that is where this link would become very useful. i hope you will use it.\n\n<https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/#:~:text=in%20this%20encoding%20scheme%2c%20the,a%20high%20number%20of%20categories>.",
+    "user": "U03UVHCV6KB",
+    "ts": "1661434474.060109",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M7l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "very helpful when you try to scale features, the thing is you can only scale numerical features. therefore you need to transform your categorical (object, string) features into numbers. and that is where this link would become very useful. i hope you will use it.\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/#:~:text=in%20this%20encoding%20scheme%2c%20the,a%20high%20number%20of%20categories",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/#:~:text=in%20this%20encoding%20scheme%2c%20the,a%20high%20number%20of%20categories",
+        "ts": 1597338132,
+        "service_icon": "https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo_square_v2.jpg",
+        "id": 1,
+        "original_url": "https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/#:~:text=in%20this%20encoding%20scheme%2c%20the,a%20high%20number%20of%20categories",
+        "fallback": "analytics vidhya: what is categorical data | categorical data encoding methods",
+        "text": "dealing with categorical data is key to creating a successful model. learn what is categorical data and various categorical data encoding methods.",
+        "title": "what is categorical data | categorical data encoding methods",
+        "title_link": "https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/#:~:text=in%20this%20encoding%20scheme%2c%20the,a%20high%20number%20of%20categories",
+        "service_name": "analytics vidhya",
+        "fields": [
+          {
+            "value": "Shipra Saxena",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "12 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "af4508b0-7f06-43db-b3f1-c545e1737d3f",
+    "type": "message",
+    "text": "hey guys, i'm finding these functions really useful in slicing the original dataframe to make new columns (label encoding). especially iloc()\n\n<https://www.geeksforgeeks.org/difference-between-loc-and-iloc-in-pandas-dataframe/|https://www.geeksforgeeks.org/difference-between-loc-and-iloc-in-pandas-dataframe/>",
+    "user": "U03UD5B7C3X",
+    "ts": "1661446250.422139",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yGc2=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hey guys, i'm finding these functions really useful in slicing the original dataframe to make new columns (label encoding). especially iloc()\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.geeksforgeeks.org/difference-between-loc-and-iloc-in-pandas-dataframe/",
+                "text": "https://www.geeksforgeeks.org/difference-between-loc-and-iloc-in-pandas-dataframe/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.geeksforgeeks.org/difference-between-loc-and-iloc-in-pandas-dataframe/",
+        "ts": 1597708852,
+        "thumb_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+        "thumb_width": 200,
+        "thumb_height": 200,
+        "service_icon": "https://www.geeksforgeeks.org/wp-content/uploads/gfg_200x200.png",
+        "id": 1,
+        "original_url": "https://www.geeksforgeeks.org/difference-between-loc-and-iloc-in-pandas-dataframe/",
+        "fallback": "geeksforgeeks: difference between loc() and iloc() in pandas dataframe - geeksforgeeks",
+        "text": "a computer science portal for geeks. it contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview questions.",
+        "title": "difference between loc() and iloc() in pandas dataframe - geeksforgeeks",
+        "title_link": "https://www.geeksforgeeks.org/difference-between-loc-and-iloc-in-pandas-dataframe/",
+        "service_name": "geeksforgeeks",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03U9EJR362"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

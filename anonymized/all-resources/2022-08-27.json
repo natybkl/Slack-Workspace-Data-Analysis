@@ -1,0 +1,329 @@
+[
+  {
+    "client_msg_id": "8b75e0f5-2ae6-4a89-b6bb-4d392de7da71",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to-heroku-874e1250dadd>",
+    "user": "U03UJGRN5E0",
+    "ts": "1661584663.734999",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9/dWu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to-heroku-874e1250dadd",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to-heroku-874e1250dadd",
+        "ts": 1616016713,
+        "image_url": "https://miro.medium.com/max/1200/1*ksw-njrsfwvlqbtelix8oq.jpeg",
+        "image_width": 334,
+        "image_height": 250,
+        "image_bytes": 183569,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to-heroku-874e1250dadd",
+        "fallback": "medium: a quick tutorial on how to deploy your streamlit app to heroku.",
+        "text": "welcome to the step-by-step tutorial on how to deploy your streamlit app to heroku. for the past two weeks, i have been working with\u2026",
+        "title": "a quick tutorial on how to deploy your streamlit app to heroku.",
+        "title_link": "https://towardsdatascience.com/a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to-heroku-874e1250dadd",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "7 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "988b2a6c-970f-4f6b-b7f7-548f4e6e11be",
+    "type": "message",
+    "text": "i'm hurt <@u03ud68rqh3> lol",
+    "user": "U03V8LHPDME",
+    "ts": "1661593473.080579",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Cq44y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i'm hurt "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UD68RQH3"
+              },
+              {
+                "type": "text",
+                "text": " lol"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Albert",
+      "real_name": "Albert Rodriguez",
+      "display_name": "Albert Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Albert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661520757.178509",
+    "parent_user_id": "U03UD68RQH3",
+    "reactions": [
+      {
+        "name": "joy",
+        "users": [
+          "U03UD68RQH3",
+          "U03UYNR4TS4"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "11f02a4d-9468-4f94-be0d-0f92a39c85e0",
+    "type": "message",
+    "text": ":joy:  no <@u03v8lhpdme> is the best he did amazing with just short period of time... and we know docker is a big topic so if anyone wants to have in depth understanding of docker (networking, docker compose, deployment etc..) i recommend this video",
+    "user": "U03UD68RQH3",
+    "ts": "1661594268.118279",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9VPPq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "joy",
+                "unicode": "1f602"
+              },
+              {
+                "type": "text",
+                "text": "  no "
+              },
+              {
+                "type": "user",
+                "user_id": "U03V8LHPDME"
+              },
+              {
+                "type": "text",
+                "text": " is the best he did amazing with just short period of time... and we know docker is a big topic so if anyone wants to have in depth understanding of docker (networking, docker compose, deployment etc..) i recommend this video"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661520757.178509",
+    "parent_user_id": "U03UD68RQH3",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a5dc318a-eba0-411e-a6b8-a63fcadfc430",
+    "type": "message",
+    "text": "this may help you guise",
+    "user": "U03UJH1EQQL",
+    "ts": "1661616591.084679",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MmBPf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this may help you guise"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "17e99bd5-5484-4b3f-b6df-b929899a5a19",
+    "type": "message",
+    "text": "<https://blog.streamlit.io/introducing-multipage-apps/>",
+    "user": "U03UJH1EQQL",
+    "ts": "1661617212.399259",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xkT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://blog.streamlit.io/introducing-multipage-apps/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://blog.streamlit.io/introducing-multipage-apps/",
+        "ts": 1654192089,
+        "image_url": "https://blog.streamlit.io/content/images/2022/06/mpa-hero.gif",
+        "image_width": 401,
+        "image_height": 250,
+        "image_bytes": 1333440,
+        "service_icon": "https://blog.streamlit.io/favicon.png",
+        "id": 1,
+        "original_url": "https://blog.streamlit.io/introducing-multipage-apps/",
+        "fallback": "streamlit: introducing multipage apps! :page_facing_up:",
+        "text": "quickly and easily add more pages to your streamlit apps",
+        "title": "introducing multipage apps! :page_facing_up:",
+        "title_link": "https://blog.streamlit.io/introducing-multipage-apps/",
+        "service_name": "streamlit",
+        "fields": [
+          {
+            "value": "Vincent Donato",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "Announcement, Gray, Browser, Only Homepage",
+            "title": "Filed under",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f5f9add8-3f60-4c02-89d2-8f1ffa80fdef",
+    "type": "message",
+    "text": "<https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/>",
+    "user": "U03UG4Q7V42",
+    "ts": "1661621133.842869",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L7jq5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  }
+]

@@ -1,0 +1,837 @@
+[
+  {
+    "type": "message",
+    "text": "",
+    "user": "U03UJH1EQQL",
+    "ts": "1662448547.867459",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "svv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Joanneacademybatch6.slack.com/archives/c03t89pmjkg/p1662437218677619",
+        "ts": 1551614309,
+        "thumb_url": "https://www.machinelearningplus.com/wp-content/uploads/2019/03/logging_feature.png",
+        "thumb_width": 560,
+        "thumb_height": 315,
+        "service_icon": "https://www.machinelearningplus.com/wp-content/uploads/2021/06/cropped-favicon-180x180.png",
+        "id": 1,
+        "original_url": "https://www.machinelearningplus.com/python/python-logging-guide/",
+        "color": "d0d0d0",
+        "is_share": true,
+        "fallback": "machine learning plus: python logging - simplest guide with full code and examples | ml+",
+        "text": "the logging module lets you track events by logging messages when your code runs so that when the code crashes you can check the logs and identify what caused it. log messages have a built-in hierarchy from debugging, informational, warnings, error and critical messages. you can include traceback information as well. it is designed for small to large python projects with multiple modules and is highly recommended for any modular python programming. this post is a simple and clear explanation of how to use the logging module.",
+        "title": "python logging - simplest guide with full code and examples | ml+",
+        "title_link": "https://www.machinelearningplus.com/python/python-logging-guide/",
+        "service_name": "machine learning plus",
+        "fields": [
+          {
+            "value": "Selva Prabhakaran",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "10 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7fb54847-4ce1-4df5-9c9e-ecb94879f6ea",
+    "type": "message",
+    "text": "<https://www.kaggle.com/code/azminetoushikwasi/intro-to-time-series-analysis-forecasting>",
+    "user": "U03UG1Z21JP",
+    "ts": "1662449412.386079",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "o2o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.kaggle.com/code/azminetoushikwasi/intro-to-time-series-analysis-forecasting",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.kaggle.com/code/azminetoushikwasi/intro-to-time-series-analysis-forecasting",
+        "thumb_url": "https://storage.Stephanieapis.com/kaggle-avatars/thumbnails/7168168-kg.jpg",
+        "thumb_width": 100,
+        "thumb_height": 100,
+        "service_icon": "https://www.kaggle.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.kaggle.com/code/azminetoushikwasi/intro-to-time-series-analysis-forecasting",
+        "fallback": ":spiral_Johnson_pad: intro to time series analysis :small_red_triangle:  forecasting:small_red_triangle_down:",
+        "text": "explore and run machine learning code with kaggle notebooks | using data from multiple data sources",
+        "title": ":spiral_Johnson_pad: intro to time series analysis :small_red_triangle:  forecasting:small_red_triangle_down:",
+        "title_link": "https://www.kaggle.com/code/azminetoushikwasi/intro-to-time-series-analysis-forecasting",
+        "service_name": "kaggle.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "64e3bd83-e509-4412-bde1-0eeda8d4e513",
+    "type": "message",
+    "text": "<https://www.kaggle.com/code/thie1e/exploratory-analysis-rossmann/report>",
+    "user": "U03UUR571A5",
+    "ts": "1662449635.828099",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Bqj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.kaggle.com/code/thie1e/exploratory-analysis-rossmann/report",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.kaggle.com/code/thie1e/exploratory-analysis-rossmann/report",
+        "thumb_url": "https://storage.Stephanieapis.com/kaggle-avatars/thumbnails/default-thumb.png",
+        "thumb_width": 160,
+        "thumb_height": 160,
+        "service_icon": "https://www.kaggle.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.kaggle.com/code/thie1e/exploratory-analysis-rossmann/report",
+        "fallback": "exploratory analysis rossmann",
+        "text": "explore and run machine learning code with kaggle notebooks | using data from rossmann store sales",
+        "title": "exploratory analysis rossmann",
+        "title_link": "https://www.kaggle.com/code/thie1e/exploratory-analysis-rossmann/report",
+        "service_name": "kaggle.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "4024c53a-955f-4327-9481-3bf6dea0980e",
+    "type": "message",
+    "text": "i think this one explains the basics well\n<https://www.machinelearningplus.com/time-series/time-series-analysis-python/>",
+    "user": "U03UJKJGRAQ",
+    "ts": "1662450006.396289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8DR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think this one explains the basics well\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.machinelearningplus.com/time-series/time-series-analysis-python/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3d318a55b9e2",
+      "image_72": "https://avatars.slack-edge.com/2022-10-03/4158852852038_3d318a55b9e221ad2cb3_72.jpg",
+      "first_name": "Kenneth",
+      "real_name": "Kenneth Williams",
+      "display_name": "Kenneth Williams",
+      "team": "T03U4J8HMUG",
+      "name": "Kenneth",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.machinelearningplus.com/time-series/time-series-analysis-python/",
+        "ts": 1550079399,
+        "thumb_url": "https://www.machinelearningplus.com/wp-content/uploads/2019/02/time_series_analysis_feature.jpg",
+        "thumb_width": 560,
+        "thumb_height": 315,
+        "service_icon": "https://www.machinelearningplus.com/wp-content/uploads/2021/06/cropped-favicon-180x180.png",
+        "id": 1,
+        "original_url": "https://www.machinelearningplus.com/time-series/time-series-analysis-python/",
+        "fallback": "machine learning plus: time series analysis in python - a comprehensive guide with examples - ml+",
+        "text": "time series is a sequence of observations recorded at regular time intervals. this guide walks you through the process of analysing the characteristics of a given time series in python.",
+        "title": "time series analysis in python - a comprehensive guide with examples - ml+",
+        "title_link": "https://www.machinelearningplus.com/time-series/time-series-analysis-python/",
+        "service_name": "machine learning plus",
+        "fields": [
+          {
+            "value": "Selva Prabhakaran",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "27 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03U1J51VFZ"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "da3a2d21-18c0-4cd5-9be4-efc1a924d843",
+    "type": "message",
+    "text": "for all those who struggle with dvc\n<https://www.youtube.com/watch?v=klkbcponmyw>",
+    "user": "U03V6HMRPGQ",
+    "ts": "1662479457.404219",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qL=Z4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "for all those who struggle with dvc\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=klkbcponmyw",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=klkbcponmyw",
+        "thumb_url": "https://i.ytimg.com/vi/klkbcponmyw/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/klkbcponmyw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"versioning data with dvc (hands-on tutorial!)\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=klkbcponmyw",
+        "fallback": "youtube video: versioning data with dvc (hands-on tutorial!)",
+        "title": "versioning data with dvc (hands-on tutorial!)",
+        "title_link": "https://www.youtube.com/watch?v=klkbcponmyw",
+        "author_name": "dvcorg",
+        "author_link": "https://www.youtube.com/channel/uc37rp97go-xix3anfvhhxfq",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "037b1f26-d2c2-41c3-9021-1d4086e95bb7",
+    "type": "message",
+    "text": "credits goes to <@u03ukl27b0r> for those links\n<https://Joanneacademybatch6.slack.com/archives/c0412ks4fgc/p1662485520089689?thread_ts=1662480426.111519&amp;cid=c0412ks4fgc>",
+    "user": "U03V6HMRPGQ",
+    "ts": "1662485633.275769",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9aEVw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "credits goes to "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R"
+              },
+              {
+                "type": "text",
+                "text": " for those links\n"
+              },
+              {
+                "type": "link",
+                "url": "https://Joanneacademybatch6.slack.com/archives/c0412ks4fgc/p1662485520089689?thread_ts=1662480426.111519&cid=c0412ks4fgc",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Joanneacademybatch6.slack.com/archives/c0412ks4fgc/p1662485520089689?thread_ts=1662480426.111519&amp;cid=c0412ks4fgc",
+        "ts": "1662485520.089689",
+        "author_id": "u03ukl27b0r",
+        "channel_team": "t03u4j8hmug",
+        "channel_id": "c0412ks4fgc",
+        "is_msg_unfurl": true,
+        "is_reply_unfurl": true,
+        "message_blocks": [
+          {
+            "team": "T03U4J8HMUG",
+            "channel": "C0412KS4FGC",
+            "ts": "1662485520.089689",
+            "message": {
+              "blocks": [
+                {
+                  "type": "rich_text",
+                  "block_id": "ZsoK+",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "link",
+                          "url": "https://www.kaggle.com/code/juejuewang/handle-missing-values-in-time-series-for-beginners/report"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "link",
+                          "url": "https://www.projectpro.io/recipes/deal-with-missing-values-in-timeseries-in-python"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "link",
+                          "url": "https://www.real-statistics.com/time-series-analysis/stochastic-processes/handling-missing-time-series-data/"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "id": 1,
+        "original_url": "https://Joanneacademybatch6.slack.com/archives/c0412ks4fgc/p1662485520089689?thread_ts=1662480426.111519&amp;cid=c0412ks4fgc",
+        "fallback": "[september 6th, 2022 joanne:32 am] Roger: <https://www.kaggle.com/code/juejuewang/handle-missing-values-in-time-series-for-beginners/report>\n<https://www.projectpro.io/recipes/deal-with-missing-values-in-timeseries-in-python>\n<https://www.real-statistics.com/time-series-analysis/stochastic-processes/handling-missing-time-series-data/>",
+        "text": "<https://www.kaggle.com/code/juejuewang/handle-missing-values-in-time-series-for-beginners/report>\n<https://www.projectpro.io/recipes/deal-with-missing-values-in-timeseries-in-python>\n<https://www.real-statistics.com/time-series-analysis/stochastic-processes/handling-missing-time-series-data/>",
+        "author_name": "Roger richardson",
+        "author_link": "https://Joanneacademybatch6.slack.com/team/u03ukl27b0r",
+        "author_icon": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_48.png",
+        "author_subname": "Roger richardson",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "footer": "thread in slack conversation"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2e479eb1-9b90-43a8-be01-3a228fc37790",
+    "type": "message",
+    "text": "<https://youtu.be/urrfjghwija|https://youtu.be/urrfjghwija>",
+    "user": "U03UG4Q7V42",
+    "ts": "1662486526.840339",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "llG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/urrfjghwija",
+                "text": "https://youtu.be/urrfjghwija"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/urrfjghwija",
+        "thumb_url": "https://i.ytimg.com/vi/urrfjghwija/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/urrfjghwija?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"python logging - tutorial\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/urrfjghwija",
+        "fallback": "youtube video: python logging - tutorial",
+        "title": "python logging - tutorial",
+        "title_link": "https://youtu.be/urrfjghwija",
+        "author_name": "tech with tim",
+        "author_link": "https://www.youtube.com/c/techwithtim",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1662486526.840339",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1662541565.499959",
+    "reply_users": [
+      "U03UG1Z21JP",
+      "U03UG4Q7V42"
+    ],
+    "replies": [
+      {
+        "user": "U03UG1Z21JP",
+        "ts": "1662540127.335789"
+      },
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1662541565.499959"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UG1Z21JP"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "82707334-df0f-4185-bdd1-a677fe77a24e",
+    "type": "message",
+    "text": "this video helped me alot\n<https://www.youtube.com/watch?v=geytnzvjznu>",
+    "user": "U03V6HMRPGQ",
+    "ts": "1662491422.619179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jvQK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this video helped me alot\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=geytnzvjznu",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=geytnzvjznu",
+        "thumb_url": "https://i.ytimg.com/vi/geytnzvjznu/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/geytnzvjznu?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"handling missing value in time series data using python\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=geytnzvjznu",
+        "fallback": "youtube video: handling missing value in time series data using python",
+        "title": "handling missing value in time series data using python",
+        "title_link": "https://www.youtube.com/watch?v=geytnzvjznu",
+        "author_name": "aiengineering",
+        "author_link": "https://www.youtube.com/c/aiengineeringlife",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "18cd6ce3-df01-4cc2-b7b8-896621f3bef0",
+    "type": "message",
+    "text": "<https://plotly.com/python/time-series/>",
+    "user": "U03UJGRN5E0",
+    "ts": "1662496980.975579",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y36",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://plotly.com/python/time-series/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://plotly.com/python/time-series/",
+        "thumb_url": "https://images.plot.ly/plotly-documentation/thumbnail/time-series.jpg",
+        "thumb_width": 160,
+        "thumb_height": 160,
+        "service_icon": "https://plotly.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://plotly.com/python/time-series/",
+        "fallback": "time",
+        "text": "over 21 examples of time series and date axes including changing color, size, log axes, and more in python.",
+        "title": "time",
+        "title_link": "https://plotly.com/python/time-series/",
+        "service_name": "plotly.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "01796467-18aa-4aa6-b34c-d92b1246a8b4",
+    "type": "message",
+    "text": "<https://www.kaggle.com/code/shearerp/interactive-sales-visualization/report>",
+    "user": "U03UUR571A5",
+    "ts": "1662505082.122359",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ck8=L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.kaggle.com/code/shearerp/interactive-sales-visualization/report",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.kaggle.com/code/shearerp/interactive-sales-visualization/report",
+        "thumb_url": "https://storage.Stephanieapis.com/kaggle-avatars/thumbnails/447091-gp.jpg",
+        "thumb_width": 100,
+        "thumb_height": 100,
+        "service_icon": "https://www.kaggle.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.kaggle.com/code/shearerp/interactive-sales-visualization/report",
+        "fallback": "interactive sales visualization!",
+        "text": "explore and run machine learning code with kaggle notebooks | using data from rossmann store sales",
+        "title": "interactive sales visualization!",
+        "title_link": "https://www.kaggle.com/code/shearerp/interactive-sales-visualization/report",
+        "service_name": "kaggle.com",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7TUTV"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a2ce4e34-287f-481c-a1bd-0920a7012c65",
+    "type": "message",
+    "text": "<https://vm.tiktok.com/zmnknqxx6/|https://vm.tiktok.com/zmnknqxx6/>",
+    "user": "U03UJN29Y4C",
+    "ts": "1662528901.772609",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NhQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://vm.tiktok.com/zmnknqxx6/",
+                "text": "https://vm.tiktok.com/zmnknqxx6/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.tiktok.com/@mypersonalmentor/video/7Joanne9276864060919045?_r=1&_d=seccgyiasahkaespgo8k83krnxbtkan2uyj3%2fwujvzt2htqa%2behi8vmaqqxqht0ztuqainhvalh23nxbllx4zbjncokvokq2yydgga%3d&language=en&preview_pb=0&sec_user_id=ms4wljabaaaaojpr6ty2i08ay9bvsmxrft98hzvjjlpy2olovi7ezre0r2mpxkserkcaj9akwt1p&share_app_name=musically&share_item_id=7Joanne9276864060919045&share_link_id=542b86b6-13ed-4df5-a470-2a4b3Joanneb4dc3&source=h5_m&timestamp=1662528866&u_code=dg21a58f26il4m&user_id=6905072174668907525&utm_campaign=client_share&utm_medium=android&utm_source=more",
+        "thumb_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/52c18394b5274a72a2fd324b8e855128~tplv-dmt-logom:tos-useast2a-v-0068/d34ff675681f405a8c9cc39dfe560692.image?x-expires=1662548400&x-signature=opfu%2b5kqdajemi5apudkdlkslty%3d",
+        "thumb_width": 1080,
+        "thumb_height": 1920,
+        "id": 1,
+        "original_url": "https://vm.tiktok.com/zmnknqxx6/",
+        "fallback": "tiktok video: use this strategy to exponentially increase your chances on getting an interview!! #jobtips #careeradvice #careeradvice #counseling #mypersonalmentor",
+        "text": "@mypersonalmentor use this strategy to exponentially increase your chances on getting an interview!! #jobtips #careeradvice #careeradvice #counseling #mypersonalmentor &#9836; original sound - mpm - student mentor",
+        "title": "use this strategy to exponentially increase your chances on getting an interview!! #jobtips #careeradvice #careeradvice #counseling #mypersonalmentor",
+        "title_link": "https://www.tiktok.com/@mypersonalmentor/video/7Joanne9276864060919045?_r=1&_d=seccgyiasahkaespgo8k83krnxbtkan2uyj3%2fwujvzt2htqa%2behi8vmaqqxqht0ztuqainhvalh23nxbllx4zbjncokvokq2yydgga%3d&language=en&preview_pb=0&sec_user_id=ms4wljabaaaaojpr6ty2i08ay9bvsmxrft98hzvjjlpy2olovi7ezre0r2mpxkserkcaj9akwt1p&share_app_name=musically&share_item_id=7Joanne9276864060919045&share_link_id=542b86b6-13ed-4df5-a470-2a4b3Joanneb4dc3&source=h5_m&timestamp=1662528866&u_code=dg21a58f26il4m&user_id=6905072174668907525&utm_campaign=client_share&utm_medium=android&utm_source=more",
+        "author_name": "mpm - student mentor",
+        "author_link": "https://www.tiktok.com/@mypersonalmentor",
+        "service_name": "tiktok",
+        "service_url": "https://www.tiktok.com/",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7TUTV"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "user": "U03UJH1EQQL",
+    "ts": "1662529176.755389",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LQKr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Joanneacademybatch6.slack.com/archives/c03t89pmjkg/p1662528901772609",
+        "thumb_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/52c18394b5274a72a2fd324b8e855128~tplv-dmt-logom:tos-useast2a-v-0068/d34ff675681f405a8c9cc39dfe560692.image?x-expires=1662548400&x-signature=opfu%2b5kqdajemi5apudkdlkslty%3d",
+        "thumb_width": 1080,
+        "thumb_height": 1920,
+        "id": 1,
+        "original_url": "https://vm.tiktok.com/zmnknqxx6/",
+        "color": "d0d0d0",
+        "is_share": true,
+        "fallback": "tiktok video: use this strategy to exponentially increase your chances on getting an interview!! #jobtips #careeradvice #careeradvice #counseling #mypersonalmentor",
+        "text": "@mypersonalmentor use this strategy to exponentially increase your chances on getting an interview!! #jobtips #careeradvice #careeradvice #counseling #mypersonalmentor &#9836; original sound - mpm - student mentor",
+        "title": "use this strategy to exponentially increase your chances on getting an interview!! #jobtips #careeradvice #careeradvice #counseling #mypersonalmentor",
+        "title_link": "https://www.tiktok.com/@mypersonalmentor/video/7Joanne9276864060919045?_r=1&_d=seccgyiasahkaespgo8k83krnxbtkan2uyj3%2fwujvzt2htqa%2behi8vmaqqxqht0ztuqainhvalh23nxbllx4zbjncokvokq2yydgga%3d&language=en&preview_pb=0&sec_user_id=ms4wljabaaaaojpr6ty2i08ay9bvsmxrft98hzvjjlpy2olovi7ezre0r2mpxkserkcaj9akwt1p&share_app_name=musically&share_item_id=7Joanne9276864060919045&share_link_id=542b86b6-13ed-4df5-a470-2a4b3Joanneb4dc3&source=h5_m&timestamp=1662528866&u_code=dg21a58f26il4m&user_id=6905072174668907525&utm_campaign=client_share&utm_medium=android&utm_source=more",
+        "author_name": "mpm - student mentor",
+        "author_link": "https://www.tiktok.com/@mypersonalmentor",
+        "service_name": "tiktok",
+        "service_url": "https://www.tiktok.com/",
+        "message_blocks": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "client_msg_id": "60d9987d-623d-429a-af5b-6f2a3a234955",
+    "type": "message",
+    "text": "hi <!channel> happy new week:blossom:, we still urge you to work on your cv and Joanne academy profile with previous comments made, for those who have not yet. thanks!",
+    "user": "U03U4GULU3Y",
+    "ts": "1667805697.275569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Cr2NY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hi "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " happy new week"
+              },
+              {
+                "type": "emoji",
+                "name": "blossom",
+                "unicode": "1f33c"
+              },
+              {
+                "type": "text",
+                "text": ", we still urge you to work on your cv and Joanne academy profile with previous comments made, for those who have not yet. thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "99e77e6d73e2",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3986877623392_99e77e6d73e294e4f45c_72.png",
+      "first_name": "Sara",
+      "real_name": "Sara Thompson",
+      "display_name": "Sara Thompson",
+      "team": "T03U4J8HMUG",
+      "name": "Sara",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UG32J3PC",
+          "U03UFV7HFNF",
+          "U03UG0SFHGT",
+          "U03UVHCV6KB",
+          "U03UG0YHAUT",
+          "U03UH397319",
+          "U03TT5KEYCF",
+          "U03UD68RQH3"
+        ],
+        "count": 8
+      },
+      {
+        "name": "raised_hands::skin-tone-6",
+        "users": [
+          "U03UL5LSTG9"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands::skin-tone-4",
+        "users": [
+          "U03U1HAG9TR"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  }
+]

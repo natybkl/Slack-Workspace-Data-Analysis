@@ -1,0 +1,497 @@
+[
+  {
+    "client_msg_id": "bd822d64-f723-4be4-a79e-26d5e69f0d94",
+    "type": "message",
+    "text": "good morning,\ni'm not able to access the tenx platform with my chrome navigator. i'm getting error since last week.",
+    "user": "U03UH397319",
+    "ts": "1661761179.568549",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Okwr1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "good morning,\ni'm not able to access the tenx platform with my chrome navigator. i'm getting error since last week."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661761179.568549",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1661761744.523529",
+    "reply_users": [
+      "U03TEPYRM2P",
+      "U03UD68RQH3",
+      "U03UH397319"
+    ],
+    "replies": [
+      {
+        "user": "U03TEPYRM2P",
+        "ts": "1661761228.743599"
+      },
+      {
+        "user": "U03UD68RQH3",
+        "ts": "1661761229.431239"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1661761744.523529"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1661761744.523529",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "44d83283-8901-4aa4-822a-9fb171b2d551",
+    "type": "message",
+    "text": "hello Monica, please clear your cache and try again",
+    "user": "U03TEPYRM2P",
+    "ts": "1661761228.743599",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vJ0C7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello Monica, please clear your cache and try again"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Bridget",
+      "real_name": "Bridget Glover",
+      "display_name": "Bridget Glover",
+      "team": "T03U4J8HMUG",
+      "name": "Bridget",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661761179.568549",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1b743a5a-411b-42d7-8c70-edd8eb518f17",
+    "type": "message",
+    "text": "try clearing cookies",
+    "user": "U03UD68RQH3",
+    "ts": "1661761229.431239",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g7un",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "try clearing cookies"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661761179.568549",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "good morning,\ni cannot access/view the documents from 'showroom best of the weeks' on the tenx platform",
+    "files": [
+      {
+        "id": "F040GCT0FNV",
+        "created": 1661761394,
+        "timestamp": 1661761394,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UJGP0C68",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 52416,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F040GCT0FNV/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F040GCT0FNV/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040GCT0FNV-04f8c31273/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040GCT0FNV-04f8c31273/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040GCT0FNV-04f8c31273/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 208,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040GCT0FNV-04f8c31273/image_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 278,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040GCT0FNV-04f8c31273/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040GCT0FNV-04f8c31273/image_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 416,
+        "original_w": 735,
+        "original_h": 425,
+        "thumb_tiny": "AwAbADDSOcjA470ZPp+tDDOOKTYKAHUU0DHTFLnAyaADPNLVe5kKR5TOTwCO1Sw7jCu7Occ5oEEkiJjeQM9KRZY2barAk08gHqAfrQFUHIUD8KegahQRkYNLRSGGB6UUUUAf/9k=",
+        "permalink": "https://10academybatch6.slack.com/files/U03UJGP0C68/F040GCT0FNV/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F040GCT0FNV-d6340af252",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UJGP0C68",
+    "display_as_bot": false,
+    "ts": "1661761407.846619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wW+0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "good morning,\ni cannot access/view the documents from 'showroom best of the weeks' on the tenx platform"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "7f474904-6ac8-411c-bf61-a310d4c68896",
+    "thread_ts": "1661761407.846619",
+    "reply_count": 5,
+    "reply_users_count": 4,
+    "latest_reply": "1661955073.663599",
+    "reply_users": [
+      "U03V1AM5TFA",
+      "U03UJGP0C68",
+      "U03UFV7HFNF",
+      "U03UDBUL7CL"
+    ],
+    "replies": [
+      {
+        "user": "U03V1AM5TFA",
+        "ts": "1661761495.995109"
+      },
+      {
+        "user": "U03UJGP0C68",
+        "ts": "1661761549.863219"
+      },
+      {
+        "user": "U03UFV7HFNF",
+        "ts": "1661761642.630049"
+      },
+      {
+        "user": "U03UDBUL7CL",
+        "ts": "1661762238.779919"
+      },
+      {
+        "user": "U03UDBUL7CL",
+        "ts": "1661955073.663599"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "3ebc8f1b-60a1-4f93-901f-43a532835111",
+    "type": "message",
+    "text": "did you check if you are using the right email?",
+    "user": "U03V1AM5TFA",
+    "ts": "1661761495.995109",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9tJC7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "did you check if you are using the right email?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Shepherd",
+      "display_name": "Lynn Shepherd",
+      "team": "T03U4J8HMUG",
+      "name": "Lynn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661761407.846619",
+    "parent_user_id": "U03UJGP0C68",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b32877b9-1945-4025-9d42-ec164b12d9b3",
+    "type": "message",
+    "text": "yes",
+    "user": "U03UJGP0C68",
+    "ts": "1661761549.863219",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FVL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661761407.846619",
+    "parent_user_id": "U03UJGP0C68",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a467e3de-c51b-4739-ba51-8306a408d7f7",
+    "type": "message",
+    "text": "me too <@u03v1am5tfa>",
+    "user": "U03UFV7HFNF",
+    "ts": "1661761642.630049",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TyT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "me too "
+              },
+              {
+                "type": "user",
+                "user_id": "U03V1AM5TFA"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661761407.846619",
+    "parent_user_id": "U03UJGP0C68",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e8a074b2-a0eb-4e72-9ffe-5c3144d5b815",
+    "type": "message",
+    "text": "<@u03ud68rqh3> <@u03tepyrm2p> thank you very much. it worked.",
+    "user": "U03UH397319",
+    "ts": "1661761744.523529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dSWWV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UD68RQH3"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03TEPYRM2P"
+              },
+              {
+                "type": "text",
+                "text": " thank you very much. it worked."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661761179.568549",
+    "parent_user_id": "U03UH397319",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03TEPYRM2P"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c3ac8ce5-0708-4ecc-a4b7-f99a5485ebd3",
+    "type": "message",
+    "text": "we are working on it and once the issue is fixed we will let you know.",
+    "user": "U03UDBUL7CL",
+    "ts": "1661762238.779919",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RVSo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "we are working on it and once the issue is fixed we will let you know."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "4ede570306fd",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3956338511254_4ede570306fd108b8928_72.png",
+      "first_name": "Luis",
+      "real_name": "Luis Smith",
+      "display_name": "Luis Smith",
+      "team": "T03U4J8HMUG",
+      "name": "Luis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661761407.846619",
+    "parent_user_id": "U03UJGP0C68",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03TEPYRM2P",
+          "U03UFV7HFNF",
+          "U03UG0YHAUT"
+        ],
+        "count": 3
+      }
+    ],
+    "attachments": null
+  }
+]
