@@ -1,0 +1,120 @@
+[
+  {
+    "client_msg_id": "5ec46279-b38c-4996-b355-8b06b1918524",
+    "type": "message",
+    "text": "we don\u2019t despair of a goal because we\u2019re not perfect, epictetus said. we strive to get closer to it each day. we strive to get better each day. this, as marcus might have written to himself, is your reminder.",
+    "user": "U03UVHCV6KB",
+    "ts": "1667191655.466469",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qLj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "we don\u2019t despair of a goal because we\u2019re not perfect, epictetus said. we strive to get closer to it each day. we strive to get better each day. this, as marcus might have written to himself, is your reminder."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667191655.466469",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1667193664.842379",
+    "reply_users": [
+      "U03U93GNNVB"
+    ],
+    "replies": [
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1667193664.842379"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UG32J3PC",
+          "U03UUR571A5"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "f914f93e-e8a0-4a0b-843b-520175ac7b49",
+    "type": "message",
+    "text": "i like this reminder <@u03uvhcv6kb>",
+    "user": "U03U93GNNVB",
+    "ts": "1667193664.842379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HHF1H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i like this reminder "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UVHCV6KB"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667191655.466469",
+    "parent_user_id": "U03UVHCV6KB",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  }
+]

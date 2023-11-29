@@ -1,0 +1,273 @@
+[
+  {
+    "client_msg_id": "8ee52546-e944-47a0-b5db-dddc7256aa30",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=-v_q9mjdrzy>",
+    "user": "U03UVHCV6KB",
+    "ts": "1664438842.360759",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hco",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=-v_q9mjdrzy",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=-v_q9mjdrzy",
+        "thumb_url": "https://i.ytimg.com/vi/-v_q9mjdrzy/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/-v_q9mjdrzy?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"how not to land a developer job\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=-v_q9mjdrzy",
+        "fallback": "youtube video: how not to land a developer job",
+        "title": "how not to land a developer job",
+        "title_link": "https://www.youtube.com/watch?v=-v_q9mjdrzy",
+        "author_name": "tech with tim",
+        "author_link": "https://www.youtube.com/c/techwithtim",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "585A3D8E-C597-40D5-B4F3-2D3DEE95D4A7",
+    "type": "message",
+    "text": "<https://openai.com/blog/dall-e-now-available-without-waitlist/|https://openai.com/blog/dall-e-now-available-without-waitlist/> ",
+    "user": "U03V785NLSU",
+    "ts": "1664442430.323249",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/J2DC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://openai.com/blog/dall-e-now-available-without-waitlist/",
+                "text": "https://openai.com/blog/dall-e-now-available-without-waitlist/"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://openai.com/blog/dall-e-now-available-without-waitlist/",
+        "ts": 1664379572,
+        "image_url": "https://openai.com/content/images/2022/09/dall-e-no-waitlist-social-1.jpg",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 97179,
+        "service_icon": "https://openai.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://openai.com/blog/dall-e-now-available-without-waitlist/",
+        "fallback": "openai: dall\u00b7e now available without waitlist",
+        "text": "new users can start creating straight away. lessons learned from deployment and improvements to our safety systems make wider availability possible. sign up starting today, we are removing the waitlist for the dall\u00b7e beta so users can sign up and start using it immediately. more than 1.5m users",
+        "title": "dall\u00b7e now available without waitlist",
+        "title_link": "https://openai.com/blog/dall-e-now-available-without-waitlist/",
+        "service_name": "openai",
+        "fields": [
+          {
+            "value": "OpenAI",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "Announcements",
+            "title": "Filed under",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "61EEB78A-39A9-45E3-861B-04E65BDA5636",
+    "type": "message",
+    "text": "<https://txt.cohere.ai/introducing-the-cohere-for-ai-scholars-program-your-research-journey-starts-here/|https://txt.cohere.ai/introducing-the-cohere-for-ai-scholars-program-your-research-journey-starts-here/>",
+    "user": "U03V785NLSU",
+    "ts": "1664442449.449299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "m=qWf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://txt.cohere.ai/introducing-the-cohere-for-ai-scholars-program-your-research-journey-starts-here/",
+                "text": "https://txt.cohere.ai/introducing-the-cohere-for-ai-scholars-program-your-research-journey-starts-here/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://txt.cohere.ai/introducing-the-cohere-for-ai-scholars-program-your-research-journey-starts-here/",
+        "ts": 1663862400,
+        "image_url": "https://txt.cohere.ai/content/images/2022/09/cohere-for-ai-scholars-program.jpg",
+        "image_width": 471,
+        "image_height": 250,
+        "image_bytes": 456052,
+        "service_icon": "https://txt.cohere.ai/favicon.png",
+        "id": 1,
+        "original_url": "https://txt.cohere.ai/introducing-the-cohere-for-ai-scholars-program-your-research-journey-starts-here/",
+        "fallback": "context by cohere: introducing the cohere for ai scholars program: your research journey starts here",
+        "text": "we're excited to announce our scholars program, inviting a class of emerging talent to work alongside our team \u2013 exploring the unknown, together. if you're looking for an opportunity to develop your research skills, your journey starts here.",
+        "title": "introducing the cohere for ai scholars program: your research journey starts here",
+        "title_link": "https://txt.cohere.ai/introducing-the-cohere-for-ai-scholars-program-your-research-journey-starts-here/",
+        "service_name": "context by cohere",
+        "fields": [
+          {
+            "value": "Sara Hooker",
+            "title": "Written by",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1585b0e0-2144-4371-bee2-eb96dc50cb6b",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=f0vvtoj6qjq>",
+    "user": "U03UUR571A5",
+    "ts": "1664485542.605119",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zVD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=f0vvtoj6qjq",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=f0vvtoj6qjq",
+        "thumb_url": "https://i.ytimg.com/vi/f0vvtoj6qjq/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/f0vvtoj6qjq?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"the future of user interfaces with a.i.\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=f0vvtoj6qjq",
+        "fallback": "youtube video: the future of user interfaces with a.i.",
+        "title": "the future of user interfaces with a.i.",
+        "title_link": "https://www.youtube.com/watch?v=f0vvtoj6qjq",
+        "author_name": "sentdex",
+        "author_link": "https://www.youtube.com/c/sentdex",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U03U9EJR362",
+          "U03UG32J3PC"
+        ],
+        "count": 2
+      }
+    ]
+  }
+]

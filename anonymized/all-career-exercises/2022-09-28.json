@@ -1,0 +1,59 @@
+[
+  {
+    "client_msg_id": "28fb2ed8-669a-4ec1-918e-2d7d32645061",
+    "type": "message",
+    "text": "<https://carbmee.jobs.personio.com/job/823176?language=>",
+    "user": "U03U93GNNVB",
+    "ts": "1664355715.163579",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hJa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://carbmee.jobs.personio.com/job/823176?language=",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://carbmee.jobs.personio.com/job/823176?language=",
+        "image_url": "https://we-are-hiring.cdn.personio.de/logos/59792/social/4ac85225a8eJoanne92073d9e985d913c91b.png",
+        "image_width": 752,
+        "image_height": 180,
+        "image_bytes": 13606,
+        "service_icon": "https://we-are-hiring.cdn.personio.de/favicon-32x32.png?v=3",
+        "id": 1,
+        "original_url": "https://carbmee.jobs.personio.com/job/823176?language=",
+        "fallback": "data &amp; machine learning engineer (nlp/nlu/data science) climate tech (all genders) | jobs at carbmee",
+        "text": "carbmee is an enterprise software company that offers an environmental intelligence system, enabling companies to reduce their carbon footprint by analyzing co2 hotspots in your value chain. by linking emissions derived from materials, transactions, logistics and supplier data in real-time with globally recognized standards and methods, we calculate co2 footprints at a supplier-specific level. this is the basis for subsequent reductions of co2 emissions throughout the value chain.\u00a0",
+        "title": "data &amp; machine learning engineer (nlp/nlu/data science) climate tech (all genders) | jobs at carbmee",
+        "title_link": "https://carbmee.jobs.personio.com/job/823176?language=",
+        "service_name": "carbmee.jobs.personio.com",
+        "message_blocks": null
+      }
+    ]
+  }
+]

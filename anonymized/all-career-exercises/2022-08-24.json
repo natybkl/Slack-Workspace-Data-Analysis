@@ -1,0 +1,147 @@
+[
+  {
+    "client_msg_id": "8737E85B-7A82-44D8-A725-E481E5F88BBD",
+    "type": "message",
+    "text": "good morning :sun_with_face: <!channel>. i hope we are all making progress toward our assignments for *real-world jobs*. if you need further clarification, don't be afraid to get in touch. ",
+    "user": "U03UL5LSTG9",
+    "ts": "1661328443.796239",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H04n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "good morning "
+              },
+              {
+                "type": "emoji",
+                "name": "sun_with_face",
+                "unicode": "1f31e"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": ". i hope we are all making progress toward our assignments for "
+              },
+              {
+                "type": "text",
+                "text": "real-world jobs",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ". if you need further clarification, don't be afraid to get in touch. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3fe4d3c0de24",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3978609497829_3fe4d3c0de24beaf8552_72.png",
+      "first_name": "Ashley",
+      "real_name": "Ashley Glenn",
+      "display_name": "Ashley Glenn",
+      "team": "T03U4J8HMUG",
+      "name": "Ashley",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03TT5KEYCF",
+          "U03UFV7TUTV",
+          "U03UG0YHAUT",
+          "U03UG5VFN03"
+        ],
+        "count": 4
+      },
+      {
+        "name": "pray",
+        "users": [
+          "U03UH397319",
+          "U03UFV7HFNF"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "26E94589-B336-436E-8099-2850D25A6686",
+    "type": "message",
+    "text": "hi <!channel> Stephanie classroom submission link for both week 1 exercises are now available. ",
+    "user": "U03UL5LSTG9",
+    "ts": "1661334192.752399",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ait",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hi "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " Stephanie classroom submission link for both week 1 exercises are now available. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3fe4d3c0de24",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3978609497829_3fe4d3c0de24beaf8552_72.png",
+      "first_name": "Ashley",
+      "real_name": "Ashley Glenn",
+      "display_name": "Ashley Glenn",
+      "team": "T03U4J8HMUG",
+      "name": "Ashley",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7HFNF",
+          "U03UG5VFN03",
+          "U03UVHCV6KB"
+        ],
+        "count": 3
+      }
+    ],
+    "attachments": null
+  }
+]

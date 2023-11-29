@@ -1,0 +1,45 @@
+[
+  {
+    "client_msg_id": "7da0b483-f3d3-4986-bac9-47202a224add",
+    "type": "message",
+    "text": "<!channel> week 6 leaderboard is out. please don't hesitate to reach out to me if you have any complain.",
+    "user": "U03TEPYRM2P",
+    "ts": "1665221774.619779",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pbmQP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " week 6 leaderboard is out. please don't hesitate to reach out to me if you have any complain."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Bridget",
+      "real_name": "Bridget Glover",
+      "display_name": "Bridget Glover",
+      "team": "T03U4J8HMUG",
+      "name": "Bridget",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  }
+]

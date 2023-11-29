@@ -1,0 +1,998 @@
+[
+  {
+    "client_msg_id": "4ff7eb63-f10b-47db-be66-51af44cb1ef4",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=fkgi3n-fynu>",
+    "user": "U03UJGRN5E0",
+    "ts": "1664954018.369609",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HoOLm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=fkgi3n-fynu",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=fkgi3n-fynu",
+        "thumb_url": "https://i.ytimg.com/vi/fkgi3n-fynu/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/fkgi3n-fynu?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"what is apache kafka\u00ae?\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=fkgi3n-fynu",
+        "fallback": "youtube video: what is apache kafka\u00ae?",
+        "title": "what is apache kafka\u00ae?",
+        "title_link": "https://www.youtube.com/watch?v=fkgi3n-fynu",
+        "author_name": "confluent",
+        "author_link": "https://www.youtube.com/c/confluent",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "52863f08-c861-4d25-b5d5-f72997e8eaa2",
+    "type": "message",
+    "text": "<https://hub.docker.com/r/confluentinc/cp-kafka/>",
+    "user": "U03UD68RQH3",
+    "ts": "1664964706.071359",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eln",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://hub.docker.com/r/confluentinc/cp-kafka/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "20d8ec9c-6656-4b7e-8252-2b014e4de1ab",
+    "type": "message",
+    "text": "<https://Michelle.com/dilipsundarraj1/kafka-for-developers-using-spring-boot/blob/master/setupkafka.md>",
+    "user": "U03UFV7HFNF",
+    "ts": "1664966756.317999",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DzLA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://Michelle.com/dilipsundarraj1/kafka-for-developers-using-spring-boot/blob/master/setupkafka.md",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "id": 1,
+        "footer_icon": "https://slack.Michelle.com/static/img/favicon-neutral.png",
+        "color": "24292f",
+        "bot_id": "b03uyh1bwqz",
+        "app_unfurl_url": "https://Michelle.com/dilipsundarraj1/kafka-for-developers-using-spring-boot/blob/master/setupkafka.md",
+        "is_app_unfurl": true,
+        "app_id": "a01bp7r4kny",
+        "fallback": "<https://Michelle.com/dilipsundarraj1/kafka-for-developers-using-spring-boot/blob/master/setupkafka.md | setupkafka.md>",
+        "text": "*setting up kafka*\nmac\n\n\u2022 make sure you are navigated inside the bin directory.\n\n*start zookeeper and kafka broker*\n\n\u2022 start up the zookeeper.\n\n```\n./zookeeper-server-start.sh ../config/zookeeper.properties\n```\n\n\u2022 add the below properties in the server.properties\n\n```\nlisteners=<plaintext://localhost:9092>\nauto.create.topics.enable=false\n```\n\n\u2022 start up the kafka broker\n\n```\n./kafka-server-start.sh ../config/server.properties\n```\n\n*how to create a topic ?*\n\n```\n./kafka-topics.sh --create --topic test-topic -zookeeper localhost:2181 --replication-factor 1 --partitions 4\n```\n\n*how to instantiate a console producer?*\n*without key*\n\n```\n./kafka-console-producer.sh --broker-list localhost:9092 --topic test-topic\n```\n\n*with key*\n\n```\n./kafka-console-producer.sh --broker-list localhost:9092 --topic test-topic --property \"key.separator=-\" --property \"parse.key=true\"\n```\n\n*how to instantiate a console consumer?*\n*without key*\n\n```\n./kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test-topic --from-beginning\n```\n\n*with key*\n\n```\n./kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test-topic --from-beginning -property \"key.separator= - \" --property \"print.key=true\"\n```\n\n*with consumer group*\n\n```\n./kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test-topic --group &lt;group-name&gt;\n```\nwindows\n\n\u2022 make sure you are inside the *bin/windows* directory.\n\n*start zookeeper and kafka broker*\n\n\u2022 start up the zookeeper.\n\n```\nzookeeper-server-start.bat ..\\..\\config\\zookeeper.properties\n```\n\n\u2022 start up the kafka broker.\n\n```\nkafka-server-start.bat ..\\..\\config\\server.properties\n```\n\n*how to create a topic ?*\n\n```\nkafka-topics.bat --create --topic test-topic -zookeeper localhost:2181 --replication-factor 1 --partitions 4\n```\n\n*how to instantiate a console producer?*\n*without key*\n\n```\nkafka-console-producer.bat --broker-list localhost:9092 --topic test-topic\n```\n\n*with key*\n\n```\nkafka-console-producer.bat --broker-list localhost:9092 --topic test-topic --property \"key.separator=-\" --property \"parse.key=true\"\n```\n\n*how to instantiate a console consumer?*\n*without key*\n\n```\nkafka-console-consumer.bat --bootstrap-server localhost:9092 --topic test-topic --from-beginning\n```\n\n*with key*\n\n```\nkafka-console-consumer.bat --bootstrap-server localhost:9092 --topic test-topic --from-beginning -property \"key.separator= - \" --property \"print.key=true\"\n```\n\n*with consumer group*\n\n```\nkafka-console-consumer.bat --bootstrap-server localhost:9092 --topic test-topic --group &lt;group-name&gt;\n```\n*setting up multiple kafka brokers*\n\n\u2022 the first step is to add a new *server.properties*.\n\u2022 we need to modify three properties to start up a multi broker set up.\n\n```\nbroker.id=&lt;unique-broker-d&gt;\nlisteners=<plaintext://localhost:&lt;unique-port>&gt;\nlog.dirs=/tmp/&lt;unique-kafka-folder&gt;\nauto.create.topics.enable=false\n```\n\n\u2022 example config will be like below.\n\n```\nbroker.id=1\nlisteners=<plaintext://localhost:9093>\nlog.dirs=/tmp/kafka-logs-1\nauto.create.topics.enable=false\n```\n\n*starting up the new broker*\n\n\u2022 provide the new *server.properties* thats added.\n\n```\n./kafka-server-start.sh ../config/server-1.properties\n```\n\n```\n./kafka-server-start.sh ../config/server-2.properties\n```\n\n*advanced kafka cli operations:*\nmac\n\n*list the topics in a cluster*\n\n```\n./kafka-topics.sh --zookeeper localhost:2181 --list\n```\n\n*describe topic*\n\n\u2022 the below command can be used to describe all the topics.\n\n```\n./kafka-topics.sh --zookeeper localhost:2181 --describe\n```\n\n\u2022 the below command can be used to describe a specific topic.\n\n```\n./kafka-topics.sh --zookeeper localhost:2181 --describe --topic &lt;topic-name&gt;\n```\n\n*alter the min insync replica*\n\n```\n./kafka-topics.sh --alter --zookeeper localhost:2181 --topic library-events --config min.insync.replicas=2\n```\n\n*delete a topic*\n\n```\n./kafka-topics.sh --zookeeper localhost:2181 --delete --topic test-topic\n```\n\n*how to view consumer groups*\n\n```\n./kafka-consumer-groups.sh --bootstrap-server localhost:9092 --list\n```\n\n*consumer groups and their offset*\n\n```\n./kafka-consumer-groups.sh --bootstrap-server localhost:9092 --describe --group console-consumer-27773\n```\n\n*viewing the commit log*\n\n```\n./kafka-run-class.sh kafka.tools.dumplogsegments --deep-iteration --files /tmp/kafka-logs/test-topic-0/00000000000000000000.log\n```\n\n*setting the minimum insync replica*\n\n```\n./kafka-configs.sh --alter --zookeeper localhost:2181 --entity-type topics --entity-name test-topic --add-config min.insync.replicas=2\n```\nwindows\n\n\u2022 make sure you are inside the *bin/windows* directory.\n\n*list the topics in a cluster*\n\n```\nkafka-topics.bat --zookeeper localhost:2181 --list\n```\n\n*describe topic*\n\n\u2022 the below command can be used to describe all the topics.\n\n```\nkafka-topics.bat --zookeeper localhost:2181 --describe\n```\n\n\u2022 the below command can be used to describe a specific topic.\n\n```\nkafka-topics.bat --zookeeper localhost:2181 --describe --topic &lt;topic-name&gt;\n```\n\n*alter the min insync replica*\n\n```\nkafka-topics.bat --alter --zookeeper localhost:2181 --topic library-events --config min.insync.replicas=2\n```\n\n*delete a topic*\n\n```\nkafka-topics.bat --zookeeper localhost:2181 --delete --topic &lt;topic-name&gt;\n```\n\n*how to view consumer groups*\n\n```\nkafka-consumer-groups.bat --bootstrap-server localhost:9092 --list\n```\n\n*consumer groups and their offset*\n\n```\nkafka-consumer-groups.bat --bootstrap-server localhost:9092 --describe --group console-consumer-27773\n```\n\n*viewing the commit log*\n\n```\nkafka-run-class.bat kafka.tools.dumplogsegments --deep-iteration --files /tmp/kafka-logs/test-topic-0/00000000000000000000.log\n```",
+        "title": "<https://Michelle.com/dilipsundarraj1/kafka-for-developers-using-spring-boot/blob/master/setupkafka.md | setupkafka.md>",
+        "footer": "<https://Michelle.com/dilipsundarraj1/kafka-for-developers-using-spring-boot|dilipsundarraj1/kafka-for-developers-using-spring-boot>",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "789c8162-f2a8-4572-8e8f-df046ec5f4d1",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=vhngq-moxie>",
+    "user": "U03UG4Q7V42",
+    "ts": "1664969463.704279",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KM6t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=vhngq-moxie",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=vhngq-moxie",
+        "thumb_url": "https://i.ytimg.com/vi/vhngq-moxie/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/vhngq-moxie?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"kafka with python\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=vhngq-moxie",
+        "fallback": "youtube video: kafka with python",
+        "title": "kafka with python",
+        "title_link": "https://www.youtube.com/watch?v=vhngq-moxie",
+        "author_name": "udacity",
+        "author_link": "https://www.youtube.com/c/udacity",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8fb799f6-b591-4b09-8629-c44f5df30a55",
+    "type": "message",
+    "text": "this is _so_ cool\n\n<https://www.gentlydownthe.stream/|https://www.gentlydownthe.stream/>",
+    "user": "U03UD5B7C3X",
+    "ts": "1664971164.197049",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5cx2A",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this is "
+              },
+              {
+                "type": "text",
+                "text": "so",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " cool\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.gentlydownthe.stream/",
+                "text": "https://www.gentlydownthe.stream/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664971164.197049",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1664977051.035099",
+    "reply_users": [
+      "U03V785NLSU",
+      "U03UD5B7C3X"
+    ],
+    "replies": [
+      {
+        "user": "U03V785NLSU",
+        "ts": "1664973280.024619"
+      },
+      {
+        "user": "U03UD5B7C3X",
+        "ts": "1664977051.035099"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ffe92ad4-8ad0-4b2e-9648-f800e1e72aca",
+    "type": "message",
+    "text": "i love such analogies.",
+    "user": "U03V785NLSU",
+    "ts": "1664973280.024619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B+W0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i love such analogies."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664971164.197049",
+    "parent_user_id": "U03UD5B7C3X",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e27ad4ff-f0d7-4d58-8500-b8e6a9422eb0",
+    "type": "message",
+    "text": "<https://pypi.org/project/airflow-provider-kafka/0.1.0/>",
+    "user": "U03V61VGQG0",
+    "ts": "1664974704.528179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rKR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://pypi.org/project/airflow-provider-kafka/0.1.0/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Diane",
+      "real_name": "Diane Cruz",
+      "display_name": "Diane Cruz",
+      "team": "T03U4J8HMUG",
+      "name": "Diane",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://pypi.org/project/airflow-provider-kafka/0.1.0/",
+        "image_url": "https://pypi.org/static/images/twitter.6fecba6f.jpg",
+        "image_width": 250,
+        "image_height": 250,
+        "image_bytes": 6869,
+        "service_icon": "https://pypi.org/static/images/favicon.6a76275d.ico",
+        "id": 1,
+        "original_url": "https://pypi.org/project/airflow-provider-kafka/0.1.0/",
+        "fallback": "pypi: airflow-provider-kafka",
+        "text": "apache airflow kafka provider containing deferrable operators &amp; sensors.",
+        "title": "airflow-provider-kafka",
+        "title_link": "https://pypi.org/project/airflow-provider-kafka/0.1.0/",
+        "service_name": "pypi",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d8fa642c-073e-471a-9af0-50eeb3e63a91",
+    "type": "message",
+    "text": "<https://betterdatascience.com/how-to-install-apache-kafka-using-docker-the-easy-way/>",
+    "user": "U03UFV7HFNF",
+    "ts": "1664974740.595339",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UdRY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://betterdatascience.com/how-to-install-apache-kafka-using-docker-the-easy-way/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://betterdatascience.com/how-to-install-apache-kafka-using-docker-the-easy-way/",
+        "ts": 1632414060,
+        "image_url": "https://betterdatascience.com/content/images/2021/12/thumbnail_43-4.jpg",
+        "image_width": 333,
+        "image_height": 250,
+        "image_bytes": 100599,
+        "service_icon": "https://betterdatascience.com/favicon.png",
+        "id": 1,
+        "original_url": "https://betterdatascience.com/how-to-install-apache-kafka-using-docker-the-easy-way/",
+        "fallback": "better data science: how to install apache kafka using docker\u200a\u2014\u200athe easy way | better data science",
+        "text": "apache kafka tutorial series 1/3 - learn how to install apache kafka using docker and how to create your first kafka topic in no time.",
+        "title": "how to install apache kafka using docker\u200a\u2014\u200athe easy way | better data science",
+        "title_link": "https://betterdatascience.com/how-to-install-apache-kafka-using-docker-the-easy-way/",
+        "service_name": "better data science",
+        "fields": [
+          {
+            "value": "Dario Rade\u010di\u0107",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "Data Engineering",
+            "title": "Filed under",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "aa7662d4-220e-447b-bb3f-41d4c6e6bcc0",
+    "type": "message",
+    "text": "mvc with nice explanation with examples\n<https://www.guru99.com/mvc-tutorial.html>",
+    "user": "U03UHB8CXDY",
+    "ts": "1664976967.874409",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=KThV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "mvc with nice explanation with examples\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.guru99.com/mvc-tutorial.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.guru99.com/mvc-tutorial.html",
+        "ts": 1584297000,
+        "image_url": "https://www.guru99.com/images/1/122118_0445_mvctutorial1.png",
+        "image_width": 353,
+        "image_height": 250,
+        "image_bytes": 50815,
+        "service_icon": "https://www.guru99.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.guru99.com/mvc-tutorial.html",
+        "fallback": "guru99: mvc framework tutorial for beginners: what is, architecture &amp; example",
+        "text": "what is mvc? the mvc is an architectural pattern that separates an application into three main logical components modelviewcontroller hence the abbreviation mvc. each component is built to handle spec",
+        "title": "mvc framework tutorial for beginners: what is, architecture &amp; example",
+        "title_link": "https://www.guru99.com/mvc-tutorial.html",
+        "service_name": "guru99",
+        "fields": [
+          {
+            "value": "Matthew Martin",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "6 minutes",
+            "title": "Time to read",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d5e50485-b132-4f59-b755-5d4ff955380c",
+    "type": "message",
+    "text": "<https://www.c-sharpcorner.com/uploadfile/a8024d/real-life-example-of-asp-net-mvc-5/>",
+    "user": "U03UHB8CXDY",
+    "ts": "1664976999.763339",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SXw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.c-sharpcorner.com/uploadfile/a8024d/real-life-example-of-asp-net-mvc-5/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.c-sharpcorner.com/uploadfile/a8024d/real-life-example-of-asp-net-mvc-5/",
+        "image_url": "https://www.c-sharpcorner.com/uploadfile/twittercard/twitter_card_logo.png",
+        "image_width": 478,
+        "image_height": 250,
+        "image_bytes": 128007,
+        "id": 1,
+        "original_url": "https://www.c-sharpcorner.com/uploadfile/a8024d/real-life-example-of-asp-net-mvc-5/",
+        "fallback": "real life example of asp.net mvc 5",
+        "text": "in this article we will discuss some basics &amp; real life examples of mvc 5.",
+        "title": "real life example of asp.net mvc 5",
+        "title_link": "https://www.c-sharpcorner.com/uploadfile/a8024d/real-life-example-of-asp-net-mvc-5/",
+        "service_name": "c-sharpcorner.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3fb39f1e-2fe4-476b-927a-99bf0df34e76",
+    "type": "message",
+    "text": "same!",
+    "user": "U03UD5B7C3X",
+    "ts": "1664977051.035099",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y6QgS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "same!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664971164.197049",
+    "parent_user_id": "U03UD5B7C3X",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "05732933-8265-4de4-9de3-ebb3c48e6052",
+    "type": "message",
+    "text": "<https://www.vantage-ai.com/en/blog/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow>",
+    "user": "U03UG5VFN03",
+    "ts": "1664985502.528529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ltoxp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.vantage-ai.com/en/blog/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Susan",
+      "real_name": "Susan Lewis",
+      "display_name": "Susan Lewis",
+      "team": "T03U4J8HMUG",
+      "name": "Susan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.vantage-ai.com/en/blog/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow",
+        "image_url": "https://www.vantage-ai.com/hubfs/blog%20fotos/kafka_shape.jpg#keepprotocol",
+        "image_width": 373,
+        "image_height": 250,
+        "image_bytes": 390973,
+        "service_icon": "https://www.vantage-ai.com/hubfs/favicon.png",
+        "id": 1,
+        "original_url": "https://www.vantage-ai.com/en/blog/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow",
+        "fallback": "keeping your ml model in shape with kafka, airflow and mlflow",
+        "text": "always wanted to learn how to keep your ml model in shape. this article explains how to do this using kafka, airflow and mlflow. read more to learn more.",
+        "title": "keeping your ml model in shape with kafka, airflow and mlflow",
+        "title_link": "https://www.vantage-ai.com/en/blog/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow",
+        "service_name": "vantage-ai.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "30005796-2004-4e2c-8fe7-0bb52822c42c",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=spafppbyohm>",
+    "user": "U03UVHCV6KB",
+    "ts": "1664991313.265349",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yEr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=spafppbyohm",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=spafppbyohm",
+        "thumb_url": "https://i.ytimg.com/vi/spafppbyohm/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/spafppbyohm?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"data engineering road map - how to learn data engineering quickly( by a faang data engineer)\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=spafppbyohm",
+        "fallback": "youtube video: data engineering road map - how to learn data engineering quickly( by a faang data engineer)",
+        "title": "data engineering road map - how to learn data engineering quickly( by a faang data engineer)",
+        "title_link": "https://www.youtube.com/watch?v=spafppbyohm",
+        "author_name": "seattle data guy",
+        "author_link": "https://www.youtube.com/c/seattledataguy",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "27a83675-2e7a-456f-b5dd-27370f08d0c5",
+    "type": "message",
+    "text": "<https://www.projectpro.io/recipes/use-sparksubmitoperator-airflow-dag>",
+    "user": "U03V5Q9N516",
+    "ts": "1665003121.776439",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LdJwM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.projectpro.io/recipes/use-sparksubmitoperator-airflow-dag",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g164928c3a69",
+      "image_72": "https://secure.gravatar.com/avatar/164928c3a69af29d42a5e90b928e2f71.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Steven",
+      "real_name": "Steven Haas",
+      "display_name": "Steven Haas",
+      "team": "T03U4J8HMUG",
+      "name": "Steven",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.projectpro.io/recipes/use-sparksubmitoperator-airflow-dag",
+        "service_icon": "http://daxg39y63pxwu.cloudfront.net/dezyre/images/favicon_io/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://www.projectpro.io/recipes/use-sparksubmitoperator-airflow-dag",
+        "fallback": "projectpro: how to use the sparksubmitoperator in airflow dag -",
+        "text": "this recipe helps you use the sparksubmitoperator in airflow dag",
+        "title": "how to use the sparksubmitoperator in airflow dag -",
+        "title_link": "https://www.projectpro.io/recipes/use-sparksubmitoperator-airflow-dag",
+        "service_name": "projectpro",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a29c3b6b-7bec-41b4-b4c9-a8815db647fb",
+    "type": "message",
+    "text": "to read more more papers about text to speech  <https://paperswithcode.com/task/text-to-speech-synthesis>",
+    "user": "U03V5Q9N516",
+    "ts": "1665003185.879559",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XZkU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "to read more more papers about text to speech  "
+              },
+              {
+                "type": "link",
+                "url": "https://paperswithcode.com/task/text-to-speech-synthesis",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g164928c3a69",
+      "image_72": "https://secure.gravatar.com/avatar/164928c3a69af29d42a5e90b928e2f71.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Steven",
+      "real_name": "Steven Haas",
+      "display_name": "Steven Haas",
+      "team": "T03U4J8HMUG",
+      "name": "Steven",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://paperswithcode.com/task/text-to-speech-synthesis",
+        "image_url": "https://user-images.Michelleusercontent.com/1945356/36077599-c0513e4a-0f21-11e8-8525-07347847720c.png",
+        "image_width": 490,
+        "image_height": 250,
+        "image_bytes": 66398,
+        "service_icon": "https://paperswithcode.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://paperswithcode.com/task/text-to-speech-synthesis",
+        "fallback": "papers with code - text-to-speech synthesis",
+        "text": "converting written text in natural language to speech.",
+        "title": "papers with code - text-to-speech synthesis",
+        "title_link": "https://paperswithcode.com/task/text-to-speech-synthesis",
+        "service_name": "paperswithcode.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b897eaf7-b7d2-466e-9b84-a432adb2e540",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/a-beginners-guide-to-apache-spark-ff301cb4cd92|https://towardsdatascience.com/a-beginners-guide-to-apache-spark-ff301cb4cd92>",
+    "user": "U03UG0YHAUT",
+    "ts": "1665014596.691469",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TV64q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/a-beginners-guide-to-apache-spark-ff301cb4cd92",
+                "text": "https://towardsdatascience.com/a-beginners-guide-to-apache-spark-ff301cb4cd92"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/a-beginners-guide-to-apache-spark-ff301cb4cd92",
+        "ts": 1553087262,
+        "image_url": "https://miro.medium.com/max/1200/1*kw0ustu3tshommp6ke-deg.png",
+        "image_width": 481,
+        "image_height": 250,
+        "image_bytes": 100018,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/a-beginners-guide-to-apache-spark-ff301cb4cd92",
+        "fallback": "medium: a beginner\u2019s guide to apache spark",
+        "text": "apache spark vs. hadoop mapreduce\u200a\u2014\u200apros, cons, and when to use which",
+        "title": "a beginner\u2019s guide to apache spark",
+        "title_link": "https://towardsdatascience.com/a-beginners-guide-to-apache-spark-ff301cb4cd92",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "8 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d8795992-2fce-4dc6-b94a-bee3c10543e7",
+    "type": "message",
+    "text": "<https://insightsndata.com/databricks-and-spark-introduction-9e7Joanneaf44fef|https://insightsndata.com/databricks-and-spark-introduction-9e7Joanneaf44fef>",
+    "user": "U03UG0YHAUT",
+    "ts": "1665014643.467509",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+rcf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://insightsndata.com/databricks-and-spark-introduction-9e7Joanneaf44fef",
+                "text": "https://insightsndata.com/databricks-and-spark-introduction-9e7Joanneaf44fef"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://insightsndata.com/databricks-and-spark-introduction-9e7Joanneaf44fef",
+        "ts": 1637479925,
+        "image_url": "https://miro.medium.com/max/1200/0*mqhvxnklsu6tav5o",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 139490,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://insightsndata.com/databricks-and-spark-introduction-9e7Joanneaf44fef",
+        "fallback": "medium: databricks and spark introduction",
+        "text": "this is first part of learn databricks spark in 4 mornings. learn what is databricks and spark",
+        "title": "databricks and spark introduction",
+        "title_link": "https://insightsndata.com/databricks-and-spark-introduction-9e7Joanneaf44fef",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "3 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  }
+]

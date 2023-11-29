@@ -1,0 +1,740 @@
+[
+  {
+    "client_msg_id": "df32714d-0287-4200-a592-1eddc910756e",
+    "type": "message",
+    "text": "*<!here>* good morning our meeting has started, please join using the link.\n<https://meet.Stephanie.com/qab-dyzj-ozp>",
+    "user": "U03UUP56MDF",
+    "ts": "1665644510.406569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QqehW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " good morning our meeting has started, please join using the link.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://meet.Stephanie.com/qab-dyzj-ozp",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g00725318689",
+      "image_72": "https://secure.gravatar.com/avatar/007253186898705d4f28c384188b8a63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Margaret",
+      "real_name": "Margaret Jackson",
+      "display_name": "Margaret Jackson",
+      "team": "T03U4J8HMUG",
+      "name": "Margaret",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://meet.Stephanie.com/qab-dyzj-ozp",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "thumb_height": 192,
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "id": 1,
+        "original_url": "https://meet.Stephanie.com/qab-dyzj-ozp",
+        "fallback": "meet",
+        "text": "real-time meetings by Stephanie. using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "title": "meet",
+        "title_link": "https://meet.Stephanie.com/qab-dyzj-ozp",
+        "service_name": "meet.Stephanie.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9ee97dd1-61fc-406b-90de-2076dea4b466",
+    "type": "message",
+    "text": "database connection string\ndb = \"<postgresql://benkartuser:benkartpass@melachallengedatabase.crlafpfc5g5y.us-east-1.rds.amazonaws.com:5432/benkartdb>\"",
+    "user": "U03UUP56MDF",
+    "ts": "1665646937.133709",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x1JJc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "database connection string\ndb = \""
+              },
+              {
+                "type": "link",
+                "url": "postgresql://benkartuser:benkartpass@melachallengedatabase.crlafpfc5g5y.us-east-1.rds.amazonaws.com:5432/benkartdb",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g00725318689",
+      "image_72": "https://secure.gravatar.com/avatar/007253186898705d4f28c384188b8a63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Margaret",
+      "real_name": "Margaret Jackson",
+      "display_name": "Margaret Jackson",
+      "team": "T03U4J8HMUG",
+      "name": "Margaret",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UUP56MDF",
+      "ts": "1665647026.000000"
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0141fdb6-bc99-450d-af98-c3c4177f8b47",
+    "type": "message",
+    "text": "please add this in `secrets.py` and include it in `.gitignore` file, to prevent public from accessing it",
+    "user": "U03V61VGQG0",
+    "ts": "1665647413.713789",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "imup",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "please add this in "
+              },
+              {
+                "type": "text",
+                "text": "secrets.py",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " and include it in "
+              },
+              {
+                "type": "text",
+                "text": ".gitignore",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " file, to prevent public from accessing it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Diane",
+      "real_name": "Diane Cruz",
+      "display_name": "Diane Cruz",
+      "team": "T03U4J8HMUG",
+      "name": "Diane",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "223a00e3-115b-48af-a155-567e3c356a3c",
+    "type": "message",
+    "text": "<@u03uur571a5> <https://vectorbt.dev/api/indicators/basic/|https://vectorbt.dev/api/indicators/basic/>",
+    "user": "U03UJN29Y4C",
+    "ts": "1665650901.103089",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0bX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UUR571A5"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "https://vectorbt.dev/api/indicators/basic/",
+                "text": "https://vectorbt.dev/api/indicators/basic/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://vectorbt.dev/api/indicators/basic/",
+        "service_icon": "https://vectorbt.dev/assets/logo/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://vectorbt.dev/api/indicators/basic/",
+        "fallback": "basic",
+        "text": "indicators built with `vectorbt.indicators.factory.indicatorfactory`.",
+        "title": "basic",
+        "title_link": "https://vectorbt.dev/api/indicators/basic/",
+        "service_name": "vectorbt.dev",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "bc1934a9-ed0a-472c-a2ac-f73dad6e13d3",
+    "type": "message",
+    "text": "<!here> michelle final submission grade has been returned and i will attach the comment here too.\n\u2022 we need somebody to take the advanced eda,\n\u2022 we need somebody to take the airflow dags.\namong the comments logging, mlflow and testing are already done with remaining minor touches.\n\nso who is willing to take the above bulleted tasks.\n\ncomment from the tutors is as follows\n```1. most members of the group did eda yet non is completely extensive, most are not commented and only Cynthia uses markdown. better to have one group member doing the eda and do it extensively. nonetheless. great audio visualizations and explorations.\n2. there's no setup of cml at all and this was explicitly mentioned in the challenge document.\n3. was there an issue setting up and using airflow?\n\nlooking to see some improvement with week8 project.```\n",
+    "user": "U03UUR571A5",
+    "ts": "1665651631.001409",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TIC0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "here"
+              },
+              {
+                "type": "text",
+                "text": " Michelle final submission grade has been returned and i will attach the comment here too.\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "We need somebody to take the advanced EDA,"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "We need somebody to take the airflow dags."
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "among the comments logging, mlflow and testing are already done with remaining minor touches.\n\nso who is willing to take the above bulleted tasks.\n\ncomment from the tutors is as follows\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "1. most members of the group did eda yet non is completely extensive, most are not commented and only Cynthia uses markdown. better to have one group member doing the eda and do it extensively. nonetheless. great audio visualizations and explorations.\n2. there's no setup of cml at all and this was explicitly mentioned in the challenge document.\n3. was there an issue setting up and using airflow?\n\nlooking to see some improvement with week8 project."
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e6947cd9-5011-4dcc-a6e9-118b443ec710",
+    "type": "message",
+    "text": "i can work on the eda.",
+    "user": "U03U1J51VFZ",
+    "ts": "1665652339.101509",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "t/0o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i can work on the eda."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f10afbc7b806",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968075210083_f10afbc7b8060c472ad0_72.png",
+      "first_name": "Heidi",
+      "real_name": "Heidi Martin",
+      "display_name": "Heidi Martin",
+      "team": "T03U4J8HMUG",
+      "name": "Heidi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "what about the task division guys?",
+    "files": [
+      {
+        "id": "F04656CQDJA",
+        "created": 1665652427,
+        "timestamp": 1665652427,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03V61VGQG0",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 13666,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F04656CQDJA/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F04656CQDJA/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04656CQDJA-c893e2551c/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04656CQDJA-c893e2551c/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04656CQDJA-c893e2551c/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 89,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04656CQDJA-c893e2551c/image_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 118,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04656CQDJA-c893e2551c/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "original_w": 690,
+        "original_h": 170,
+        "thumb_tiny": "AwALADDR/hpPzpQeBRgUAA6f40vbtSZoBOKADPOcGl/Kk96MmgD/2Q==",
+        "permalink": "https://10academybatch6.slack.com/files/U03V61VGQG0/F04656CQDJA/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F04656CQDJA-d6cc5725d3",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03V61VGQG0",
+    "display_as_bot": false,
+    "ts": "1665652450.094769",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qBZRO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what about the task division guys?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "e5ca1f02-fbde-4a20-8e8d-f7a3270751ba",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "334f1a4d-11b1-4e95-b9b6-3f60c7d08d1d",
+    "type": "message",
+    "text": "i think daniel and Cynthia can take airflow dags.",
+    "user": "U03UUP56MDF",
+    "ts": "1665652543.721539",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XTtyR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think daniel and Cynthia can take airflow dags."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g00725318689",
+      "image_72": "https://secure.gravatar.com/avatar/007253186898705d4f28c384188b8a63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Margaret",
+      "real_name": "Margaret Jackson",
+      "display_name": "Margaret Jackson",
+      "team": "T03U4J8HMUG",
+      "name": "Margaret",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "73577db6-0157-4e3f-8009-5e6d90a180a9",
+    "type": "message",
+    "text": "let's also update the whiteboard with details of each of the components we are working on.\n<https://lucid.app/lucidspark/83e79f33-f9b0-405d-9371-a6c7056c3ff1/edit?invitationid=inv_28a636c9-b450-4a84-81e8-cf6dff040980#>",
+    "user": "U03UUP56MDF",
+    "ts": "1665652595.866809",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1vV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "let's also update the whiteboard with details of each of the components we are working on.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://lucid.app/lucidspark/83e79f33-f9b0-405d-9371-a6c7056c3ff1/edit?invitationid=inv_28a636c9-b450-4a84-81e8-cf6dff040980#",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g00725318689",
+      "image_72": "https://secure.gravatar.com/avatar/007253186898705d4f28c384188b8a63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Margaret",
+      "real_name": "Margaret Jackson",
+      "display_name": "Margaret Jackson",
+      "team": "T03U4J8HMUG",
+      "name": "Margaret",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "365b49a0-7544-4638-84ca-a9aeca14576e",
+    "type": "message",
+    "text": "<@u03uup56mdf> yes since mlflow has already been implemented,",
+    "user": "U03UUR571A5",
+    "ts": "1665652777.433299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QKHoW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UUP56MDF"
+              },
+              {
+                "type": "text",
+                "text": " yes since mlflow has already been implemented,"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5ed96e8a-e682-4246-b208-d9284439245b",
+    "type": "message",
+    "text": "are we having the meeting with the other group right now?",
+    "user": "U03V61VGQG0",
+    "ts": "1665656992.473299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K=C",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "are we having the meeting with the other group right now?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Diane",
+      "real_name": "Diane Cruz",
+      "display_name": "Diane Cruz",
+      "team": "T03U4J8HMUG",
+      "name": "Diane",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03V61VGQG0",
+      "ts": "1665657004.000000"
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a2b2bbce-be64-4489-b40b-4a0c9b0f4e95",
+    "type": "message",
+    "text": "yes i'll send the link.",
+    "user": "U03UUP56MDF",
+    "ts": "1665657072.111859",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "23j",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes i'll send the link."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g00725318689",
+      "image_72": "https://secure.gravatar.com/avatar/007253186898705d4f28c384188b8a63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Margaret",
+      "real_name": "Margaret Jackson",
+      "display_name": "Margaret Jackson",
+      "team": "T03U4J8HMUG",
+      "name": "Margaret",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "f5015501-8ac4-447f-8169-a733ad94f750",
+    "type": "message",
+    "text": "<!here> group 5 meeting link.\n<https://meet.Stephanie.com/ioq-zcaj-qgw>",
+    "user": "U03UUP56MDF",
+    "ts": "1665657195.823329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z9l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "here"
+              },
+              {
+                "type": "text",
+                "text": " group 5 meeting link.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://meet.Stephanie.com/ioq-zcaj-qgw",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g00725318689",
+      "image_72": "https://secure.gravatar.com/avatar/007253186898705d4f28c384188b8a63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Margaret",
+      "real_name": "Margaret Jackson",
+      "display_name": "Margaret Jackson",
+      "team": "T03U4J8HMUG",
+      "name": "Margaret",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UUP56MDF",
+      "ts": "1665657240.000000"
+    },
+    "attachments": [
+      {
+        "from_url": "https://meet.Stephanie.com/ioq-zcaj-qgw",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "thumb_height": 192,
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "id": 1,
+        "original_url": "https://meet.Stephanie.com/ioq-zcaj-qgw",
+        "fallback": "meet",
+        "text": "real-time meetings by Stephanie. using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "title": "meet",
+        "title_link": "https://meet.Stephanie.com/ioq-zcaj-qgw",
+        "service_name": "meet.Stephanie.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1665658084.295839",
+    "user": "U03UUN8M4RX",
+    "text": "<@u03uun8m4rx> has joined the channel",
+    "inviter": "U03UUR571A5",
+    "blocks": null,
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1665658084.356829",
+    "user": "U03UP7V9Q57",
+    "text": "<@u03up7v9q57> has joined the channel",
+    "inviter": "U03UUR571A5",
+    "blocks": null,
+    "attachments": null
+  }
+]

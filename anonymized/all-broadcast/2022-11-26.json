@@ -1,0 +1,73 @@
+[
+  {
+    "client_msg_id": "da8dbb1a-e6a1-4d54-95c1-5760be3baa72",
+    "type": "message",
+    "text": "*job search workspace*\n<!channel> kindly join the Joanneacademy job search workspace via this <https://join.slack.com/t/Joanneacademyjobs-wba2866/shared_invite/zt-1kt4j4i6o-czj3zvmqm79faay6io_fkq|link>. those who showed interest to join the sprint 2 of the intensive job search will be added to the sprint channel. kindly look forward to further info from <@u03tt5keycf> tomorrow.",
+    "user": "U03TEPYRM2P",
+    "ts": "1669495108.850519",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "C02d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "job search workspace",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " kindly join the Joanneacademy job search workspace via this "
+              },
+              {
+                "type": "link",
+                "url": "https://join.slack.com/t/Joanneacademyjobs-wba2866/shared_invite/zt-1kt4j4i6o-czj3zvmqm79faay6io_fkq",
+                "text": "link"
+              },
+              {
+                "type": "text",
+                "text": ". those who showed interest to join the sprint 2 of the intensive job search will be added to the sprint channel. kindly look forward to further info from "
+              },
+              {
+                "type": "user",
+                "user_id": "U03TT5KEYCF"
+              },
+              {
+                "type": "text",
+                "text": " tomorrow."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Bridget",
+      "real_name": "Bridget Glover",
+      "display_name": "Bridget Glover",
+      "team": "T03U4J8HMUG",
+      "name": "Bridget",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  }
+]

@@ -12,6 +12,9 @@ conf/**/*credentials*
 # ignore local python enviroment 
 networkAnalysis/.
 
+# ignor the data that resides locally
+anonymized/.
+
 # ignore everything in the following folders
 data/**
 logs/**

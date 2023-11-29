@@ -1,0 +1,541 @@
+[
+  {
+    "client_msg_id": "b9813c89-57d7-433b-bff6-105d15f9ed70",
+    "type": "message",
+    "text": "hi <@u03tepyrm2p>, i know today's tutorial session just ended but could we have it uploaded really soon?",
+    "user": "U03UD5B7C3X",
+    "ts": "1665671064.872769",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wjgPz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hi "
+              },
+              {
+                "type": "user",
+                "user_id": "U03TEPYRM2P"
+              },
+              {
+                "type": "text",
+                "text": ", i know today's tutorial session just ended but could we have it uploaded really soon?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665671064.872769",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1665671944.274899",
+    "reply_users": [
+      "U03TEPYRM2P"
+    ],
+    "replies": [
+      {
+        "user": "U03TEPYRM2P",
+        "ts": "1665671944.274899"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1665671944.274899",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UD68RQH3",
+          "U03UHB8CXDY",
+          "U03UG1Z21JP"
+        ],
+        "count": 3
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "55123b9c-74ac-4fe7-8462-4f9fbd2317ba",
+    "type": "message",
+    "text": "<!here> can someone send me the docker-compose file for kafka connector",
+    "user": "U03UVHCV6KB",
+    "ts": "1665671213.446189",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y+0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "here"
+              },
+              {
+                "type": "text",
+                "text": " can someone send me the docker-compose file for kafka connector"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665671213.446189",
+    "reply_count": 2,
+    "reply_users_count": 1,
+    "latest_reply": "1665684299.100249",
+    "reply_users": [
+      "U03UKL27B0R"
+    ],
+    "replies": [
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1665684295.191149"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1665684299.100249"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a3293993-75c4-4e08-a493-bd18fc4cd162",
+    "type": "message",
+    "text": "sure - it will be uploaded as soon as possible",
+    "user": "U03TEPYRM2P",
+    "ts": "1665671944.274899",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UuFq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sure - it will be uploaded as soon as possible"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Bridget",
+      "real_name": "Bridget Glover",
+      "display_name": "Bridget Glover",
+      "team": "T03U4J8HMUG",
+      "name": "Bridget",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665671064.872769",
+    "parent_user_id": "U03UD5B7C3X",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "176310b6-7149-4581-b55d-70eb7cca12a9",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=uznp21fu8tq>",
+    "user": "U03UG1Z21JP",
+    "ts": "1665681516.144379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sso",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=uznp21fu8tq",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=uznp21fu8tq",
+        "thumb_url": "https://i.ytimg.com/vi/uznp21fu8tq/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/uznp21fu8tq?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"flask tutorial #7 - using sqlalchemy database\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=uznp21fu8tq",
+        "fallback": "youtube video: flask tutorial #7 - using sqlalchemy database",
+        "title": "flask tutorial #7 - using sqlalchemy database",
+        "title_link": "https://www.youtube.com/watch?v=uznp21fu8tq",
+        "author_name": "tech with tim",
+        "author_link": "https://www.youtube.com/c/techwithtim",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9f1bbbaf-bc92-4fc8-8906-679a65be489e",
+    "type": "message",
+    "text": "<https://Michelle.com/confluentinc/cp-docker-images>",
+    "user": "U03UKL27B0R",
+    "ts": "1665684295.191149",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yZJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://Michelle.com/confluentinc/cp-docker-images",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "id": 1,
+        "color": "24292f",
+        "bot_id": "b03uyh1bwqz",
+        "app_unfurl_url": "https://Michelle.com/confluentinc/cp-docker-images",
+        "is_app_unfurl": true,
+        "app_id": "a01bp7r4kny",
+        "fallback": "confluentinc/cp-docker-images",
+        "text": "[deprecated] docker images for confluent platform.",
+        "title": "confluentinc/cp-docker-images",
+        "fields": [
+          {
+            "value": "1098",
+            "title": "Stars",
+            "short": true
+          },
+          {
+            "value": "Python",
+            "title": "Language",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1665671213.446189",
+    "parent_user_id": "U03UVHCV6KB",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "50f265aa-63e8-4afc-9810-f7d4e6b98068",
+    "type": "message",
+    "text": "this is the official docker image of conlfuent. you can find the distributed &amp; standalone mode for running the entire kafka setup",
+    "user": "U03UKL27B0R",
+    "ts": "1665684299.100249",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "F3Ag",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this is the official docker image of conlfuent. you can find the distributed & standalone mode for running the entire kafka setup"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665671213.446189",
+    "parent_user_id": "U03UVHCV6KB",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c94bf307-4f76-41fb-a603-9aa1d6833c83",
+    "type": "message",
+    "text": "can any one help me how to define dates in postgresql shcema ?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1665688834.338989",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jck/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "can any one help me how to define dates in postgresql shcema ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665688834.338989",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1665730950.685009",
+    "reply_users": [
+      "U03UVHCV6KB",
+      "U03V6HMRPGQ"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1665689576.535569"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1665689621.531619"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1665730950.685009"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b571b5dd-c0f6-4ff3-a94e-62e17af794dd",
+    "type": "message",
+    "text": "```drop table if exists employees;\n\ncreate table employees (\n\temployee_id serial primary key,\n\tfirst_name varchar (255),\n\tlast_name varchar (355),\n\tbirth_date date not null,\n\thire_date date not null\n);\n\ninsert into employees (first_name, last_name, birth_date, hire_date)\nvalues ('shannon','freeman','1980-01-01','2005-01-01'),\n\t   ('sheila','wells','1978-02-05','2003-01-01'),\n\t   ('ethel','webb','1975-01-01','2001-01-01');```",
+    "user": "U03UVHCV6KB",
+    "ts": "1665689576.535569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zhfC2",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "drop table if exists employees;\n\ncreate table employees (\n\temployee_id serial primary key,\n\tfirst_name varchar (255),\n\tlast_name varchar (355),\n\tbirth_date date not null,\n\thire_date date not null\n);\n\ninsert into employees (first_name, last_name, birth_date, hire_date)\nvalues ('shannon','freeman','1980-01-01','2005-01-01'),\n\t   ('sheila','wells','1978-02-05','2003-01-01'),\n\t   ('ethel','webb','1975-01-01','2001-01-01');"
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UVHCV6KB",
+      "ts": "1665689647.000000"
+    },
+    "thread_ts": "1665688834.338989",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a5732d97-59a7-46f1-88d7-a6815245fd4e",
+    "type": "message",
+    "text": "this can be a good start, for more detailed explanation refer this link <https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-date/>",
+    "user": "U03UVHCV6KB",
+    "ts": "1665689621.531619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "I1S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this can be a good start, for more detailed explanation refer this link "
+              },
+              {
+                "type": "link",
+                "url": "https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-date/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-date/",
+        "service_icon": "https://www.postgresqltutorial.com/wp-content/uploads/2017/03/favicon.png",
+        "id": 1,
+        "original_url": "https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-date/",
+        "fallback": "the ultimate guide to postgresql date by examples",
+        "text": "this tutorial discusses postgresql date data type and shows you how to use some handy date functions to handle dates values.",
+        "title": "the ultimate guide to postgresql date by examples",
+        "title_link": "https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-date/",
+        "service_name": "postgresqltutorial.com",
+        "fields": [
+          {
+            "value": "5 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1665688834.338989",
+    "parent_user_id": "U03V6HMRPGQ"
+  }
+]

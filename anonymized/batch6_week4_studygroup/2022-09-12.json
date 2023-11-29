@@ -1,0 +1,187 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663006582.261019",
+    "user": "U03UG0YHAUT",
+    "text": "<@u03ug0yhaut> has joined the channel",
+    "blocks": null,
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663006649.780449",
+    "user": "U03UG0SFHGT",
+    "text": "<@u03ug0sfhgt> has joined the channel",
+    "inviter": "U03UG0YHAUT",
+    "blocks": null,
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663006649.923009",
+    "user": "U03UUN8M4RX",
+    "text": "<@u03uun8m4rx> has joined the channel",
+    "inviter": "U03UG0YHAUT",
+    "blocks": null,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c71f9d6e-6c71-4334-8dea-2a7a8f79d892",
+    "type": "message",
+    "text": "hey this is our digital library....welcome",
+    "user": "U03UG0YHAUT",
+    "ts": "1663006679.340949",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RUQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hey this is our digital library....welcome"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "208f4296-0605-444f-9a73-70be79c1450f",
+    "type": "message",
+    "text": "fill free to invite others",
+    "user": "U03UG0YHAUT",
+    "ts": "1663006689.597249",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9MBbt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "fill free to invite others"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "7a90fa8d-29a9-4eb7-9010-c58d8a1accb7",
+    "type": "message",
+    "text": "<https://Michelle.com/jalammar|https://Michelle.com/jalammar>",
+    "user": "U03UG0YHAUT",
+    "ts": "1663014211.110829",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oDVn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://Michelle.com/jalammar",
+                "text": "https://Michelle.com/jalammar"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "id": 1,
+        "thumb_height": 460,
+        "thumb_width": 460,
+        "thumb_url": "https://avatars.Michelleusercontent.com/u/joanne07956?v&#x3d;4",
+        "color": "24292f",
+        "bot_id": "b03uyh1bwqz",
+        "app_unfurl_url": "https://Michelle.com/jalammar",
+        "is_app_unfurl": true,
+        "app_id": "a01bp7r4kny",
+        "fallback": "jay alammar",
+        "text": "ml research engineer. focused on nlp language models and visualization. @cohere-ai. ex ml content dev @ udacity.",
+        "title": "jay alammar",
+        "fields": [
+          {
+            "value": "@cohere-ai",
+            "title": "Company",
+            "short": true
+          },
+          {
+            "value": "<http://jalammar.github.io|jalammar.github.io>",
+            "title": "URL",
+            "short": true
+          },
+          {
+            "value": "20",
+            "title": "Repositories",
+            "short": true
+          },
+          {
+            "value": "2352",
+            "title": "Followers",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  }
+]

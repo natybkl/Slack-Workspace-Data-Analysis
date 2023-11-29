@@ -1,0 +1,51 @@
+[
+  {
+    "client_msg_id": "14c23a59-4257-471c-b8ed-54d5e49081ab",
+    "type": "message",
+    "text": "<https://www.instagram.com/reel/cjkbh59py7j/?igshid=mdjmnzvkmjy=|https://www.instagram.com/reel/cjkbh59py7j/?igshid=mdjmnzvkmjy=>",
+    "user": "U03UG0YHAUT",
+    "ts": "1667035308.776329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "flNTq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.instagram.com/reel/cjkbh59py7j/?igshid=mdjmnzvkmjy=",
+                "text": "https://www.instagram.com/reel/cjkbh59py7j/?igshid=mdjmnzvkmjy="
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "users": [
+          "U03UG32J3PC"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  }
+]

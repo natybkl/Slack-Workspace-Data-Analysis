@@ -1,0 +1,206 @@
+[
+  {
+    "client_msg_id": "8e10b21e-80e8-4dc8-ba3f-ce0ebf34dfc1",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f>",
+    "user": "U03UG1Z21JP",
+    "ts": "1668148124.724559",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "k3us",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f",
+        "ts": 1594262689,
+        "image_url": "https://miro.medium.com/max/1200/1*4mrirfyocqhokoesx0cc4q.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 222582,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f",
+        "fallback": "medium: introduction to causality in machine learning",
+        "text": "why we need causality in machine learning (from a business perspective)",
+        "title": "introduction to causality in machine learning",
+        "title_link": "https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "8 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1668148124.724559",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1668148779.895049",
+    "reply_users": [
+      "U03UHB8CXDY"
+    ],
+    "replies": [
+      {
+        "user": "U03UHB8CXDY",
+        "ts": "1668148779.895049"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "3C8073D8-A065-4BF9-BA5C-7ED37E70D40C",
+    "type": "message",
+    "text": ":raised_hands: ",
+    "user": "U03UHB8CXDY",
+    "ts": "1668148779.895049",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "32=kw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "raised_hands",
+                "unicode": "1f64c"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1668148124.724559",
+    "parent_user_id": "U03UG1Z21JP",
+    "reactions": [
+      {
+        "name": "grinning",
+        "users": [
+          "U03UG1Z21JP"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "9fb725ab-ff19-46a2-bdb8-a0129c0c5bf7",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/implementing-causal-inference-a-key-step-towards-agi-de2cde8ea599#:~:text=dowhy%20breaks%20down%20causal%20inference,identify%2c%20estimate%2c%20and%20refute>.",
+    "user": "U03UG1Z21JP",
+    "ts": "1668151079.833559",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BudV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/implementing-causal-inference-a-key-step-towards-agi-de2cde8ea599#:~:text=dowhy%20breaks%20down%20causal%20inference,identify%2c%20estimate%2c%20and%20refute",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/implementing-causal-inference-a-key-step-towards-agi-de2cde8ea599#:~:text=dowhy%20breaks%20down%20causal%20inference,identify%2c%20estimate%2c%20and%20refute",
+        "ts": 1585584162,
+        "image_url": "https://miro.medium.com/max/931/0*imkx-vuan5or6irz.jpg",
+        "image_width": 238,
+        "image_height": 250,
+        "image_bytes": 105823,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/implementing-causal-inference-a-key-step-towards-agi-de2cde8ea599#:~:text=dowhy%20breaks%20down%20causal%20inference,identify%2c%20estimate%2c%20and%20refute",
+        "fallback": "medium: implementing causal inference: trying to understand the question of why",
+        "text": "a tutorial on causal inference with dowhy",
+        "title": "implementing causal inference: trying to understand the question of why",
+        "title_link": "https://towardsdatascience.com/implementing-causal-inference-a-key-step-towards-agi-de2cde8ea599#:~:text=dowhy%20breaks%20down%20causal%20inference,identify%2c%20estimate%2c%20and%20refute",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "11 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  }
+]

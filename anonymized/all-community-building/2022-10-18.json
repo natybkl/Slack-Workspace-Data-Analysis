@@ -1,0 +1,170 @@
+[
+  {
+    "client_msg_id": "C6766063-7926-47E1-929A-61BE5B47AD1E",
+    "type": "message",
+    "text": "hello.. i don't get it",
+    "user": "U03U1FNPEUX",
+    "ts": "1666121479.242159",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "r=C+B",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello.. i don't get it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666072103.227859",
+    "parent_user_id": "U03T89ACUUW",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "76a81835-988b-492c-a896-fbe1de06d464",
+    "type": "message",
+    "text": "<@u03u1fnpeux> can you check your email and see if you have received an email from me with a subject \"important: non-disclosure agreement for week 9 challenge\"?",
+    "user": "U03T89ACUUW",
+    "ts": "1666162112.714759",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dFOc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03U1FNPEUX"
+              },
+              {
+                "type": "text",
+                "text": " can you check your email and see if you have received an email from me with a subject \"important: non-disclosure agreement for week 9 challenge\"?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5d532c004550",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3979962953108_5d532c00455016e7842d_72.jpg",
+      "first_name": "Rachel",
+      "real_name": "Rachel Mann",
+      "display_name": "Rachel Mann",
+      "team": "T03U4J8HMUG",
+      "name": "Rachel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666072103.227859",
+    "parent_user_id": "U03T89ACUUW",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "dfddf4c8-a33d-4004-b169-5cd2e95548fa",
+    "type": "message",
+    "text": "let me know if anything is still unclear.",
+    "user": "U03T89ACUUW",
+    "ts": "1666162126.832619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xn9Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "let me know if anything is still unclear."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5d532c004550",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3979962953108_5d532c00455016e7842d_72.jpg",
+      "first_name": "Rachel",
+      "real_name": "Rachel Mann",
+      "display_name": "Rachel Mann",
+      "team": "T03U4J8HMUG",
+      "name": "Rachel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666072103.227859",
+    "parent_user_id": "U03T89ACUUW",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1B012AEE-F2FC-4EA5-B73F-9E0D79F97CD9",
+    "type": "message",
+    "text": "okay thanks",
+    "user": "U03U1FNPEUX",
+    "ts": "1666162207.087989",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FfziW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666072103.227859",
+    "parent_user_id": "U03T89ACUUW",
+    "attachments": null
+  }
+]

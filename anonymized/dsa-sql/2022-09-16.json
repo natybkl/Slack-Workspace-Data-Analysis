@@ -1,0 +1,902 @@
+[
+  {
+    "client_msg_id": "10259a7d-d157-4d65-a528-6860b55a6dac",
+    "type": "message",
+    "text": "hey <!channel>, when you're done with the challenges please join here <https://meet.Stephanie.com/ysb-kjdn-hpp> to share various approaches everyone has used to solve the challenge!",
+    "user": "U03V8LHPDME",
+    "ts": "1663322103.489189",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Wi2Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hey "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": ", when you're done with the challenges please join here "
+              },
+              {
+                "type": "link",
+                "url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": " to share various approaches everyone has used to solve the challenge!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Albert",
+      "real_name": "Albert Rodriguez",
+      "display_name": "Albert Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Albert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "thumb_height": 192,
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "id": 1,
+        "original_url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "fallback": "meet",
+        "text": "real-time meetings by Stephanie. using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "title": "meet",
+        "title_link": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "service_name": "meet.Stephanie.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b70c4627-839a-4670-90b0-be7d8c3dfd4c",
+    "type": "message",
+    "text": "<https://docs.microsoft.com/en-us/sql/ssms/visual-db-tools/use-having-and-where-clauses-in-the-same-query-visual-database-tools?view=sql-server-ver16>",
+    "user": "U03UUR571A5",
+    "ts": "1663325738.752849",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pP=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.microsoft.com/en-us/sql/ssms/visual-db-tools/use-having-and-where-clauses-in-the-same-query-visual-database-tools?view=sql-server-ver16",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://docs.microsoft.com/en-us/sql/ssms/visual-db-tools/use-having-and-where-clauses-in-the-same-query-visual-database-tools?view=sql-server-ver16",
+        "thumb_url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+        "thumb_width": 400,
+        "thumb_height": 400,
+        "service_icon": "https://docs.microsoft.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://docs.microsoft.com/en-us/sql/ssms/visual-db-tools/use-having-and-where-clauses-in-the-same-query-visual-database-tools?view=sql-server-ver16",
+        "fallback": "use having and where clauses in the same query - visual database tools",
+        "text": "use having and where clauses in the same query (visual database tools)",
+        "title": "use having and where clauses in the same query - visual database tools",
+        "title_link": "https://docs.microsoft.com/en-us/sql/ssms/visual-db-tools/use-having-and-where-clauses-in-the-same-query-visual-database-tools?view=sql-server-ver16",
+        "service_name": "docs.microsoft.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3698b4e4-715d-4f2f-bbff-2dfbcc6451f9",
+    "type": "message",
+    "text": "<@u03ukl27b0r> <@u03uh397319>, why do we want to use having instead of where, i just had a good look to the question and it was just a filtering problem right?  we shall use having only in grouping i think. there is nothing to group here so why is it necessary to use having?",
+    "user": "U03UJGP0C68",
+    "ts": "1663326015.493589",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NyE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UH397319"
+              },
+              {
+                "type": "text",
+                "text": ", why do we want to use having instead of where, i just had a good look to the question and it was just a filtering problem right?  we shall use having only in grouping i think. there is nothing to group here so why is it necessary to use having?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663326015.493589",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1663327099.703599",
+    "reply_users": [
+      "U03UG1Z21JP",
+      "U03UKL27B0R",
+      "U03UH397319"
+    ],
+    "replies": [
+      {
+        "user": "U03UG1Z21JP",
+        "ts": "1663326213.526939"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1663326781.540669"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1663327099.703599"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "heavy_check_mark",
+        "users": [
+          "U03UJKJGRAQ",
+          "U03UH397319",
+          "U03UFV7TUTV"
+        ],
+        "count": 3
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "6bc84137-f440-4675-803f-7466915295ad",
+    "type": "message",
+    "text": "if we have a way to sum the result set we can do having.",
+    "user": "U03UUR571A5",
+    "ts": "1663326151.504029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Kte5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "if we have a way to sum the result set we can do having."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663326151.504029",
+    "reply_count": 9,
+    "reply_users_count": 2,
+    "latest_reply": "1663329153.364169",
+    "reply_users": [
+      "U03UKL27B0R",
+      "U03UUR571A5"
+    ],
+    "replies": [
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1663326888.651029"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663327355.340209"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1663327664.675559"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1663327676.491069"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1663327683.409349"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663327855.255379"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663327934.100909"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1663328546.384739"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1663329153.364169"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "8ecb2744-e4d3-4bc5-84c9-205142785473",
+    "type": "message",
+    "text": "i second you. we use having clause if you need grouping and they dint specify if we will group anything. or i didnt understand it well.",
+    "user": "U03UG1Z21JP",
+    "ts": "1663326213.526939",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E8eB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i second you. we use having clause if you need grouping and they dint specify if we will group anything. or i didnt understand it well."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663326015.493589",
+    "parent_user_id": "U03UJGP0C68",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a2f06d46-7c57-4530-8f3d-b41ac83493db",
+    "type": "message",
+    "text": "yes <@u03ujgp0c68>, the population is already given and we don't even need an aggregation function.",
+    "user": "U03UKL27B0R",
+    "ts": "1663326781.540669",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iMfQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UJGP0C68"
+              },
+              {
+                "type": "text",
+                "text": ", the population is already given and we don't even need an aggregation function."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663326015.493589",
+    "parent_user_id": "U03UJGP0C68",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UJGP0C68",
+          "U03UH397319"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2d37fc41-8ee3-456e-bb69-7888fd0a0fd5",
+    "type": "message",
+    "text": "that would definitely be something to look at <@u03uur571a5>. we can try to use a sub query to sum up the results.",
+    "user": "U03UKL27B0R",
+    "ts": "1663326888.651029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sMu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that would definitely be something to look at "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UUR571A5"
+              },
+              {
+                "type": "text",
+                "text": ". we can try to use a sub query to sum up the results."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663326151.504029",
+    "parent_user_id": "U03UUR571A5",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2c35b1fb-09b2-45da-9e1b-d51e7635a8a3",
+    "type": "message",
+    "text": "sure.. then, we all agree that we can only use a where clause",
+    "user": "U03UH397319",
+    "ts": "1663327099.703599",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Bcm1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sure.. then, we all agree that we can only use a where clause"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663326015.493589",
+    "parent_user_id": "U03UJGP0C68",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "bd617df1-f9fc-492a-a740-6d249a37c130",
+    "type": "message",
+    "text": "<@u03ukl27b0r>\ni have managed to use subquery and count all the rows returned from group by but the out put of  'having' query was wrong it was supposed to be 6 but it is 5\n\n`select count(*) from (select count(*) from city` \n`group by district`\n`having sum(population)&gt;Joanne0000 ) as a;`",
+    "user": "U03UUR571A5",
+    "ts": "1663327355.340209",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vu+I",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R"
+              },
+              {
+                "type": "text",
+                "text": "\ni have managed to use subquery and count all the rows returned from group by but the out put of  'having' query was wrong it was supposed to be 6 but it is 5\n\n"
+              },
+              {
+                "type": "text",
+                "text": "select count(*) from (select count(*) from city ",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "group by district",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "having sum(population)>Joanne0000 ) as a;",
+                "style": {
+                  "code": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UUR571A5",
+      "ts": "1663327391.000000"
+    },
+    "thread_ts": "1663326151.504029",
+    "parent_user_id": "U03UUR571A5",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "99d56371-5e10-422e-a784-091c23d88df8",
+    "type": "message",
+    "text": "this should work.",
+    "user": "U03UKL27B0R",
+    "ts": "1663327664.675559",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R1WA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this should work."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663326151.504029",
+    "parent_user_id": "U03UUR571A5",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ff573582-a7ed-445c-8947-2eb64881225a",
+    "type": "message",
+    "text": "not sure why you are using district tho",
+    "user": "U03UKL27B0R",
+    "ts": "1663327676.491069",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f6zH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "not sure why you are using district tho"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663326151.504029",
+    "parent_user_id": "U03UUR571A5",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "262f2fde-5d84-46af-866d-2a151a8ccea9",
+    "type": "message",
+    "text": "can you try name",
+    "user": "U03UKL27B0R",
+    "ts": "1663327683.409349",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "i6Ay",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "can you try name"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663326151.504029",
+    "parent_user_id": "U03UUR571A5",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c65fc912-ccf1-4547-9a6a-aed7b9cc047b",
+    "type": "message",
+    "text": "`select count(*) from (select count(*) from city` \n`group by name`\n`having sum(population)&gt;Joanne0000 ) as a;`",
+    "user": "U03UUR571A5",
+    "ts": "1663327855.255379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "41ix",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "select count(*) from (select count(*) from city ",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "group by name",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "having sum(population)>Joanne0000 ) as a;",
+                "style": {
+                  "code": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663326151.504029",
+    "parent_user_id": "U03UUR571A5",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "4ecb5a89-e27a-4eb9-b4e7-75c380d995a6",
+    "type": "message",
+    "text": "yes you were right name works",
+    "user": "U03UUR571A5",
+    "ts": "1663327934.100909",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x3k8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes you were right name works"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663326151.504029",
+    "parent_user_id": "U03UUR571A5",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5e5cf67d-b418-4327-a1b7-537eb001b632",
+    "type": "message",
+    "text": "'having' clause with district doesn't work because we are checking sum of populations of the districts not cities, which means if we have 2 cities having population greater than Joanne0000 with the same district, if we group the sum(population) will treat them as 1, not 2.",
+    "user": "U03UUR571A5",
+    "ts": "1663328546.384739",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pu/CN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "'having' clause with district doesn't work because we are checking sum of populations of the districts not cities, which means if we have 2 cities having population greater than Joanne0000 with the same district, if we group the sum(population) will treat them as 1, not 2."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663326151.504029",
+    "parent_user_id": "U03UUR571A5",
+    "reactions": [
+      {
+        "name": "heavy_check_mark",
+        "users": [
+          "U03UKL27B0R"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d48aaee2-14f8-4263-9107-ded29881ec21",
+    "type": "message",
+    "text": "nice, this is implementing the solution in different ways and helps us to understand how to use the different available clause (having clause here). we need to look at the efficiency and simplicity of  the query we are going to use tho.",
+    "user": "U03UKL27B0R",
+    "ts": "1663329153.364169",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zQt=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "nice, this is implementing the solution in different ways and helps us to understand how to use the different available clause (having clause here). we need to look at the efficiency and simplicity of  the query we are going to use tho."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663326151.504029",
+    "parent_user_id": "U03UUR571A5",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UUR571A5"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  }
+]

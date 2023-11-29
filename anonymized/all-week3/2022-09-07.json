@@ -1,0 +1,2614 @@
+[
+  {
+    "client_msg_id": "da6010d4-4b9c-4cb2-a8b9-f876f644a680",
+    "type": "message",
+    "text": "join us here for the standup <https://meet.Stephanie.com/ysb-kjdn-hpp>",
+    "user": "U03TEPYRM2P",
+    "ts": "1662537701.234849",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CfTs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "join us here for the standup "
+              },
+              {
+                "type": "link",
+                "url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Bridget",
+      "real_name": "Bridget Glover",
+      "display_name": "Bridget Glover",
+      "team": "T03U4J8HMUG",
+      "name": "Bridget",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "thumb_height": 192,
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "id": 1,
+        "original_url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "fallback": "meet",
+        "text": "real-time meetings by Stephanie. using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "title": "meet",
+        "title_link": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "service_name": "meet.Stephanie.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "274542d2-7021-43b1-ad03-5c2b0416cdad",
+    "type": "message",
+    "text": "how do i create day of year column from the date column?",
+    "user": "U03UJN29Y4C",
+    "ts": "1662539462.808129",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cHvP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how do i create day of year column from the date column?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662539462.808129",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1662541472.417099",
+    "reply_users": [
+      "U03UG1RTXAP",
+      "U03UVHCV6KB",
+      "U03UJN29Y4C"
+    ],
+    "replies": [
+      {
+        "user": "U03UG1RTXAP",
+        "ts": "1662539704.379329"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1662539759.681669"
+      },
+      {
+        "user": "U03UJN29Y4C",
+        "ts": "1662541370.981709"
+      },
+      {
+        "user": "U03UJN29Y4C",
+        "ts": "1662541472.417099"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "45b77095-cd27-45c2-a585-1211bf7a4f5b",
+    "type": "message",
+    "text": "use can use\npandas.datetimeindex\n\n\ndata['dayofyear'] = pd.datetimeindex(data['date']).day_of_year",
+    "user": "U03UG1RTXAP",
+    "ts": "1662539704.379329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e8LFr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "use can use\npandas.datetimeindex\n\n\ndata['dayofyear'] = pd.datetimeindex(data['date']).day_of_year"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "4a47bcde06a6",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3989921480247_4a47bcde06a62bb81775_72.jpg",
+      "first_name": "Teresa",
+      "real_name": "Teresa Kim",
+      "display_name": "Teresa Kim",
+      "team": "T03U4J8HMUG",
+      "name": "Teresa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UG1RTXAP",
+      "ts": "1662539776.000000"
+    },
+    "thread_ts": "1662539462.808129",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "943348d5-488c-4e55-8c35-908a9f113918",
+    "type": "message",
+    "text": "```train_data['dayofmonth'] = train_data['date'].apply(lambda x: x.day)```\n",
+    "user": "U03UVHCV6KB",
+    "ts": "1662539759.681669",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NvYq",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "train_data['dayofmonth'] = train_data['date'].apply(lambda x: x.day)"
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662539462.808129",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "fe6feb43-7da1-4d14-9596-0d85b071cc49",
+    "type": "message",
+    "text": "you can replace the \"0\" string with 0.\n```train['stateholiday'] = train['stateholiday'].replace({'0': 0}) ```",
+    "user": "U03UJN29Y4C",
+    "ts": "1662541147.361729",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YQ9aW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you can replace the \"0\" string with 0.\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "train['stateholiday'] = train['stateholiday'].replace({'0': 0}) "
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662456299.311839",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "85ca619f-e84e-44ad-a482-bc00ef707f35",
+    "type": "message",
+    "text": "no, colab",
+    "user": "U03U9FWPNCE",
+    "ts": "1662541323.243529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OxYHF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no, colab"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "2d070dcf37d6",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991845605680_2d070dcf37d67d809af7_72.jpg",
+      "first_name": "Maria",
+      "real_name": "Maria Martin",
+      "display_name": "Maria Martin",
+      "team": "T03U4J8HMUG",
+      "name": "Maria",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662448456.511829",
+    "parent_user_id": "U03U9FWPNCE",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2ca9c703-3d9c-46f8-99b5-27670bc0f750",
+    "type": "message",
+    "text": "thank you guys, this worked\n```train['dayofyear'] = train.index.day_of_year```",
+    "user": "U03UJN29Y4C",
+    "ts": "1662541370.981709",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QTK4q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you guys, this worked\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "train['dayofyear'] = train.index.day_of_year"
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662539462.808129",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c1979c96-854e-445d-89d1-31e3838a9d8f",
+    "type": "message",
+    "text": "parse_date was true and date was set as index while reading the csv into dataframe",
+    "user": "U03UJN29Y4C",
+    "ts": "1662541472.417099",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E54V",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "parse_date was true and date was set as index while reading the csv into dataframe"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662539462.808129",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a32c238b-4d7b-4c33-b0f8-111ee7b218d5",
+    "type": "message",
+    "text": "how to used the version of my data in gJohnson in my script?\ni use dvc.api.get_url() but i can't see the mistake",
+    "user": "U03UH397319",
+    "ts": "1662542789.347139",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2ma",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how to used the version of my data in gJohnson in my script?\ni use dvc.api.get_url() but i can't see the mistake"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "reply_count": 21,
+    "reply_users_count": 5,
+    "latest_reply": "1662552747.793039",
+    "reply_users": [
+      "U03UJGRN5E0",
+      "U03UH397319",
+      "U03UG1RTXAP",
+      "U03UAKATQ22",
+      "U03UG32J3PC"
+    ],
+    "replies": [
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1662543012.027009"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1662543032.440499"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662543058.647929"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662543089.820409"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1662543089.893369"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1662543109.399359"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1662543122.261229"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662543127.766809"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1662543155.052969"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662543356.317249"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662543390.814889"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662543396.845529"
+      },
+      {
+        "user": "U03UG1RTXAP",
+        "ts": "1662543507.984669"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1662543819.164499"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1662543987.701449"
+      },
+      {
+        "user": "U03UAKATQ22",
+        "ts": "1662546907.386299"
+      },
+      {
+        "user": "U03UG1RTXAP",
+        "ts": "1662546975.884339"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662549288.879869"
+      },
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1662552675.327279"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662552706.152799"
+      },
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1662552747.793039"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "eab67e40-43fa-4fda-ac6f-f182c5c51e5c",
+    "type": "message",
+    "text": "use this\n```content =dvc.api.read(path=path, repo=repo, rev=version)\ndf = pd.read_csv(io.stringio(content), sep=\",\")```",
+    "user": "U03UJGRN5E0",
+    "ts": "1662543012.027009",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ejAu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "use this\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "content =dvc.api.read(path=path, repo=repo, rev=version)\ndf = pd.read_csv(io.stringio(content), sep=\",\")"
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UG32J3PC"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ca29c7fa-ea85-4f2c-9d73-db76c8d6440e",
+    "type": "message",
+    "text": "dvc.api.get_url() -&gt; has caused a problem for me too.",
+    "user": "U03UJGRN5E0",
+    "ts": "1662543032.440499",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Aoh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "dvc.api.get_url() -> has caused a problem for me too."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d0f48a72-f3c0-4983-89ba-8b67f206f770",
+    "type": "message",
+    "text": "what do you put in repo?",
+    "user": "U03UH397319",
+    "ts": "1662543058.647929",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HnNmS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what do you put in repo?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1b211792-6bd4-455b-b460-f3086e338a89",
+    "type": "message",
+    "text": "the local path to the folder or the git link",
+    "user": "U03UH397319",
+    "ts": "1662543089.820409",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "z=VJU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the local path to the folder or the git link"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0be15de6-3852-4b70-9e7d-5803b885dd3d",
+    "type": "message",
+    "text": "the base folder",
+    "user": "U03UJGRN5E0",
+    "ts": "1662543089.893369",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZJW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the base folder"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a47089ae-b511-45e4-adde-98f28d305304",
+    "type": "message",
+    "text": "if you are in the notebooks use -&gt; \u2018../\u2019",
+    "user": "U03UJGRN5E0",
+    "ts": "1662543109.399359",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fxKIs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "if you are in the notebooks use -> \u2018../\u2019"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "aa051364-85ef-48f4-bd24-9608f5a658f0",
+    "type": "message",
+    "text": "otherwise use \u2018./\u2019",
+    "user": "U03UJGRN5E0",
+    "ts": "1662543122.261229",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "87anb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "otherwise use \u2018./\u2019"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d6b91ad1-49db-49b5-acd4-e6d3beae3001",
+    "type": "message",
+    "text": "do i have to import any library before using io.stringid?",
+    "user": "U03UH397319",
+    "ts": "1662543127.766809",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2v/1V",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "do i have to import any library before using io.stringid?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0513700d-6bbc-4284-934a-e50812dc0a53",
+    "type": "message",
+    "text": "```import io```",
+    "user": "U03UJGRN5E0",
+    "ts": "1662543155.052969",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AZrz=",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "import io"
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "490a2098-0ca7-4cce-9f0a-357d1a99ee7b",
+    "type": "message",
+    "text": "if you are in the notebooks use -&gt; \u2018../\u2019:  where??",
+    "user": "U03UH397319",
+    "ts": "1662543356.317249",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eAFKK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "if you are in the notebooks use -> \u2018../\u2019:  where??"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e6bd3cc0-f899-4696-97a4-f7875ee7aa44",
+    "type": "message",
+    "text": "otherwise use \u2018./\u2019",
+    "user": "U03UH397319",
+    "ts": "1662543390.814889",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uavA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "otherwise use \u2018./\u2019"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "420216e1-9c18-42c4-867f-b1dbbf45f7c6",
+    "type": "message",
+    "text": "for the repo?",
+    "user": "U03UH397319",
+    "ts": "1662543396.845529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kMuI7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "for the repo?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "9cf7aa17-8d3f-4c11-8f59-55d5dd05d544",
+    "type": "message",
+    "text": "yes. \nrepo = '../'",
+    "user": "U03UG1RTXAP",
+    "ts": "1662543507.984669",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rK3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes. \nrepo = '../'"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "4a47bcde06a6",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3989921480247_4a47bcde06a62bb81775_72.jpg",
+      "first_name": "Teresa",
+      "real_name": "Teresa Kim",
+      "display_name": "Teresa Kim",
+      "team": "T03U4J8HMUG",
+      "name": "Teresa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UJGRN5E0"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "3ac568da-bc30-4691-bf82-8b2935f99518",
+    "type": "message",
+    "text": "if you are writing the line of code in your notebook directory, you should use \u2018../\u2019 to tell your code that ur base directory is outside the notebook folder. if you are writing your line of code in the script folder, you do the same. but if your file is in the base folder already, you tell your code that your repo is in the base using \u2018./\u2019. of course, we are talking about the repo(path to the folder).",
+    "user": "U03UJGRN5E0",
+    "ts": "1662543819.164499",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pv=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "if you are writing the line of code in your notebook directory, you should use \u2018../\u2019 to tell your code that ur base directory is outside the notebook folder. if you are writing your line of code in the script folder, you do the same. but if your file is in the base folder already, you tell your code that your repo is in the base using \u2018./\u2019. of course, we are talking about the repo(path to the folder)."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "dce32c25-fb3e-469b-aa76-0defd40746f1",
+    "type": "message",
+    "text": "repo = \u2018../\u2019 -&gt; mean one step back.\nrepo = \u2018./\u2019 -&gt; on this folder",
+    "user": "U03UJGRN5E0",
+    "ts": "1662543987.701449",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7JIw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "repo = \u2018../\u2019 -> mean one step back.\nrepo = \u2018./\u2019 -> on this folder"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UJGRN5E0",
+      "ts": "1662544031.000000"
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "28D1C4D6-AEDB-450D-80DA-91A3689496C2",
+    "type": "message",
+    "text": "no, you don't necessarily have to use colas for development. you can use vscode or your preferred platform.",
+    "user": "U03UKL27B0R",
+    "ts": "1662546463.680199",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GRbB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no, you don't necessarily have to use colas for development. you can use vscode or your preferred platform."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662448456.511829",
+    "parent_user_id": "U03U9FWPNCE",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "69a9f273-d3e8-4556-81c6-b549af68e07f",
+    "type": "message",
+    "text": "what is entered in place of  version?",
+    "user": "U03UAKATQ22",
+    "ts": "1662546907.386299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GHnHb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what is entered in place of  version?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a2d0afeb249a",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3969267243922_a2d0afeb249a9b4f3842_72.png",
+      "first_name": "Thomas",
+      "real_name": "Thomas Rivera",
+      "display_name": "Thomas Rivera",
+      "team": "T03U4J8HMUG",
+      "name": "Thomas",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b3b6452d-fffb-4fbd-982e-01bb526e34ac",
+    "type": "message",
+    "text": "you can use the tag you created with git",
+    "user": "U03UG1RTXAP",
+    "ts": "1662546975.884339",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JEB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you can use the tag you created with git"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "4a47bcde06a6",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3989921480247_4a47bcde06a62bb81775_72.jpg",
+      "first_name": "Teresa",
+      "real_name": "Teresa Kim",
+      "display_name": "Teresa Kim",
+      "team": "T03U4J8HMUG",
+      "name": "Teresa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UAKATQ22"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "4d566cec-2a0d-40f7-86dc-3c4151a1b181",
+    "type": "message",
+    "text": "i'm getting this error: pyJohnson2.fs.spec.gJohnsonautherror: failed to authenticate gJohnson",
+    "user": "U03UH397319",
+    "ts": "1662549288.879869",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "thl1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i'm getting this error: pyJohnson2.fs.spec.gJohnsonautherror: failed to authenticate gJohnson"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "66895a0a-77fd-4243-a72f-7bca0f23e266",
+    "type": "message",
+    "text": "did the gJohnson authenticated correctly while you configure your remote?",
+    "user": "U03UG32J3PC",
+    "ts": "1662552675.327279",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V86",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "did the gJohnson authenticated correctly while you configure your remote?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d09bee37-d377-4c78-a7df-48f39f4753d6",
+    "type": "message",
+    "text": "yes, i even pushed",
+    "user": "U03UH397319",
+    "ts": "1662552706.152799",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DzD8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes, i even pushed"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "bdb617c6-d36b-4e35-a610-a6067920f154",
+    "type": "message",
+    "text": "so how did this error come?",
+    "user": "U03UG32J3PC",
+    "ts": "1662552747.793039",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2Bgv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so how did this error come?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662542789.347139",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b41fa071-7dcb-4655-ad24-7eda462b669f",
+    "type": "message",
+    "text": "hello guys, do you know a way that is faster for reading data from gJohnson? the way i am using is making me to wait a decade :grin:",
+    "user": "U03UG32J3PC",
+    "ts": "1662557073.152429",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+dAJ7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello guys, do you know a way that is faster for reading data from gJohnson? the way i am using is making me to wait a decade "
+              },
+              {
+                "type": "emoji",
+                "name": "grin",
+                "unicode": "1f601"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662557073.152429",
+    "reply_count": 13,
+    "reply_users_count": 3,
+    "latest_reply": "1662559925.608789",
+    "reply_users": [
+      "U03UG4Q7V42",
+      "U03UG32J3PC",
+      "U03UJGRN5E0"
+    ],
+    "replies": [
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1662557456.257509"
+      },
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1662557547.785669"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1662558039.288159"
+      },
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1662558170.493749"
+      },
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1662558183.775079"
+      },
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1662558281.238959"
+      },
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1662558305.198209"
+      },
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1662558460.177629"
+      },
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1662558628.214299"
+      },
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1662558706.213549"
+      },
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1662559752.431709"
+      },
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1662559830.566369"
+      },
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1662559925.608789"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "7d98e1ed-d711-4348-9b34-affab63bf679",
+    "type": "message",
+    "text": "i am using this method and its rather quick for me atleast <https://Joanneacademybatch6.slack.com/archives/c0412ks4fgc/p1662467462344099?thread_ts=1662466825.718689&amp;cid=c0412ks4fgc>",
+    "user": "U03UG4Q7V42",
+    "ts": "1662557456.257509",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LVi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i am using this method and its rather quick for me atleast "
+              },
+              {
+                "type": "link",
+                "url": "https://Joanneacademybatch6.slack.com/archives/c0412ks4fgc/p1662467462344099?thread_ts=1662466825.718689&cid=c0412ks4fgc",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Joanneacademybatch6.slack.com/archives/c0412ks4fgc/p1662467462344099?thread_ts=1662466825.718689&amp;cid=c0412ks4fgc",
+        "ts": "1662467462.344099",
+        "author_id": "u03ujgp0c68",
+        "channel_team": "t03u4j8hmug",
+        "channel_id": "c0412ks4fgc",
+        "is_msg_unfurl": true,
+        "is_reply_unfurl": true,
+        "message_blocks": [
+          {
+            "team": "T03U4J8HMUG",
+            "channel": "C0412KS4FGC",
+            "ts": "1662467462.344099",
+            "message": {
+              "blocks": [
+                {
+                  "type": "rich_text",
+                  "block_id": "3iup",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "yeah this library was causing errors for me too\ni used another way to read data from the dvc instead of using get_url use ( also for "
+                        },
+                        {
+                          "type": "user",
+                          "user_id": "U03UG4Q7V42"
+                        },
+                        {
+                          "type": "text",
+                          "text": ")\n\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_preformatted",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "data = dvc.api.read(path=path,repo=repo, rev=rev)\ndf = pd.read_csv(io.stringio(data),low_memory=false)\nreturn df"
+                        }
+                      ],
+                      "border": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "id": 1,
+        "original_url": "https://Joanneacademybatch6.slack.com/archives/c0412ks4fgc/p1662467462344099?thread_ts=1662466825.718689&amp;cid=c0412ks4fgc",
+        "fallback": "[september 6th, 2022 5:31 am] Tammy: yeah this library was causing errors for me too\ni used another way to read data from the dvc instead of using get_url use ( also for <@u03ug4q7v42>)\n\n```data = dvc.api.read(path=path,repo=repo, rev=rev)\ndf = pd.read_csv(io.stringio(data),low_memory=false)\nreturn df```",
+        "text": "yeah this library was causing errors for me too\ni used another way to read data from the dvc instead of using get_url use ( also for <@u03ug4q7v42>)\n\n```data = dvc.api.read(path=path,repo=repo, rev=rev)\ndf = pd.read_csv(io.stringio(data),low_memory=false)\nreturn df```",
+        "author_name": "Tammy Foster",
+        "author_link": "https://Joanneacademybatch6.slack.com/team/u03ujgp0c68",
+        "author_icon": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_48.png",
+        "author_subname": "Tammy Foster",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "footer": "thread in slack conversation"
+      }
+    ],
+    "thread_ts": "1662557073.152429",
+    "parent_user_id": "U03UG32J3PC"
+  },
+  {
+    "client_msg_id": "72ef2887-1dea-4cdb-aec2-e52301612dfd",
+    "type": "message",
+    "text": "i am using this one and it is so slow\n```data = dvc.api.read(path=path,repo=repo, rev=rev)\ndf = pd.read_csv(io.stringio(data),low_memory=false)```\n",
+    "user": "U03UG32J3PC",
+    "ts": "1662557547.785669",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Tf3y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i am using this one and it is so slow\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "data = dvc.api.read(path=path,repo=repo, rev=rev)\ndf = pd.read_csv(io.stringio(data),low_memory=false)"
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662557073.152429",
+    "parent_user_id": "U03UG32J3PC",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c99c331b-ae10-4d4a-bba3-e5d18ec919ba",
+    "type": "message",
+    "text": "it is slow but it works fine for me.",
+    "user": "U03UJGRN5E0",
+    "ts": "1662558039.288159",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "khA7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it is slow but it works fine for me."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662557073.152429",
+    "parent_user_id": "U03UG32J3PC",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ce6e5020-8b5f-47c3-8611-32d9b9d97e49",
+    "type": "message",
+    "text": "are you using gcp service accounts? <@u03ug32j3pc>",
+    "user": "U03UG4Q7V42",
+    "ts": "1662558170.493749",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yI=d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "are you using gcp service accounts? "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UG32J3PC"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662557073.152429",
+    "parent_user_id": "U03UG32J3PC",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1abaf05e-8bba-4074-8461-92e89786da86",
+    "type": "message",
+    "text": "how many minutes does it take for you",
+    "user": "U03UG32J3PC",
+    "ts": "1662558183.775079",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8hQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how many minutes does it take for you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662557073.152429",
+    "parent_user_id": "U03UG32J3PC",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "32dde27a-4d71-4b4f-a030-c10fb0cee0ba",
+    "type": "message",
+    "text": "that's even very slow on the Michelle server <@u03ujgrn5e0>",
+    "user": "U03UG32J3PC",
+    "ts": "1662558281.238959",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gLk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that's even very slow on the Michelle server "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UJGRN5E0"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662557073.152429",
+    "parent_user_id": "U03UG32J3PC",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "fda6cfc7-ad11-4505-9b15-e3de066acc05",
+    "type": "message",
+    "text": "<@u03ug4q7v42> no, i am using my private gJohnson",
+    "user": "U03UG32J3PC",
+    "ts": "1662558305.198209",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "I6b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UG4Q7V42"
+              },
+              {
+                "type": "text",
+                "text": " no, i am using my private gJohnson"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662557073.152429",
+    "parent_user_id": "U03UG32J3PC",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1cd0f38f-5029-458a-bc8c-2b1e51438967",
+    "type": "message",
+    "text": "for me fetching the train data takes around 2 minute or so but around 1 minute for the test data . does it run slow for the test data too?",
+    "user": "U03UG4Q7V42",
+    "ts": "1662558460.177629",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SeQK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "for me fetching the train data takes around 2 minute or so but around 1 minute for the test data . does it run slow for the test data too?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662557073.152429",
+    "parent_user_id": "U03UG32J3PC",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "33de0e16-26ed-49ed-8832-98352217e62e",
+    "type": "message",
+    "text": "the test data is better, but i am running tests on the Michelle action and that's is not tolerable",
+    "user": "U03UG32J3PC",
+    "ts": "1662558628.214299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hVZe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the test data is better, but i am running tests on the Michelle action and that's is not tolerable"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662557073.152429",
+    "parent_user_id": "U03UG32J3PC",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c3556133-71fd-4174-bd2c-ac56ae5bf76f",
+    "type": "message",
+    "text": "it has taken 25 minutes and it is still running",
+    "user": "U03UG32J3PC",
+    "ts": "1662558706.213549",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kyQyN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it has taken 25 minutes and it is still running"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662557073.152429",
+    "parent_user_id": "U03UG32J3PC",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "67cb204b-fde0-4dc8-9f46-871f5f498451",
+    "type": "message",
+    "text": "<@u03ug32j3pc> i also thought that and went on to configure dvc to use service account but faced some issues and removed them. but for your case i think u need to setup service account because michelle is trying to access gJohnson with no authorization.",
+    "user": "U03UG4Q7V42",
+    "ts": "1662559752.431709",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eIn+U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UG32J3PC"
+              },
+              {
+                "type": "text",
+                "text": " i also thought that and went on to configure dvc to use service account but faced some issues and removed them. but for your case i think u need to setup service account because michelle is trying to access gJohnson with no authorization."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662557073.152429",
+    "parent_user_id": "U03UG32J3PC",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "45de9f04-08ef-492f-affb-df77253ca2b6",
+    "type": "message",
+    "text": "oh yah, i will try that",
+    "user": "U03UG32J3PC",
+    "ts": "1662559830.566369",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EYzB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "oh yah, i will try that"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662557073.152429",
+    "parent_user_id": "U03UG32J3PC",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d66dc208-fa73-4159-a74f-fb8ca29814ac",
+    "type": "message",
+    "text": "please do tell me how you did it if you manage to make it work",
+    "user": "U03UG4Q7V42",
+    "ts": "1662559925.608789",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Bpp/2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "please do tell me how you did it if you manage to make it work"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UG4Q7V42",
+      "ts": "1662559934.000000"
+    },
+    "thread_ts": "1662557073.152429",
+    "parent_user_id": "U03UG32J3PC",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "7354e719-0ad6-43b9-a938-3b8a6a488e68",
+    "type": "message",
+    "text": "i'm getting error to read data from gJohnson. i seriously need help. for this submission, i used the manuel way (checking out to the version that i want). however, it might be import to read from my gJohnson for the coming tasks",
+    "user": "U03UH397319",
+    "ts": "1662571723.765369",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xsF+v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i'm getting error to read data from gJohnson. i seriously need help. for this submission, i used the manuel way (checking out to the version that i want). however, it might be import to read from my gJohnson for the coming tasks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d7142c9e-314e-4a99-96d6-7c342a474ae2",
+    "type": "message",
+    "text": "i'm getting pyJohnson error: token expired or revoked. and not able to connect to Johnson",
+    "user": "U03UH397319",
+    "ts": "1662571762.902419",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lgcSy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i'm getting pyJohnson error: token expired or revoked. and not able to connect to Johnson"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662571762.902419",
+    "reply_count": 17,
+    "reply_users_count": 3,
+    "latest_reply": "1662636801.647099",
+    "reply_users": [
+      "U03UVHCV6KB",
+      "U03UH397319",
+      "U03UJGRN5E0"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1662575900.273539"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662603589.403169"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662604049.443929"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1662625499.548949"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662625556.161359"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662625592.613219"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1662625677.037229"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662625698.474649"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662625955.971339"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1662626623.713199"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662626838.456159"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662626939.464809"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1662629437.414729"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662636570.493179"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662636601.230499"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662636635.830789"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662636801.647099"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0d0e600d-eb8d-4b49-8265-2e859a236e6e",
+    "type": "message",
+    "text": "also, how to able my git repository to recognize the tag versions when running cml? another challenge for me. thanks.",
+    "user": "U03UH397319",
+    "ts": "1662571810.530039",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZKQug",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "also, how to able my git repository to recognize the tag versions when running cml? another challenge for me. thanks."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "30616432-ca38-47b9-a24b-ea57e0e926e9",
+    "type": "message",
+    "text": "how many days are y'all considering for the sales during holidays analysis?",
+    "user": "U03UG4Q7V42",
+    "ts": "1662572486.266349",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "r4OcW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how many days are y'all considering for the sales during holidays analysis?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662572486.266349",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1662626948.176719",
+    "reply_users": [
+      "U03U1HAG9TR",
+      "U03UG4Q7V42"
+    ],
+    "replies": [
+      {
+        "user": "U03U1HAG9TR",
+        "ts": "1662624317.113819"
+      },
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1662626948.176719"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b826ff56-7663-4b09-988d-a54091f1a1d4",
+    "type": "message",
+    "text": "what is your dvc version? i think this error went away for me when i update it to the latest version.",
+    "user": "U03UVHCV6KB",
+    "ts": "1662575900.273539",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OEnOz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what is your dvc version? i think this error went away for me when i update it to the latest version."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662571762.902419",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ea8c07ea-f45e-493b-b4d4-5cb3c5162a1a",
+    "type": "message",
+    "text": "2.23.0",
+    "user": "U03UH397319",
+    "ts": "1662603589.403169",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a0+P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "2.23.0"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662571762.902419",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "cc94f035-75dd-4348-9ad3-029e5cce7b3a",
+    "type": "message",
+    "text": "i've upgraded now to 2.24.0",
+    "user": "U03UH397319",
+    "ts": "1662604049.443929",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1uFmg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i've upgraded now to 2.24.0"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662571762.902419",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  }
+]

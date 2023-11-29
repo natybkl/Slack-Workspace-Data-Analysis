@@ -1,0 +1,1040 @@
+[
+  {
+    "client_msg_id": "f0e23fe6-fde9-4fca-9728-9ca9c9ca90e5",
+    "type": "message",
+    "text": "now works! followed this step: <https://itsfoss.com/set-java-home-ubuntu/>",
+    "user": "U03UJH1EQQL",
+    "ts": "1665228807.839539",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7ko9s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "now works! followed this step: "
+              },
+              {
+                "type": "link",
+                "url": "https://itsfoss.com/set-java-home-ubuntu/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://itsfoss.com/set-java-home-ubuntu/",
+        "image_url": "https://itsfoss.com/wp-content/uploads/2021/09/set-java-home-ubuntu.png",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 32937,
+        "service_icon": "https://itsfoss.com/wp-content/uploads/2017/06/cropped-logo-redsigned-without-name-180x180.png",
+        "id": 1,
+        "original_url": "https://itsfoss.com/set-java-home-ubuntu/",
+        "fallback": "it's foss: how to set java_home in ubuntu linux correctly",
+        "text": "your linux system is complain that \"java_home environment variable is not set\"? learn and understand how to set java home path in ubuntu linux correctly.",
+        "title": "how to set java_home in ubuntu linux correctly",
+        "title_link": "https://itsfoss.com/set-java-home-ubuntu/",
+        "service_name": "it's foss",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1665143839.694199",
+    "parent_user_id": "U03UJH1EQQL"
+  },
+  {
+    "client_msg_id": "fb1ef000-b561-44d9-bfd7-6579ad6ddc62",
+    "type": "message",
+    "text": "then: os.environ['java_home'] ='/usr/lib/jvm/java-11-openjdk-amd64'",
+    "user": "U03UJH1EQQL",
+    "ts": "1665228894.598209",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QQgE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "then: os.environ['java_home'] ='/usr/lib/jvm/java-11-openjdk-amd64'"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665143839.694199",
+    "parent_user_id": "U03UJH1EQQL",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "how to handle this? kafka is installed but i'm getting this error on the airflow dashbord",
+    "files": [
+      {
+        "id": "F045HLQBEKY",
+        "created": 1665232774,
+        "timestamp": 1665232774,
+        "name": "Screenshot from 2022-10-08 13-17-46.png",
+        "title": "Screenshot from 2022-10-08 13-17-46.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UH397319",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 25730,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F045HLQBEKY/screenshot_from_2022-10-08_13-17-46.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F045HLQBEKY/download/screenshot_from_2022-10-08_13-17-46.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045HLQBEKY-8330f3fd9f/screenshot_from_2022-10-08_13-17-46_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045HLQBEKY-8330f3fd9f/screenshot_from_2022-10-08_13-17-46_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045HLQBEKY-8330f3fd9f/screenshot_from_2022-10-08_13-17-46_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 68,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045HLQBEKY-8330f3fd9f/screenshot_from_2022-10-08_13-17-46_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 90,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045HLQBEKY-8330f3fd9f/screenshot_from_2022-10-08_13-17-46_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045HLQBEKY-8330f3fd9f/screenshot_from_2022-10-08_13-17-46_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 135,
+        "thumb_800": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045HLQBEKY-8330f3fd9f/screenshot_from_2022-10-08_13-17-46_800.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_800_w": 800,
+        "thumb_800_h": 151,
+        "thumb_960": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045HLQBEKY-8330f3fd9f/screenshot_from_2022-10-08_13-17-46_960.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_960_w": 960,
+        "thumb_960_h": 181,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045HLQBEKY-8330f3fd9f/screenshot_from_2022-10-08_13-17-46_1024.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 193,
+        "original_w": 1164,
+        "original_h": 219,
+        "thumb_tiny": "AwAJADC+VbJwB+dG1vQU9e/1paB3GbTRtPpT6KBDNp9KNp9KfRQB/9k=",
+        "permalink": "https://10academybatch6.slack.com/files/U03UH397319/F045HLQBEKY/screenshot_from_2022-10-08_13-17-46.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F045HLQBEKY-799cfb1078",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UH397319",
+    "display_as_bot": false,
+    "ts": "1665232776.495949",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wbjU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how to handle this? kafka is installed but i'm getting this error on the airflow dashbord"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "a0abd9c1-80a9-4bc1-96de-5ee36e0fc540",
+    "thread_ts": "1665232776.495949",
+    "reply_count": 12,
+    "reply_users_count": 2,
+    "latest_reply": "1665233563.102689",
+    "reply_users": [
+      "U03UUR571A5",
+      "U03UH397319"
+    ],
+    "replies": [
+      {
+        "user": "U03UUR571A5",
+        "ts": "1665233023.096809"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1665233177.508549"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1665233186.241689"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1665233249.881869"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1665233275.128129"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1665233300.229749"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1665233307.839609"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1665233336.471239"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1665233336.550329"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1665233346.625319"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1665233562.568859"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1665233563.102689"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b3bdf4ca-6292-427c-839e-22806ee42350",
+    "type": "message",
+    "text": "you have to install kafka in the airflow container\neither by adding it as additional requirement\n`_pip_additional_requirements: ${_pip_additional_requirements:- kafka-python}`\nor\ndocker exec to airflow container and install it manually",
+    "user": "U03UUR571A5",
+    "ts": "1665233023.096809",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aF6CH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you have to install kafka in the airflow container\neither by adding it as additional requirement\n"
+              },
+              {
+                "type": "text",
+                "text": "_pip_additional_requirements: ${_pip_additional_requirements:- kafka-python}",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nor\ndocker exec to airflow container and install it manually"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665232776.495949",
+    "parent_user_id": "U03UH397319",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ce65c0b1-08e6-44ea-b4b7-106b67c7752a",
+    "type": "message",
+    "text": "should i run this command?",
+    "user": "U03UH397319",
+    "ts": "1665233177.508549",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RTePc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "should i run this command?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665232776.495949",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a9db76a2-5693-47af-9657-1f78046c2a20",
+    "type": "message",
+    "text": "```_pip_additional_requirements: ${_pip_additional_requirements:- kafka-python}```",
+    "user": "U03UH397319",
+    "ts": "1665233186.241689",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "i49t",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "_pip_additional_requirements: ${_pip_additional_requirements:- kafka-python}"
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665232776.495949",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "12fbc595-994f-4b0d-8394-ef1754003fde",
+    "type": "message",
+    "text": "```_pip_additional_requirements: ${_pip_additional_requirements:- kafka-python}```\nis in the docker-compose.yml file",
+    "user": "U03UUR571A5",
+    "ts": "1665233249.881869",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fDV8K",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "_pip_additional_requirements: ${_pip_additional_requirements:- kafka-python}"
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "is in the docker-compose.yml file"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665232776.495949",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "dc271f8e-751a-432e-a305-39fc0f7514f2",
+    "type": "message",
+    "text": "i am assuming you are run airflow using docker",
+    "user": "U03UUR571A5",
+    "ts": "1665233275.128129",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Whzif",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i am assuming you are run airflow using docker"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665232776.495949",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "39f2aad4-7154-47b7-b253-8c4f29a1b729",
+    "type": "message",
+    "text": "i've found it now",
+    "user": "U03UH397319",
+    "ts": "1665233300.229749",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LMKx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i've found it now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665232776.495949",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a96fe5ce-32e8-4e97-8d24-aec1a9c2f3b7",
+    "type": "message",
+    "text": "```_pip_additional_requirements: ${_pip_additional_requirements:-}```",
+    "user": "U03UH397319",
+    "ts": "1665233307.839609",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6VC",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "_pip_additional_requirements: ${_pip_additional_requirements:-}"
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665232776.495949",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "dab407e6-dcac-4f50-b38c-4a4c5f048b24",
+    "type": "message",
+    "text": "should i add kafka-python?",
+    "user": "U03UH397319",
+    "ts": "1665233336.471239",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "an16X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "should i add kafka-python?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665232776.495949",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "762b70ad-3adf-4e13-adcc-b4390e9d9fc0",
+    "type": "message",
+    "text": "yes try that, if it didn't work go with the 2nd option",
+    "user": "U03UUR571A5",
+    "ts": "1665233336.550329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZOq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes try that, if it didn't work go with the 2nd option"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665232776.495949",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "565583a1-335a-4a61-8969-38947392c740",
+    "type": "message",
+    "text": "okay",
+    "user": "U03UH397319",
+    "ts": "1665233346.625319",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Smz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665232776.495949",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "f1e35280-6ea3-49f7-865d-ab7638c472db",
+    "type": "message",
+    "text": "it works",
+    "user": "U03UH397319",
+    "ts": "1665233562.568859",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qdHx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it works"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665232776.495949",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "aade21fa-a72f-4a0b-80da-7ada9ed167a3",
+    "type": "message",
+    "text": "<@u03uur571a5> thanks",
+    "user": "U03UH397319",
+    "ts": "1665233563.102689",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hvq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UUR571A5"
+              },
+              {
+                "type": "text",
+                "text": " thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665232776.495949",
+    "parent_user_id": "U03UH397319",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UUR571A5"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "fa3b0615-815a-4242-950c-08a2ddc80147",
+    "type": "message",
+    "text": "can anyone help me writing a script to insert data in s3 bucket?",
+    "user": "U03UH397319",
+    "ts": "1665233656.641169",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IDa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "can anyone help me writing a script to insert data in s3 bucket?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665233656.641169",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1665240574.175139",
+    "reply_users": [
+      "U03UUP56MDF"
+    ],
+    "replies": [
+      {
+        "user": "U03UUP56MDF",
+        "ts": "1665240574.175139"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5e7932a4-c2ad-4178-ad6e-08d7d5303a4b",
+    "type": "message",
+    "text": "i struggled a lot and i think it's time to ask for help",
+    "user": "U03UH397319",
+    "ts": "1665233691.724689",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f2pPD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i struggled a lot and i think it's time to ask for help"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "fd639d4c-1280-4f4e-b09e-235910d47e1b",
+    "type": "message",
+    "text": "you can access the s3 bucket the way you would a regular directory using the path provided.",
+    "user": "U03UUP56MDF",
+    "ts": "1665240574.175139",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1MoQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you can access the s3 bucket the way you would a regular directory using the path provided."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g00725318689",
+      "image_72": "https://secure.gravatar.com/avatar/007253186898705d4f28c384188b8a63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Margaret",
+      "real_name": "Margaret Jackson",
+      "display_name": "Margaret Jackson",
+      "team": "T03U4J8HMUG",
+      "name": "Margaret",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665233656.641169",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "anyone facing this error?",
+    "files": [
+      {
+        "id": "F045J110C6S",
+        "created": 1665249853,
+        "timestamp": 1665249853,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03V61VGQG0",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 195096,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F045J110C6S/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F045J110C6S/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045J110C6S-e661e32126/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045J110C6S-e661e32126/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045J110C6S-e661e32126/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 108,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045J110C6S-e661e32126/image_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 144,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045J110C6S-e661e32126/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045J110C6S-e661e32126/image_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 216,
+        "thumb_800": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045J110C6S-e661e32126/image_800.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_800_w": 800,
+        "thumb_800_h": 240,
+        "thumb_960": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045J110C6S-e661e32126/image_960.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_960_w": 960,
+        "thumb_960_h": 288,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045J110C6S-e661e32126/image_1024.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 307,
+        "original_w": 1477,
+        "original_h": 443,
+        "thumb_tiny": "AwAOADC6/Wm09+tMoKDOKdlqQDNOAI70gAbqWiigZ//Z",
+        "permalink": "https://10academybatch6.slack.com/files/U03V61VGQG0/F045J110C6S/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F045J110C6S-073185ddff",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03V61VGQG0",
+    "display_as_bot": false,
+    "ts": "1665249858.827609",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1+Rk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "anyone facing this error?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "8b748641-b320-455f-929f-f2276b032c54",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "58f3bc64-66d1-4eb8-8410-f98ceccb30ed",
+    "type": "message",
+    "text": "how i could connect react with kafka as producer?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1665250781.554029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "c0EsZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how i could connect react with kafka as producer?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  }
+]

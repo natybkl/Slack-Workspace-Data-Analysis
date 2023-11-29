@@ -1,0 +1,240 @@
+[
+  {
+    "client_msg_id": "ad5a5303-2cc5-4197-9724-73d6da2a32f0",
+    "type": "message",
+    "text": "<https://www.sciencedirect.com/science/article/pii/s2667096822000027|https://www.sciencedirect.com/science/article/pii/s2667096822000027>",
+    "user": "U03UFV7HFNF",
+    "ts": "1662353625.474439",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZYCL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.sciencedirect.com/science/article/pii/s2667096822000027",
+                "text": "https://www.sciencedirect.com/science/article/pii/s2667096822000027"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.sciencedirect.com/science/article/pii/s2667096822000027",
+        "thumb_url": "https://ars.els-cdn.com/content/image/s26670968.gif",
+        "thumb_width": 113,
+        "thumb_height": 150,
+        "service_icon": "https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/13/images/favsd.ico",
+        "id": 1,
+        "original_url": "https://www.sciencedirect.com/science/article/pii/s2667096822000027",
+        "fallback": "time-series forecasting of seasonal items sales using machine learning \u2013 a comparative analysis",
+        "text": "there has been a growing interest in the field of neural networks for prediction in recent years. in this research, a public dataset including the sal\u2026",
+        "title": "time-series forecasting of seasonal items sales using machine learning \u2013 a comparative analysis",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/s2667096822000027",
+        "service_name": "sciencedirect.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "*what\u2019s exactly is a loss function?*\n\nat its core, a loss function is incredibly simple: it\u2019s a method of evaluating how well your algorithm models your dataset. if your predictions are totally off, your loss function will output a higher number. if they\u2019re pretty good, it\u2019ll output a lower number. as you change pieces of your algorithm to try and improve your model, your loss function will tell you if you\u2019re getting anywhere.\n\nloss functions are related to model accuracy, a key component of ai/ml governance.\n\nwe can design our own (very) basic loss function to further explain how it works. for each prediction that we make, our loss function will simply measure the absolute difference between our prediction and the actual value. in mathematical notation, it might look something like abs(y_predicted \u2013 y). here\u2019s what some situations might look like if we were trying to predict how expensive the rent is in some nyc apartments:\n\nsource: <https://www.datarobot.com/blog/introduction-to-loss-functions/#:~:text=further%20reading-,what's%20a%20loss%20function%3f,ll%20output%20a%20lower%20number|https://www.datarobot.com/blog/introduction-to-loss-functions/#:~:text=further%20reading-,what's%20a%20loss%20function%3f,ll%20output%20a%20lower%20number>.",
+    "files": [
+      {
+        "id": "F0410T344FM",
+        "created": 1662353669,
+        "timestamp": 1662353669,
+        "name": "Screen-Shot-2018-04-30-at-11.09.30-AM-300x131-1.png",
+        "title": "Screen-Shot-2018-04-30-at-11.09.30-AM-300x131-1.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UJN29Y4C",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 7985,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F0410T344FM/screen-shot-2018-04-30-at-11.09.30-am-300x131-1.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F0410T344FM/download/screen-shot-2018-04-30-at-11.09.30-am-300x131-1.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0410T344FM-37cca0843e/screen-shot-2018-04-30-at-11.09.30-am-300x131-1_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0410T344FM-37cca0843e/screen-shot-2018-04-30-at-11.09.30-am-300x131-1_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0410T344FM-37cca0843e/screen-shot-2018-04-30-at-11.09.30-am-300x131-1_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 300,
+        "thumb_360_h": 131,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0410T344FM-37cca0843e/screen-shot-2018-04-30-at-11.09.30-am-300x131-1_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "original_w": 300,
+        "original_h": 131,
+        "thumb_tiny": "AwAUADCw0GWJ3vyfWj7Irc+dL+BqU9TyetSjPfFPmYFf7IMf61/zpPsY/wCe8v8A31VgruxzQF25waOZgV/sn/TRvzoW02sCZZOOfvVNlR1zSjaTwDmjmYC4HoKBx0GKKKQC5ozSUUAIFA9/rSjjoMUppKAP/9k=",
+        "permalink": "https://10academybatch6.slack.com/files/U03UJN29Y4C/F0410T344FM/screen-shot-2018-04-30-at-11.09.30-am-300x131-1.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F0410T344FM-ba92ea46b9",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UJN29Y4C",
+    "display_as_bot": false,
+    "ts": "1662353709.921129",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sOHO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what\u2019s exactly is a loss function?\n",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nat its core, a loss function is incredibly simple: it\u2019s a method of evaluating how well your algorithm models your dataset. if your predictions are totally off, your loss function will output a higher number. if they\u2019re pretty good, it\u2019ll output a lower number. as you change pieces of your algorithm to try and improve your model, your loss function will tell you if you\u2019re getting anywhere.\n\nloss functions are related to model accuracy, a key component of ai/ml governance.\n\nwe can design our own (very) basic loss function to further explain how it works. for each prediction that we make, our loss function will simply measure the absolute difference between our prediction and the actual value. in mathematical notation, it might look something like abs(y_predicted \u2013 y). here\u2019s what some situations might look like if we were trying to predict how expensive the rent is in some nyc apartments:\n\nsource: "
+              },
+              {
+                "type": "link",
+                "url": "https://www.datarobot.com/blog/introduction-to-loss-functions/#:~:text=further%20reading-,what's%20a%20loss%20function%3f,ll%20output%20a%20lower%20number",
+                "text": "https://www.datarobot.com/blog/introduction-to-loss-functions/#:~:text=further%20reading-,what's%20a%20loss%20function%3f,ll%20output%20a%20lower%20number"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "05aad34c-5120-4bfe-a12f-c39954a5685e",
+    "attachments": [
+      {
+        "from_url": "https://www.datarobot.com/blog/introduction-to-loss-functions/#:~:text=further%20reading-,what's%20a%20loss%20function%3f,ll%20output%20a%20lower%20number",
+        "image_url": "https://www.datarobot.com/wp-content/uploads/2022/02/screen-shot-2018-04-30-at-11.09.30-am-300x131-1.png",
+        "image_width": 300,
+        "image_height": 131,
+        "image_bytes": 7985,
+        "service_icon": "https://www.datarobot.com/wp-content/themes/datarobot4/assets/images/favicons/apple-icon-57x57.png",
+        "id": 1,
+        "original_url": "https://www.datarobot.com/blog/introduction-to-loss-functions/#:~:text=further%20reading-,what's%20a%20loss%20function%3f,ll%20output%20a%20lower%20number",
+        "fallback": "datarobot ai cloud: introduction to loss functions",
+        "text": "loss functions evaluate how well your algorithm models your dataset. if predictions are off, the loss function is high. if they\u2019re good, it\u2019ll be low.",
+        "title": "introduction to loss functions",
+        "title_link": "https://www.datarobot.com/blog/introduction-to-loss-functions/#:~:text=further%20reading-,what's%20a%20loss%20function%3f,ll%20output%20a%20lower%20number",
+        "service_name": "datarobot ai cloud",
+        "fields": [
+          {
+            "value": "8 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f4fbe93b-e208-4fa9-bda4-812795a7cfb6",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/clean-efficient-data-pipelines-with-pythons-sklearn-2472de04c0ea|https://towardsdatascience.com/clean-efficient-data-pipelines-with-pythons-sklearn-2472de04c0ea>",
+    "user": "U03UG0YHAUT",
+    "ts": "1662353932.076689",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V13",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/clean-efficient-data-pipelines-with-pythons-sklearn-2472de04c0ea",
+                "text": "https://towardsdatascience.com/clean-efficient-data-pipelines-with-pythons-sklearn-2472de04c0ea"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/clean-efficient-data-pipelines-with-pythons-sklearn-2472de04c0ea",
+        "ts": 1599103819,
+        "image_url": "https://miro.medium.com/max/1200/1*5oulmg5xw8sicqm8_qh0xg.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 205445,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/clean-efficient-data-pipelines-with-pythons-sklearn-2472de04c0ea",
+        "fallback": "medium: pre-process data like a pro: intro to scikit-learn pipelines",
+        "text": "keep data clean",
+        "title": "pre-process data like a pro: intro to scikit-learn pipelines",
+        "title_link": "https://towardsdatascience.com/clean-efficient-data-pipelines-with-pythons-sklearn-2472de04c0ea",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "6 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7TUTV",
+          "U03UFV7HFNF"
+        ],
+        "count": 2
+      }
+    ]
+  }
+]

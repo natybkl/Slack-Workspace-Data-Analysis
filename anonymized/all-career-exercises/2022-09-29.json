@@ -1,0 +1,563 @@
+[
+  {
+    "type": "message",
+    "text": "<!channel> reminder for those having theirs tomorrow.\nalso if time didn't permit you to ask all questions, you can use this channel or reach out to a specific tutor. thanks.",
+    "user": "U03TT5KEYCF",
+    "ts": "1664445684.457709",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DZc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " reminder for those having theirs tomorrow.\nalso if time didn't permit you to ask all questions, you can use this channel or reach out to a specific tutor. thanks."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "aae36184306b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3945210198087_aae36184306bb9e0b018_72.jpg",
+      "first_name": "Brian",
+      "real_name": "Brian Flores",
+      "display_name": "Brian Flores",
+      "team": "T03U4J8HMUG",
+      "name": "Brian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Joanneacademybatch6.slack.com/archives/c03t89kdga2/p1663914038615049",
+        "ts": "1663914038.615049",
+        "author_id": "u03tt5keycf",
+        "channel_id": "c03t89kdga2",
+        "channel_team": "t03u4j8hmug",
+        "is_msg_unfurl": true,
+        "message_blocks": [
+          {
+            "team": "T03U4J8HMUG",
+            "channel": "C03T89KDGA2",
+            "ts": "1663914038.615049",
+            "message": {
+              "blocks": [
+                {
+                  "type": "rich_text",
+                  "block_id": "1g+z",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "morning "
+                        },
+                        {
+                          "type": "broadcast",
+                          "range": "channel"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\nreminder - for those that have their 1-on-1 session today please remember to ask the training team the questions you developed from your week 5 careers exercise."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "color": "d0d0d0",
+        "is_share": true,
+        "fallback": "[september 23rd, 2022 7:20 am] Brian: morning <!channel>\nreminder - for those that have their 1-on-1 session today please remember to ask the training team the questions you developed from your week 5 careers exercise.",
+        "text": "morning <!channel>\nreminder - for those that have their 1-on-1 session today please remember to ask the training team the questions you developed from your week 5 careers exercise.",
+        "author_name": "Brian Flores",
+        "author_link": "https://Joanneacademybatch6.slack.com/team/u03tt5keycf",
+        "author_icon": "https://avatars.slack-edge.com/2022-08-18/39452Joanne198087_aae36184306bb9e0b018_48.jpg",
+        "author_subname": "Brian Flores",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "footer": "slack conversation"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ef850b3d-8650-484a-95b3-b3a16df20217",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=-v_q9mjdrzy>\n\nthis woks for almost any job application, not only for a developer job",
+    "user": "U03UVHCV6KB",
+    "ts": "1664451120.982099",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Mz0O",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=-v_q9mjdrzy",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n\nthis woks for almost any job application, not only for a developer job"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=-v_q9mjdrzy",
+        "thumb_url": "https://i.ytimg.com/vi/-v_q9mjdrzy/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/-v_q9mjdrzy?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"how not to land a developer job\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=-v_q9mjdrzy",
+        "fallback": "youtube video: how not to land a developer job",
+        "title": "how not to land a developer job",
+        "title_link": "https://www.youtube.com/watch?v=-v_q9mjdrzy",
+        "author_name": "tech with tim",
+        "author_link": "https://www.youtube.com/c/techwithtim",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UJGRN5E0"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3a705836-f529-4aa2-9c4c-9b59fe2d8485",
+    "type": "message",
+    "text": "i don't know if you think this is possible and or ethical but these things are also out there my fellow trainees.\n<https://www.youtube.com/watch?v=or-mzzishve&amp;ab_channel=aaronjack>",
+    "user": "U03UVHCV6KB",
+    "ts": "1664452002.329089",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YIL9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i don't know if you think this is possible and or ethical but these things are also out there my fellow trainees.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=or-mzzishve&ab_channel=aaronjack",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=or-mzzishve&amp;ab_channel=aaronjack",
+        "thumb_url": "https://i.ytimg.com/vi/or-mzzishve/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/or-mzzishve?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"how \u201coveremployed\u201d programmers are earning multiple full time salaries\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=or-mzzishve&amp;ab_channel=aaronjack",
+        "fallback": "youtube video: how \u201coveremployed\u201d programmers are earning multiple full time salaries",
+        "title": "how \u201coveremployed\u201d programmers are earning multiple full time salaries",
+        "title_link": "https://www.youtube.com/watch?v=or-mzzishve&amp;ab_channel=aaronjack",
+        "author_name": "aaron jack",
+        "author_link": "https://www.youtube.com/c/aaronjackfreemote",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1664452002.329089",
+    "reply_count": 5,
+    "reply_users_count": 2,
+    "latest_reply": "1664514911.194379",
+    "reply_users": [
+      "U03U93GNNVB",
+      "U03UVHCV6KB"
+    ],
+    "replies": [
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1664455725.408949"
+      },
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1664455732.271409"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1664456665.600609"
+      },
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1664514883.627379"
+      },
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1664514911.194379"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "934a4701-b348-4d26-8741-7b3cce9c9b50",
+    "type": "message",
+    "text": "unlikely at faang companies",
+    "user": "U03U93GNNVB",
+    "ts": "1664455725.408949",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sw6Q0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "unlikely at faang companies"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664452002.329089",
+    "parent_user_id": "U03UVHCV6KB",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b86ed0c4-6b6c-40e2-b135-bb3fd85f7da0",
+    "type": "message",
+    "text": "but possible, yes",
+    "user": "U03U93GNNVB",
+    "ts": "1664455732.271409",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S6gH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "but possible, yes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664452002.329089",
+    "parent_user_id": "U03UVHCV6KB",
+    "reactions": [
+      {
+        "name": "pray",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5883fc4e-537c-447c-b33e-efe2ed76e090",
+    "type": "message",
+    "text": "yeah highly unlikely at faang, even very unlikely at other companies.",
+    "user": "U03UVHCV6KB",
+    "ts": "1664456665.600609",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lfdao",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah highly unlikely at faang, even very unlikely at other companies."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664452002.329089",
+    "parent_user_id": "U03UVHCV6KB",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e4b004fb-ba13-430a-b2e4-25e10b1c9bec",
+    "type": "message",
+    "text": "<!channel> please react with a :fire: if you will be interested in next week mock interview .",
+    "user": "U03TT5KEYCF",
+    "ts": "1664475593.323879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W44",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " please react with a "
+              },
+              {
+                "type": "emoji",
+                "name": "fire",
+                "unicode": "1f525"
+              },
+              {
+                "type": "text",
+                "text": " if you will be interested in next week mock interview ."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "aae36184306b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3945210198087_aae36184306bb9e0b018_72.jpg",
+      "first_name": "Brian",
+      "real_name": "Brian Flores",
+      "display_name": "Brian Flores",
+      "team": "T03U4J8HMUG",
+      "name": "Brian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "fire",
+        "users": [
+          "U03UD5B7C3X"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "cfd87539-fb1e-4e6a-90f8-2d125f7ae229",
+    "type": "message",
+    "text": "i think it depends",
+    "user": "U03U93GNNVB",
+    "ts": "1664514883.627379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IXuqa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think it depends"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664452002.329089",
+    "parent_user_id": "U03UVHCV6KB",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "7fd5e47c-059c-4c06-bf11-5675ea357596",
+    "type": "message",
+    "text": "there are different models of employment - some companies expect full-time (they buy your time) and others expect results (they are more flexible on time)",
+    "user": "U03U93GNNVB",
+    "ts": "1664514911.194379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7Cu8u",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "there are different models of employment - some companies expect full-time (they buy your time) and others expect results (they are more flexible on time)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664452002.329089",
+    "parent_user_id": "U03UVHCV6KB",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  }
+]

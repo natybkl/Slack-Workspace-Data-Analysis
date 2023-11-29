@@ -1,0 +1,156 @@
+[
+  {
+    "client_msg_id": "ba1eaad7-3f17-42fa-8598-6f59b64ee643",
+    "type": "message",
+    "text": "<!here>, aws instance is being setup for everyone in a group setup. here is the group list and instruction to connect to the instance using ssh.\n\ngroup 1: address: <http://g1.joanneacademy.org|g1.joanneacademy.org>\nuser names:\ncynthia_davis\nakubazgi_harrington\njennifer_carrillo\nallison_berry\njames_mann\n\ngroup 2: address: <http://g2.joanneacademy.org|g2.joanneacademy.org>\nuser names:\ncatherine campos_gebisa\nheidi_martin\ndennis_parker\nkenneth_williams\ngregory_bowman\n\ngroup 3: address: <http://g3.joanneacademy.org|g3.joanneacademy.org>\nuser names:\njason jackson_abebe\nsusan_dekebo\nzachary_clark\nmelanie_njogu\nmonica_djossou\n\ngroup 4: address: <http://g4.joanneacademy.org|g4.joanneacademy.org>\nuser names:\nrobert_james\njason_Burnett\ndavid_abebe\nlisa_esamaldin\nariel_habtedavid\n\ngroup 5: address: <http://g5.joanneacademy.org|g5.joanneacademy.org>\nuser names:\ntammy_shields\ntammy_zerihun\ntiffany_crane\nsteven_haas\nthomas_rivera\n\ngroup 6: address: <http://g6.joanneacademy.org|g6.joanneacademy.org>\nuser names:\nchristopher hernandez_gachugu\ndiane_duffy\nalejandra_carpenter\nglenn_richardson\ndavid_fowler\n\nto connect: `ssh -i &lt;path-to-private-key&gt; &lt;user_name&gt;@&lt;address&gt;`\nyou can use remote-ssh  vscode extension by microsoft  with 12m download add your connection detail there.\ngroup 1 instance is up and running. group 1 members please connect to your instance and reply back to this thread if it's not working.\n\ngroup 2- 6 instances are not up yet.",
+    "user": "U03UKL27B0R",
+    "ts": "1663919287.747249",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rZD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "here"
+              },
+              {
+                "type": "text",
+                "text": ", aws instance is being setup for everyone in a group setup. here is the group list and instruction to connect to the instance using ssh.\n\ngroup 1: address: "
+              },
+              {
+                "type": "link",
+                "url": "http://g1.Joanneacademy.org",
+                "text": "g1.Joanneacademy.org"
+              },
+              {
+                "type": "text",
+                "text": "\nuser names:\ncynthia_Davis\nakubazgi_harrington\njennifer_carrillo\nallison_berry\njames_mann\n\ngroup 2: address: "
+              },
+              {
+                "type": "link",
+                "url": "http://g2.Joanneacademy.org",
+                "text": "g2.Joanneacademy.org"
+              },
+              {
+                "type": "text",
+                "text": "\nuser names:\ncatherine campos_gebisa\nheidi_martin\ndennis_parker\nkenneth_williams\ngregory_Bowman\n\ngroup 3: address: "
+              },
+              {
+                "type": "link",
+                "url": "http://g3.Joanneacademy.org",
+                "text": "g3.Joanneacademy.org"
+              },
+              {
+                "type": "text",
+                "text": "\nuser names:\nJason jackson_abebe\nsusan_dekebo\nzachary_clark\nmelanie_njogu\nmonica_djossou\n\ngroup 4: address: "
+              },
+              {
+                "type": "link",
+                "url": "http://g4.Joanneacademy.org",
+                "text": "g4.Joanneacademy.org"
+              },
+              {
+                "type": "text",
+                "text": "\nuser names:\nrobert_james\njason_Burnett\ndavid_abebe\nlisa_esamaldin\nariel_habtedavid\n\ngroup 5: address: "
+              },
+              {
+                "type": "link",
+                "url": "http://g5.Joanneacademy.org",
+                "text": "g5.Joanneacademy.org"
+              },
+              {
+                "type": "text",
+                "text": "\nuser names:\ntammy_shields\ntammy_zerihun\ntiffany_crane\nsteven_Haas\nthomas_rivera\n\ngroup 6: address: "
+              },
+              {
+                "type": "link",
+                "url": "http://g6.Joanneacademy.org",
+                "text": "g6.Joanneacademy.org"
+              },
+              {
+                "type": "text",
+                "text": "\nuser names:\nchristopher hernandez_gachugu\nDiane_duffy\nalejandra_carpenter\nglenn_richardson\ndavid_fowler\n\nto connect: "
+              },
+              {
+                "type": "text",
+                "text": "ssh -i <path-to-private-key> <user_name>@<address>",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nyou can use remote-ssh  vscode extension by microsoft  with 12m download add your connection detail there.\ngroup 1 instance is up and running. group 1 members please connect to your instance and reply back to this thread if it's not working.\n\ngroup 2- 6 instances are not up yet."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Roger",
+      "real_name": "Roger Gonzalez",
+      "display_name": "Roger Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Roger",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UKL27B0R",
+      "ts": "1663919951.000000"
+    },
+    "thread_ts": "1663919287.747249",
+    "reply_count": 7,
+    "reply_users_count": 4,
+    "latest_reply": "1663948438.668929",
+    "reply_users": [
+      "U03UD68RQH3",
+      "U03U1GHT39V",
+      "U03UKL27B0R",
+      "U03V6HMRPGQ"
+    ],
+    "replies": [
+      {
+        "user": "U03UD68RQH3",
+        "ts": "1663919488.521249"
+      },
+      {
+        "user": "U03U1GHT39V",
+        "ts": "1663920122.902689"
+      },
+      {
+        "user": "U03UKL27B0R",
+        "ts": "1663923888.445529"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1663928696.117169"
+      },
+      {
+        "user": "U03UD68RQH3",
+        "ts": "1663929507.187249"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1663931890.941029"
+      },
+      {
+        "user": "U03U1GHT39V",
+        "ts": "1663948438.668929"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  }
+]

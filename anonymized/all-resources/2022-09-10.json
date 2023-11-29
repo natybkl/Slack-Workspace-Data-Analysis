@@ -1,0 +1,247 @@
+[
+  {
+    "client_msg_id": "ee3769d1-9288-4d9a-9de4-29d42e4eb313",
+    "type": "message",
+    "text": "<https://www.techtarget.com/searchenterpriseai/definition/neural-network>",
+    "user": "U03U1J51VFZ",
+    "ts": "1662796796.024249",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bss",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.techtarget.com/searchenterpriseai/definition/neural-network",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f10afbc7b806",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968075210083_f10afbc7b8060c472ad0_72.png",
+      "first_name": "Heidi",
+      "real_name": "Heidi Martin",
+      "display_name": "Heidi Martin",
+      "team": "T03U4J8HMUG",
+      "name": "Heidi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.techtarget.com/searchenterpriseai/definition/neural-network",
+        "image_url": "https://cdn.ttgtmedia.com/itke/images/logos/ttlogo-379x201.png",
+        "image_width": 379,
+        "image_height": 201,
+        "image_bytes": 18052,
+        "service_icon": "https://www.techtarget.com/apple-touch-icon-144x144.png",
+        "id": 1,
+        "original_url": "https://www.techtarget.com/searchenterpriseai/definition/neural-network",
+        "fallback": "searchenterpriseai: what is a neural network? explanation and examples",
+        "text": "this definition explains what an artificial neural network (ann) is and how they learn and operate. various types of ann computational models are listed and described as well as the applications, advantages, disadvantages and history of anns.",
+        "title": "what is a neural network? explanation and examples",
+        "title_link": "https://www.techtarget.com/searchenterpriseai/definition/neural-network",
+        "service_name": "searchenterpriseai",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "18b26753-b133-4e59-af18-7fa41f0a072f",
+    "type": "message",
+    "text": "if your pc has nvidia gpu <https://medium.com/analytics-vidhya/setup-any-tensorflow-gpu-31ef64337a66>",
+    "user": "U03UG4Q7V42",
+    "ts": "1662828205.275769",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3m5Lt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "if your pc has nvidia gpu "
+              },
+              {
+                "type": "link",
+                "url": "https://medium.com/analytics-vidhya/setup-any-tensorflow-gpu-31ef64337a66",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UG4Q7V42",
+      "ts": "1663188363.000000"
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/analytics-vidhya/setup-any-tensorflow-gpu-31ef64337a66",
+        "ts": 1583331042,
+        "image_url": "https://miro.medium.com/max/1200/1*brpkwx5pzbaao8bzmtmkga@2x.jpeg",
+        "image_width": 500,
+        "image_height": 250,
+        "image_bytes": 67470,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://medium.com/analytics-vidhya/setup-any-tensorflow-gpu-31ef64337a66",
+        "fallback": "medium: install tensorflow &amp; jupyter with gpu support in Joanne minutes\u00a0! [ubuntu 18.04 tested]",
+        "text": "i am making this tutorial because i spent too much time to setup this for the first time. after an update in ubuntu, everything was\u2026",
+        "title": "install tensorflow &amp; jupyter with gpu support in Joanne minutes\u00a0! [ubuntu 18.04 tested]",
+        "title_link": "https://medium.com/analytics-vidhya/setup-any-tensorflow-gpu-31ef64337a66",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "4 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7TUTV"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "525a1b2f-97ad-4f2e-b981-507c5b6f24bc",
+    "type": "message",
+    "text": "<https://www.tensorflow.org/tutorials/keras/save_and_load>",
+    "user": "U03UUR571A5",
+    "ts": "1662828248.530259",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HOLr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.tensorflow.org/tutorials/keras/save_and_load",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.tensorflow.org/tutorials/keras/save_and_load",
+        "image_url": "https://www.tensorflow.org/images/tf_logo_social.png",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 17046,
+        "service_icon": "https://www.gstatic.com/devrel-devsite/prod/v93aa752e9f55c4cc8215e0e532a81ea927c78afc7539799b3f76c27a68eb319c/tensorflow/images/apple-touch-icon-180x180.png",
+        "id": 1,
+        "original_url": "https://www.tensorflow.org/tutorials/keras/save_and_load",
+        "fallback": "tensorflow: save and load models \u00a0|\u00a0 tensorflow core",
+        "title": "save and load models \u00a0|\u00a0 tensorflow core",
+        "title_link": "https://www.tensorflow.org/tutorials/keras/save_and_load",
+        "service_name": "tensorflow",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7TUTV",
+          "U03UG4Q7V42"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a5f544f1-1522-4afe-b6be-eacce5754fe7",
+    "type": "message",
+    "text": "<https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/>",
+    "user": "U03UJGRN5E0",
+    "ts": "1662829449.278709",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AT5d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  }
+]

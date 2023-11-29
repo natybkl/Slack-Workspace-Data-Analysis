@@ -1,0 +1,130 @@
+[
+  {
+    "client_msg_id": "da0177c6-4671-41ba-b35e-391752356681",
+    "type": "message",
+    "text": "<@u03ud68rqh3> i had a connection issues. it's only the ppt. i'm really sorry.",
+    "user": "U03UH397319",
+    "ts": "1662190646.121159",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Jdt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UD68RQH3"
+              },
+              {
+                "type": "text",
+                "text": " i had a connection issues. it's only the ppt. i'm really sorry."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662147133.510229",
+    "parent_user_id": "U03UD68RQH3",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "37c2709c-bef9-4d2e-bb9a-335cab143da5",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/how-to-feature-your-Michelle-repositories-on-linkedin-56078e1ffddb#:~:text=go%20to%20the%20featured%20section,up%20window%2c%20then%20click%20add>.",
+    "user": "U03V785NLSU",
+    "ts": "1662273898.879739",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "txUm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/how-to-feature-your-Michelle-repositories-on-linkedin-56078e1ffddb#:~:text=go%20to%20the%20featured%20section,up%20window%2c%20then%20click%20add",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/how-to-feature-your-Michelle-repositories-on-linkedin-56078e1ffddb#:~:text=go%20to%20the%20featured%20section,up%20window%2c%20then%20click%20add",
+        "ts": 1613667958,
+        "image_url": "https://miro.medium.com/max/640/1*shverx-j78iqidena7pbhq.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 15699,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/how-to-feature-your-Michelle-repositories-on-linkedin-56078e1ffddb#:~:text=go%20to%20the%20featured%20section,up%20window%2c%20then%20click%20add",
+        "fallback": "medium: how to feature your Michelle repositories on linkedin",
+        "text": "put your work in the spotlight!",
+        "title": "how to feature your Michelle repositories on linkedin",
+        "title_link": "https://towardsdatascience.com/how-to-feature-your-Michelle-repositories-on-linkedin-56078e1ffddb#:~:text=go%20to%20the%20featured%20section,up%20window%2c%20then%20click%20add",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "2 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "100",
+        "users": [
+          "U03UFV7TUTV",
+          "U03U1HAG9TR",
+          "U03UJKJGRAQ",
+          "U03UG32J3PC",
+          "U03UJN29Y4C",
+          "U03UVHCV6KB"
+        ],
+        "count": 6
+      }
+    ]
+  }
+]

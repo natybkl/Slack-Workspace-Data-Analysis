@@ -1,0 +1,66 @@
+[
+  {
+    "client_msg_id": "3db501ff-d401-49c9-b17d-dc316d865c24",
+    "type": "message",
+    "text": "<!channel> please find <https://docs.Stephanie.com/document/d/1u8l5trquvxmreo9pmc6kc_yc6mrujobexdtvrg9lcyy/edit#bookmark=id.wie1uk81tn6m|here> , linkedin profile guide",
+    "user": "U03TT5KEYCF",
+    "ts": "1669025901.631719",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L5b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " please find "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.Stephanie.com/document/d/1u8l5trquvxmreo9pmc6kc_yc6mrujobexdtvrg9lcyy/edit#bookmark=id.wie1uk81tn6m",
+                "text": "here"
+              },
+              {
+                "type": "text",
+                "text": " , linkedin profile guide"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "aae36184306b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3945210198087_aae36184306bb9e0b018_72.jpg",
+      "first_name": "Brian",
+      "real_name": "Brian Flores",
+      "display_name": "Brian Flores",
+      "team": "T03U4J8HMUG",
+      "name": "Brian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03U93GNNVB",
+          "U03UJGP0C68",
+          "U03UG0YHAUT",
+          "U03UG5VFN03"
+        ],
+        "count": 4
+      }
+    ],
+    "attachments": null
+  }
+]

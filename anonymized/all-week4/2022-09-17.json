@@ -1,0 +1,408 @@
+[
+  {
+    "client_msg_id": "6619c523-1c44-4bf8-9aae-8a49426ffcc1",
+    "type": "message",
+    "text": "the value of the analytic average score are all less than 5 <@u03uur571a5>",
+    "user": "U03UJH1EQQL",
+    "ts": "1663406097.929799",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pmbo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the value of the analytic average score are all less than 5 "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UUR571A5"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Mason",
+      "real_name": "Mason Harrington",
+      "display_name": "Mason Harrington",
+      "team": "T03U4J8HMUG",
+      "name": "Mason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663365525.313189",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "cf5de2ab-9804-438f-abd7-ec89d523e36f",
+    "type": "message",
+    "text": "yes you are right all are even below 3 for this sample size, but in the task and also in the intro to the task it is stated that the range is 0-Joanne.",
+    "user": "U03UUR571A5",
+    "ts": "1663406609.739319",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7zLT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes you are right all are even below 3 for this sample size, but in the task and also in the intro to the task it is stated that the range is 0-Joanne."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663365525.313189",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "02b882b8-8dd2-479a-a8f4-05a8d2b9c4bd",
+    "type": "message",
+    "text": "<https://txt.cohere.ai/classify-three-options/>",
+    "user": "U03UFV7HFNF",
+    "ts": "1663417016.225809",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cs3y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://txt.cohere.ai/classify-three-options/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://txt.cohere.ai/classify-three-options/",
+        "ts": 1662648774,
+        "image_url": "https://txt.cohere.ai/content/images/2022/09/classify-options-feat.png",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 30686,
+        "service_icon": "https://txt.cohere.ai/favicon.png",
+        "id": 1,
+        "original_url": "https://txt.cohere.ai/classify-three-options/",
+        "fallback": "context by cohere: three ways to build a text classifier with the cohere api",
+        "text": "with llms, you can build a text classifier quickly with just a handful of examples. but you probably want more options and greater control over speed and customizability. this article will help you decide the best option for your task.",
+        "title": "three ways to build a text classifier with the cohere api",
+        "title_link": "https://txt.cohere.ai/classify-three-options/",
+        "service_name": "context by cohere",
+        "fields": [
+          {
+            "value": "Meor Amer",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "Guide",
+            "title": "Filed under",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "30e2111a-4240-459c-ab98-14d4e24f673c",
+    "type": "message",
+    "text": "any help to extract data from json file ?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1663433196.477239",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "peW2J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "any help to extract data from json file ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663433196.477239",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1663436191.536539",
+    "reply_users": [
+      "U03UJGP0C68",
+      "U03V6HMRPGQ",
+      "U03UG1Z21JP"
+    ],
+    "replies": [
+      {
+        "user": "U03UJGP0C68",
+        "ts": "1663434754.563169"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1663435663.208759"
+      },
+      {
+        "user": "U03UG1Z21JP",
+        "ts": "1663436177.599289"
+      },
+      {
+        "user": "U03UG1Z21JP",
+        "ts": "1663436191.536539"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "51446D6A-7BC5-4EF2-B218-EB2BC41FC453",
+    "type": "message",
+    "text": "`import pandas as pd`\n`df=pd.read_json(\u2018yourfile.json\u2019)`",
+    "user": "U03UJGP0C68",
+    "ts": "1663434754.563169",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qBS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "import pandas as pd",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "df=pd.read_json(\u2018yourfile.json\u2019)",
+                "style": {
+                  "code": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UJGP0C68",
+      "ts": "1663434777.000000"
+    },
+    "thread_ts": "1663433196.477239",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c13546f7-e821-4eb5-8d4c-924b5f44543b",
+    "type": "message",
+    "text": "does this will make data ready to be send to cohere ?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1663435663.208759",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "amh/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "does this will make data ready to be send to cohere ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663433196.477239",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2253a919-f425-49fe-8fcd-b856598b1e83",
+    "type": "message",
+    "text": "no",
+    "user": "U03UG1Z21JP",
+    "ts": "1663436177.599289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mw9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663433196.477239",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e05d06b4-1808-4d04-a470-c7c69c9e2cfc",
+    "type": "message",
+    "text": "you need further processing",
+    "user": "U03UG1Z21JP",
+    "ts": "1663436191.536539",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Clv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you need further processing"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663433196.477239",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  }
+]

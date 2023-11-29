@@ -1,0 +1,1276 @@
+[
+  {
+    "client_msg_id": "6a1af54a-eaf6-4961-bc02-a9b4a95e9cb8",
+    "type": "message",
+    "text": "anyone who has been able to test the casino contract on remix?",
+    "user": "U03UH397319",
+    "ts": "1666942404.209919",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vyon",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "anyone who has been able to test the casino contract on remix?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2c2d2d9a-8959-45ad-ac4f-fb2e3e589cd8",
+    "type": "message",
+    "text": "<@u03ujgp0c68> did you find the solution ??",
+    "user": "U03UUR571A5",
+    "ts": "1666944354.347629",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mdgs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UJGP0C68"
+              },
+              {
+                "type": "text",
+                "text": " did you find the solution ??"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666858629.076399",
+    "parent_user_id": "U03V785NLSU",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c5a8209f-3dcb-4425-8c60-2982d5a9a05d",
+    "type": "message",
+    "text": "yeah thanks for checking on....i had to write a migration file which actually do the migration...apparently `truffle migrate` only wouldnt deploy your contract\nbut i still have one more question....have you tried connecting your smart contract from a react app?",
+    "user": "U03UJGP0C68",
+    "ts": "1666944492.227769",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oghDY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah thanks for checking on....i had to write a migration file which actually do the migration...apparently "
+              },
+              {
+                "type": "text",
+                "text": "truffle migrate",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " only wouldnt deploy your contract\nbut i still have one more question....have you tried connecting your smart contract from a react app?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666858629.076399",
+    "parent_user_id": "U03V785NLSU",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "fd7a44c1-c596-4c4f-80ee-224f93c86476",
+    "type": "message",
+    "text": "not exactly for the contracts i wrote, but for other examples yea i did managed.",
+    "user": "U03UUR571A5",
+    "ts": "1666944573.696719",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+R4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "not exactly for the contracts i wrote, but for other examples yea i did managed."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666858629.076399",
+    "parent_user_id": "U03V785NLSU",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "81835050-1135-42d2-ac89-d197c7a3726a",
+    "type": "message",
+    "text": "<https://docs.infura.io/infura/tutorials/ethereum/create-a-dapp-using-truffle-and-react>",
+    "user": "U03UUR571A5",
+    "ts": "1666944585.093839",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NyGiu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.infura.io/infura/tutorials/ethereum/create-a-dapp-using-truffle-and-react",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://docs.infura.io/infura/tutorials/ethereum/create-a-dapp-using-truffle-and-react",
+        "image_url": "https://www.gitbook.com/cdn-cgi/image/width=1280,height=640,fit=contain,dpr=1,format=auto/https%3a%2f%2f7Joanne389488-files.gitbook.io%2f~%2ffiles%2fv0%2fb%2fgitbook-x-prod.appspot.com%2fo%2fspaces%252fm20h0kdaagx1u6Joanne3fup%252fsocialpreview%252f0y06qt9ij99rb4hwqcii%252f400%252bdevelopers.png%3falt%3dmedia%26token%3db915f148-b181-4dfb-94e5-bf3995f71790",
+        "image_width": 477,
+        "image_height": 250,
+        "image_bytes": 199684,
+        "id": 1,
+        "original_url": "https://docs.infura.io/infura/tutorials/ethereum/create-a-dapp-using-truffle-and-react",
+        "fallback": "create a dapp using truffle and react",
+        "text": "create a dapp tutorial",
+        "title": "create a dapp using truffle and react",
+        "title_link": "https://docs.infura.io/infura/tutorials/ethereum/create-a-dapp-using-truffle-and-react",
+        "service_name": "docs.infura.io",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1666858629.076399",
+    "parent_user_id": "U03V785NLSU",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UJGP0C68"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ee92be62-ecf5-4ece-bdc1-c0e4525d11e6",
+    "type": "message",
+    "text": "this is a great doc.",
+    "user": "U03UUR571A5",
+    "ts": "1666944597.621789",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W=6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this is a great doc."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666858629.076399",
+    "parent_user_id": "U03V785NLSU",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "f63c236e-da5a-4300-86ea-ae9f3ad4dbb2",
+    "type": "message",
+    "text": "great let me look at that ....thanks bruh",
+    "user": "U03UJGP0C68",
+    "ts": "1666944753.417749",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9Yk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "great let me look at that ....thanks bruh"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Tammy",
+      "real_name": "Tammy Foster",
+      "display_name": "Tammy Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Tammy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666858629.076399",
+    "parent_user_id": "U03V785NLSU",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UUR571A5"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "eda0d5a7-8b7d-4aa7-a4a8-2456d095a25f",
+    "type": "message",
+    "text": "can someone let me in to the meeting?",
+    "user": "U03UAKATQ22",
+    "ts": "1666951425.634509",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lKj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "can someone let me in to the meeting?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a2d0afeb249a",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3969267243922_a2d0afeb249a9b4f3842_72.png",
+      "first_name": "Thomas",
+      "real_name": "Thomas Rivera",
+      "display_name": "Thomas Rivera",
+      "team": "T03U4J8HMUG",
+      "name": "Thomas",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d73d063d-8fab-4aad-9328-67a5af47caf6",
+    "type": "message",
+    "text": "guys how to downgrade nodejs",
+    "user": "U03UHB8CXDY",
+    "ts": "1666979106.352069",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "z=2p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "guys how to downgrade nodejs"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666979106.352069",
+    "reply_count": 4,
+    "reply_users_count": 2,
+    "latest_reply": "1666979451.598889",
+    "reply_users": [
+      "U03UD68RQH3",
+      "U03U1FNPEUX"
+    ],
+    "replies": [
+      {
+        "user": "U03UD68RQH3",
+        "ts": "1666979194.952359"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1666979421.862349"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1666979449.495099"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1666979451.598889"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "aad688ee-5716-4013-b3fc-0f41ba6ed9ea",
+    "type": "message",
+    "text": "use `nvm` to install a new nodejs and you can switch to any installed node version by `npm use`",
+    "user": "U03UD68RQH3",
+    "ts": "1666979194.952359",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8=ZB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "use "
+              },
+              {
+                "type": "text",
+                "text": "nvm",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to install a new nodejs and you can switch to any installed node version by "
+              },
+              {
+                "type": "text",
+                "text": "npm use",
+                "style": {
+                  "code": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666979106.352069",
+    "parent_user_id": "U03UHB8CXDY",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2733a8b8-0df4-41e7-ad92-19d039b95b05",
+    "type": "message",
+    "text": "```npm install -g node@&lt;version&gt; ```\n",
+    "user": "U03U1FNPEUX",
+    "ts": "1666979421.862349",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kCjUM",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "npm install -g node@<version> "
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666979106.352069",
+    "parent_user_id": "U03UHB8CXDY",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "34a6cef4-ac8a-480f-b347-d1cc890325fc",
+    "type": "message",
+    "text": "this will just downgrade it. but use nvm. this is a nice resource",
+    "user": "U03U1FNPEUX",
+    "ts": "1666979449.495099",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DWk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this will just downgrade it. but use nvm. this is a nice resource"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666979106.352069",
+    "parent_user_id": "U03UHB8CXDY",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "bc0780da-1f39-4e6d-a5c3-0f0b0d6e1e34",
+    "type": "message",
+    "text": "<https://www.rosehosting.com/blog/how-to-install-and-switch-node-js-versions-with-nvm/>",
+    "user": "U03U1FNPEUX",
+    "ts": "1666979451.598889",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JuMBU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.rosehosting.com/blog/how-to-install-and-switch-node-js-versions-with-nvm/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.rosehosting.com/blog/how-to-install-and-switch-node-js-versions-with-nvm/",
+        "ts": 1647883800,
+        "image_url": "https://www.rosehosting.com/blog/wp-content/uploads/2022/02/how-to-install-and-switch-node.js-versions-with-nvm.jpg?v=1645612328",
+        "image_width": 499,
+        "image_height": 250,
+        "image_bytes": 42074,
+        "service_icon": "https://www.rosehosting.com/blog/wp-content/uploads/2022/03/cropped-favicon-1-180x180.png?v=1647725505",
+        "id": 1,
+        "original_url": "https://www.rosehosting.com/blog/how-to-install-and-switch-node-js-versions-with-nvm/",
+        "fallback": "rosehosting: how to install and switch node.js versions with nvm - rosehosting",
+        "text": "in this tutorial, we will show you how to install and switch node.js versions with nvm. let's dive right in!",
+        "title": "how to install and switch node.js versions with nvm - rosehosting",
+        "title_link": "https://www.rosehosting.com/blog/how-to-install-and-switch-node-js-versions-with-nvm/",
+        "service_name": "rosehosting",
+        "fields": [
+          {
+            "value": "Jeff Wilson",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "4 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1666979106.352069",
+    "parent_user_id": "U03UHB8CXDY"
+  },
+  {
+    "client_msg_id": "b321dc00-14ac-4e4b-bd86-a8e5f72571fd",
+    "type": "message",
+    "text": "how do you handle floating numbers in solidity?",
+    "user": "U03UD68RQH3",
+    "ts": "1666980254.844169",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h2kle",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how do you handle floating numbers in solidity?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666980254.844169",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1666981879.341879",
+    "reply_users": [
+      "U03U1FNPEUX",
+      "U03UD68RQH3"
+    ],
+    "replies": [
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1666980339.269119"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1666980399.821449"
+      },
+      {
+        "user": "U03UD68RQH3",
+        "ts": "1666981879.341879"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "075592d2-60eb-4d9b-b592-5e2d58518c51",
+    "type": "message",
+    "text": "idt thats possible",
+    "user": "U03U1FNPEUX",
+    "ts": "1666980339.269119",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tJH+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "idt thats possible"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666980254.844169",
+    "parent_user_id": "U03UD68RQH3",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "21819f2f-f155-42a4-ab1c-81c7e2967e61",
+    "type": "message",
+    "text": "i think you should try doing that in your front end code",
+    "user": "U03U1FNPEUX",
+    "ts": "1666980399.821449",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MzAK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think you should try doing that in your front end code"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666980254.844169",
+    "parent_user_id": "U03UD68RQH3",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "78df5376-103f-4bb1-a943-655511a96339",
+    "type": "message",
+    "text": "is there anyone here that has faced this error when trying to deploy using solidity? it compiles successfully but when i try to deploy this error comes.\n\n```creation of refund errored: cannot destructure property 'result' of 'undefined' as it is undefined.```\n### solved ###\nby clearing the browser cache and reloading remix.\nthanks, <@u03uur571a5>",
+    "user": "U03UVHCV6KB",
+    "ts": "1666981034.677749",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iAA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "is there anyone here that has faced this error when trying to deploy using solidity? it compiles successfully but when i try to deploy this error comes.\n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "creation of refund errored: cannot destructure property 'result' of 'undefined' as it is undefined."
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n### solved ###\nby clearing the browser cache and reloading remix.\nthanks, "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UUR571A5"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UVHCV6KB",
+      "ts": "1666981861.000000"
+    },
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UUR571A5"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e03be1c9-997b-4ba9-9a54-791efa14ef2b",
+    "type": "message",
+    "text": "it is taking for ever to install the app in my phone using \u2018flutter run\u2019. what should i do to install it quickly?\n```running gradle task 'assembledebug'...```",
+    "user": "U03UJGRN5E0",
+    "ts": "1666981708.660739",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8gZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it is taking for ever to install the app in my phone using \u2018flutter run\u2019. what should i do to install it quickly?\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "running gradle task 'assembledebug'..."
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UJGRN5E0",
+      "ts": "1666981751.000000"
+    },
+    "thread_ts": "1666981708.660739",
+    "reply_count": 6,
+    "reply_users_count": 2,
+    "latest_reply": "1666982036.203519",
+    "reply_users": [
+      "U03UUR571A5",
+      "U03UJGRN5E0"
+    ],
+    "replies": [
+      {
+        "user": "U03UUR571A5",
+        "ts": "1666981855.988599"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1666981965.753019"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1666981980.416519"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1666981996.338239"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1666982009.621319"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1666982036.203519"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "f447d958-bfb7-40b5-be3a-e6480b5a4365",
+    "type": "message",
+    "text": "it always takes a while longer for the first installation. so just be patient and have stable internet",
+    "user": "U03UUR571A5",
+    "ts": "1666981855.988599",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oj1NB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it always takes a while longer for the first installation. so just be patient and have stable internet"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666981708.660739",
+    "parent_user_id": "U03UJGRN5E0",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UD68RQH3"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ecacd358-0f97-4516-943d-54edef14714e",
+    "type": "message",
+    "text": "i want to calculate the distance in my smart contract... i tried to find work around... but i couldn't find one",
+    "user": "U03UD68RQH3",
+    "ts": "1666981879.341879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wdk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i want to calculate the distance in my smart contract... i tried to find work around... but i couldn't find one"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "James",
+      "real_name": "James Mann",
+      "display_name": "James Mann",
+      "team": "T03U4J8HMUG",
+      "name": "James",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666980254.844169",
+    "parent_user_id": "U03UD68RQH3",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ca99248a-1dce-4d77-a7d5-fbfb50f47f6b",
+    "type": "message",
+    "text": "i am afraid it will finish on sunday after the due date passed:disappointed_relieved:",
+    "user": "U03UJGRN5E0",
+    "ts": "1666981965.753019",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rEf30",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i am afraid it will finish on sunday after the due date passed"
+              },
+              {
+                "type": "emoji",
+                "name": "disappointed_relieved",
+                "unicode": "1f625"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666981708.660739",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "79425569-e9a1-4348-9abd-fc3e11af9d7d",
+    "type": "message",
+    "text": ":rolling_on_the_floor_laughing:",
+    "user": "U03UUR571A5",
+    "ts": "1666981980.416519",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "somZ+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "unicode": "1f923"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666981708.660739",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d61d2af7-4d45-4dd5-ace3-c34dbd696717",
+    "type": "message",
+    "text": "may be try it after mid night using 4g",
+    "user": "U03UUR571A5",
+    "ts": "1666981996.338239",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bGgJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "may be try it after mid night using 4g"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666981708.660739",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "3b5a001e-4ca9-4b68-af94-08bd2fc432b8",
+    "type": "message",
+    "text": "it will surely download faster",
+    "user": "U03UUR571A5",
+    "ts": "1666982009.621319",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6/J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it will surely download faster"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666981708.660739",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "9eb6ebd0-ddce-4c13-8045-54ac59cebbf8",
+    "type": "message",
+    "text": "<@u03uur571a5> i will do that",
+    "user": "U03UJGRN5E0",
+    "ts": "1666982036.203519",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QfL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UUR571A5"
+              },
+              {
+                "type": "text",
+                "text": " i will do that"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666981708.660739",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  }
+]

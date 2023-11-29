@@ -1,0 +1,128 @@
+[
+  {
+    "client_msg_id": "a5f12d54-c753-48cd-af8a-401c9b69a127",
+    "type": "message",
+    "text": "<https://www.techrepublic.com/article/how-to-deploy-redash-data-visualization-dashboard-help-docker/>",
+    "user": "U03U1FNPEUX",
+    "ts": "1668286043.451409",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UuNNR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.techrepublic.com/article/how-to-deploy-redash-data-visualization-dashboard-help-docker/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.techrepublic.com/article/how-to-deploy-redash-data-visualization-dashboard-help-docker/",
+        "ts": 1648062839,
+        "image_url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2021/07/linux-red-and-black.jpg?x79677",
+        "image_width": 333,
+        "image_height": 250,
+        "image_bytes": 86972,
+        "service_icon": "https://www.techrepublic.com/wp-content/themes/techrepublic/inc/images/app-icons/apple-touch-icon.png?x85972",
+        "id": 1,
+        "original_url": "https://www.techrepublic.com/article/how-to-deploy-redash-data-visualization-dashboard-help-docker/",
+        "fallback": "techrepublic: how to deploy the redash data visualization dashboard with the help of docker",
+        "text": "jack wallen shows you how easily you can deploy the powerful data visualization tool redash as a docker container.",
+        "title": "how to deploy the redash data visualization dashboard with the help of docker",
+        "title_link": "https://www.techrepublic.com/article/how-to-deploy-redash-data-visualization-dashboard-help-docker/",
+        "service_name": "techrepublic",
+        "fields": [
+          {
+            "value": "Jack Wallen",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "3 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ecc5bf48-ed71-469c-9c9d-322aaf65baf3",
+    "type": "message",
+    "text": "<https://redash.io/help/user-guide/getting-started>",
+    "user": "U03U1FNPEUX",
+    "ts": "1668286058.346149",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ecDKF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://redash.io/help/user-guide/getting-started",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://redash.io/help/user-guide/getting-started",
+        "image_url": "https://redash.io/assets/images/social-facebook-1200x630.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 125761,
+        "service_icon": "https://redash.io/assets/images/favicon.ico",
+        "id": 1,
+        "original_url": "https://redash.io/help/user-guide/getting-started",
+        "fallback": "getting started",
+        "title": "getting started",
+        "title_link": "https://redash.io/help/user-guide/getting-started",
+        "service_name": "redash.io",
+        "message_blocks": null
+      }
+    ]
+  }
+]

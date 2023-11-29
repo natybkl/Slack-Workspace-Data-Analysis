@@ -1,0 +1,577 @@
+[
+  {
+    "client_msg_id": "65850ed2-cd73-4a55-af1d-d03b5c941896",
+    "type": "message",
+    "text": "to whom can i ask a question regarding the general training-related types of questions?",
+    "user": "U03UVHCV6KB",
+    "ts": "1666774898.176019",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "C4v/H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "to whom can i ask a question regarding the general training-related types of questions?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a84c6672-7b90-487a-94b8-d2111ac6341d",
+    "type": "message",
+    "text": "such as?",
+    "user": "U03U93GNNVB",
+    "ts": "1666774909.890759",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pk3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "such as?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666774909.890759",
+    "reply_count": 8,
+    "reply_users_count": 2,
+    "latest_reply": "1666789617.013279",
+    "reply_users": [
+      "U03UVHCV6KB",
+      "U03U93GNNVB"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1666775087.070179"
+      },
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1666778229.552809"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1666778736.430759"
+      },
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1666789097.011519"
+      },
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1666789106.716369"
+      },
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1666789118.897979"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1666789248.343689"
+      },
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1666789617.013279"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "59258b45-5cac-4baf-a503-d3648b84e49d",
+    "type": "message",
+    "text": "<@u03t89acuuw> is the usual first point of contact",
+    "user": "U03U93GNNVB",
+    "ts": "1666774928.070509",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PCC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03T89ACUUW"
+              },
+              {
+                "type": "text",
+                "text": " is the usual first point of contact"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666774928.070509",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1666774948.233829",
+    "reply_users": [
+      "U03UVHCV6KB"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1666774948.233829"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03V1AM5TFA"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "01ce25fd-b458-4452-8ba6-944b15bfeaf0",
+    "type": "message",
+    "text": "thank you",
+    "user": "U03UVHCV6KB",
+    "ts": "1666774948.233829",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eTg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666774928.070509",
+    "parent_user_id": "U03U93GNNVB",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03V1AM5TFA"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "eb09eaa6-bbac-46ad-a655-7732f2d8dd3d",
+    "type": "message",
+    "text": "ameliorating the ratio between training and personal working times, and by extension increasing the overall outcome of the training.",
+    "user": "U03UVHCV6KB",
+    "ts": "1666775087.070179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZCxJ0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ameliorating the ratio between training and personal working times, and by extension increasing the overall outcome of the training."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666774909.890759",
+    "parent_user_id": "U03U93GNNVB",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "386a44c8-456d-4fef-a57e-7190fb21754b",
+    "type": "message",
+    "text": "so less scheduled time",
+    "user": "U03U93GNNVB",
+    "ts": "1666778229.552809",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "A5+u",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so less scheduled time"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666774909.890759",
+    "parent_user_id": "U03U93GNNVB",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "bffa3ba2-fcfe-4b56-b8a9-ec671bd0f818",
+    "type": "message",
+    "text": "not exactly, that is exactly what i want to talk about. how to make things better for everyone, if possible. i am not suggesting anything, i just want to talk about it in hopes of making things better for everyone",
+    "user": "U03UVHCV6KB",
+    "ts": "1666778736.430759",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Fyeo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "not exactly, that is exactly what i want to talk about. how to make things better for everyone, if possible. i am not suggesting anything, i just want to talk about it in hopes of making things better for everyone"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666774909.890759",
+    "parent_user_id": "U03U93GNNVB",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "be331a5a-2a6b-4e02-8b46-0d38d8a8e8b7",
+    "type": "message",
+    "text": "excellent",
+    "user": "U03U93GNNVB",
+    "ts": "1666789097.011519",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EawJP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "excellent"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666774909.890759",
+    "parent_user_id": "U03U93GNNVB",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "08caacd0-d6ce-444e-baa1-5ebd3d2a12f7",
+    "type": "message",
+    "text": "talk to <@u03t89acuuw> and then let's improve things",
+    "user": "U03U93GNNVB",
+    "ts": "1666789106.716369",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IfC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "talk to "
+              },
+              {
+                "type": "user",
+                "user_id": "U03T89ACUUW"
+              },
+              {
+                "type": "text",
+                "text": " and then let's improve things"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666774909.890759",
+    "parent_user_id": "U03U93GNNVB",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "513fff80-d379-443d-880e-6a8b5a41d6b6",
+    "type": "message",
+    "text": "p.s. this is the role of each of you as members of our Joanne ac community",
+    "user": "U03U93GNNVB",
+    "ts": "1666789118.897979",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "i7jP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "p.s. this is the role of each of you as members of our Joanne ac community"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666774909.890759",
+    "parent_user_id": "U03U93GNNVB",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2fbb0f80-1d3c-4094-a782-2b069eef6f3b",
+    "type": "message",
+    "text": "already started discussing on several things",
+    "user": "U03UVHCV6KB",
+    "ts": "1666789248.343689",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FnQpZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "already started discussing on several things"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666774909.890759",
+    "parent_user_id": "U03U93GNNVB",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ab4eb265-8a6d-4ca2-b95c-68f87d0a6a7e",
+    "type": "message",
+    "text": "excellent",
+    "user": "U03U93GNNVB",
+    "ts": "1666789617.013279",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eA0A",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "excellent"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666774909.890759",
+    "parent_user_id": "U03U93GNNVB",
+    "attachments": null
+  }
+]

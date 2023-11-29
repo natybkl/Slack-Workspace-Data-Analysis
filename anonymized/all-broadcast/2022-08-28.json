@@ -1,0 +1,103 @@
+[
+  {
+    "client_msg_id": "60a3a57b-16c6-4e87-b5ac-d3fcf2bfea2c",
+    "type": "message",
+    "text": "*announcement*\n<!channel> trust we are having a restful weekend. as we prepare for another intensive week, i have added everyone to <#c03v9gfavun|all-week2>. please let's use this channel for discussions that are related to week 2 challenge. also, kindly find the schedule for week 2  below:\n<https://www.notion.so/Joanneacademy/fbb7cd301a7948b698d9953fdeeb414d?v=2f9f37e628e0452681e4a19cd9d4755c>",
+    "user": "U03TEPYRM2P",
+    "ts": "1661705013.453129",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+9T",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "announcement",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " trust we are having a restful weekend. as we prepare for another intensive week, i have added everyone to "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C03V9GFAVUN"
+              },
+              {
+                "type": "text",
+                "text": ". please let's use this channel for discussions that are related to week 2 challenge. also, kindly find the schedule for week 2  below:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.notion.so/Joanneacademy/fbb7cd301a7948b698d9953fdeeb414d?v=2f9f37e628e0452681e4a19cd9d4755c",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Bridget",
+      "real_name": "Bridget Glover",
+      "display_name": "Bridget Glover",
+      "team": "T03U4J8HMUG",
+      "name": "Bridget",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.notion.so/Joanneacademy/fbb7cd301a7948b698d9953fdeeb414d?v=2f9f37e628e0452681e4a19cd9d4755c",
+        "image_url": "https://www.notion.so/image/https%3a%2f%2fwww.notion.so%2fimages%2fpage-cover%2fnasa_earth_grid.jpg?table=collection&id=287b88cb-cfdc-4ce2-ae09-36fc4117d5ea&spaceid=Joanne6c421d-e3c3-4f2d-a11e-44e044358d74&width=2000&userid=&cache=v2",
+        "image_width": 376,
+        "image_height": 250,
+        "image_bytes": 171698,
+        "service_icon": "https://www.notion.so/images/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.notion.so/Joanneacademy/fbb7cd301a7948b698d9953fdeeb414d?v=2f9f37e628e0452681e4a19cd9d4755c",
+        "fallback": "Joanne academy on notion: Joanne academy - batch 6 - week 2 - schedule",
+        "text": "a new tool for teams &amp; individuals that blends everyday work apps into one.",
+        "title": "Joanne academy - batch 6 - week 2 - schedule",
+        "title_link": "https://www.notion.so/Joanneacademy/fbb7cd301a7948b698d9953fdeeb414d?v=2f9f37e628e0452681e4a19cd9d4755c",
+        "service_name": "Joanne academy on notion",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UG569P7U",
+          "U03UG4Q7V42"
+        ],
+        "count": 2
+      },
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03V1AM5TFA"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

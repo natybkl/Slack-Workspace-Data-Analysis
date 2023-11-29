@@ -1,0 +1,445 @@
+[
+  {
+    "client_msg_id": "2b6e8140-e4d0-4755-a3f0-20aa93685406",
+    "type": "message",
+    "text": "i need clarification on the interim submission please. are task 1.2 due tomorrow too?",
+    "user": "U03UJN29Y4C",
+    "ts": "1661842959.461809",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LIPC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i need clarification on the interim submission please. are task 1.2 due tomorrow too?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661842959.461809",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1661843014.512219",
+    "reply_users": [
+      "U03UG4Q7V42"
+    ],
+    "replies": [
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1661843014.512219"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "692e9bef-bc64-40bf-957d-a4c11cea7adb",
+    "type": "message",
+    "text": "yes check the deliverables section",
+    "user": "U03UG4Q7V42",
+    "ts": "1661843014.512219",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BVN/j",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes check the deliverables section"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661842959.461809",
+    "parent_user_id": "U03UJN29Y4C",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5eecc7b1-0d2c-4107-b684-5567382202c5",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=8h6qmmqwpei>",
+    "user": "U03UG569P7U",
+    "ts": "1661844575.691419",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "X2c=3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=8h6qmmqwpei",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "29bf17011a4a",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968176356738_29bf17011a4a887b2730_72.png",
+      "first_name": "Karen",
+      "real_name": "Karen Pena",
+      "display_name": "Karen Pena",
+      "team": "T03U4J8HMUG",
+      "name": "Karen",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=8h6qmmqwpei",
+        "thumb_url": "https://i.ytimg.com/vi/8h6qmmqwpei/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/8h6qmmqwpei?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"a/b testing\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=8h6qmmqwpei",
+        "fallback": "youtube video: a/b testing",
+        "title": "a/b testing",
+        "title_link": "https://www.youtube.com/watch?v=8h6qmmqwpei",
+        "author_name": "udacity",
+        "author_link": "https://www.youtube.com/c/udacity",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "faaf66a4-43df-426b-9776-e07088c6d735",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=6uw0a3akwmc>",
+    "user": "U03UG569P7U",
+    "ts": "1661845145.429239",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uQ3f",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=6uw0a3akwmc",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "29bf17011a4a",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968176356738_29bf17011a4a887b2730_72.png",
+      "first_name": "Karen",
+      "real_name": "Karen Pena",
+      "display_name": "Karen Pena",
+      "team": "T03U4J8HMUG",
+      "name": "Karen",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=6uw0a3akwmc",
+        "thumb_url": "https://i.ytimg.com/vi/6uw0a3akwmc/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/6uw0a3akwmc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"using hypothesis testing to analyze a/b testing results | data science interviews\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=6uw0a3akwmc",
+        "fallback": "youtube video: using hypothesis testing to analyze a/b testing results | data science interviews",
+        "title": "using hypothesis testing to analyze a/b testing results | data science interviews",
+        "title_link": "https://www.youtube.com/watch?v=6uw0a3akwmc",
+        "author_name": "data interview pro",
+        "author_link": "https://www.youtube.com/c/datainterviewpro",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5c77e189-e752-4dc8-b16e-d0c73edd321e",
+    "type": "message",
+    "text": "please let's use the <#c03t89pmjkg|all-resources> channel to share resources",
+    "user": "U03TEPYRM2P",
+    "ts": "1661855531.955989",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Uz=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "please let's use the "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C03T89PMJKG"
+              },
+              {
+                "type": "text",
+                "text": " channel to share resources"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Bridget",
+      "real_name": "Bridget Glover",
+      "display_name": "Bridget Glover",
+      "team": "T03U4J8HMUG",
+      "name": "Bridget",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "31b69359-0a21-4d2b-968e-b401689a7c00",
+    "type": "message",
+    "text": "career tutorial as started",
+    "user": "U03UH397319",
+    "ts": "1661855605.761569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Y3Wp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "career tutorial as started"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "3e7e86eb-495b-4bff-bbdb-556fe0303c32",
+    "type": "message",
+    "text": "<http://meet.Stephanie.com/ysb-kjdn-hpp|meet.Stephanie.com/ysb-kjdn-hpp>",
+    "user": "U03UH397319",
+    "ts": "1661855635.993049",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YSwH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://meet.Stephanie.com/ysb-kjdn-hpp",
+                "text": "meet.Stephanie.com/ysb-kjdn-hpp"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "94e8bf72-10e8-4a15-99e1-d02ba3e8b869",
+    "type": "message",
+    "text": "for answering task 1.1 questions do we need to do and eda to answer them or we could answer based on our interpretation??",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661895587.103059",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2stL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "for answering task 1.1 questions do we need to do and eda to answer them or we could answer based on our interpretation??"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661895587.103059",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1661934059.439339",
+    "reply_users": [
+      "U03V8LHPDME",
+      "U03V6HMRPGQ"
+    ],
+    "replies": [
+      {
+        "user": "U03V8LHPDME",
+        "ts": "1661898764.879459"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661934059.439339"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "654a3a9d-9cd3-45b8-ae6d-f193a1bbbb24",
+    "type": "message",
+    "text": "where will that interpretation come from? the eda is critical not only to answer some of the listed questions but for how you move forward -- you can use the questions to bootstrap the start of your eda and do both side-by-side to have answers specific to the challenge.",
+    "user": "U03V8LHPDME",
+    "ts": "1661898764.879459",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8G0u/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "where will that interpretation come from? the eda is critical not only to answer some of the listed questions but for how you move forward -- you can use the questions to bootstrap the start of your eda and do both side-by-side to have answers specific to the challenge."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Albert",
+      "real_name": "Albert Rodriguez",
+      "display_name": "Albert Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Albert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661895587.103059",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  }
+]

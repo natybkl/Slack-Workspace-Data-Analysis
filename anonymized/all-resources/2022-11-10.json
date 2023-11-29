@@ -1,0 +1,494 @@
+[
+  {
+    "client_msg_id": "0bc49c3c-faf8-40ea-b431-519ec4a11980",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=s1eapg6gjlu>",
+    "user": "U03U1FNPEUX",
+    "ts": "1668109094.783509",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CG/N",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=s1eapg6gjlu",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03U1FNPEUX",
+      "ts": "1668109118.000000"
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=s1eapg6gjlu",
+        "thumb_url": "https://i.ytimg.com/vi/s1eapg6gjlu/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/s1eapg6gjlu?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"airflow connection connect to postgres: airflow tutorial pJoanne\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=s1eapg6gjlu",
+        "fallback": "youtube video: airflow connection connect to postgres: airflow tutorial pJoanne",
+        "title": "airflow connection connect to postgres: airflow tutorial pJoanne",
+        "title_link": "https://www.youtube.com/watch?v=s1eapg6gjlu",
+        "author_name": "coder2j",
+        "author_link": "https://www.youtube.com/c/coder2j",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0eacd0d0-2d6e-4442-948c-b39e13897bf9",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f>",
+    "user": "U03UG1Z21JP",
+    "ts": "1668148131.829219",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=fIf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f",
+        "ts": 1594262689,
+        "image_url": "https://miro.medium.com/max/1200/1*4mrirfyocqhokoesx0cc4q.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 222582,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f",
+        "fallback": "medium: introduction to causality in machine learning",
+        "text": "why we need causality in machine learning (from a business perspective)",
+        "title": "introduction to causality in machine learning",
+        "title_link": "https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "8 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "50a480be-deff-411a-b12f-bf3ad0026cc1",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=rlftxtgevhm>",
+    "user": "U03UG1Z21JP",
+    "ts": "1668148183.138989",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K/XjB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=rlftxtgevhm",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=rlftxtgevhm",
+        "thumb_url": "https://i.ytimg.com/vi/rlftxtgevhm/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/rlftxtgevhm?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"spark streaming example with pyspark \u274c best apache spark structured streaming tutorial with pyspark\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=rlftxtgevhm",
+        "fallback": "youtube video: spark streaming example with pyspark \u274c best apache spark structured streaming tutorial with pyspark",
+        "title": "spark streaming example with pyspark \u274c best apache spark structured streaming tutorial with pyspark",
+        "title_link": "https://www.youtube.com/watch?v=rlftxtgevhm",
+        "author_name": "decisionforest",
+        "author_link": "https://www.youtube.com/c/decisionforest",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "63e30a12-c955-4a73-8e30-fa18498f202c",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=wrls0gmh0yi&amp;list=plkm0mh7grb25pokeiid5peqg-ozlqrnm4&amp;index=5>",
+    "user": "U03UUR571A5",
+    "ts": "1668149779.991649",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gKL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=wrls0gmh0yi&list=plkm0mh7grb25pokeiid5peqg-ozlqrnm4&index=5",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=wrls0gmh0yi&amp;index=5",
+        "thumb_url": "https://i.ytimg.com/vi/wrls0gmh0yi/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/wrls0gmh0yi?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"part 4 - prerequisites for building private geth ethereum blockchain network (blockhoic) 4k video\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=wrls0gmh0yi&amp;list=plkm0mh7grb25pokeiid5peqg-ozlqrnm4&amp;index=5",
+        "fallback": "youtube video: part 4 - prerequisites for building private geth ethereum blockchain network (blockhoic) 4k video",
+        "title": "part 4 - prerequisites for building private geth ethereum blockchain network (blockhoic) 4k video",
+        "title_link": "https://www.youtube.com/watch?v=wrls0gmh0yi&amp;index=5",
+        "author_name": "blockholic",
+        "author_link": "https://www.youtube.com/c/blockholic",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e83f884a-ef0b-4bf7-a9cc-309026711757",
+    "type": "message",
+    "text": "<https://www.frontiersin.org/research-topics/27826/causal-methods-in-clinical-prediction>",
+    "user": "U03UHB8CXDY",
+    "ts": "1668150320.620629",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tWuL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.frontiersin.org/research-topics/27826/causal-methods-in-clinical-prediction",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.frontiersin.org/research-topics/27826/causal-methods-in-clinical-prediction",
+        "service_icon": "https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/favicon_16x16.ico",
+        "id": 1,
+        "original_url": "https://www.frontiersin.org/research-topics/27826/causal-methods-in-clinical-prediction",
+        "fallback": "frontiers: causal methods in clinical prediction",
+        "text": "born out of the",
+        "title": "causal methods in clinical prediction",
+        "title_link": "https://www.frontiersin.org/research-topics/27826/causal-methods-in-clinical-prediction",
+        "service_name": "frontiers",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7cd3cd0f-2bc7-4701-aa61-fadaaa28cc9e",
+    "type": "message",
+    "text": "<https://www.frontiersin.org/articles/Joanne.3389/fepid.2022.899655/full#main-content>",
+    "user": "U03UHB8CXDY",
+    "ts": "1668150382.762159",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FQL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.frontiersin.org/articles/Joanne.3389/fepid.2022.899655/full#main-content",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.frontiersin.org/articles/Joanne.3389/fepid.2022.899655/full#main-content",
+        "image_url": "https://www.frontiersin.org/files/myhome%20article%20library/899655/899655_thumb_400.jpg",
+        "image_width": 347,
+        "image_height": 250,
+        "image_bytes": 19744,
+        "service_icon": "https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/favicon_16x16.ico",
+        "id": 1,
+        "original_url": "https://www.frontiersin.org/articles/Joanne.3389/fepid.2022.899655/full#main-content",
+        "fallback": "frontiers: causal discovery in high-dimensional, multicollinear datasets",
+        "text": "as the cost of high-throughput genomic sequencing technology declines, its application in clinical research becomes increasingly popular. the collected datasets often contain tens or hundreds of thousands of biological features that need to be mined to extract meaningful information. one area of particular interest is discovering underlying causal mechanisms of disease outcomes. over the past few decades, causal discovery algorithms have been developed and expanded to infer such relationships. however, these algorithms suffer from the curse of dimensionality and multicollinearity. a recently introduced, non-orthogonal, general empirical bayes approach to matrix factorization has been demonstrated to successfully infer latent factors with interpretable structures from observed variables. we hypothesize that applying this strategy to causal discovery algorithms can solve both the high dimensionality and collinearity problems, inherent to most biomedical datasets. we evaluate this strategy on simulated data and apply it to two real-world datasets. in a breast cancer dataset, we identified important survival-associated latent factors and biologically meaningful enriched pathways within factors related to important clinical features. in a sars-cov-2 dataset, we were able to predict whether a patient (1) had covid-19 and (2) would enter the icu. furthermore, we were able to associate factors with known covid-19 related biological pathways.",
+        "title": "causal discovery in high-dimensional, multicollinear datasets",
+        "title_link": "https://www.frontiersin.org/articles/Joanne.3389/fepid.2022.899655/full#main-content",
+        "service_name": "frontiers",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d430d39b-6c5b-4f82-a2a1-91d7af009414",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/implementing-causal-inference-a-key-step-towards-agi-de2cde8ea599#:~:text=dowhy%20breaks%20down%20causal%20inference,identify%2c%20estimate%2c%20and%20refute>.",
+    "user": "U03UG1Z21JP",
+    "ts": "1668151119.028329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "djKQh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/implementing-causal-inference-a-key-step-towards-agi-de2cde8ea599#:~:text=dowhy%20breaks%20down%20causal%20inference,identify%2c%20estimate%2c%20and%20refute",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/implementing-causal-inference-a-key-step-towards-agi-de2cde8ea599#:~:text=dowhy%20breaks%20down%20causal%20inference,identify%2c%20estimate%2c%20and%20refute",
+        "ts": 1585584162,
+        "image_url": "https://miro.medium.com/max/931/0*imkx-vuan5or6irz.jpg",
+        "image_width": 238,
+        "image_height": 250,
+        "image_bytes": 105823,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/implementing-causal-inference-a-key-step-towards-agi-de2cde8ea599#:~:text=dowhy%20breaks%20down%20causal%20inference,identify%2c%20estimate%2c%20and%20refute",
+        "fallback": "medium: implementing causal inference: trying to understand the question of why",
+        "text": "a tutorial on causal inference with dowhy",
+        "title": "implementing causal inference: trying to understand the question of why",
+        "title_link": "https://towardsdatascience.com/implementing-causal-inference-a-key-step-towards-agi-de2cde8ea599#:~:text=dowhy%20breaks%20down%20causal%20inference,identify%2c%20estimate%2c%20and%20refute",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "11 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f1c89808-ec78-4b10-8990-514c18ae4481",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=zpuefjj2us8>",
+    "user": "U03UHB8CXDY",
+    "ts": "1668152324.413459",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LQi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=zpuefjj2us8",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=zpuefjj2us8",
+        "thumb_url": "https://i.ytimg.com/vi/zpuefjj2us8/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/zpuefjj2us8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"research questions (the effect: videos on causal inference, ep 2)\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=zpuefjj2us8",
+        "fallback": "youtube video: research questions (the effect: videos on causal inference, ep 2)",
+        "title": "research questions (the effect: videos on causal inference, ep 2)",
+        "title_link": "https://www.youtube.com/watch?v=zpuefjj2us8",
+        "author_name": "econometrics, causality, and coding with dr. hk",
+        "author_link": "https://www.youtube.com/c/nickhuntingtonklein",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  }
+]

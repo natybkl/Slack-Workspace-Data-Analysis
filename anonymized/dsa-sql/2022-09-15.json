@@ -1,0 +1,336 @@
+[
+  {
+    "client_msg_id": "bc89b132-2296-47e2-8462-7b11af3ef02f",
+    "type": "message",
+    "text": "<!channel> here is this weeks *timed contest.* it will *start*  at *9am* utc *ends* at *Joanneam* utc.\nat 9:50am utc we will have a session as always about the contest.\n<https://www.hackerrank.com/Joanne-academy-batch-6-challenge-04>\n\nbelow are some *resources* that will help you with the challenge\n\n*commons*:\n<https://www.youtube.com/watch?v=wji1wncintg>\n<https://leetcode.com/explore/learn/card/queue-stack/>\n\n*stacks*\n<https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67>\n<https://www.coursera.org/lecture/data-structures/stacks-udkzq>\n\n*queues*\n<https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04>\n<https://www.coursera.org/lecture/data-structures/queues-eshpq>\n\n*sql*\n<https://www.geeksforgeeks.org/aggregate-functions-in-sql/>\n<https://www.w3schools.com/mysql/mysql_count_avg_sum.asp>\n<https://www.w3schools.com/mysql/mysql_having.asp>",
+    "user": "U03U9DB7REG",
+    "ts": "1663275610.461769",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UJgx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " here is this weeks "
+              },
+              {
+                "type": "text",
+                "text": "timed contest.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " it will "
+              },
+              {
+                "type": "text",
+                "text": "start",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  at "
+              },
+              {
+                "type": "text",
+                "text": "9am ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "utc "
+              },
+              {
+                "type": "text",
+                "text": "ends",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " at "
+              },
+              {
+                "type": "text",
+                "text": "Joanneam",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " utc.\nat 9:50am utc we will have a session as always about the contest.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.hackerrank.com/Joanne-academy-batch-6-challenge-04",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n\nbelow are some "
+              },
+              {
+                "type": "text",
+                "text": "resources",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " that will help you with the challenge\n\n"
+              },
+              {
+                "type": "text",
+                "text": "commons",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ":\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=wji1wncintg",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://leetcode.com/explore/learn/card/queue-stack/",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "stacks",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.coursera.org/lecture/data-structures/stacks-udkzq",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "queues",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.coursera.org/lecture/data-structures/queues-eshpq",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "sql",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.geeksforgeeks.org/aggregate-functions-in-sql/",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.w3schools.com/mysql/mysql_count_avg_sum.asp",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.w3schools.com/mysql/mysql_having.asp",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "10b2063307e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3958997027442_10b2063307e91bfe2157_72.png",
+      "first_name": "Dawn",
+      "real_name": "Dawn Green",
+      "display_name": "Dawn Green",
+      "team": "T03U4J8HMUG",
+      "name": "Dawn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03U9DB7REG",
+      "ts": "1663275719.000000"
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.hackerrank.com/Joanne-academy-batch-6-challenge-04",
+        "thumb_url": "https://hrcdn.net/og/default.jpg",
+        "thumb_width": 1200,
+        "thumb_height": 640,
+        "service_icon": "https://hrcdn.net/hackerrank/assets/apple-touch-icon-precomposed-c99b684c98b4befc43c47592bc900ebd95a0b1e9b9e5Joanne3b252c8b320432646d.png",
+        "id": 1,
+        "original_url": "https://www.hackerrank.com/Joanne-academy-batch-6-challenge-04",
+        "fallback": "hackerrank: join Joanne academy batch 6 challenge 04 on hackerrank",
+        "text": "**week 4 \u2013 stacks and queues ***resources commons: <https://www.youtube.com/watch?v=wji1wncintg> <https://leetcode.com/explore/learn/card/queue-stack/> stacks <https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67> <https://www.coursera.org/lecture/data-structures/stacks-udkzq> queues <https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04> <https://www.coursera.org/lecture/data-structures/queues-eshpq> mysql <https://www.geeksforgeeks.org/aggregate-functions-in-sql/> <https://www.w3schools.com/mysql/mysql_count_avg_sum.asp> <https://www.w3schools.com/mysql/mysql_having.asp>",
+        "title": "join Joanne academy batch 6 challenge 04 on hackerrank",
+        "title_link": "https://www.hackerrank.com/Joanne-academy-batch-6-challenge-04",
+        "service_name": "hackerrank",
+        "message_blocks": null
+      },
+      {
+        "from_url": "https://www.youtube.com/watch?v=wji1wncintg",
+        "thumb_url": "https://i.ytimg.com/vi/wji1wncintg/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/wji1wncintg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"data structures: stacks and queues\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 2,
+        "original_url": "https://www.youtube.com/watch?v=wji1wncintg",
+        "fallback": "youtube video: data structures: stacks and queues",
+        "title": "data structures: stacks and queues",
+        "title_link": "https://www.youtube.com/watch?v=wji1wncintg",
+        "author_name": "hackerrank",
+        "author_link": "https://www.youtube.com/c/hackerrankofficial",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      },
+      {
+        "from_url": "https://leetcode.com/explore/learn/card/queue-stack/",
+        "image_url": "https://leetcode.com/static/images/leetcode_sharing.png",
+        "image_width": 481,
+        "image_height": 250,
+        "image_bytes": 139567,
+        "service_icon": "https://leetcode.com/apple-touch-icon-57x57.png",
+        "id": 3,
+        "original_url": "https://leetcode.com/explore/learn/card/queue-stack/",
+        "fallback": "explore - leetcode",
+        "text": "leetcode explore is the best place for everyone to start practicing and learning on leetcode. no matter if you are a beginner or a master, there are always new topics waiting for you to explore.",
+        "title": "explore - leetcode",
+        "title_link": "https://leetcode.com/explore/learn/card/queue-stack/",
+        "service_name": "leetcode",
+        "message_blocks": null
+      },
+      {
+        "from_url": "https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67",
+        "ts": 1488150850,
+        "image_url": "https://miro.medium.com/max/1200/1*xngrkghgw18onu1gl0hm-w.jpeg",
+        "image_width": 401,
+        "image_height": 250,
+        "image_bytes": 137871,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 4,
+        "original_url": "https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67",
+        "fallback": "medium: stacks and overflows",
+        "text": "when i was first learning to code, errors used to scare the hell out of me. my gut reaction would be to panic and immediately think that i\u2026",
+        "title": "stacks and overflows",
+        "title_link": "https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "10 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      },
+      {
+        "from_url": "https://www.coursera.org/lecture/data-structures/stacks-udkzq",
+        "thumb_url": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/video_landing_page/video_landing_page~xs03c_h_eewitarll-mu0w/video_landing_page~xs03c_h_eewitarll-mu0w.jpeg",
+        "thumb_width": 1772,
+        "thumb_height": 928,
+        "service_icon": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/apple-touch-icon-v2-57x57.png",
+        "id": 5,
+        "original_url": "https://www.coursera.org/lecture/data-structures/stacks-udkzq",
+        "fallback": "coursera: stacks - basic data structures | coursera",
+        "text": "video created by university of california san diego for the course \"data structures\". in this module, you will learn about the basic data structures used throughout the rest of this course. we start this module by looking in detail at the ...",
+        "title": "stacks - basic data structures | coursera",
+        "title_link": "https://www.coursera.org/lecture/data-structures/stacks-udkzq",
+        "service_name": "coursera",
+        "message_blocks": null
+      }
+    ]
+  }
+]

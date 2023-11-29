@@ -1,0 +1,97 @@
+[
+  {
+    "client_msg_id": "4af9454b-f1ee-416b-9867-0120075fbfa8",
+    "type": "message",
+    "text": "<@u03ud5b7c3x> can you please check if the issue has been fixed.",
+    "user": "U03UYNR4TS4",
+    "ts": "1665128486.524229",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WAi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UD5B7C3X"
+              },
+              {
+                "type": "text",
+                "text": " can you please check if the issue has been fixed."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "ece89da354cc",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3954468496694_ece89da354cc65fa4a95_72.png",
+      "first_name": "Frances",
+      "real_name": "Frances Carpenter",
+      "display_name": "Frances Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Frances",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665121097.450089",
+    "parent_user_id": "U03UD5B7C3X",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "26628161-1926-4434-aecb-2c286106cf74",
+    "type": "message",
+    "text": "yes, it has! thank you!",
+    "user": "U03UD5B7C3X",
+    "ts": "1665128592.289799",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sLwA1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes, it has! thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665121097.450089",
+    "parent_user_id": "U03UD5B7C3X",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UYNR4TS4"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  }
+]

@@ -1,0 +1,745 @@
+[
+  {
+    "client_msg_id": "fc2e7b1a-9984-4a67-b4cc-0e76c74dccb4",
+    "type": "message",
+    "text": "hello guys, i have installed dbt successfully and i want to connect it to postgres db. could any one give me some guidance ?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1664030088.391559",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LO+qG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello guys, i have installed dbt successfully and i want to connect it to postgres db. could any one give me some guidance ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664030088.391559",
+    "reply_count": 12,
+    "reply_users_count": 2,
+    "latest_reply": "1664032494.292519",
+    "reply_users": [
+      "U03UG32J3PC",
+      "U03V6HMRPGQ"
+    ],
+    "replies": [
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1664030346.281359"
+      },
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1664030388.034519"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1664031086.309659"
+      },
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1664031381.696009"
+      },
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1664031405.754349"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1664031544.760379"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1664031586.728959"
+      },
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1664031653.394589"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1664031708.301459"
+      },
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1664031726.385059"
+      },
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1664031797.701039"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1664032494.292519"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ccc833a8-2493-4848-b378-109d62791c94",
+    "type": "message",
+    "text": "find the profile.yml file. in that file you can configure the postgres connection",
+    "user": "U03UG32J3PC",
+    "ts": "1664030346.281359",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KgNM2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "find the profile.yml file. in that file you can configure the postgres connection"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664030088.391559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "038ac1e3-3019-4660-8fc3-5e30b1357d44",
+    "type": "message",
+    "text": "in ubuntu that file is located in /home/username/.dbt/profile.yml",
+    "user": "U03UG32J3PC",
+    "ts": "1664030388.034519",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Waj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "in ubuntu that file is located in /home/username/.dbt/profile.yml"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664030088.391559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "cd70b5c7-b621-4aa3-a64d-b87a9546a6dd",
+    "type": "message",
+    "text": "what if i created it myself.\nsecondly, i have no idea about setup postgres database for both airflow and dbt and maybe for redash. could you provide me a good resource where i could follow its steps",
+    "user": "U03V6HMRPGQ",
+    "ts": "1664031086.309659",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UOBhW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what if i created it myself.\nsecondly, i have no idea about setup postgres database for both airflow and dbt and maybe for redash. could you provide me a good resource where i could follow its steps"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664030088.391559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "7d65921a-7b86-4aca-adec-083a84f0bd41",
+    "type": "message",
+    "text": "the profile.yml file will be created when you use the dbt init command. have you created your dbt project? the database you created for airflow can be used for all.",
+    "user": "U03UG32J3PC",
+    "ts": "1664031381.696009",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DC2sZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the profile.yml file will be created when you use the dbt init command. have you created your dbt project? the database you created for airflow can be used for all."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664030088.391559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "98c6b9e0-b250-4ecc-ade9-c2d1520f3353",
+    "type": "message",
+    "text": "<https://Joanneacademybatch6.slack.com/archives/c042yefqfbn/p1663961916997629>",
+    "user": "U03UG32J3PC",
+    "ts": "1664031405.754349",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "epWGJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://Joanneacademybatch6.slack.com/archives/c042yefqfbn/p1663961916997629",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Joanneacademybatch6.slack.com/archives/c042yefqfbn/p1663961916997629",
+        "ts": "1663961916.997629",
+        "author_id": "u03uh397319",
+        "channel_team": "t03u4j8hmug",
+        "channel_id": "c042yefqfbn",
+        "is_msg_unfurl": true,
+        "is_thread_root_unfurl": true,
+        "message_blocks": [
+          {
+            "team": "T03U4J8HMUG",
+            "channel": "C042YEFQFBN",
+            "ts": "1663961916.997629",
+            "message": {
+              "blocks": [
+                {
+                  "type": "rich_text",
+                  "block_id": "9tb",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "could someone help me fill this? my dbt profile: i'm using airflow db in my docker container"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "files": [
+          {
+            "id": "F043QBLU0D9",
+            "created": 1663961914,
+            "timestamp": 1663961914,
+            "name": "Screenshot from 2022-09-23 20-37-28.png",
+            "title": "Screenshot from 2022-09-23 20-37-28.png",
+            "mimetype": "image/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U03UH397319",
+            "user_team": "T03U4J8HMUG",
+            "editable": false,
+            "size": 27292,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F043QBLU0D9/screenshot_from_2022-09-23_20-37-28.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+            "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F043QBLU0D9/download/screenshot_from_2022-09-23_20-37-28.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+            "media_display_type": "unknown",
+            "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F043QBLU0D9-98b40adc19/screenshot_from_2022-09-23_20-37-28_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+            "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F043QBLU0D9-98b40adc19/screenshot_from_2022-09-23_20-37-28_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+            "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F043QBLU0D9-98b40adc19/screenshot_from_2022-09-23_20-37-28_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+            "thumb_360_w": 239,
+            "thumb_360_h": 360,
+            "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F043QBLU0D9-98b40adc19/screenshot_from_2022-09-23_20-37-28_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+            "original_w": 267,
+            "original_h": 402,
+            "thumb_tiny": "AwAwAB+kDRnFIKXHtQAhOaSl4pKAFFLSClxQAHp0ptLikoAUUtJRn3oAUgDrTaXJpKAP/9k=",
+            "permalink": "https://10academybatch6.slack.com/files/U03UH397319/F043QBLU0D9/screenshot_from_2022-09-23_20-37-28.png",
+            "permalink_public": "https://slack-files.com/T03U4J8HMUG-F043QBLU0D9-c3902ef152",
+            "comments_count": 0,
+            "is_starred": false,
+            "has_rich_preview": false,
+            "file_access": "visible"
+          }
+        ],
+        "id": 1,
+        "original_url": "https://Joanneacademybatch6.slack.com/archives/c042yefqfbn/p1663961916997629",
+        "fallback": "[september 23rd, 2022 12:38 pm] Monica: could someone help me fill this? my dbt profile: i'm using airflow db in my docker container",
+        "text": "could someone help me fill this? my dbt profile: i'm using airflow db in my docker container",
+        "author_name": "Monica Newton",
+        "author_link": "https://Joanneacademybatch6.slack.com/team/u03uh397319",
+        "author_icon": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=48&d=https%3a%2f%2fa.slack-edge.com%2fdfJoanned%2fimg%2favatars%2fava_0014-48.png",
+        "author_subname": "Monica Newton",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "footer": "thread in slack conversation"
+      }
+    ],
+    "thread_ts": "1664030088.391559",
+    "parent_user_id": "U03V6HMRPGQ"
+  },
+  {
+    "client_msg_id": "7a3be059-e549-4e27-a6b1-9bda65e06964",
+    "type": "message",
+    "text": "i create a dbt project but the profiles.yml didn't come with it",
+    "user": "U03V6HMRPGQ",
+    "ts": "1664031544.760379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Lpx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i create a dbt project but the profiles.yml didn't come with it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664030088.391559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "a09fb59e-c273-44db-98be-6c25af75498c",
+    "type": "message",
+    "text": "and i couldn't connect my database with airflow, can you give me steps for that ?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1664031586.728959",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rcFi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "and i couldn't connect my database with airflow, can you give me steps for that ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664030088.391559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "09fa935d-5c28-4be1-a9f2-cc40e929450c",
+    "type": "message",
+    "text": "try to find a .dbt folder in your user directory",
+    "user": "U03UG32J3PC",
+    "ts": "1664031653.394589",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "P0zv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "try to find a .dbt folder in your user directory"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664030088.391559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "db9f3c4c-aeec-4d6b-bf5a-d848aa77a0a2",
+    "type": "message",
+    "text": "i found it, know should i edit it directly or i should move it to my git repo file ?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1664031708.301459",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LhFCZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i found it, know should i edit it directly or i should move it to my git repo file ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664030088.391559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "88af95e2-6efc-4330-96e2-1ec273210b7e",
+    "type": "message",
+    "text": "you can edit that directly",
+    "user": "U03UG32J3PC",
+    "ts": "1664031726.385059",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fNkb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you can edit that directly"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664030088.391559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "6919e49f-3fcd-4dc2-b861-2377c1fed37b",
+    "type": "message",
+    "text": "you can use the same username, password, and, database with the airflow postgres config",
+    "user": "U03UG32J3PC",
+    "ts": "1664031797.701039",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TXFe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you can use the same username, password, and, database with the airflow postgres config"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664030088.391559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "66bc46c4-977c-4647-94d8-6949528bd73c",
+    "type": "message",
+    "text": "okay thank you so much <@u03ug32j3pc>",
+    "user": "U03V6HMRPGQ",
+    "ts": "1664032494.292519",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SuqZH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay thank you so much "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UG32J3PC"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664030088.391559",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UG32J3PC"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "23fd8b53-c648-4129-86df-e01f0e072814",
+    "type": "message",
+    "text": "```docker-compose up airflow-init```\nrunning database migrations and create the first user account with the above code is taking so much time, is this normal?",
+    "user": "U03UJN29Y4C",
+    "ts": "1664038008.029419",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ohqh",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "docker-compose up airflow-init"
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "running database migrations and create the first user account with the above code is taking so much time, is this normal?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  }
+]

@@ -1,0 +1,446 @@
+[
+  {
+    "type": "message",
+    "text": "meeting has started.",
+    "user": "U03UUR571A5",
+    "ts": "1667372560.884819",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6UL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "meeting has started."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Kelsey",
+      "real_name": "Kelsey Shields",
+      "display_name": "Kelsey Shields",
+      "team": "T03U4J8HMUG",
+      "name": "Kelsey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Joanneacademybatch6.slack.com/archives/c049k0lfru0/p1667284344612559",
+        "ts": "1667284344.612559",
+        "author_id": "u03v61vgqg0",
+        "channel_id": "c049k0lfru0",
+        "channel_team": "t03u4j8hmug",
+        "is_msg_unfurl": true,
+        "message_blocks": [
+          {
+            "team": "T03U4J8HMUG",
+            "channel": "C049K0LFRU0",
+            "ts": "1667284344.612559",
+            "message": {
+              "blocks": [
+                {
+                  "type": "rich_text",
+                  "block_id": "eXW=",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "use this meeting link to join @7am utc "
+                        },
+                        {
+                          "type": "link",
+                          "url": "https://meet.google.com/jdo-bmpe-iac"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "color": "d0d0d0",
+        "is_share": true,
+        "fallback": "[november 1st, 2022 9:32 am] diane: use this meeting link to join @7am utc <https://meet.Stephanie.com/jdo-bmpe-iac>",
+        "text": "use this meeting link to join @7am utc <https://meet.Stephanie.com/jdo-bmpe-iac>",
+        "author_name": "Diane duffy",
+        "author_link": "https://Joanneacademybatch6.slack.com/team/u03v61vgqg0",
+        "author_icon": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_48.jpg",
+        "author_subname": "Diane duffy",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "footer": "slack conversation"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "304d1003-79c4-4e8f-83e9-21af0ff9d606",
+    "type": "message",
+    "text": "hello everyone..\ni apologize for being unresponsive.. i had to pass some exams at school. i'm a second year master's student.. so i'm done today, and i can be active to work now..",
+    "user": "U03UH397319",
+    "ts": "1667412165.869719",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ogcmL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello everyone..\ni apologize for being unresponsive.. i had to pass some exams at school. i'm a second year master's student.. so i'm done today, and i can be active to work now.."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667412165.869719",
+    "reply_count": 5,
+    "reply_users_count": 3,
+    "latest_reply": "1667458544.760429",
+    "reply_users": [
+      "U03UG1Z21JP",
+      "U03UH397319",
+      "U03V61VGQG0"
+    ],
+    "replies": [
+      {
+        "user": "U03UG1Z21JP",
+        "ts": "1667413297.450989"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667413723.187429"
+      },
+      {
+        "user": "U03UG1Z21JP",
+        "ts": "1667414247.338159"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1667415353.511379"
+      },
+      {
+        "user": "U03V61VGQG0",
+        "ts": "1667458544.760429"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "9b8b1deb-e9a1-4a2c-8c6d-b546b3f54a47",
+    "type": "message",
+    "text": "next meeting is tomorrow morning right?",
+    "user": "U03UH397319",
+    "ts": "1667412192.646899",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wLdE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "next meeting is tomorrow morning right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "304e184f-f922-4406-9def-9d9c8215b780",
+    "type": "message",
+    "text": "i can related.",
+    "user": "U03UG1Z21JP",
+    "ts": "1667413297.450989",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IUf/5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i can related."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667412165.869719",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "643606d1-dc43-45a5-8f61-410a7f5c9ea6",
+    "type": "message",
+    "text": "yeah please update me",
+    "user": "U03UH397319",
+    "ts": "1667413723.187429",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tVU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah please update me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667412165.869719",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "f53dd6ca-a9c4-46ab-9ffd-1752f82acee2",
+    "type": "message",
+    "text": "check the shared document and read the part of tasks, and choose one task. write it beside your name but, now the focus is on submission. this is what everyone is doing",
+    "user": "U03UG1Z21JP",
+    "ts": "1667414247.338159",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3VSlC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "check the shared document and read the part of tasks, and choose one task. write it beside your name but, now the focus is on submission. this is what everyone is doing"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Crane",
+      "display_name": "Tiffany Crane",
+      "team": "T03U4J8HMUG",
+      "name": "Tiffany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667412165.869719",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ff00b7a8-bb29-4ea1-b1da-38094c468aec",
+    "type": "message",
+    "text": "sure.... thanks",
+    "user": "U03UH397319",
+    "ts": "1667415353.511379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kLT96",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sure.... thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667412165.869719",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "da29582b-8eec-4282-b02b-2c289ef495cf",
+    "type": "message",
+    "text": "guys we will have our meeting in the next 5 min, don't be late",
+    "user": "U03V61VGQG0",
+    "ts": "1667458487.020209",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZrdJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "guys we will have our meeting in the next 5 min, don't be late"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Diane",
+      "real_name": "Diane Cruz",
+      "display_name": "Diane Cruz",
+      "team": "T03U4J8HMUG",
+      "name": "Diane",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d0799150-57d3-427c-b688-449ca05eb989",
+    "type": "message",
+    "text": "we understand Monica, hope we will collaborate on the rest of the tasks",
+    "user": "U03V61VGQG0",
+    "ts": "1667458544.760429",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "THM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "we understand Monica, hope we will collaborate on the rest of the tasks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Diane",
+      "real_name": "Diane Cruz",
+      "display_name": "Diane Cruz",
+      "team": "T03U4J8HMUG",
+      "name": "Diane",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667412165.869719",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  }
+]

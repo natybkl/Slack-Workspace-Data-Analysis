@@ -1,0 +1,4531 @@
+[
+  {
+    "client_msg_id": "a44a45e8-d16b-42dd-94fa-0443b997a81e",
+    "type": "message",
+    "text": "i guess it all depends on two things. the distribution of the data points and the model you are feeding your data to",
+    "user": "U03UVHCV6KB",
+    "ts": "1661411737.329789",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "O9rm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i guess it all depends on two things. the distribution of the data points and the model you are feeding your data to"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661376004.211299",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b593f917-85e3-469e-a6e9-07482948cb98",
+    "type": "message",
+    "text": "good morning everyone",
+    "user": "U03UH397319",
+    "ts": "1661413141.333999",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Bxh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "good morning everyone"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661413141.333999",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1661413191.727669",
+    "reply_users": [
+      "U03UFV7HFNF"
+    ],
+    "replies": [
+      {
+        "user": "U03UFV7HFNF",
+        "ts": "1661413191.727669"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "21f6316c-290a-47f7-be2a-8e41149013ea",
+    "type": "message",
+    "text": "good morning",
+    "user": "U03UFV7HFNF",
+    "ts": "1661413191.727669",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eVhP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "good morning"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Glenn",
+      "real_name": "Glenn Richardson",
+      "display_name": "Glenn Richardson",
+      "team": "T03U4J8HMUG",
+      "name": "Glenn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661413141.333999",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0e7b4c24-0a47-4703-8549-ba6a807ef444",
+    "type": "message",
+    "text": "does it make sense to fill missing value for a columns where there is more than 50% missing ?\nwhat if the columns is a variable of interest?",
+    "user": "U03UH397319",
+    "ts": "1661413207.776949",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NHzsV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "does it make sense to fill missing value for a columns where there is more than 50% missing ?\nwhat if the columns is a variable of interest?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661413207.776949",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1661413491.911979",
+    "reply_users": [
+      "U03UG4Q7V42",
+      "U03UH397319"
+    ],
+    "replies": [
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1661413418.882979"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1661413491.911979"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "31f7ce8d-ae72-4631-a383-8dd0c8f34e39",
+    "type": "message",
+    "text": "no it will makes your model produce undesirable outputs. i dropped columns having more than 30%.",
+    "user": "U03UG4Q7V42",
+    "ts": "1661413418.882979",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Dwrx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no it will makes your model produce undesirable outputs. i dropped columns having more than 30%."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661413207.776949",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "4323f167-47e3-4931-b07a-54227553dea0",
+    "type": "message",
+    "text": "mee too.. alright",
+    "user": "U03UH397319",
+    "ts": "1661413491.911979",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1=E",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "mee too.. alright"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661413207.776949",
+    "parent_user_id": "U03UH397319",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UG4Q7V42"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "09448624-7cd2-491b-bf1d-100fdfe3c83a",
+    "type": "message",
+    "text": "standup has started",
+    "user": "U03UH397319",
+    "ts": "1661414460.632249",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KGJz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "standup has started"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "4595f79c-eaf6-4b5f-a6d0-db62b0e0b68d",
+    "type": "message",
+    "text": "<https://meet.Stephanie.com/ysb-kjdn-hpp>",
+    "user": "U03U9EJR362",
+    "ts": "1661414463.340649",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HaLFe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Catherine",
+      "real_name": "Catherine Campos",
+      "display_name": "Catherine Campos",
+      "team": "T03U4J8HMUG",
+      "name": "Catherine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "thumb_height": 192,
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "id": 1,
+        "original_url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "fallback": "meet",
+        "text": "real-time meetings by Stephanie. using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "title": "meet",
+        "title_link": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "service_name": "meet.Stephanie.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "afed950a-172e-43bd-a7cd-dd743d3bc28c",
+    "type": "message",
+    "text": "any one who makes me clarification on careers exercise?",
+    "user": "U03UHB8CXDY",
+    "ts": "1661418826.065749",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ci+u",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "any one who makes me clarification on careers exercise?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661418826.065749",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1661419171.060219",
+    "reply_users": [
+      "U03U1FNPEUX",
+      "U03TT5KEYCF"
+    ],
+    "replies": [
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1661418871.524719"
+      },
+      {
+        "user": "U03TT5KEYCF",
+        "ts": "1661419171.060219"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "86ffc288-33ad-4953-937d-73eb6deb12c0",
+    "type": "message",
+    "text": "i like the idea of the contest very much. i hope that will help us for our problem solving skill. thank you <@u03ukl27b0r> for the presentation.",
+    "user": "U03UG32J3PC",
+    "ts": "1661418850.315159",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3fwH2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i like the idea of the contest very much. i hope that will help us for our problem solving skill. thank you "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R"
+              },
+              {
+                "type": "text",
+                "text": " for the presentation."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Zachary",
+      "real_name": "Zachary Clark",
+      "display_name": "Zachary Clark",
+      "team": "T03U4J8HMUG",
+      "name": "Zachary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UG1RTXAP",
+          "U03UKL27B0R"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "FBD98703-A07F-4BF8-8F2A-3E25B3D0BA04",
+    "type": "message",
+    "text": "<http://docs.Stephanie.com/presentation/d/1dao0753jvk73wbwcqbrwldu9apaqx-erey09b2wtk3y|http://docs.Stephanie.com/presentation/d/1dao0753jvk73wbwcqbrwldu9apaqx-erey09b2wtk3y>",
+    "user": "U03U1FNPEUX",
+    "ts": "1661418871.524719",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4nYpK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://docs.Stephanie.com/presentation/d/1dao0753jvk73wbwcqbrwldu9apaqx-erey09b2wtk3y",
+                "text": "http://docs.Stephanie.com/presentation/d/1dao0753jvk73wbwcqbrwldu9apaqx-erey09b2wtk3y"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "http://docs.Stephanie.com/presentation/d/1dao0753jvk73wbwcqbrwldu9apaqx-erey09b2wtk3y",
+        "image_url": "https://lh6.Stephanieusercontent.com/k6dttugv_uu-jewmyw1sxfipxz1o0m7cekdzez6oehacdnbvetcvqm7r_kqb6fnyw-uncxfvxchg5g",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 16907,
+        "service_icon": "https://ssl.gstatic.com/docs/presentations/images/favicon5.ico",
+        "id": 1,
+        "original_url": "http://docs.Stephanie.com/presentation/d/1dao0753jvk73wbwcqbrwldu9apaqx-erey09b2wtk3y",
+        "fallback": "Stephanie docs: real world jobs",
+        "text": "real world jobs 1",
+        "title": "real world jobs",
+        "title_link": "http://docs.Stephanie.com/presentation/d/1dao0753jvk73wbwcqbrwldu9apaqx-erey09b2wtk3y",
+        "service_name": "Stephanie docs",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1661418826.065749",
+    "parent_user_id": "U03UHB8CXDY"
+  },
+  {
+    "client_msg_id": "ca757b19-f4b9-4d62-9f73-89d9bdbd1e75",
+    "type": "message",
+    "text": "please ask your question(s) on <#c03t89kdga2|all-career-exercises>",
+    "user": "U03TT5KEYCF",
+    "ts": "1661419171.060219",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H6trd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "please ask your question(s) on "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C03T89KDGA2"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "aae36184306b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3945210198087_aae36184306bb9e0b018_72.jpg",
+      "first_name": "Brian",
+      "real_name": "Brian Flores",
+      "display_name": "Brian Flores",
+      "team": "T03U4J8HMUG",
+      "name": "Brian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661418826.065749",
+    "parent_user_id": "U03UHB8CXDY",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "36be429b-30d6-44bf-8cd1-e03a2d4e4f48",
+    "type": "message",
+    "text": "<https://Joanneacademybatch6.slack.com/|https://Joanneacademybatch6.slack.com/>",
+    "user": "U03UG0YHAUT",
+    "ts": "1661423036.988669",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q8O0/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://Joanneacademybatch6.slack.com/",
+                "text": "https://Joanneacademybatch6.slack.com/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "8b010320-df7a-45ec-a36f-b05483f01eac",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/create-your-own-k-means-clustering-algorithm-in-python-d7d4c9077670|https://towardsdatascience.com/create-your-own-k-means-clustering-algorithm-in-python-d7d4c9077670>",
+    "user": "U03UG0YHAUT",
+    "ts": "1661423075.584399",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dQHU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/create-your-own-k-means-clustering-algorithm-in-python-d7d4c9077670",
+                "text": "https://towardsdatascience.com/create-your-own-k-means-clustering-algorithm-in-python-d7d4c9077670"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "David",
+      "real_name": "David Nguyen",
+      "display_name": "David Nguyen",
+      "team": "T03U4J8HMUG",
+      "name": "David",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/create-your-own-k-means-clustering-algorithm-in-python-d7d4c9077670",
+        "ts": 1651598422,
+        "image_url": "https://miro.medium.com/max/640/1*-6siylccluy72uewowcypa.png",
+        "image_width": 333,
+        "image_height": 250,
+        "image_bytes": 20021,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*shhtyhace2uc3iu0igkwiq.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/create-your-own-k-means-clustering-algorithm-in-python-d7d4c9077670",
+        "fallback": "medium: create a k-means clustering algorithm from scratch in python",
+        "text": "cement your knowledge of k-means clustering by implementing it yourself",
+        "title": "create a k-means clustering algorithm from scratch in python",
+        "title_link": "https://towardsdatascience.com/create-your-own-k-means-clustering-algorithm-in-python-d7d4c9077670",
+        "service_name": "medium",
+        "fields": [
+          {
+            "value": "9 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1661423075.584399",
+    "reply_count": 2,
+    "reply_users_count": 1,
+    "latest_reply": "1661424538.664509",
+    "reply_users": [
+      "U03UVHCV6KB"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1661424505.301169"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1661424538.664509"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "3a18a0c3-095d-4426-9e69-81749fb68ff8",
+    "type": "message",
+    "text": "kindly post resources in the all-resources channel",
+    "user": "U03UVHCV6KB",
+    "ts": "1661424505.301169",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WvB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "kindly post resources in the all-resources channel"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661423075.584399",
+    "parent_user_id": "U03UG0YHAUT",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1911400c-fbc3-4718-b65a-d4df6b6a49e0",
+    "type": "message",
+    "text": "<#c03t89pmjkg|all-resources>",
+    "user": "U03UVHCV6KB",
+    "ts": "1661424538.664509",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5n2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "channel",
+                "channel_id": "C03T89PMJKG"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661423075.584399",
+    "parent_user_id": "U03UG0YHAUT",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "65b1cbfe-d36f-4666-b09d-7fe789138b15",
+    "type": "message",
+    "text": "<@u03ujh1eqql>",
+    "user": "U03UG5VFN03",
+    "ts": "1661426047.375439",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "z==7d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UJH1EQQL"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Susan",
+      "real_name": "Susan Lewis",
+      "display_name": "Susan Lewis",
+      "team": "T03U4J8HMUG",
+      "name": "Susan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "21a19ab6-db22-43a9-bb6d-52baea44ad6e",
+    "type": "message",
+    "text": "hello everyone and dear team,\nwe have plenty tasks that are not really easy to do and not small as well. any advice about how to successfully manage in this kind of situation will be helpful.\nthanks in advance.",
+    "user": "U03UH397319",
+    "ts": "1661426369.859829",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vJbt=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello everyone and dear team,\nwe have plenty tasks that are not really easy to do and not small as well. any advice about how to successfully manage in this kind of situation will be helpful.\nthanks in advance."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661426369.859829",
+    "reply_count": 4,
+    "reply_users_count": 2,
+    "latest_reply": "1661428505.646659",
+    "reply_users": [
+      "U03UJN29Y4C",
+      "U03U93GNNVB"
+    ],
+    "replies": [
+      {
+        "user": "U03UJN29Y4C",
+        "ts": "1661428297.900169"
+      },
+      {
+        "user": "U03UJN29Y4C",
+        "ts": "1661428359.965779"
+      },
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1661428487.462369"
+      },
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1661428505.646659"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "slightly_smiling_face",
+        "users": [
+          "U03UJN29Y4C",
+          "U03V6HMRPGQ",
+          "U03UH397319"
+        ],
+        "count": 3
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0da6179c-bae6-47b2-8350-0bb7e37f5d71",
+    "type": "message",
+    "text": "i suggest that if  the managing team made a share experience session with one of Joanne academy alumni to share his experience on how he manage to deliver the tasks and time management also and what we should do to make the most out of this 3 months",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661426750.680949",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dNg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i suggest that if  the managing team made a share experience session with one of Joanne academy alumni to share his experience on how he manage to deliver the tasks and time management also and what we should do to make the most out of this 3 months"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661426750.680949",
+    "reply_count": 10,
+    "reply_users_count": 5,
+    "latest_reply": "1661436050.217269",
+    "reply_users": [
+      "U03V61VGQG0",
+      "U03UG4Q7V42",
+      "U03UH397319",
+      "U03UVHCV6KB",
+      "U03V6HMRPGQ"
+    ],
+    "replies": [
+      {
+        "user": "U03V61VGQG0",
+        "ts": "1661426808.047799"
+      },
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1661426927.376189"
+      },
+      {
+        "user": "U03V61VGQG0",
+        "ts": "1661426983.515609"
+      },
+      {
+        "user": "U03UG4Q7V42",
+        "ts": "1661427102.704479"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1661427287.063439"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1661428819.021849"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661429127.611689"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1661430478.029659"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1661430633.306019"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661436050.217269"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03V61VGQG0",
+          "U03UG4Q7V42",
+          "U03UH397319",
+          "U03UG569P7U",
+          "U03UUS0MZCZ"
+        ],
+        "count": 5
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "17F5D6AD-30A0-48CE-8CBE-8969C127CBD5",
+    "type": "message",
+    "text": "i love this idea ",
+    "user": "U03V61VGQG0",
+    "ts": "1661426808.047799",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "u/t9c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i love this idea "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Diane",
+      "real_name": "Diane Cruz",
+      "display_name": "Diane Cruz",
+      "team": "T03U4J8HMUG",
+      "name": "Diane",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661426750.680949",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "9f7db833-0e4a-42dc-b8d0-0ca452e2f9c9",
+    "type": "message",
+    "text": "i think this is going to happen in due time. they said there will be guest talk sessions.",
+    "user": "U03UG4Q7V42",
+    "ts": "1661426927.376189",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ni5a",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think this is going to happen in due time. they said there will be guest talk sessions."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661426750.680949",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "00FED04C-1011-431D-8351-E61422FA0894",
+    "type": "message",
+    "text": "<@u03ug4q7v42> any idea when will that be ",
+    "user": "U03V61VGQG0",
+    "ts": "1661426983.515609",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yVp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UG4Q7V42"
+              },
+              {
+                "type": "text",
+                "text": " any idea when will that be "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Diane",
+      "real_name": "Diane Cruz",
+      "display_name": "Diane Cruz",
+      "team": "T03U4J8HMUG",
+      "name": "Diane",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661426750.680949",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1e396ebe-1599-4beb-a50a-8ea8603f170c",
+    "type": "message",
+    "text": "i have no idea on that <@u03v61vgqg0>",
+    "user": "U03UG4Q7V42",
+    "ts": "1661427102.704479",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jhdi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i have no idea on that "
+              },
+              {
+                "type": "user",
+                "user_id": "U03V61VGQG0"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661426750.680949",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "cdbdcc54-bb2e-49c4-9661-b06d5c29d7ec",
+    "type": "message",
+    "text": "this will be very helpful.",
+    "user": "U03UH397319",
+    "ts": "1661427287.063439",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7Ex",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this will be very helpful."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661426750.680949",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "25cbddf2-b954-4a1d-9660-bb665dbe8b6e",
+    "type": "message",
+    "text": "i feel you. my daily routine has been in chaos cos of the workload, but i think a good system will help with time. whenever we got the chance to have a session with the alumni, we'll ask them how they go about it.",
+    "user": "U03UJN29Y4C",
+    "ts": "1661428297.900169",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l3Mh+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i feel you. my daily routine has been in chaos cos of the workload, but i think a good system will help with time. whenever we got the chance to have a session with the alumni, we'll ask them how they go about it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661426369.859829",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "eef045fd-64bf-4233-a3c3-7509abde0b0d",
+    "type": "message",
+    "text": "starting today though, i'm trying to focus on one task at a time and see how that goes",
+    "user": "U03UJN29Y4C",
+    "ts": "1661428359.965779",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uapf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "starting today though, i'm trying to focus on one task at a time and see how that goes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Cynthia",
+      "real_name": "Cynthia Davis",
+      "display_name": "Cynthia Davis",
+      "team": "T03U4J8HMUG",
+      "name": "Cynthia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661426369.859829",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "60106e44-42e8-49e8-8fef-11c2c928b53b",
+    "type": "message",
+    "text": "<@u03uh397319> <@u03ujn29y4c> help us by writing a bit more about what challenges you face.",
+    "user": "U03U93GNNVB",
+    "ts": "1661428487.462369",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nxBj9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UH397319"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UJN29Y4C"
+              },
+              {
+                "type": "text",
+                "text": " help us by writing a bit more about what challenges you face."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661426369.859829",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d3ab22f8-c4a8-42a6-b4ed-ebc8e638929a",
+    "type": "message",
+    "text": "all of your tutors are Joanne ac alumni - ask them directly for help.",
+    "user": "U03U93GNNVB",
+    "ts": "1661428505.646659",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vRiJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "all of your tutors are Joanne ac alumni - ask them directly for help."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661426369.859829",
+    "parent_user_id": "U03UH397319",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1e0cfac0-84ab-4649-986f-395b18945f3d",
+    "type": "message",
+    "text": "i think the best thing to do here is to have your own schedule. everyone has a different attitude and approach toward things. and therefore the aluminis advice might not be applicable to some and might be even bottom line impossible for others. and therefore i would like to recommend to you based on my imperceptible wisdom to have your own schedule at the beginning of the week. take a look at that week's challenge doc. see what we are supposed to deliver (on the deliverables section) and after you understand what we need to complete and by when you then plan out the week. now i think the most important part about the schedule is following it, you might not complete everything on time, and you might finish some before the allotted time frame ends, but for the unfinished tasks don't waste too much unscheduled time on them, as they will definitely take up the other tasks time. so by planning and following your schedule even if you don't complete everything you might manage to get lots done.\n\nlast but not least, don't forget other areas of your life in the meantime. everyday balance is very necessary and is definitely, at least for me, what constitutes the good life.\n\ngood luck, and godspeed!",
+    "user": "U03UVHCV6KB",
+    "ts": "1661428819.021849",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q2mU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think the best thing to do here is to have your own schedule. everyone has a different attitude and approach toward things. and therefore the aluminis advice might not be applicable to some and might be even bottom line impossible for others. and therefore i would like to recommend to you based on my imperceptible wisdom to have your own schedule at the beginning of the week. take a look at that week's challenge doc. see what we are supposed to deliver (on the deliverables section) and after you understand what we need to complete and by when you then plan out the week. now i think the most important part about the schedule is following it, you might not complete everything on time, and you might finish some before the allotted time frame ends, but for the unfinished tasks don't waste too much unscheduled time on them, as they will definitely take up the other tasks time. so by planning and following your schedule even if you don't complete everything you might manage to get lots done.\n\nlast but not least, don't forget other areas of your life in the meantime. everyday balance is very necessary and is definitely, at least for me, what constitutes the good life.\n\ngood luck, and godspeed!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661426750.680949",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "100",
+        "users": [
+          "U03U9DB7REG",
+          "U03UJN29Y4C",
+          "U03V6HMRPGQ"
+        ],
+        "count": 3
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U03UJKJGRAQ"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "365AF2DB-82DE-4BE5-BDC3-C22FFF37E698",
+    "type": "message",
+    "text": "i believe that every person has it its own way to approach things, while some routs will not be appropriate for some other will be. and i totally believe that sharing our experience would benefit others like what you did, beside having a diversified experience examples could help you creat your own route. thank you again for sharing your thoughts and i wish you all the best",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661429127.611689",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/Ex",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i"
+              },
+              {
+                "type": "text",
+                "text": " believe "
+              },
+              {
+                "type": "text",
+                "text": "that"
+              },
+              {
+                "type": "text",
+                "text": " every "
+              },
+              {
+                "type": "text",
+                "text": "person"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "has"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "it"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "its"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "own"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "way"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "to"
+              },
+              {
+                "type": "text",
+                "text": " approach things"
+              },
+              {
+                "type": "text",
+                "text": ","
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "while"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "some"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "routs"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "will"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "not"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "be"
+              },
+              {
+                "type": "text",
+                "text": " appropriate "
+              },
+              {
+                "type": "text",
+                "text": "for"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "some"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "other"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "will"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "be."
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "and"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "i"
+              },
+              {
+                "type": "text",
+                "text": " totally believe "
+              },
+              {
+                "type": "text",
+                "text": "that"
+              },
+              {
+                "type": "text",
+                "text": " sharing "
+              },
+              {
+                "type": "text",
+                "text": "our"
+              },
+              {
+                "type": "text",
+                "text": " experience "
+              },
+              {
+                "type": "text",
+                "text": "would"
+              },
+              {
+                "type": "text",
+                "text": " benefit "
+              },
+              {
+                "type": "text",
+                "text": "others"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "like"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "what"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "you"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "did,"
+              },
+              {
+                "type": "text",
+                "text": " beside having "
+              },
+              {
+                "type": "text",
+                "text": "a"
+              },
+              {
+                "type": "text",
+                "text": " diversified experience example"
+              },
+              {
+                "type": "text",
+                "text": "s"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "could"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "help"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "you"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "creat"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "your"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "own"
+              },
+              {
+                "type": "text",
+                "text": " route"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "thank"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "you"
+              },
+              {
+                "type": "text",
+                "text": " again "
+              },
+              {
+                "type": "text",
+                "text": "for"
+              },
+              {
+                "type": "text",
+                "text": " sharing "
+              },
+              {
+                "type": "text",
+                "text": "your"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "thoughts"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "and"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "i"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "wish you"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "all"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "the"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "best"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661426750.680949",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UJKJGRAQ"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "dfc11053-3fa4-4d7e-adc0-01b8bb2c7113",
+    "type": "message",
+    "text": "same here",
+    "user": "U03UVHCV6KB",
+    "ts": "1661430478.029659",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7bf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "same here"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661426750.680949",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "bae41c97-f411-4962-88de-53425bdfc29e",
+    "type": "message",
+    "text": "and just to make myself clear the previous message was just a thought and not in any way resistance to the message you were transmitting, on how aluminis sharing their schedule",
+    "user": "U03UVHCV6KB",
+    "ts": "1661430633.306019",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fUt9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "and just to make myself clear the previous message was just a thought and not in any way resistance to the message you were transmitting, on how aluminis sharing their schedule"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661426750.680949",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UJKJGRAQ",
+          "U03V6HMRPGQ"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "da0a2a4b-e409-4efc-875a-4b068ab363f2",
+    "type": "message",
+    "text": "<https://meet.Stephanie.com/ysb-kjdn-hpp> tutorial session about to start",
+    "user": "U03UG4Q7V42",
+    "ts": "1661432555.537529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1Z/F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": " tutorial session about to start"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "thumb_height": 192,
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "id": 1,
+        "original_url": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "fallback": "meet",
+        "text": "real-time meetings by Stephanie. using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "title": "meet",
+        "title_link": "https://meet.Stephanie.com/ysb-kjdn-hpp",
+        "service_name": "meet.Stephanie.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "4fae5323-6568-434a-8254-70923e41de73",
+    "type": "message",
+    "text": "i appreciate you response",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661436050.217269",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "O=F+1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i appreciate you response"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661426750.680949",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "e9dba5f3-fe85-4c0b-a702-478f6ad4f968",
+    "type": "message",
+    "text": "hey, i want the link of todays tutorial",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661440505.831539",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3Il",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hey, i want the link of todays tutorial"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661440505.831539",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1661450939.737479",
+    "reply_users": [
+      "U03TEPYRM2P",
+      "U03V6HMRPGQ",
+      "U03UVHCV6KB"
+    ],
+    "replies": [
+      {
+        "user": "U03TEPYRM2P",
+        "ts": "1661440550.524179"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661440635.067999"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1661450939.737479"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1661450939.737479",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "96c748df-5db0-4561-a2c0-55fce2150c0a",
+    "type": "message",
+    "text": "it will be uploaded soon",
+    "user": "U03TEPYRM2P",
+    "ts": "1661440550.524179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f0+V",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it will be uploaded soon"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Bridget",
+      "real_name": "Bridget Glover",
+      "display_name": "Bridget Glover",
+      "team": "T03U4J8HMUG",
+      "name": "Bridget",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661440505.831539",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "82295d22-4a0e-4f71-985a-60d77d9d9125",
+    "type": "message",
+    "text": "i could find it in <#c03t89pmjkg|all-resources>?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661440635.067999",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8c11",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i could find it in "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C03T89PMJKG"
+              },
+              {
+                "type": "text",
+                "text": "?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661440505.831539",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "133ec554-2c94-476a-987b-20bd0307b917",
+    "type": "message",
+    "text": "<https://Joanneacademybatch6.slack.com/archives/c03u4j8j4lq/p166144697689Joanne59>",
+    "user": "U03UVHCV6KB",
+    "ts": "1661450939.737479",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QSL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://Joanneacademybatch6.slack.com/archives/c03u4j8j4lq/p166144697689Joanne59",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Joanneacademybatch6.slack.com/archives/c03u4j8j4lq/p166144697689Joanne59",
+        "ts": "1661446976.89Joanne59",
+        "author_id": "u03tepyrm2p",
+        "channel_team": "t03u4j8hmug",
+        "channel_id": "c03u4j8j4lq",
+        "is_msg_unfurl": true,
+        "message_blocks": [
+          {
+            "team": "T03U4J8HMUG",
+            "channel": "C03U4J8J4LQ",
+            "ts": "1661446976.891059",
+            "message": {
+              "blocks": [
+                {
+                  "type": "rich_text",
+                  "block_id": "b90",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "week 1 day 4 youtube link\n\nstandup: "
+                        },
+                        {
+                          "type": "link",
+                          "url": "https://youtu.be/GNpT9kdgtwU"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n\ncareer tutorial : becoming a peer mentor "
+                        },
+                        {
+                          "type": "link",
+                          "url": "https://youtu.be/k8ZPCkqtN_0"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n\ntutorial : dashboard development "
+                        },
+                        {
+                          "type": "link",
+                          "url": "https://youtu.be/sZgHS_21HUs"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "id": 1,
+        "original_url": "https://Joanneacademybatch6.slack.com/archives/c03u4j8j4lq/p166144697689Joanne59",
+        "fallback": "[august 25th, 2022 Joanne:02 am] bridget: week 1 day 4 youtube link\n\nstandup: <https://youtu.be/gnpt9kdgtwu>\n\ncareer tutorial : becoming a peer mentor <https://youtu.be/k8zpckqtn_0>\n\ntutorial : dashboard development <https://youtu.be/szghs_21hus>",
+        "text": "week 1 day 4 youtube link\n\nstandup: <https://youtu.be/gnpt9kdgtwu>\n\ncareer tutorial : becoming a peer mentor <https://youtu.be/k8zpckqtn_0>\n\ntutorial : dashboard development <https://youtu.be/szghs_21hus>",
+        "author_name": "Bridget Glover",
+        "author_link": "https://Joanneacademybatch6.slack.com/team/u03tepyrm2p",
+        "author_icon": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_48.jpg",
+        "author_subname": "Bridget Glover",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "footer": "slack conversation"
+      }
+    ],
+    "thread_ts": "1661440505.831539",
+    "parent_user_id": "U03V6HMRPGQ"
+  },
+  {
+    "client_msg_id": "fc09acb0-609e-4123-92b1-6b24b5b743f6",
+    "type": "message",
+    "text": "what are the columns that can help me to calculate the average throughput? i was thinking of using the columns with (kbps) as they indicate transmission rate, but i am a bit confused about the others for example, &lt;activity duration dl (ms)&gt;.",
+    "user": "U03UJGRN5E0",
+    "ts": "1661451310.312569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EAH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what are the columns that can help me to calculate the average throughput? i was thinking of using the columns with (kbps) as they indicate transmission rate, but i am a bit confused about the others for example, <activity duration dl (ms)>."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UJGRN5E0",
+      "ts": "1661451329.000000"
+    },
+    "thread_ts": "1661451310.312569",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1661451593.050669",
+    "reply_users": [
+      "U03UVHCV6KB",
+      "U03U1FNPEUX",
+      "U03UJGRN5E0"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1661451460.409879"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1661451470.468449"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1661451593.050669"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "taken from the data field description file.\n\nyou can get the data  here\n\n<https://docs.Stephanie.com/spreadsheets/d/1wy7yzwyz_r_8xmue_n2zqled4rjp0_t6/edit#gid=497912695>",
+    "files": [
+      {
+        "id": "F03V6QM79S6",
+        "created": 1661451423,
+        "timestamp": 1661451423,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UVHCV6KB",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 3355,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F03V6QM79S6/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F03V6QM79S6/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F03V6QM79S6-1263ff8568/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F03V6QM79S6-1263ff8568/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F03V6QM79S6-1263ff8568/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 19,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F03V6QM79S6-1263ff8568/image_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 25,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F03V6QM79S6-1263ff8568/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F03V6QM79S6-1263ff8568/image_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 38,
+        "thumb_800": "https://files.slack.com/files-tmb/T03U4J8HMUG-F03V6QM79S6-1263ff8568/image_800.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_800_w": 800,
+        "thumb_800_h": 42,
+        "thumb_960": "https://files.slack.com/files-tmb/T03U4J8HMUG-F03V6QM79S6-1263ff8568/image_960.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_960_w": 960,
+        "thumb_960_h": 51,
+        "original_w": 965,
+        "original_h": 51,
+        "thumb_tiny": "AwACADC+etOXpTT96nL0oAG6U2nN0ptABSr1pKVetAH/2Q==",
+        "permalink": "https://10academybatch6.slack.com/files/U03UVHCV6KB/F03V6QM79S6/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F03V6QM79S6-d154e8050b",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UVHCV6KB",
+    "display_as_bot": false,
+    "ts": "1661451460.409879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8XH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "taken from the data field description file.\n\nyou can get the data  here\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.Stephanie.com/spreadsheets/d/1wy7yzwyz_r_8xmue_n2zqled4rjp0_t6/edit#gid=497912695",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "aca926d2-d810-4d67-9193-2b4ce82d0653",
+    "thread_ts": "1661451310.312569",
+    "parent_user_id": "U03UJGRN5E0",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03U1FNPEUX"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "F57B3525-B85D-48C6-ACBC-295860F6D252",
+    "type": "message",
+    "text": "i think avg bearer tp ul and dl",
+    "user": "U03U1FNPEUX",
+    "ts": "1661451470.468449",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bMk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think avg bearer tp ul and dl"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03U1FNPEUX",
+      "ts": "1661451479.000000"
+    },
+    "thread_ts": "1661451310.312569",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "cd78286b-f101-4b0b-8b6c-bc5a23a76083",
+    "type": "message",
+    "text": "i need some one who understood task two to ask more questions??",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661451551.074739",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "A=cj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i need some one who understood task two to ask more questions??"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661451551.074739",
+    "reply_count": 18,
+    "reply_users_count": 2,
+    "latest_reply": "1661494027.744619",
+    "reply_users": [
+      "U03U1FNPEUX",
+      "U03V6HMRPGQ"
+    ],
+    "replies": [
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1661451821.547979"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661451948.700039"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661452000.070599"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1661452593.095239"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1661452602.171209"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661452992.700209"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661453010.555379"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1661454080.725839"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661454675.879979"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661454713.767299"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1661455420.999509"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1661455462.582259"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661456347.082039"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1661456657.177469"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1661456679.860359"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661457025.064989"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1661463622.794009"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661494027.744619"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "286e8c1e-6f5b-4450-927d-70e5a7b85b25",
+    "type": "message",
+    "text": "got it, thank you <@u03uvhcv6kb> and <@u03u1fnpeux>",
+    "user": "U03UJGRN5E0",
+    "ts": "1661451593.050669",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Jq1s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "got it, thank you "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UVHCV6KB"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "user",
+                "user_id": "U03U1FNPEUX"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661451310.312569",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "6E80252A-9D5B-4B72-B453-E3983AD05BEB",
+    "type": "message",
+    "text": "what about task two man?",
+    "user": "U03U1FNPEUX",
+    "ts": "1661451821.547979",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7dK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what about task two man?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "5335126a-7764-4175-b162-0fa926c2114f",
+    "type": "message",
+    "text": "i did not understand what is the deliverables,",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661451948.700039",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WZX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i did not understand what is the deliverables,"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "53602579-a266-487f-826d-11222560f169",
+    "type": "message",
+    "text": "how i am going to aggregate the data and how i am going to cluster it",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661452000.070599",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y8zIf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how i am going to aggregate the data and how i am going to cluster it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "4CF331F0-3AF7-4E33-A696-D0149D07C5D3",
+    "type": "message",
+    "text": "i think aggregation is performed on the ul and dl datum. you simply aggregate or add them and put them in a new column. for example gaming dl + gaming ul becomes total gaming data. and for the clustering you use k-means. k=3. ie 3 clusters. you can refer the following for clustering.",
+    "user": "U03U1FNPEUX",
+    "ts": "1661452593.095239",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pDi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think aggregation is performed on the ul and dl datum. you simply aggregate or add them and put them in a new column. for example gaming dl + gaming ul becomes total gaming data. and for the clustering you use k-means. k=3. ie 3 clusters. you can refer the following for clustering."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03V6HMRPGQ"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "FAF970B6-D293-42FE-8AD6-99E1C46B7C52",
+    "type": "message",
+    "text": "<https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/|https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/>",
+    "user": "U03U1FNPEUX",
+    "ts": "1661452602.171209",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DJIn2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/",
+                "text": "https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/",
+        "ts": 1611134709,
+        "thumb_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/k_means_clustering.jpg",
+        "thumb_width": 1020,
+        "thumb_height": 520,
+        "service_icon": "https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo_square_v2.jpg",
+        "id": 1,
+        "original_url": "https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/",
+        "fallback": "analytics vidhya: k means clustering | k means clustering algorithm in machine learning",
+        "text": "k-means clustering is the simplest, commonly used iterative type unsupervised learning algorithm. learn about k means clustering here",
+        "title": "k means clustering | k means clustering algorithm in machine learning",
+        "title_link": "https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/",
+        "service_name": "analytics vidhya",
+        "fields": [
+          {
+            "value": "Basil Saji",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "5 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03V6HMRPGQ"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1e93b2f3-2694-469d-9d19-d7079351f0d5",
+    "type": "message",
+    "text": "what is everybody using to measure session frequency in the data?",
+    "user": "U03U1FQKEMV",
+    "ts": "1661452626.763289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pot5t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what is everybody using to measure session frequency in the data?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g6eee7df1d92",
+      "image_72": "https://secure.gravatar.com/avatar/6eee7df1d92577aa5637983ea403f886.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Kevin",
+      "real_name": "Kevin Macdonald",
+      "display_name": "Kevin Macdonald",
+      "team": "T03U4J8HMUG",
+      "name": "Kevin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661452626.763289",
+    "reply_count": 12,
+    "reply_users_count": 3,
+    "latest_reply": "1661454555.532449",
+    "reply_users": [
+      "U03UJGRN5E0",
+      "U03V6HMRPGQ",
+      "U03U1FNPEUX"
+    ],
+    "replies": [
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1661453284.344849"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661453408.864239"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661453465.888119"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1661453506.370809"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661453602.486419"
+      },
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1661453612.405129"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1661453615.203069"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1661453729.923299"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661453968.628319"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1661454243.465679"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1661454405.654879"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1661454555.532449"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "be89cf8d-a502-4ada-9821-53da1a6e6c25",
+    "type": "message",
+    "text": "in the current dataset you\u2019re expected to track the user\u2019s engagement using the following engagement metrics:\n\u2022 sessions frequency \n\u2022 the duration of the session \n\u2022 the sessions total traffic (download and upload (bytes))\ntask 2.1 - based on the above submit python script and slide :\n\u2022 aggregate the above metrics per customer id (msisdn) and report the top Joanne customers per engagement metric \n\u2022 normalize each engagement metric and run a k-means (k=3) to classify customers in three groups of engagement. \n\u2022 compute the minimum, maximum, average &amp; total non- normalized metrics for each cluster. interpret your results visually with accompanying text explaining your findings.\n",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661452992.700209",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8DLm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "in the current dataset you\u2019re expected to track the user\u2019s engagement using the following engagement metrics:\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "sessions frequency "
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "the duration of the session "
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "the sessions total traffic (download and upload (bytes))"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\ntask 2.1 - based on the above submit python script and slide :\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Aggregate the above metrics per customer id (MSISDN) and report the top 10 customers per engagement metric "
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Normalize each engagement metric and run a k-means (k=3) to classify customers in three groups of engagement. "
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Compute the minimum, maximum, average & total non- normalized metrics for each cluster. Interpret your results visually with accompanying text explaining your findings."
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "d7a4afc5-d66d-4e8e-9f5d-29b92b089cbf",
+    "type": "message",
+    "text": "could you elaborate more in those points ?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661453010.555379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+LXY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "could you elaborate more in those points ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "04666367-fd9e-41ac-8f5d-7ae263e76932",
+    "type": "message",
+    "text": "i just counted number of session per user.",
+    "user": "U03UJGRN5E0",
+    "ts": "1661453284.344849",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rZ7n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i just counted number of session per user."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661452626.763289",
+    "parent_user_id": "U03U1FQKEMV",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "ad039499-c2d4-49a4-be62-e85b60bc584b",
+    "type": "message",
+    "text": "how ?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661453408.864239",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AnKNz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661452626.763289",
+    "parent_user_id": "U03U1FQKEMV",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b4f3646d-120b-4e8c-9f78-b948d5749afe",
+    "type": "message",
+    "text": "when i agg the data by `groupby` function it doesn't give me the total num per customer id",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661453465.888119",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "McTay",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "when i agg the data by "
+              },
+              {
+                "type": "text",
+                "text": "groupby",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " function it doesn't give me the total num per customer id"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03V6HMRPGQ",
+      "ts": "1661453474.000000"
+    },
+    "thread_ts": "1661452626.763289",
+    "parent_user_id": "U03U1FQKEMV",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "fd555543-dc20-4196-b8fb-73a1f6e897da",
+    "type": "message",
+    "text": "frequency = df.groupby(\u2018msisdn/number\u2019).agg(\n    {\u2018bearer id\u2019: \u2018count\u2019}).reset_index() have you tried it like this",
+    "user": "U03UJGRN5E0",
+    "ts": "1661453506.370809",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "81lZ=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "frequency = df.groupby(\u2018msisdn/number\u2019).agg(\n    {\u2018bearer id\u2019: \u2018count\u2019}).reset_index() have you tried it like this"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UJGRN5E0",
+      "ts": "1661453529.000000"
+    },
+    "thread_ts": "1661452626.763289",
+    "parent_user_id": "U03U1FQKEMV",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "8463cf0c-0e5d-4607-ae79-323f5b2ec493",
+    "type": "message",
+    "text": "no  i will try it , but isn't agg() used only for mean and median ?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661453602.486419",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Gi9y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no  i will try it , but isn't agg() used only for mean and median ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661452626.763289",
+    "parent_user_id": "U03U1FQKEMV",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1B7E1409-3228-4797-9F51-28E3F44FFE94",
+    "type": "message",
+    "text": "i think it's how many times the bearer id appeared for the same msisdn number. that's the xdr session per msisdn(or the unique user)",
+    "user": "U03U1FNPEUX",
+    "ts": "1661453612.405129",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "X1oL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think it's how many times the bearer id appeared for the same msisdn number. that's the xdr session per msisdn(or the unique user)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661452626.763289",
+    "parent_user_id": "U03U1FQKEMV",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03U1FQKEMV",
+          "U03UJN29Y4C"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "af361520-5b54-4d6e-a49b-aa038ccce799",
+    "type": "message",
+    "text": "i considered the msisdn/number as a customer id. but it has duplication which indicates the frequency. for example if a user with id 3345 appeared twice in the dataset it mean that it has 2 freq.",
+    "user": "U03UJGRN5E0",
+    "ts": "1661453615.203069",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V25Sl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i considered the msisdn/number as a customer id. but it has duplication which indicates the frequency. for example if a user with id 3345 appeared twice in the dataset it mean that it has 2 freq."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661452626.763289",
+    "parent_user_id": "U03U1FQKEMV",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03V6HMRPGQ",
+          "U03U1FQKEMV"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "89a61618-f8de-4add-920e-7d0f79a9aa76",
+    "type": "message",
+    "text": "<@u03v6hmrpgq> you can also use it to calculate sum, count and other functions..",
+    "user": "U03UJGRN5E0",
+    "ts": "1661453729.923299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nmo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03V6HMRPGQ"
+              },
+              {
+                "type": "text",
+                "text": " you can also use it to calculate sum, count and other functions.."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661452626.763289",
+    "parent_user_id": "U03U1FQKEMV",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c5422aa2-3668-4526-8c4b-6805c392a907",
+    "type": "message",
+    "text": "do you have link for more depth ?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661453968.628319",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "29C78",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "do you have link for more depth ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661452626.763289",
+    "parent_user_id": "U03U1FQKEMV",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "060DAA6C-E778-4601-A4A1-086C7DCDE177",
+    "type": "message",
+    "text": "duration is given in the table.\nsessions total traffic can be calculated by adding total ul and total dl.\nthen using the three metrics, you're supposed to find out top Joanne users.",
+    "user": "U03U1FNPEUX",
+    "ts": "1661454080.725839",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hb4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "duration is given in the table."
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "sessions total traffic can be calculated by adding total ul and total dl."
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "then using the three metrics, you're supposed to find out top Joanne users."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "30453ca5-25fa-4747-ba7b-de3c889688bd",
+    "type": "message",
+    "text": "i don\u2019t know if this could help as it has helped me\n<https://www.thecodeteacher.com/question/48234/python---group-dataframe-and-get-sum-and-count>?",
+    "user": "U03UJGRN5E0",
+    "ts": "1661454243.465679",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "64==e",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i don\u2019t know if this could help as it has helped me\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.thecodeteacher.com/question/48234/python---group-dataframe-and-get-sum-and-count",
+                "text": null
+              },
+              {
+                "type": "text",
+                "text": "?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.thecodeteacher.com/question/48234/python---group-dataframe-and-get-sum-and-count",
+        "image_url": "https://thecodeteacher.com/img/thecodeteacher-logos_black.png",
+        "image_width": 250,
+        "image_height": 250,
+        "image_bytes": 48439,
+        "service_icon": "https://thecodeteacher.com/img/favicon.png",
+        "id": 1,
+        "original_url": "https://www.thecodeteacher.com/question/48234/python---group-dataframe-and-get-sum-and-count",
+        "fallback": "code-teacher: answers to python - group dataframe and get sum and count? code-teacher",
+        "text": "answers to python - group dataframe and get sum and count? - has been solverd by 3 video and 5 answers at code-teacher.&gt;",
+        "title": "answers to python - group dataframe and get sum and count? code-teacher",
+        "title_link": "https://www.thecodeteacher.com/question/48234/python---group-dataframe-and-get-sum-and-count",
+        "service_name": "code-teacher",
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1661452626.763289",
+    "parent_user_id": "U03U1FQKEMV"
+  },
+  {
+    "client_msg_id": "626f688d-c482-40b4-b352-933f0913a7a8",
+    "type": "message",
+    "text": "the general idea is, to first group the data by the msisdn/number and then sum/count the values related to a single msisdn/number.",
+    "user": "U03UJGRN5E0",
+    "ts": "1661454405.654879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "P6sDH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the general idea is, to first group the data by the msisdn/number and then sum/count the values related to a single msisdn/number."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661452626.763289",
+    "parent_user_id": "U03U1FQKEMV",
+    "reactions": [
+      {
+        "name": "heart",
+        "users": [
+          "U03V6HMRPGQ"
+        ],
+        "count": 1
+      }
+    ],
+    "attachments": null
+  },
+  {
+    "client_msg_id": "baac0d9b-090e-4415-9b73-ad3d96cea682",
+    "type": "message",
+    "text": "thank Dennis",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661454555.532449",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "khhx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank Dennis"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661452626.763289",
+    "parent_user_id": "U03U1FQKEMV",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "is this enough ?",
+    "files": [
+      {
+        "id": "F040GQFS8HW",
+        "created": 1661454652,
+        "timestamp": 1661454652,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03V6HMRPGQ",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 24688,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F040GQFS8HW/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F040GQFS8HW/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040GQFS8HW-01018b6b00/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040GQFS8HW-01018b6b00/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040GQFS8HW-01018b6b00/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 191,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040GQFS8HW-01018b6b00/image_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 255,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F040GQFS8HW-01018b6b00/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "original_w": 581,
+        "original_h": 309,
+        "thumb_tiny": "AwAZADCkMdxRx6Gpk6GkAyWzQBFx6Gjj3/KnUUAMPtmjmn0UAPUgCgHk1GetFADiKSkooAWikooA/9k=",
+        "permalink": "https://10academybatch6.slack.com/files/U03V6HMRPGQ/F040GQFS8HW/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F040GQFS8HW-2fb07f4dbc",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03V6HMRPGQ",
+    "display_as_bot": false,
+    "ts": "1661454675.879979",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p7l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "is this enough ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "ef542b6d-0dec-43ad-b2a3-0bc80bde7f72",
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "1a0426c5-8e0a-4809-a02c-47c4970b49da",
+    "type": "message",
+    "text": "and if so how could i run k-mean clustering func?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661454713.767299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7rO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "and if so how could i run k-mean clustering func?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "C153EF33-9252-4262-9765-CB56D0E820B3",
+    "type": "message",
+    "text": "not enough. do that for the remaining two metrics too, (session freq and traffic",
+    "user": "U03U1FNPEUX",
+    "ts": "1661455420.999509",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "c9bHu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "not enough. do that for the remaining two metrics too, (session freq and traffic"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "562A9BDB-6839-4A25-84E7-54E462672C0D",
+    "type": "message",
+    "text": "<https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/|https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/>\ncheck this out",
+    "user": "U03U1FNPEUX",
+    "ts": "1661455462.582259",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9k3In",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/",
+                "text": "https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "check this out"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/",
+        "ts": 1611134709,
+        "thumb_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/k_means_clustering.jpg",
+        "thumb_width": 1020,
+        "thumb_height": 520,
+        "service_icon": "https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo_square_v2.jpg",
+        "id": 1,
+        "original_url": "https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/",
+        "fallback": "analytics vidhya: k means clustering | k means clustering algorithm in machine learning",
+        "text": "k-means clustering is the simplest, commonly used iterative type unsupervised learning algorithm. learn about k means clustering here",
+        "title": "k means clustering | k means clustering algorithm in machine learning",
+        "title_link": "https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/",
+        "service_name": "analytics vidhya",
+        "fields": [
+          {
+            "value": "Basil Saji",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "5 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ],
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03V6HMRPGQ"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "like this ?",
+    "files": [
+      {
+        "id": "F03V78B0EDQ",
+        "created": 1661456342,
+        "timestamp": 1661456342,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03V6HMRPGQ",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 39898,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F03V78B0EDQ/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F03V78B0EDQ/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F03V78B0EDQ-5348ddf886/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F03V78B0EDQ-5348ddf886/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F03V78B0EDQ-5348ddf886/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 222,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F03V78B0EDQ-5348ddf886/image_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 296,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F03V78B0EDQ-5348ddf886/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F03V78B0EDQ-5348ddf886/image_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 443,
+        "original_w": 765,
+        "original_h": 471,
+        "thumb_tiny": "AwAdADCq3zNk4pCv0/KlFP70ARbPp+VGz3/SpF6009TQA3b7j8qNnv8ApS0UAOUcd+tLg56n86F+7QTg9KAEHXvSHqaAcdqOtACUUUUAf//Z",
+        "permalink": "https://10academybatch6.slack.com/files/U03V6HMRPGQ/F03V78B0EDQ/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F03V78B0EDQ-a641799991",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03V6HMRPGQ",
+    "display_as_bot": false,
+    "ts": "1661456347.082039",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Dd=tH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "like this ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "73701da0-5885-47cb-922b-9de3cd73a7fd",
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F0405SZUU73",
+        "created": 1661456513,
+        "timestamp": 1661456513,
+        "name": "IMG_2090.jpg",
+        "title": "IMG_2090",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U03U1FNPEUX",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 5188839,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "subtype": "slack_image",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F0405SZUU73/img_2090.jpg?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F0405SZUU73/download/img_2090.jpg?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0405SZUU73-e1924f1b78/img_2090_64.jpg?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0405SZUU73-e1924f1b78/img_2090_80.jpg?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0405SZUU73-e1924f1b78/img_2090_360.jpg?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0405SZUU73-e1924f1b78/img_2090_480.jpg?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0405SZUU73-e1924f1b78/img_2090_160.jpg?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0405SZUU73-e1924f1b78/img_2090_720.jpg?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_800": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0405SZUU73-e1924f1b78/img_2090_800.jpg?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_800_w": 800,
+        "thumb_800_h": 600,
+        "thumb_960": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0405SZUU73-e1924f1b78/img_2090_960.jpg?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03U4J8HMUG-F0405SZUU73-e1924f1b78/img_2090_1024.jpg?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "original_w": 4032,
+        "original_h": 3024,
+        "thumb_tiny": "AwAkADBwwRTigI7fjUK8ipccdRQAuwcdKcAKZge1KPwoAUJg54/OmSU/jFRuKBjEqX8KhU0/IxSAk4oGBUeRSEigRLmmMaZu4ppegCME07ccUwU7tQAbjQWNJ6UGgBMnFITR2pDTA//Z",
+        "permalink": "https://10academybatch6.slack.com/files/U03U1FNPEUX/F0405SZUU73/img_2090.jpg",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F0405SZUU73-679ca1eb8b",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03U1FNPEUX",
+    "display_as_bot": false,
+    "ts": "1661456657.177469",
+    "client_msg_id": "EE8A4749-7A1E-4A8D-A537-BFADA5A59BB8",
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "reactions": [
+      {
+        "name": "100",
+        "users": [
+          "U03V6HMRPGQ"
+        ],
+        "count": 1
+      }
+    ],
+    "blocks": null,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "51AF404D-CEF6-44A1-AACF-7CFC04BE6F85",
+    "type": "message",
+    "text": "df_nor is normalized df",
+    "user": "U03U1FNPEUX",
+    "ts": "1661456679.860359",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1ye",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "df_nor is normalized df"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "142d3e7a-0e3f-4aaa-bb85-5c9c831d82d5",
+    "type": "message",
+    "text": "in normalization which method did you use?",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661457025.064989",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2xcoc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "in normalization which method did you use?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "314A5674-6297-4B84-AE66-09F620CA5D7F",
+    "type": "message",
+    "text": "minmaxscaler() ",
+    "user": "U03U1FNPEUX",
+    "ts": "1661463622.794009",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7Gnk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "minmaxscaler() "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Carrillo",
+      "display_name": "Jennifer Carrillo",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "12022ce8-05be-4f7f-af98-fb5d5f4c5abf",
+    "type": "message",
+    "text": "hope you're doing great guys.\n\"consider the engagement score as the euclidean distance between the user data point &amp; the less engaged cluster\". according to this statement, when we say 'and the less engaged cluster',  i hope that we are considering the mean value of the cluster.",
+    "user": "U03UH397319",
+    "ts": "1661470543.343519",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S5dgg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hope you're doing great guys.\n\"consider the engagement score as the euclidean distance between the user data point & the less engaged cluster\". according to this statement, when we say 'and the less engaged cluster',  i hope that we are considering the mean value of the cluster."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Monica",
+      "real_name": "Monica Newton",
+      "display_name": "Monica Newton",
+      "team": "T03U4J8HMUG",
+      "name": "Monica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "971106E5-6759-4CAD-BF53-37B1764E3A24",
+    "type": "message",
+    "text": "thank you <@u03u1fnpeux> ",
+    "user": "U03V6HMRPGQ",
+    "ts": "1661494027.744619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "juy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank "
+              },
+              {
+                "type": "text",
+                "text": "you"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03U1FNPEUX"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Lisa",
+      "real_name": "Lisa Dickerson",
+      "display_name": "Lisa Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Lisa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661451551.074739",
+    "parent_user_id": "U03V6HMRPGQ",
+    "attachments": null
+  }
+]

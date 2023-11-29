@@ -1,0 +1,58 @@
+[
+  {
+    "client_msg_id": "aead9753-bfbd-4526-aca1-e2ad95562963",
+    "type": "message",
+    "text": "<https://www.secoda.co/blog/the-top-20-most-commonly-used-data-engineering-tools>",
+    "user": "U03UHB8CXDY",
+    "ts": "1664047514.395619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Npup",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.secoda.co/blog/the-top-20-most-commonly-used-data-engineering-tools",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Alejandra",
+      "real_name": "Alejandra Carpenter",
+      "display_name": "Alejandra Carpenter",
+      "team": "T03U4J8HMUG",
+      "name": "Alejandra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.secoda.co/blog/the-top-20-most-commonly-used-data-engineering-tools",
+        "image_url": "https://assets.website-files.com/61ddd0b42c51f89b7de1e9Joanne/61ddd0b42c51f82af2e1ec34_nesa-by-makers-736784-unsplash-e1559048836241.jpg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 393066,
+        "id": 1,
+        "original_url": "https://www.secoda.co/blog/the-top-20-most-commonly-used-data-engineering-tools",
+        "fallback": "secoda metadata blog:  the top 20 data engineering tools used by growing tech companies",
+        "text": "top 20 most commonly used data engineering tools 2021",
+        "title": "secoda metadata blog:  the top 20 data engineering tools used by growing tech companies",
+        "title_link": "https://www.secoda.co/blog/the-top-20-most-commonly-used-data-engineering-tools",
+        "service_name": "secoda.co",
+        "message_blocks": null
+      }
+    ]
+  }
+]

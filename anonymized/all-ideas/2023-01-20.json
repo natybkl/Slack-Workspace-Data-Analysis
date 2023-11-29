@@ -1,0 +1,71 @@
+[
+  {
+    "client_msg_id": "19DD6CB5-9E89-402D-94E5-4733ECD54F3D",
+    "type": "message",
+    "text": "can one/ team enroll to <https://lablab.ai/event/cohere-hackathon|this> hackathon by cohere using the project we did on week 4? ",
+    "user": "U03V785NLSU",
+    "ts": "1674214518.866309",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tYu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "can one/ team enroll to "
+              },
+              {
+                "type": "link",
+                "url": "https://lablab.ai/event/cohere-hackathon",
+                "text": "this"
+              },
+              {
+                "type": "text",
+                "text": " hackathon by cohere using the project we did on week 4? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03V785NLSU",
+      "ts": "1674214556.000000"
+    },
+    "attachments": [
+      {
+        "from_url": "https://lablab.ai/event/cohere-hackathon",
+        "image_url": "https://storage.Stephanieapis.com/lablab-static-eu/images%2fevents%2fclc0qp53h0000356j4iileamg%2fclc0qp53h0000356j4iileamg_u013jgr_imagelink.jpg",
+        "image_width": 478,
+        "image_height": 250,
+        "image_bytes": 143219,
+        "service_icon": "https://lablab.ai/favicon_new.png",
+        "id": 1,
+        "original_url": "https://lablab.ai/event/cohere-hackathon",
+        "fallback": "lab lab: cohere hackathon",
+        "text": ":spiral_Johnson_pad: this 7-day virtual hackathon from january 27 to february 3 will be your time to shine!\n:computer: construct ai apps with the latest llm-powered technology from cohere and try the newly released multilingual text understanding model\n:heavy_check_mark: there's no prerequisite level. just starting out with ai? or perhaps you're a veteran data scientist? a designer? a business developer? we want you and your domain expertise!\n:cat:\u200d:computer: sign up now for free and let's get going!",
+        "title": "cohere hackathon",
+        "title_link": "https://lablab.ai/event/cohere-hackathon",
+        "service_name": "lab lab",
+        "message_blocks": null
+      }
+    ]
+  }
+]

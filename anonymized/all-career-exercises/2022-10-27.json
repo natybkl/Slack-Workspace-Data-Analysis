@@ -1,0 +1,124 @@
+[
+  {
+    "client_msg_id": "d880e150-d03d-4295-9692-bb267eb61945",
+    "type": "message",
+    "text": "i handed in my cv",
+    "user": "U03UG0SFHGT",
+    "ts": "1666856876.398969",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5VE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i handed in my cv"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "60e1cb8a7a1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953568416743_60e1cb8a7a1b6c71c2bb_72.jpg",
+      "first_name": "Robert",
+      "real_name": "Robert James",
+      "display_name": "Robert James",
+      "team": "T03U4J8HMUG",
+      "name": "Robert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666720731.259369",
+    "parent_user_id": "U03UL5LSTG9",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2711c6ec-24d9-4da8-8881-98b0ec3fcb80",
+    "type": "message",
+    "text": "hi hi\n<@u03ud68rqh3> <@u03uumr26q1> <@u03uakatq22> <@u03v6hmrpgq>\nplease share with me your updated cv for tomorrows mock interviews.\nthanks.",
+    "user": "U03TT5KEYCF",
+    "ts": "1666863310.801739",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KUX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hi hi\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U03UD68RQH3"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UUMR26Q1"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UAKATQ22"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03V6HMRPGQ"
+              },
+              {
+                "type": "text",
+                "text": "\nplease share with me your updated cv for tomorrows mock interviews.\nthanks."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "aae36184306b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3945210198087_aae36184306bb9e0b018_72.jpg",
+      "first_name": "Brian",
+      "real_name": "Brian Flores",
+      "display_name": "Brian Flores",
+      "team": "T03U4J8HMUG",
+      "name": "Brian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03V6HMRPGQ",
+          "U03UD68RQH3"
+        ],
+        "count": 2
+      }
+    ],
+    "attachments": null
+  }
+]

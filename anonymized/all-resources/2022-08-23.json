@@ -1,0 +1,461 @@
+[
+  {
+    "client_msg_id": "7ce527c9-f2e4-42cc-92d6-bd41616e8020",
+    "type": "message",
+    "text": "<https://www.analyticsvidhya.com/blog/2021/05/dealing-with-missing-values-in-python-a-complete-guide/>",
+    "user": "U03UG4Q7V42",
+    "ts": "1661255019.012069",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7c=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.analyticsvidhya.com/blog/2021/05/dealing-with-missing-values-in-python-a-complete-guide/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.analyticsvidhya.com/blog/2021/05/dealing-with-missing-values-in-python-a-complete-guide/",
+        "ts": 1621418858,
+        "thumb_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/machine_learning_starter_pack.jpg",
+        "thumb_width": 760,
+        "thumb_height": 420,
+        "service_icon": "https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo_square_v2.jpg",
+        "id": 1,
+        "original_url": "https://www.analyticsvidhya.com/blog/2021/05/dealing-with-missing-values-in-python-a-complete-guide/",
+        "fallback": "analytics vidhya: dealing with missing values in python - analytics vidhya",
+        "text": "dealing with missing values in python many methods are there. first , you need to understand the type of missing value and its significance.",
+        "title": "dealing with missing values in python - analytics vidhya",
+        "title_link": "https://www.analyticsvidhya.com/blog/2021/05/dealing-with-missing-values-in-python-a-complete-guide/",
+        "service_name": "analytics vidhya",
+        "fields": [
+          {
+            "value": "Eddie_4072",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "9 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "361abdcb-c054-4351-acbb-5ea0b1a45abb",
+    "type": "message",
+    "text": "to get an idea of how to normalize and standardize a data\n<https://Michelle.com/christianversloot/machine-learning-articles/blob/main/how-to-normalize-or-standardize-a-dataset-in-python.md>",
+    "user": "U03UG4Q7V42",
+    "ts": "1661255134.628489",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e3kIm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "to get an idea of how to normalize and standardize a data\n"
+              },
+              {
+                "type": "link",
+                "url": "https://Michelle.com/christianversloot/machine-learning-articles/blob/main/how-to-normalize-or-standardize-a-dataset-in-python.md",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "id": 1,
+        "footer_icon": "https://slack.Michelle.com/static/img/favicon-neutral.png",
+        "color": "24292f",
+        "bot_id": "b03uyh1bwqz",
+        "app_unfurl_url": "https://Michelle.com/christianversloot/machine-learning-articles/blob/main/how-to-normalize-or-standardize-a-dataset-in-python.md",
+        "is_app_unfurl": true,
+        "app_id": "a01bp7r4kny",
+        "fallback": "<https://Michelle.com/christianversloot/machine-learning-articles/blob/main/how-to-normalize-or-standardize-a-dataset-in-python.md | how-to-normalize-or-standardize-a-dataset-in-python.md>",
+        "text": "* * *\n\ntitle: \"how to normalize or standardize a dataset in python?\"  \ndate: \"2020-11-19\"  \ncategories:\n\n\u2022 \"frameworks\"\n\u2022 \"svms\"  \n    tags:\n\u2022 \"data-preprocessing\"\n\u2022 \"dataset\"\n\u2022 \"deep-learning\"\n\u2022 \"feature-scaling\"\n\u2022 \"machine-learning\"\n\u2022 \"normalization\"\n\u2022 \"preprocessing\"\n\u2022 \"standardization\"\n\n* * *\n\ntraining a supervised machine learning model involves feeding forward data from a training dataset, through the model, generating predictions. these predictions are then compared with what is known as the _ground truth_, or the corresponding targets for the training data. subsequently, the model is improved, by minimizing a cost, error or <https://www.machinecurve.com/index.php/2019/Joanne/04/about-loss-and-loss-functions/|loss function>.\n\nit is important to prepare your dataset before feeding it to your model. when you pass through data without doing so, the model may show some very interesting behavior - and training can become really difficult, if not impossible. in those cases, when inspecting your model code, it could very well be the case that you forgot to apply *normalization* or *standardization*. what are they? why are they necessary? and how do they work? precisely that is what we will look at in this article.\n\nfirstly, we will take a look at why you need a normalized or standardized dataset. subsequently, we'll move forward and see how those techniques actually work. finally, we give a lot of step-by-step examples by using scikit-learn and python for making your dataset ready for machine learning models.\n\nlet's take a look! :)\n\n*update 08/dec/2020:* added references to pca article.\n\n* * *\n\n[toc]\n\n* * *\n\n*normalization and standardization for feature scaling*\n\nbefore studying the _what_ of something, i always think that it helps studying the _why_ first. at least, it makes you understand why you have to apply certain techniques or methods. the same is true for normalization and standardization. why are they necessary? let's take a look at this in more detail.\n\n*they are required by machine learning algorithms*\n\nwhen you are training a supervised machine learning model, you are feeding forward data through the model, generating predictions, and subsequently improving the model. as you read in the introduction, this is achieved by minimizing a cost/error/loss function, and it allows us to optimize models in their unique ways.\n\nfor example, a <https://www.machinecurve.com/index.php/2019/09/20/intuitively-understanding-svm-and-svr/|support vector machine> is optimized by finding support vectors that support the decision boundary with the greatest margin between two classes, effectively computing a distance metric. neural networks use <https://www.machinecurve.com/index.php/2019/Joanne/24/gradient-descent-and-its-variants/|gradient descent> for optimization, which involves walking down the loss landscape into the direction where loss improves most. and there are many other ways. now, here are some insights about why datasets must be scaled for machine learning algorithms (wikipedia, 2011):\n\n\u2022 gradient descent converges much faster when the dataset is scaled.\n\u2022 if the model depends on measuring distance (think svm), the distances are comparable after the dataset was scaled. in fact, if it is _not_ scaled, computation of the loss can be \"governed by this particular feature\" if the feature has a really big scale compared to other features (wikipedia, 2011).\n\u2022 if you apply <https://www.machinecurve.com/index.php/2020/01/26/which-regularizer-do-i-need-for-training-my-neural-network/|regularization>, you must also apply scaling, because otherwise some features may be penalized more than strictly necessary.\n\n*they help feature selection too*\n\nsuppose that we given a dataset of a *runner's diary* and that our goal is to learn a predictive model between some of the variables and runner performance. what we would normally do in those cases is perform a feature selection procedure, because we cannot simply feed all samples due to two reasons:\n\n1. *the curse of dimensionality:* if we look at our dataset as a _feature space_ with each feature (i.e., column) representing one dimension, our space would be multidimensional if we use many features. the more dimensions we add, the more training data we need; this need increases exponentially. by consequence, although we should use sufficient features, we don't want to use every one of them.\n2. *we don't want to use features that contribute insignificantly.* some features (columns) contribute to the output less significantly than others. it could be that when removed, the model will still be able to perform, but at a significantly lower computational cost. we therefore want to be able to select the features that contribute most significantly.\n\n&gt; in machine learning problems that involve learning a \"state-of-nature\" from a finite number of data samples in a high-dimensional feature space with each feature having a range of possible values, typically an enormous amount of training data is required to ensure that there are several samples with each combination of values.\n&gt; \n&gt; wikipedia (n.d.) about the curse of dimensionality\n\nwe would e.g. apply algorithms such as <https://www.machinecurve.com/index.php/2020/12/07/introducing-pca-with-python-and-scikit-learn-for-machine-learning/|_principal component analysis_ (pca)> to help us determine which features are most important. if we look at how these algorithms work, we see that e.g. pca extracts new features based on the _principal directions_ in the dataset, i.e. the directions in your data where variance is largest (scikit-learn, n.d.).\n\n&gt; variance is the expectation of the squared deviation of a random variable from its mean. informally, it measures how far a set of numbers is spread out from their average value.\n&gt; \n&gt; wikipedia (2001)\n\nlet's keep this in mind when looking at the following dataset:\n\n&lt;images/diary.png|/images/diary.png&gt;\n\nhere, the variance of the variable _time offset_ is larger than that of the variable _distance run_.\n\npca will therefore naturally select the time offset variable over the distance run variable, because the <https://www.machinecurve.com/index.php/2020/12/07/introducing-pca-with-python-and-scikit-learn-for-machine-learning/|eigenpairs> are more significant there.\n\nhowever, this does not necessarily mean that it _is_ in fact more important - because we cannot compare variance. only if variance is comparable, and hence the scales are equal in the _unit they represent_, we can confidently use algorithms like pca for feature selection. that's why we must find a way to make our variables comparable.\n\n*introducing feature scaling*\n\nand, to be speaking most generally, that method is called *feature scaling* - and it is applied during the data preprocessing step.\n\n&gt; feature scaling is a method used to normalize the range of independent variables or features of data. in data processing, it is also known as data normalization and is generally performed during the data preprocessing step.\n&gt; \n&gt; wikipedia (2011)\n\nthere are two primary ways for feature scaling which we will cover in the remainder of this article:\n\n\u2022 *rescaling*, or _min-max normalization:_ we scale the data into one of two ranges: [latex][0, 1][/latex] or [latex][a, b][/latex], often [latex][-1, 1][/latex].\n\u2022 *standardization*, or _z-score normalization_: we scale the data so that the mean is zero and variance is 1.\n\nlet's now cover each of the three methods in more detail, find out how they work, and identify when they are used best.\n\n* * *\n\n*rescaling (min-max normalization)*\n\nrescaling, or *min-max normalization*, is a simple method for bringing your data into one out of two ranges: [latex][0, 1][/latex] or [latex][a, b][/latex]. it highly involves the minimum and maximum values from the dataset in normalizing the data.\n\n*how it works - the [0, 1] way*\n\nsuppose that we have the following array:\n\n```\ndataset = np.array([1.0, 12.4, 3.9, Joanne.4])\n```\n\nmin-max norma\u2026",
+        "title": "<https://Michelle.com/christianversloot/machine-learning-articles/blob/main/how-to-normalize-or-standardize-a-dataset-in-python.md | how-to-normalize-or-standardize-a-dataset-in-python.md>",
+        "footer": "<https://Michelle.com/christianversloot/machine-learning-articles|christianversloot/machine-learning-articles>",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "baab397a-0a6d-434b-8f8d-6d6362ec7606",
+    "type": "message",
+    "text": "docker tutorial\n<https://youtu.be/bi0ckgmruia|https://youtu.be/bi0ckgmruia>",
+    "user": "U03UG4Q7V42",
+    "ts": "1661265171.297529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pzr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "docker tutorial\n"
+              },
+              {
+                "type": "link",
+                "url": "https://youtu.be/bi0ckgmruia",
+                "text": "https://youtu.be/bi0ckgmruia"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Lopez",
+      "display_name": "Ariel Lopez",
+      "team": "T03U4J8HMUG",
+      "name": "Ariel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/bi0ckgmruia",
+        "thumb_url": "https://i.ytimg.com/vi/bi0ckgmruia/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/bi0ckgmruia?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"docker tutorial for beginners - how to containerize python applications\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/bi0ckgmruia",
+        "fallback": "youtube video: docker tutorial for beginners - how to containerize python applications",
+        "title": "docker tutorial for beginners - how to containerize python applications",
+        "title_link": "https://youtu.be/bi0ckgmruia",
+        "author_name": "python engineer",
+        "author_link": "https://www.youtube.com/c/pythonengineer",
+        "service_name": "youtube",
+        "service_url": "https://www.youtube.com/",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "04A0889A-4B30-4F10-BB5E-4B487753257D",
+    "type": "message",
+    "text": "imputations: mean, median and most frequent\n <https://vitalflux.com/pandas-impute-missing-values-mean-median-mode/|https://vitalflux.com/pandas-impute-missing-values-mean-median-mode/>",
+    "user": "U03V61VGQG0",
+    "ts": "1661283445.679989",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "c=KL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "imputations: mean, median and most frequent"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "https://vitalflux.com/pandas-impute-missing-values-mean-median-mode/",
+                "text": "https://vitalflux.com/pandas-impute-missing-values-mean-median-mode/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Diane",
+      "real_name": "Diane Cruz",
+      "display_name": "Diane Cruz",
+      "team": "T03U4J8HMUG",
+      "name": "Diane",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://vitalflux.com/pandas-impute-missing-values-mean-median-mode/",
+        "ts": 1633271520,
+        "image_url": "https://vitalflux.com/wp-content/uploads/2020/07/screenshot-2020-07-23-at-8.19.49-am.png",
+        "image_width": 426,
+        "image_height": 250,
+        "image_bytes": 35223,
+        "service_icon": "https://vitalflux.com/wp-content/uploads/2018/Joanne/cropped-vitalflux-180x180.png",
+        "id": 1,
+        "original_url": "https://vitalflux.com/pandas-impute-missing-values-mean-median-mode/",
+        "fallback": "data analytics: python - replace missing values with mean, median &amp; mode - data analytics",
+        "text": "data science, machine learning, deep learning, data analytics, python, r, tutorials, tests, interviews, news, ai, cloud computing, web, mobile",
+        "title": "python - replace missing values with mean, median &amp; mode - data analytics",
+        "title_link": "https://vitalflux.com/pandas-impute-missing-values-mean-median-mode/",
+        "service_name": "data analytics",
+        "fields": [
+          {
+            "value": "Ajitesh Kumar",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "7 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7c81b681-3e08-42d1-80e1-33674017db20",
+    "type": "message",
+    "text": "<https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/>",
+    "user": "U03UVHCV6KB",
+    "ts": "1661285678.232139",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J1AhK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/",
+        "ts": 1481561169,
+        "thumb_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+        "thumb_width": 200,
+        "thumb_height": 200,
+        "service_icon": "https://www.geeksforgeeks.org/wp-content/uploads/gfg_200x200.png",
+        "id": 1,
+        "original_url": "https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/",
+        "fallback": "geeksforgeeks: graph plotting in python | set 1 - geeksforgeeks",
+        "text": "a computer science portal for geeks. it contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview questions.",
+        "title": "graph plotting in python | set 1 - geeksforgeeks",
+        "title_link": "https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/",
+        "service_name": "geeksforgeeks",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UG4Q7V42"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "de5f8afc-a8d0-4ffd-962f-da8016231307",
+    "type": "message",
+    "text": "<https://seaborn.pydata.org/tutorial/axis_grids.html>",
+    "user": "U03UVHCV6KB",
+    "ts": "1661285722.699989",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aZI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://seaborn.pydata.org/tutorial/axis_grids.html",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "848e55de-be49-4efc-95b1-07d19123eaaa",
+    "type": "message",
+    "text": "simple steps for performing exploratory data analysis!\n<https://www.simplilearn.com/tutorials/data-analytics-tutorial/exploratory-data-analysis>",
+    "user": "U03UD4FEDHB",
+    "ts": "1661320954.875979",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EqJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "simple steps for performing exploratory data analysis!\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.simplilearn.com/tutorials/data-analytics-tutorial/exploratory-data-analysis",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g48fef055f8a",
+      "image_72": "https://secure.gravatar.com/avatar/48fef055f8a8b8a4c0bcfefbf5e3eec3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Michael",
+      "real_name": "Michael Fowler",
+      "display_name": "Michael Fowler",
+      "team": "T03U4J8HMUG",
+      "name": "Michael",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UD4FEDHB",
+      "ts": "1661321016.000000"
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.simplilearn.com/tutorials/data-analytics-tutorial/exploratory-data-analysis",
+        "thumb_url": "https://www.simplilearn.com/logo.png",
+        "thumb_width": 200,
+        "thumb_height": 200,
+        "service_icon": "https://www.simplilearn.com/static/frontend/images/favicon/apple-touch-icon-152x152.png",
+        "id": 1,
+        "original_url": "https://www.simplilearn.com/tutorials/data-analytics-tutorial/exploratory-data-analysis",
+        "fallback": "simplilearn.com: what is exploratory data analysis? steps and market analysis | simplilearn",
+        "text": "exploratory data analysis is an integral part of working with data. read on to know what it is and how to perform it on different data types.",
+        "title": "what is exploratory data analysis? steps and market analysis | simplilearn",
+        "title_link": "https://www.simplilearn.com/tutorials/data-analytics-tutorial/exploratory-data-analysis",
+        "service_name": "simplilearn.com",
+        "message_blocks": null
+      }
+    ],
+    "reactions": [
+      {
+        "name": "heart",
+        "users": [
+          "U03UG1Z21JP",
+          "U03UFV7HFNF",
+          "U03U1J51VFZ"
+        ],
+        "count": 3
+      }
+    ]
+  }
+]

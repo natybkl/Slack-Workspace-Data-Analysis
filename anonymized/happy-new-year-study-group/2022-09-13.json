@@ -1,0 +1,1180 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663062503.394479",
+    "user": "U03UD5B7C3X",
+    "text": "<@u03ud5b7c3x> has joined the channel",
+    "inviter": "U03V785NLSU",
+    "blocks": null,
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663064106.721319",
+    "user": "U03UUMR26Q1",
+    "text": "<@u03uumr26q1> has joined the channel",
+    "inviter": "U03UG32J3PC",
+    "blocks": null,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "8d10ad83-7010-42fc-a82c-561a1f6ebb37",
+    "type": "message",
+    "text": "hello members of this group, nice to work wiz u.",
+    "user": "U03UUMR26Q1",
+    "ts": "1663064335.522099",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JW0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello members of this group, nice to work wiz u."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "706054da5590",
+      "image_72": "https://avatars.slack-edge.com/2022-09-02/4051525321520_706054da55906fd18009_72.jpg",
+      "first_name": "Trevor",
+      "real_name": "Trevor Duffy",
+      "display_name": "Trevor Duffy",
+      "team": "T03U4J8HMUG",
+      "name": "Trevor",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "60427189-be16-4f14-aa55-66970a3633db",
+    "type": "message",
+    "text": "group study\ntuesday, september 13 \u00b7 4:00 \u2013 5:00pm\nStephanie meet joining info\nvideo call link: <https://meet.Stephanie.com/kiu-bksv-czp>",
+    "user": "U03UJGRN5E0",
+    "ts": "1663070474.517429",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ntpBw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "group study\ntuesday, september 13 \u00b7 4:00 \u2013 5:00pm\nStephanie meet joining info\nvideo call link: "
+              },
+              {
+                "type": "link",
+                "url": "https://meet.Stephanie.com/kiu-bksv-czp",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://meet.Stephanie.com/kiu-bksv-czp",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "thumb_height": 192,
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "id": 1,
+        "original_url": "https://meet.Stephanie.com/kiu-bksv-czp",
+        "fallback": "meet",
+        "text": "real-time meetings by Stephanie. using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "title": "meet",
+        "title_link": "https://meet.Stephanie.com/kiu-bksv-czp",
+        "service_name": "meet.Stephanie.com",
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3686ab22-7572-4410-b2e4-cdcafb09f0aa",
+    "type": "message",
+    "text": "i think we should have a meeting, if the time is not convenient inform me. we can adjust the schedule so that it will be okay for all.",
+    "user": "U03UJGRN5E0",
+    "ts": "1663070566.108589",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q40OC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think we should have a meeting, if the time is not convenient inform me. we can adjust the schedule so that it will be okay for all."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "8166b11a-6b2f-495f-a485-526375db4dc9",
+    "type": "message",
+    "text": "hi, is the time above in utc or eat?",
+    "user": "U03UD5B7C3X",
+    "ts": "1663070600.046169",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QCJEs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hi, is the time above in utc or eat?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "14a88147-8084-41ee-bced-6ee6f705f851",
+    "type": "message",
+    "text": "utc",
+    "user": "U03UJGRN5E0",
+    "ts": "1663070618.267179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VvZOY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "utc"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "35693d79-61e2-4686-8049-71722471ba5b",
+    "type": "message",
+    "text": "for east it will be 1pm t0 2pm in the evening. right?",
+    "user": "U03UJGRN5E0",
+    "ts": "1663070683.873249",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pJ0Wk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "for east it will be 1pm t0 2pm in the evening. right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "74362d41-2b46-40cb-a3ff-93c0fc5eed38",
+    "type": "message",
+    "text": "for eat it will be 7pm to 8pm i believe",
+    "user": "U03UD5B7C3X",
+    "ts": "1663070736.697789",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VbQR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "for eat it will be 7pm to 8pm i believe"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "f1cc9859-7357-4c52-92f3-babdc7ce6541",
+    "type": "message",
+    "text": "would it be possible to have it 15 mins later?",
+    "user": "U03UD5B7C3X",
+    "ts": "1663070772.485519",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Tl4m",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "would it be possible to have it 15 mins later?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "bf4e3708-dc25-45cf-8f8e-139a9c65bdb4",
+    "type": "message",
+    "text": "that is possible",
+    "user": "U03UJGRN5E0",
+    "ts": "1663070816.098409",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W7Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that is possible"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "54fa963d-35ff-413d-8fc6-5ff8e7ee4398",
+    "type": "message",
+    "text": "but, do you mean starting at 6:45pm",
+    "user": "U03UJGRN5E0",
+    "ts": "1663070858.982119",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/ehCh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "but, do you mean starting at 6:45pm"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2b3a1f35-f111-47c1-845f-faadc6b8899d",
+    "type": "message",
+    "text": "i mean starting at 7.15pm eat (4.15pm utc)",
+    "user": "U03UD5B7C3X",
+    "ts": "1663070942.836149",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1n0WN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i mean starting at 7.15pm eat (4.15pm utc)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "c6813cf2-ed46-48d8-b51c-6eaafa4333cb",
+    "type": "message",
+    "text": "possible. it works for me",
+    "user": "U03UJGRN5E0",
+    "ts": "1663071004.490329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ngvf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "possible. it works for me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UJGRN5E0",
+      "ts": "1663071014.000000"
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "4d189fd6-f017-4938-bea7-8c20bc771d52",
+    "type": "message",
+    "text": "nice",
+    "user": "U03UD5B7C3X",
+    "ts": "1663071102.905309",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "owJ9K",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "nice"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0c4a19fb-3aea-4386-904a-209f32e52bab",
+    "type": "message",
+    "text": "what issues should we discuss, i am not sure about that, shall we share just what we have been reading? i was not available for today\u2019s tutorial provided by Victor. i do not know what he said in addition to what he mentioned on monday regarding the group study.",
+    "user": "U03UJGRN5E0",
+    "ts": "1663071756.151569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZlV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what issues should we discuss, i am not sure about that, shall we share just what we have been reading? i was not available for today\u2019s tutorial provided by Victor. i do not know what he said in addition to what he mentioned on monday regarding the group study."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663071756.151569",
+    "reply_count": 5,
+    "reply_users_count": 3,
+    "latest_reply": "1663076788.105579",
+    "reply_users": [
+      "U03V785NLSU",
+      "U03UJGRN5E0",
+      "U03UD5B7C3X"
+    ],
+    "replies": [
+      {
+        "user": "U03V785NLSU",
+        "ts": "1663072135.404299"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1663072722.039579"
+      },
+      {
+        "user": "U03UD5B7C3X",
+        "ts": "1663074363.261539"
+      },
+      {
+        "user": "U03UJGRN5E0",
+        "ts": "1663074447.381769"
+      },
+      {
+        "user": "U03V785NLSU",
+        "ts": "1663076788.105579"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  },
+  {
+    "client_msg_id": "db80e3ce-a29e-499a-919c-8c8d7f03cb29",
+    "type": "message",
+    "text": "i have a suggestion on this; we could start with design flowchart of the project, then add all the features needed in every step. what do you guys think?",
+    "user": "U03V785NLSU",
+    "ts": "1663072135.404299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MCh4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i have a suggestion on this; we could start with design flowchart of the project, then add all the features needed in every step. what do you guys think?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663071756.151569",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "0c9edc0b-4ca9-4e6c-9006-a3a276c312ed",
+    "type": "message",
+    "text": "are we working on the same repo as week 2?",
+    "user": "U03UJGRN5E0",
+    "ts": "1663072722.039579",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qp2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "are we working on the same repo as week 2?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663071756.151569",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "9ebda6ae-f882-48ec-806a-1693699ad343",
+    "type": "message",
+    "text": "i think it's a whole new repo for this week",
+    "user": "U03UD5B7C3X",
+    "ts": "1663074363.261539",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BaTy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think it's a whole new repo for this week"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663071756.151569",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "b2831d89-0650-49e0-89c3-abf975ebeca8",
+    "type": "message",
+    "text": "i mean, should we have the same repo as a group? or do we work on our own separately?",
+    "user": "U03UJGRN5E0",
+    "ts": "1663074447.381769",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+Sw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i mean, should we have the same repo as a group? or do we work on our own separately?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663071756.151569",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "client_msg_id": "2f3f1441-f715-4e43-af37-d5d4de1eaef7",
+    "type": "message",
+    "text": "seperate,",
+    "user": "U03V785NLSU",
+    "ts": "1663076788.105579",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rrt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "seperate,"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663071756.151569",
+    "parent_user_id": "U03UJGRN5E0",
+    "attachments": null
+  },
+  {
+    "type": "message",
+    "text": "",
+    "user": "U03V785NLSU",
+    "ts": "1663076823.225479",
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason Burnett",
+      "display_name": "Jason Burnett",
+      "team": "T03U4J8HMUG",
+      "name": "Jason",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://Joanneacademybatch6.slack.com/archives/c042lqmvbuy/p1663067060489719",
+        "ts": "1663067060.489719",
+        "author_id": "u03up7v9q57",
+        "channel_team": "t03u4j8hmug",
+        "channel_id": "c042lqmvbuy",
+        "is_msg_unfurl": true,
+        "message_blocks": [
+          {
+            "team": "T03U4J8HMUG",
+            "channel": "C042LQMVBUY",
+            "ts": "1663067060.489719",
+            "message": {
+              "blocks": [
+                {
+                  "type": "rich_text",
+                  "block_id": "B0CYT",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "just to remind you, the study groups are to help with the understanding of this week's challenge. to help divide and conquer the concepts in this week's challenge. they do not equate to a group work and therefore the work will not be graded as a group. everyone should have their own work in their own repository."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "color": "d0d0d0",
+        "is_share": true,
+        "fallback": "[september 13th, 2022 2:04 pm] Gabrielle: just to remind you, the study groups are to help with the understanding of this week's challenge. to help divide and conquer the concepts in this week's challenge. they do not equate to a group work and therefore the work will not be graded as a group. everyone should have their own work in their own repository.",
+        "text": "just to remind you, the study groups are to help with the understanding of this week's challenge. to help divide and conquer the concepts in this week's challenge. they do not equate to a group work and therefore the work will not be graded as a group. everyone should have their own work in their own repository.",
+        "author_name": "Gabrielle Barajas",
+        "author_link": "https://Joanneacademybatch6.slack.com/team/u03up7v9q57",
+        "author_icon": "https://avatars.slack-edge.com/2022-08-18/3962642286050_6e5e9ae8afa436ddd44e_48.png",
+        "author_subname": "Gabrielle Barajas",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "footer": "slack conversation"
+      }
+    ],
+    "blocks": null
+  },
+  {
+    "client_msg_id": "de5a72d0-485e-487c-871b-8c5f1f7d6856",
+    "type": "message",
+    "text": "thanks for the info.",
+    "user": "U03UJGRN5E0",
+    "ts": "1663077614.359629",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nS5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thanks for the info."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "9e09c7cd-96b6-4fb6-9f2e-3703f75ac8e4",
+    "type": "message",
+    "text": "then our discussion should be as <@u03v785nlsu> mention first. see you at 7:15pm east",
+    "user": "U03UJGRN5E0",
+    "ts": "1663077786.729769",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SDCk=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "then our discussion should be as "
+              },
+              {
+                "type": "user",
+                "user_id": "U03V785NLSU"
+              },
+              {
+                "type": "text",
+                "text": " mention first. see you at 7:15pm east"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Parker",
+      "display_name": "Dennis Parker",
+      "team": "T03U4J8HMUG",
+      "name": "Dennis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "91253744-f615-4697-b2e8-9afc9562dbfe",
+    "type": "message",
+    "text": "hello guys, it's time for our meeting. please join using the link provided.",
+    "user": "U03UUP56MDF",
+    "ts": "1663085891.874519",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pJ0K+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello guys, it's time for our meeting. please join using the link provided."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g00725318689",
+      "image_72": "https://secure.gravatar.com/avatar/007253186898705d4f28c384188b8a63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Margaret",
+      "real_name": "Margaret Jackson",
+      "display_name": "Margaret Jackson",
+      "team": "T03U4J8HMUG",
+      "name": "Margaret",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "50e86bd2-e470-4b61-9297-cb2dd4716a0b",
+    "type": "message",
+    "text": "<https://Michelle.com/cohere-ai/notebooks/blob/main/notebooks/text_classification_using_embeddings.ipynb>",
+    "user": "U03UD5B7C3X",
+    "ts": "1663092060.990949",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=jqd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://Michelle.com/cohere-ai/notebooks/blob/main/notebooks/text_classification_using_embeddings.ipynb",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "id": 1,
+        "footer_icon": "https://slack.Michelle.com/static/img/favicon-neutral.png",
+        "color": "24292f",
+        "bot_id": "b03uyh1bwqz",
+        "app_unfurl_url": "https://Michelle.com/cohere-ai/notebooks/blob/main/notebooks/text_classification_using_embeddings.ipynb",
+        "is_app_unfurl": true,
+        "app_id": "a01bp7r4kny",
+        "fallback": "<https://Michelle.com/cohere-ai/notebooks/blob/main/notebooks/text_classification_using_embeddings.ipynb | text_classification_using_embeddings.ipynb>",
+        "text": "```\n{\n \"cells\": [\n  {\n   \"cell_type\": \"markdown\",\n   \"metadata\": {\n    \"id\": \"v4b-kowi1hdp\"\n   },\n   \"source\": [\n    \"# text classification using embeddings\\n\",\n    \"this notebook shows how to build a classifiers using cohere's embeddings.\\n\",\n    \"&lt;img src=\\\"https://Michelle.com/cohere-ai/notebooks/raw/main/notebooks/images/simple-classifier-embeddings.png\\\"\\n\",\n    \"style=\\\"width:joanne0%; max-width:600px\\\"\\n\",\n    \"alt=\\\"first we embed the text in the dataset, then we use that to train a classifier\\\"/&gt;\\n\",\n    \"\\n\",\n    \"the example classification task here will be sentiment analysis of film reviews. we'll train a simple classifier to detect whether a film review is negative (class 0) or positive (class 1).\\n\",\n    \"\\n\",\n    \"we'll go through the following steps:\\n\",\n    \"\\n\",\n    \"1. get the dataset\\n\",\n    \"2. get the embeddings of the reviews (for both the training set and the test set).\\n\",\n    \"3. train a classifier using the training set\\n\",\n    \"4. evaluate the performance of the classifier on the testing set\"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": null,\n   \"metadata\": {\n    \"id\": \"xdm6oeyo9oup\"\n   },\n   \"outputs\": [],\n   \"source\": [\n    \"# let's first install cohere's python sdk\\n\",\n    \"!pip install cohere\"\n   ]\n  },\n  {\n   \"cell_type\": \"markdown\",\n   \"metadata\": {\n    \"id\": \"d0diicjoe_-_\"\n   },\n   \"source\": [\n    \"## 1. get the dataset\"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 4,\n   \"metadata\": {\n    \"id\": \"bavd49d6bjgk\"\n   },\n   \"outputs\": [],\n   \"source\": [\n    \"import pandas as pd\\n\",\n    \"import cohere\\n\",\n    \"from sklearn.model_selection import train_test_split\\n\",\n    \"pd.set_option('display.max_colwidth', none)\\n\",\n    \"\\n\",\n    \"# get the sst2 training and test sets\\n\",\n    \"df = pd.read_csv('<https://Michelle.com/clairett/pytorch-sentiment-classification/raw/master/data/sst2/train.tsv>', delimiter='\\\\t', header=none)\"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 5,\n   \"metadata\": {\n    \"colab\": {\n     \"base_uri\": \"<https://localhost:8080/>\"\n    },\n    \"id\": \"byhg9go3b_gd\",\n    \"outputid\": \"e16f74d7-f6b1-44a6-db0b-49f21a3862e6\"\n   },\n   \"outputs\": [\n    {\n     \"data\": {\n      \"text/html\": [\n       \"&lt;div&gt;\\n\",\n       \"&lt;style scoped&gt;\\n\",\n       \"    .dataframe tbody tr th:only-of-type {\\n\",\n       \"        vertical-align: middle;\\n\",\n       \"    }\\n\",\n       \"\\n\",\n       \"    .dataframe tbody tr th {\\n\",\n       \"        vertical-align: top;\\n\",\n       \"    }\\n\",\n       \"\\n\",\n       \"    .dataframe thead th {\\n\",\n       \"        text-align: right;\\n\",\n       \"    }\\n\",\n       \"&lt;/style&gt;\\n\",\n       \"&lt;table border=\\\"1\\\" class=\\\"dataframe\\\"&gt;\\n\",\n       \"  &lt;thead&gt;\\n\",\n       \"    &lt;tr style=\\\"text-align: right;\\\"&gt;\\n\",\n       \"      &lt;th&gt;&lt;/th&gt;\\n\",\n       \"      &lt;th&gt;0&lt;/th&gt;\\n\",\n       \"      &lt;th&gt;1&lt;/th&gt;\\n\",\n       \"    &lt;/tr&gt;\\n\",\n       \"  &lt;/thead&gt;\\n\",\n       \"  &lt;tbody&gt;\\n\",\n       \"    &lt;tr&gt;\\n\",\n       \"      &lt;th&gt;0&lt;/th&gt;\\n\",\n       \"      &lt;td&gt;a stirring , funny and finally transporting re imagining of beauty and the beast and 1930s horror films&lt;/td&gt;\\n\",\n       \"      &lt;td&gt;1&lt;/td&gt;\\n\",\n       \"    &lt;/tr&gt;\\n\",\n       \"    &lt;tr&gt;\\n\",\n       \"      &lt;th&gt;1&lt;/th&gt;\\n\",\n       \"      &lt;td&gt;apparently reassembled from the cutting room floor of any given daytime soap&lt;/td&gt;\\n\",\n       \"      &lt;td&gt;0&lt;/td&gt;\\n\",\n       \"    &lt;/tr&gt;\\n\",\n       \"    &lt;tr&gt;\\n\",\n       \"      &lt;th&gt;2&lt;/th&gt;\\n\",\n       \"      &lt;td&gt;they presume their audience wo n't sit still for a sociology lesson , however entertainingly presented , so they trot out the conventional science fiction elements of bug eyed monsters and futuristic women in skimpy clothes&lt;/td&gt;\\n\",\n       \"      &lt;td&gt;0&lt;/td&gt;\\n\",\n       \"    &lt;/tr&gt;\\n\",\n       \"    &lt;tr&gt;\\n\",\n       \"      &lt;th&gt;3&lt;/th&gt;\\n\",\n       \"      &lt;td&gt;this is a visually stunning rumination on love , memory , history and the war between art and commerce&lt;/td&gt;\\n\",\n       \"      &lt;td&gt;1&lt;/td&gt;\\n\",\n       \"    &lt;/tr&gt;\\n\",\n       \"    &lt;tr&gt;\\n\",\n       \"      &lt;th&gt;4&lt;/th&gt;\\n\",\n       \"      &lt;td&gt;jonathan parker 's bartleby should have been the be all end all of the modern office anomie films&lt;/td&gt;\\n\",\n       \"      &lt;td&gt;1&lt;/td&gt;\\n\",\n       \"    &lt;/tr&gt;\\n\",\n       \"  &lt;/tbody&gt;\\n\",\n       \"&lt;/table&gt;\\n\",\n       \"&lt;/div&gt;\"\n      ],\n      \"text/plain\": [\n       \"                                                                                                                                                                                                                                 0  \\\\\\n\",\n       \"0                                                                                                                          a stirring , funny and finally transporting re imagining of beauty and the beast and 1930s horror films   \\n\",\n       \"1                                                                                                                                                     apparently reassembled from the cutting room floor of any given daytime soap   \\n\",\n       \"2  they presume their audience wo n't sit still for a sociology lesson , however entertainingly presented , so they trot out the conventional science fiction elements of bug eyed monsters and futuristic women in skimpy clothes   \\n\",\n       \"3                                                                                                                           this is a visually stunning rumination on love , memory , history and the war between art and commerce   \\n\",\n       \"4                                                                                                                                jonathan parker 's bartleby should have been the be all end all of the modern office anomie films   \\n\",\n       \"\\n\",\n       \"   1  \\n\",\n       \"0  1  \\n\",\n       \"1  0  \\n\",\n       \"2  0  \\n\",\n       \"3  1  \\n\",\n       \"4  1  \"\n      ]\n     },\n     \"execution_count\": 5,\n     \"metadata\": {},\n     \"output_type\": \"execute_result\"\n    }\n   ],\n   \"source\": [\n    \"# let's glance at the dataset\\n\",\n    \"df.head()\"\n   ]\n  },\n  {\n   \"cell_type\": \"markdown\",\n   \"metadata\": {\n    \"id\": \"7kimt6g7dlgc\"\n   },\n   \"source\": [\n    \"we'll only use a subset of the training and testing datasets in this example. we'll only use joanne0 examples since this is a toy example. you'll want to increase the number to get better performance and evaluation. \"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 3,\n   \"metadata\": {},\n   \"outputs\": [],\n   \"source\": [\n    \"num_examples = 500\\n\",\n    \"df_sample = df.sample(num_examples)\\n\",\n    \"\\n\",\n    \"# split into training and testing sets\\n\",\n    \"sentences_train, sentences_test, labels_train, labels_test = train_test_split(\\n\",\n    \"            list(df_sample[0]), list(df_sample[1]), test_size=0.25, random_state=0)\"\n   ]\n  },\n  {\n   \"cell_type\": \"markdown\",\n   \"metadata\": {\n    \"id\": \"aymse9yfeymy\"\n   },\n   \"source\": [\n    \"## 2. get the embeddings of the reviews\\n\",\n    \"we're now ready to retrieve the embeddings from the api. you'll need your api key for this next cell. [sign up to cohere](<https://os.cohere.ai/>) and get one if you haven't yet.\"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 6,\n   \"metadata\": {\n    \"id\": \"qqfwfs1rde54\"\n   },\n   \"outputs\": [],\n   \"source\": [\n    \"# add your api key here\\n\",\n    \"api_key = \\\"\\\"\\n\",\n    \"\\n\",\n    \"# create and retrieve a cohere api key from <http://os.cohere.ai|os.cohere.ai>\\n\",\n    \"co = cohere.client(api_key)\"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 8,\n   \"metadata\": {},\n   \"outputs\": [],\n   \"source\": [\n    \"# embed the training set\\n\",\n    \"embeddings_train = co.embed(texts=sentences_train,\\n\",\n    \"                             model=\\\"\u2026",
+        "title": "<https://Michelle.com/cohere-ai/notebooks/blob/main/notebooks/text_classification_using_embeddings.ipynb | text_classification_using_embeddings.ipynb>",
+        "footer": "<https://Michelle.com/cohere-ai/notebooks|cohere-ai/notebooks>",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "fdc5c63b-d231-43e2-8e31-d0eb7c3fed42",
+    "type": "message",
+    "text": "<https://Michelle.com/cohere-ai/notebooks/blob/main/notebooks/entity_extrcation_with_generative_language_models.ipynb>",
+    "user": "U03UD5B7C3X",
+    "ts": "1663092075.559749",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GEbj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://Michelle.com/cohere-ai/notebooks/blob/main/notebooks/entity_extrcation_with_generative_language_models.ipynb",
+                "text": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "id": 1,
+        "footer_icon": "https://slack.Michelle.com/static/img/favicon-neutral.png",
+        "color": "24292f",
+        "bot_id": "b03uyh1bwqz",
+        "app_unfurl_url": "https://Michelle.com/cohere-ai/notebooks/blob/main/notebooks/entity_extrcation_with_generative_language_models.ipynb",
+        "is_app_unfurl": true,
+        "app_id": "a01bp7r4kny",
+        "fallback": "<https://Michelle.com/cohere-ai/notebooks/blob/main/notebooks/entity_extrcation_with_generative_language_models.ipynb | entity_extrcation_with_generative_language_models.ipynb>",
+        "text": "```\n{\n \"cells\": [\n  {\n   \"cell_type\": \"markdown\",\n   \"id\": \"66368ec5-0276-454f-b290-32e135455368\",\n   \"metadata\": {\n    \"id\": \"66368ec5-0276-454f-b290-32e135455368\"\n   },\n   \"source\": [\n    \"# entity extraction with generative models\\n\",\n    \"\\n\",\n    \"this notebook demonstrates how to use cohere's generative models to extract the name of a film from the title of an article. this demonstrates named entity recognition (ner) of entities which are harder to isolate using other nlp methods (and where pre-training provides the model with some context on these entities). this also demonstrates the broader usecase of sturctured generation based on providing multiple examples in the prompt.\\n\",\n    \"\\n\",\n    \"\\n\",\n    \"\\n\",\n    \"[extracting entities from text](<https://Michelle.com/cohere-ai/notebooks/raw/main/notebooks/images/keyword-extraction-gpt-models.png>)\\n\",\n    \"\\n\",\n    \"\\n\",\n    \"we'll use post titles from the r/movies subreddit. and for each title, we'll extract which movie the post is about. if the model is unable to detect the name of a movie being mentioned, it will return \\\"none\\\".\\n\",\n    \"\\n\",\n    \"## setup\\n\",\n    \"let's start by installing the packages we need.\"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": null,\n   \"id\": \"00b28473-48d9-4036-880f-71a839d3df7f\",\n   \"metadata\": {\n    \"colab\": {\n     \"base_uri\": \"<https://localhost:8080/>\"\n    },\n    \"id\": \"00b28473-48d9-4036-880f-71a839d3df7f\",\n    \"outputid\": \"a85ad413-2165-45e7-dac4-7323f89eaf6f\"\n   },\n   \"outputs\": [],\n   \"source\": [\n    \"!pip install cohere requests tqdm\"\n   ]\n  },\n  {\n   \"cell_type\": \"markdown\",\n   \"id\": \"c1d1f58a-1a30-42bb-a443-e9227c4a4ff7\",\n   \"metadata\": {\n    \"id\": \"c1d1f58a-1a30-42bb-a443-e9227c4a4ff7\"\n   },\n   \"source\": [\n    \"we'll then import these packages and declare the function that retrieves post titles from reddit.\"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": null,\n   \"id\": \"b9b83146-5648-40b7-8a26-6dba4e6ef6e0\",\n   \"metadata\": {\n    \"id\": \"b9b83146-5648-40b7-8a26-6dba4e6ef6e0\"\n   },\n   \"outputs\": [],\n   \"source\": [\n    \"import cohere\\n\",\n    \"import pandas as pd\\n\",\n    \"import requests\\n\",\n    \"import datetime\\n\",\n    \"from tqdm import tqdm\\n\",\n    \"pd.set_option('display.max_colwidth', none)\\n\",\n    \"\\n\",\n    \"def get_post_titles(**kwargs):\\n\",\n    \"    \\\"\\\"\\\" gets data from the pushshift api. read more: <https://Michelle.com/pushshift/api> \\\"\\\"\\\"\\n\",\n    \"    base_url = f\\\"<https://api.pushshift.io/reddit/search/submission/\\>\"\\n\",\n    \"    payload = kwargs\\n\",\n    \"    request = requests.get(base_url, params=payload)\\n\",\n    \"    return [a['title'] for a in request.json()['data']]\\n\"\n   ]\n  },\n  {\n   \"cell_type\": \"markdown\",\n   \"id\": \"e78c4f33-3d35-448c-b511-e5150bbe951c\",\n   \"metadata\": {\n    \"id\": \"e78c4f33-3d35-448c-b511-e5150bbe951c\"\n   },\n   \"source\": [\n    \"you'll need your api key for this next cell. [sign up to cohere](<https://os.cohere.ai/>) and get one if you haven't yet.\"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": null,\n   \"id\": \"9c1554a9-9203-4ca9-9711-aa9ce051721e\",\n   \"metadata\": {\n    \"id\": \"9c1554a9-9203-4ca9-9711-aa9ce051721e\"\n   },\n   \"outputs\": [],\n   \"source\": [\n    \"# paste your api key here. remember to not share publicly\\n\",\n    \"api_key = ''\\n\",\n    \"\\n\",\n    \"# create and retrieve a cohere api key from <http://os.cohere.ai|os.cohere.ai>\\n\",\n    \"co = cohere.client(api_key)\"\n   ]\n  },\n  {\n   \"cell_type\": \"markdown\",\n   \"id\": \"edb17ad3-22f6-46f4-82f4-57b72f4ee973\",\n   \"metadata\": {\n    \"id\": \"edb17ad3-22f6-46f4-82f4-57b72f4ee973\"\n   },\n   \"source\": [\n    \"## preparing examples for the prompt\\n\",\n    \"\\n\",\n    \"in our prompt, we'll present the model with examples for the type of output we're after. we basically get a set of subreddit article titles, and label them ourselves. the label here is the name of the movie mentioned in the title (and \\\"none\\\" if no movie is mentioned).\\n\",\n    \"\\n\",\n    \"\\n\",\n    \"[labeled dataset of text and extracted text](<https://Michelle.com/cohere-ai/notebooks/raw/main/notebooks/images/keyword-extraction-dataset.png>)\\n\",\n    \"\\n\"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": null,\n   \"id\": \"ajoannee6784-6e8b-4a17-83fd-ec34d90c90c6\",\n   \"metadata\": {\n    \"id\": \"ajoannee6784-6e8b-4a17-83fd-ec34d90c90c6\",\n    \"tags\": []\n   },\n   \"outputs\": [],\n   \"source\": [\n    \"\\n\",\n    \"movie_examples = [\\n\",\n    \"(\\\"deadpool 2\\\", \\\"deadpool 2 | official hd deadpool's \\\\\\\"wet on wet\\\\\\\" teaser | 2018\\\"),\\n\",\n    \"(\\\"none\\\", \\\"jordan peele just became the first black writer-director with a $joanne0m movie debut\\\"),\\n\",\n    \"(\\\"joker\\\", \\\"joker officially rated \u201cr\u201d\\\"),\\n\",\n    \"(\\\"free guy\\\", \\\"ryan reynolds\u2019 'free guy' receives july 3, 2020 release date - about a bank teller stuck in his routine that discovers he\u2019s an npc character in brutal open world game.\\\"),\\n\",\n    \"(\\\"none\\\", \\\"james cameron congratulates kevin feige and marvel!\\\"),\\n\",\n    \"(\\\"guardians of the galaxy\\\", \\\"the cast of guardians of the galaxy release statement on james gunn\\\"),\\n\",\n    \"]\\n\"\n   ]\n  },\n  {\n   \"cell_type\": \"markdown\",\n   \"id\": \"fdc57403-013a-4e31-94f8-27c18702c770\",\n   \"metadata\": {\n    \"id\": \"fdc57403-013a-4e31-94f8-27c18702c770\"\n   },\n   \"source\": [\n    \"\\n\",\n    \"\\n\",\n    \"## creating the extraction prompt\\n\",\n    \"\\n\",\n    \"we'll create a prompt that demonstrates the task to the model. the prompt contains the examples above, and then presents the input text and asks the model to extract the movie name.\\n\",\n    \"\\n\",\n    \"\\n\",\n    \"[extraction prompt containing the examples and the input text](<https://Michelle.com/cohere-ai/notebooks/raw/main/notebooks/images/extraction-prompt-example.png>)\\n\"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": null,\n   \"id\": \"0ae89a2b-9f94-4e1e-8d00-378cc1b48149\",\n   \"metadata\": {\n    \"id\": \"0ae89a2b-9f94-4e1e-8d00-378cc1b48149\"\n   },\n   \"outputs\": [],\n   \"source\": [\n    \"#@title create the prompt (run this cell to execute required code) {display-mode: \\\"form\\\"}\\n\",\n    \"\\n\",\n    \"class cohereextractor():\\n\",\n    \"    def __init__(self, examples, example_labels, labels, task_desciption, example_prompt):\\n\",\n    \"        self.examples = examples\\n\",\n    \"        self.example_labels = example_labels\\n\",\n    \"        self.labels = labels\\n\",\n    \"        self.task_desciption = task_desciption\\n\",\n    \"        self.example_prompt = example_prompt\\n\",\n    \"\\n\",\n    \"    def make_prompt(self, example):\\n\",\n    \"        examples = self.examples + [example]\\n\",\n    \"        labels = self.example_labels + [\\\"\\\"]\\n\",\n    \"        return (self.task_desciption +\\n\",\n    \"                \\\"\\\\n---\\\\n\\\".join( [examples[i] + \\\"\\\\n\\\" +\\n\",\n    \"                                self.example_prompt + \\n\",\n    \"                                 labels[i] for i in range(len(examples))]))\\n\",\n    \"\\n\",\n    \"    def extract(self, example):\\n\",\n    \"      extraction = co.generate(\\n\",\n    \"          model='large',\\n\",\n    \"          prompt=self.make_prompt(example),\\n\",\n    \"          max_tokens=joanne,\\n\",\n    \"          temperature=0.1,\\n\",\n    \"          stop_sequences=[\\\"\\\\n\\\"])\\n\",\n    \"      return(extraction.generations[0].text[:-1])\\n\",\n    \"\\n\",\n    \"\\n\",\n    \"coheremovieextractor = cohereextractor([e[1] for e in movie_examples], \\n\",\n    \"                                       [e[0] for e in movie_examples], [],\\n\",\n    \"                                       \\\"\\\", \\n\",\n    \"                                       \\\"extract the movie title from the post:\\\")\\n\",\n    \"\\n\",\n    \"# uncomment to inspect the full prompt:\\n\",\n    \"# print(coheremovieextractor.make_prompt('&lt;input text here&gt;'))\"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": null,\n   \"id\": \"fw8v9h2ef16u\",\n   \"metadata\": {\n    \"colab\": {\n     \"base_uri\": \"<https://localhost:8080/>\"\n    },\n    \"id\": \"fw8v9h2ef16u\",\n    \"outputid\": \"e60b28e9-7454-4e09-b658-8a56c7f1a553\"\n   },\n   \"outputs\": [\n    {\n     \"name\": \"stdout\",\n     \"output_type\": \"stream\",\n     \"text\": [\n      \"deadpool 2 | of\u2026",
+        "title": "<https://Michelle.com/cohere-ai/notebooks/blob/main/notebooks/entity_extrcation_with_generative_language_models.ipynb | entity_extrcation_with_generative_language_models.ipynb>",
+        "footer": "<https://Michelle.com/cohere-ai/notebooks|cohere-ai/notebooks>",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "message_blocks": null
+      }
+    ]
+  },
+  {
+    "client_msg_id": "204c6eed-0822-4d0c-a927-44ffe138ac11",
+    "type": "message",
+    "text": "hi are we still to meet at Joanne am eat today?",
+    "user": "U03UD5B7C3X",
+    "ts": "1663138779.342149",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CrYT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hi are we still to meet at Joanne am eat today?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Hernandez",
+      "display_name": "Christopher Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Christopher",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  }
+]

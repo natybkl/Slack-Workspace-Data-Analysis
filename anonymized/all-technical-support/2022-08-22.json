@@ -1,0 +1,107 @@
+[
+  {
+    "client_msg_id": "be2fee88-87a5-4377-8893-7b2b51600634",
+    "type": "message",
+    "text": "which feature did you use to make the aggregations per user? task 1.1",
+    "user": "U03UVHCV6KB",
+    "ts": "1661205808.184729",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uE=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "which feature did you use to make the aggregations per user? task 1.1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Gregory",
+      "real_name": "Gregory Bowman",
+      "display_name": "Gregory Bowman",
+      "team": "T03U4J8HMUG",
+      "name": "Gregory",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": null
+  },
+  {
+    "client_msg_id": "fae00ffb-ab43-4b84-a329-0bc349fcea40",
+    "type": "message",
+    "text": "<@u03uvhcv6kb> please ask this question in <#c03teqqs9nf|all-week1> - this question is for issues relating to platform or installations.",
+    "user": "U03U93GNNVB",
+    "ts": "1661232016.288839",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MGt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UVHCV6KB"
+              },
+              {
+                "type": "text",
+                "text": " please ask this question in "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C03TEQQS9NF"
+              },
+              {
+                "type": "text",
+                "text": " - this question is for issues relating to platform or installations."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Lawrence",
+      "real_name": "Lawrence Braun",
+      "display_name": "Lawrence Braun",
+      "team": "T03U4J8HMUG",
+      "name": "Lawrence",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661232016.288839",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1661242841.901149",
+    "reply_users": [
+      "U03UVHCV6KB"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1661242841.901149"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": null
+  }
+]
