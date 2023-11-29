@@ -189,6 +189,32 @@ def get_all_channels_messages(channels):
         
     return messages
 
+def get_all_channels_replies(channels):
+    replies = []
+    for channel in channels:
+        # print(channel)
+        base_path = "../anonymized/" + channel['name'] + '/'
+
+        json_files = [f"{base_path}/{pos_json}"  for pos_json in os.listdir(base_path) if pos_json.endswith('.json')]  
+
+        combined = []
+
+        for json_file in json_files:
+            with open(json_file, 'r', encoding="utf8") as slack_data:
+                json_content = json.load(slack_data)
+            combined.extend(json_content)
+
+        reply_timestamps = []
+
+        for msg in combined:    
+            msg_reply = from_msg_get_replies(msg) 
+            if msg_reply: 
+                reply_timestamps.append(msg_reply)
+
+        replies.extend(reply_timestamps)
+
+    return replies
+
 def convert_2_timestamp(column, data):
     """convert from unix time to readable timestamp
         args: column: columns that needs to be converted to timestamp
