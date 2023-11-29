@@ -118,21 +118,15 @@ def slack_parser(path_channel):
         5. convert to dataframe and merge all
         6. reset the index and return dataframe
     """
-
-    # specify path to get json files
-
     
     json_files = [f"{path_channel}/{pos_json}" for pos_json in os.listdir(path_channel) if pos_json.endswith('.json')]
     combined = []
 
-    # print(len(json_files))
     for json_file in json_files:
         with open(json_file, 'r', encoding="utf8") as slack_data:
             json_content = json.load(slack_data)
-            # print(json_content)
             combined.append(json_content)
-            # break
-    
+        
 
     # print(combined)
     # loop through all json files and extract required informations
@@ -180,17 +174,20 @@ def slack_parser(path_channel):
 
         data = zip(msg_type, msg_content, sender_id, time_msg, msg_dist, time_thread_st,
         reply_count, reply_users_count, reply_users, tm_thread_end)
+
         columns = ['msg_type', 'msg_content', 'sender_name', 'msg_sent_time', 'msg_dist_type',
         'time_thread_start', 'reply_count', 'reply_users_count', 'reply_users', 'tm_thread_end']
 
         df = pd.DataFrame(data=data, columns=columns)
+        # print(df['channel'])
+
         df = df[df['sender_name'] != 'Not provided']
         dflist.append(df)
     
 
-    print(dflist)
+    # print(len(dflist))
     dfall = pd.concat(dflist, ignore_index=True)
-    dfall['channel'] = path_channel.split('/')[-1].split('.')[0]        
+    dfall['channel'] = path_channel.split('/')[-2].split('.')[0]        
     dfall = dfall.reset_index(drop=True)
     
     return dfall
