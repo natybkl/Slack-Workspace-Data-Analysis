@@ -4,8 +4,27 @@ import sys
 import glob
 import json
 import datetime
+import nltk
+
+import warnings
+warnings.filterwarnings('ignore')
+import matplotlib.pyplot as plt
+import seaborn as sns
+import gensim
+from gensim.models import CoherenceModel
+from gensim import corpora
+import pandas as pd
+from pprint import pprint
+import string
+
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer, WordNetLemmatizer
+import pyLDAvis.gensim_models as gensimvis
+import pyLDAvis
+
 from collections import Counter
-from collections import Counter
+
 
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -165,6 +184,55 @@ def get_messages_from_channel(channel_path):
     
     return df
 
+def get_all_channels_messages(channels):
+    messages = []
+    for channel in channels:
+        # print(channel)
+        base_path = "../anonymized/" + channel['name'] + '/'
+
+        json_files = [f"{base_path}/{pos_json}"  for pos_json in os.listdir(base_path) if pos_json.endswith('.json')]  
+
+        combined = []
+
+        for json_file in json_files:
+            with open(json_file, 'r', encoding="utf8") as slack_data:
+                json_content = json.load(slack_data)
+            combined.extend(json_content)
+        
+        for msg in combined:
+            if "subtype" not in msg:
+                text = msg.get("text", None)
+                ts = msg.get("ts", None)
+
+                messages.append((text, ts))
+        
+    return messages
+
+def get_all_channels_replies(channels):
+    replies = []
+    for channel in channels:
+        # print(channel)
+        base_path = "../anonymized/" + channel['name'] + '/'
+
+        json_files = [f"{base_path}/{pos_json}"  for pos_json in os.listdir(base_path) if pos_json.endswith('.json')]  
+
+        combined = []
+
+        for json_file in json_files:
+            with open(json_file, 'r', encoding="utf8") as slack_data:
+                json_content = json.load(slack_data)
+            combined.extend(json_content)
+
+        reply_timestamps = []
+
+        for msg in combined:    
+            msg_reply = from_msg_get_replies(msg) 
+            if msg_reply: 
+                reply_timestamps.append(msg_reply)
+
+        replies.extend(reply_timestamps)
+
+    return replies
 
 def convert_2_timestamp(column, data):
     """convert from unix time to readable timestamp
@@ -240,3 +308,43 @@ def get_community_participation(path):
                     comm_dict[i['user']] = comm_dict.get(i['user'], 0)+1
 
     return comm_dict
+
+
+def preprocess_text(text):
+
+    # print("here")
+    # Extract and remove URLs
+    urls = re.findall(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', text)
+    for url in urls:
+        text = text.replace(url, '')
+
+    text = re.sub(r'<@.*?>', '', text)
+
+    # Convert to lowercase
+    text = text.lower()
+
+    # Remove punctuation
+    text = ''.join([char for char in text if char not in string.punctuation])
+
+    # Remove numbers
+    text = re.sub(r'\d+', '', text)
+
+    # Tokenize
+    tokens = word_tokenize(text)
+
+    # Remove stop words
+    stop_words = set(stopwords.words('english'))
+    tokens = [word for word in tokens if word not in stop_words]
+
+    # Perform stemming
+    stemmer = PorterStemmer()
+    tokens = [stemmer.stem(word) for word in tokens]
+
+    # Perform lemmatization
+    lemmatizer = WordNetLemmatizer()
+    tokens = [lemmatizer.lemmatize(word) for word in tokens]
+
+    # Join the tokens back into a string
+    text = ' '.join(tokens)
+
+    return text
