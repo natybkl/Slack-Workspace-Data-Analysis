@@ -4,8 +4,26 @@ import sys
 import glob
 import json
 import datetime
+
+import warnings
+warnings.filterwarnings('ignore')
+import matplotlib.pyplot as plt
+import seaborn as sns
+import gensim
+from gensim.models import CoherenceModel
+from gensim import corpora
+import pandas as pd
+from pprint import pprint
+import string
+
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer, WordNetLemmatizer
+import pyLDAvis.gensim_models as gensimvis
+import pyLDAvis
+
 from collections import Counter
-from collections import Counter
+
 
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -289,3 +307,41 @@ def get_community_participation(path):
                     comm_dict[i['user']] = comm_dict.get(i['user'], 0)+1
 
     return comm_dict
+
+
+def preprocess_text(text):
+    # Extract and remove URLs
+    urls = re.findall(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', text)
+    for url in urls:
+        text = text.replace(url, '')
+
+    text = re.sub(r'<@.*?>', '', text)
+
+    # Convert to lowercase
+    text = text.lower()
+
+    # Remove punctuation
+    text = ''.join([char for char in text if char not in string.punctuation])
+
+    # Remove numbers
+    text = re.sub(r'\d+', '', text)
+
+    # Tokenize
+    tokens = word_tokenize(text)
+
+    # Remove stop words
+    stop_words = set(stopwords.words('english'))
+    tokens = [word for word in tokens if word not in stop_words]
+
+    # Perform stemming
+    stemmer = PorterStemmer()
+    tokens = [stemmer.stem(word) for word in tokens]
+
+    # Perform lemmatization
+    lemmatizer = WordNetLemmatizer()
+    tokens = [lemmatizer.lemmatize(word) for word in tokens]
+
+    # Join the tokens back into a string
+    text = ' '.join(tokens)
+
+    return text
