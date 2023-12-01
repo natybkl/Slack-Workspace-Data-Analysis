@@ -63,6 +63,7 @@ def get_msgs_df_info(df):
     return msgs_count_dict, replies_count_dict, mentions_count_dict, links_count_dict
 
 
+
 def get_messages_dict(msgs):
     msg_list = {
             "msg_id":[],
@@ -165,22 +166,32 @@ def process_msgs(msg):
     '''
 
     keys = ["client_msg_id", "type", "text", "user", "ts", "team", 
-            "thread_ts", "reply_count", "reply_users_count"]
+            "thread_ts", "reply_count", "reply_users_count", "replies_to"]
     
     msg_list = {k:msg[k] for k in keys}
     rply_list = from_msg_get_replies(msg)
 
     return msg_list, rply_list
 
+
 def get_messages_from_channel(channel_path):
     '''
     get all the messages from a channel        
     '''
-    channel_json_files = os.listdir(channel_path)
-    channel_msgs = [json.load(open(channel_path + "/" + f)) for f in channel_json_files]
+    json_files = [
+        f"{channel_path}/{pos_json}" 
+        for pos_json in os.listdir(channel_path) 
+        if pos_json.endswith('.json')
+    ]    
+    combined = []
 
-    df = pd.concat([pd.DataFrame(get_messages_dict(msgs)) for msgs in channel_msgs])
-    print(f"Number of messages in channel: {len(df)}")
+    for json_file in json_files:
+        with open(json_file, 'r', encoding="utf8") as slack_data:
+            json_content = json.load(slack_data)
+            combined.extend(json_content)
+        
+    msg_list = get_messages_dict(combined)
+    df = pd.DataFrame(msg_list)
     
     return df
 
