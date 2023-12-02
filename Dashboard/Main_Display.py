@@ -11,7 +11,7 @@ st.set_page_config(page_title='Data Analysis', page_icon = ":tada:", layout='wid
 
 with st.container():
     st.subheader("Hey!, I am Natnael :wave: ")
-    st.title("Data Analytics dashboard for 10academy Slack Workspace")
+    st.title("Data Analytics dashboard for Slack Workspace")
 
 
 # Call the function from the notebook to get top and bottom users
